@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -90,7 +90,7 @@ namespace Starter
         /// <returns>List of process</returns>
         protected List<string> CodeAnalysisProcesses()
         {
-            if(os == OS.Unix) return new List<string> { "mono", "mono" };
+            if(os == OS.Unix) return new List<string> { "./CSharpAnalyzer", "./CodeSmellAnalyzer" };
             return new List<string> { "CSharpAnalyzer.exe", "CodeSmellAnalyzer.exe" };
         }
         /// <summary>
@@ -99,7 +99,7 @@ namespace Starter
         /// <returns>List of process</returns>
         protected List<string> DataAnalysisProcesses()
         {
-            if (os == OS.Unix) return new List<string> { "mono", "mono" };
+            if (os == OS.Unix) return new List<string> { "./UnityDataAnalyzer", "./MetaSmellAnalyzer" };
             return new List<string> { "UnityDataAnalyzer.exe", "MetaSmellAnalyzer.exe" };
         }
         /// <summary>
@@ -113,18 +113,10 @@ namespace Starter
             string path = Path.GetFullPath(repo);
             string name = ProjectName(repo);
             WriteOutput(DateTime.Now + " Analyzing Code " + name + " Repository");
-            if(os == OS.Windows)
-            {
-                commands.Add("-n " + name + " -p " + path + " -r Results/" + name + "/Code -v");
-                commands.Add("-d Results/" + name + "/Code/CodeAnalysis.json -r Results/" + name + "/Code -c -v");
+            
+            commands.Add("-n " + name + " -p " + path + " -r Results/" + name + "/Code -v");
+            commands.Add("-d Results/" + name + "/Code/CodeAnalysis.json -r Results/" + name + "/Code -c -v");
 
-            }
-            else
-            {
-                commands.Add("CSharpAnalyzer.exe -n " + name + " -p " + path + " -r Results/" + name + "/Code -v");
-                commands.Add("CodeSmellAnalyzer.exe -d Results/" + name + "/Code/CodeAnalysis.json -r Results/" + name + "/Code -c -v");
-
-            }
             return commands;
         }
         /// <summary>
@@ -138,16 +130,10 @@ namespace Starter
             string path = Path.GetFullPath(repo);
             string name = ProjectName(repo);
             WriteOutput(DateTime.Now + " Analyzing Data " + name + " Repository");
-            if(os == OS.Windows)
-            {
-                commands.Add("-n " + name + " -d " + path + " -r Results/" + name + "/Data -v");
-                commands.Add("-d Results/" + name + "/Data -r Results/" + name + "/Data -c -v");
-            }
-            else
-            {
-                commands.Add("UnityDataAnalyzer.exe -n " + name + " -d " + path + " -r Results/" + name + "/Data -v");
-                commands.Add("MetaSmellAnalyzer.exe -d Results/" + name + "/Data -r Results/" + name + "/Data -c -v");
-            }
+            
+            commands.Add("-n " + name + " -d " + path + " -r Results/" + name + "/Data -v");
+            commands.Add("-d Results/" + name + "/Data -r Results/" + name + "/Data -c -v");
+            
             return commands;
         }
         /// <summary>

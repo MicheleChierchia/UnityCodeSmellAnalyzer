@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -70,7 +70,7 @@ namespace StarterModel
 
             if (processList.Count > 0)
             {
-                if(processList.ElementAt(0).Name == "CodeSmellAnalyzer.exe")
+                if(processList.ElementAt(0).Name.Contains("CodeSmellAnalyzer"))
                 {
                     bool found = false;
                     FileInfo file = new FileInfo(currentWorkingDirectory + "/CodeAnalysis.json");
@@ -88,7 +88,7 @@ namespace StarterModel
             else
             {
                 finished = true;
-                thread.Abort();
+                // thread.Abort() is not supported in .NET 8, and the thread naturally ends here.
             }
         }
 

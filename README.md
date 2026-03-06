@@ -69,7 +69,7 @@ Alternatively, you can [recompile](#recompiling-unitylint) the tool using Visual
 
 ### Requirements
 
-The tool works natively under Windows 10 or above. Also, the tool works under Linux and Mac OS, and requires you to install [Mono](https://www.mono-project.com/).
+The tool works natively under Windows, Linux, and MacOS. It requires the [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or Runtime. Mono is no longer required.
 
 ## Starter Tool
 
@@ -88,7 +88,7 @@ ShellStarter.exe -d <dirPath>
 
 *MacOS / Linux*
 ```bash
-mono ShellStarter.exe -d <dirPath>
+./ShellStarter -d <dirPath>
 ```
 
 where the **Required Argument** is:
@@ -122,7 +122,7 @@ CSharpAnalyzer.exe -p <projectDirPath>
 
 *MacOS / Linux*
 ```bash
-mono CSharpAnalyzer.exe -p <projectDirPath>
+./CSharpAnalyzer -p <projectDirPath>
 ```
 
 where the **Required Argument** is:
@@ -177,11 +177,11 @@ CodeSmellAnalyzer.exe -e
 
 *MacOS / Linux*
 ```bash
-mono CodeSmellAnalyzer.exe -d <JSON-filePath>
+./CodeSmellAnalyzer -d <JSON-filePath>
 ```
 or 
 ```bash
-mono CodeSmellAnalyzer.exe -e
+./CodeSmellAnalyzer -e
 ```
 
 where the **Required Argument** mutually exclusive can be:
@@ -230,9 +230,9 @@ Type the following command to run **UnityDataAnalyzer** tool (depending on your 
 UnityDataAnalyzer.exe -a <assetDirPath> 
 ```
 
-*Mac / Linux*
+*MacOS / Linux*
 ```bash
-mono UnityDataAnalyzer.exe -d <assetDirPath>
+./UnityDataAnalyzer -d <assetDirPath>
 ```
 
 where the **Required Argument** is:
@@ -282,11 +282,11 @@ MetaSmellAnalyzer.exe -e
 
 *MacOS / Linux*
 ```bash
-mono MetaSmellAnalyzer.exe -d <JSON-filePath>
+./MetaSmellAnalyzer -d <JSON-filePath>
 ```
 or 
 ```bash
-mono MetaSmellAnalyzer.exe -e
+./MetaSmellAnalyzer -e
 ```
 
 where the **Required Argument** mutually exclusive can be:
@@ -340,7 +340,7 @@ UnityLint can be recompiled using Visual Studio (tested with Vistual Studio Comm
 - [Analyzer/CSharpAnalyzer](Analyzer/CSharpAnalyzer)
 - [Analyzer/CodeSmellAnalyzer](Analyzer/CodeSmellAnalyzer)
 - [Analyzer/MetaSmellAnalyzer](Analyzer/MetaSmellAnalyzer)
-- [Analyzer/UhityDataAnalyzer](Analyzer/UhityDataAnalyze)
+- [Analyzer/UnityDataAnalyzer](Analyzer/UnityDataAnalyzer)
 
 To create a release (as well as to use the ShellStarter), you need to put the compilation result (.exe files and DLLs) of all tools in the same directory. Also, you need to add the smell.txt configuration file.
 
