@@ -26,4 +26,8 @@
     </Resource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="..\SharedUtilities\FileExplorer.cs" />
+  </ItemGroup>
+
 </Project>

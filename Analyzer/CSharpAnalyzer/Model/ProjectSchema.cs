@@ -1,4 +1,4 @@
-﻿using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -7,6 +7,7 @@ using Microsoft.CodeAnalysis.CSharp;
 using System.Linq;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using System.Threading;
+using AnalyzerUtilities;
 
 namespace CSharpAnalyzer
 {
@@ -98,7 +99,7 @@ namespace CSharpAnalyzer
             try
             {
                 string[] dir = { ".cs" };
-                List<string> files = Directory.GetFiles(AnalyzerConfiguration.DirectoryPath, "*.*", SearchOption.AllDirectories).Where(f => dir.Any(f.ToLower().EndsWith)).ToList();
+                List<string> files = FileExplorer.GetFilesByExtensions(AnalyzerConfiguration.DirectoryPath, dir, false);
                 foreach (string f in files)
                 {
                     fileList.Add(f);

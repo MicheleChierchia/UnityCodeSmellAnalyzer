@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
+using AnalyzerUtilities;
 
 namespace MetaSmellDetector
 {
@@ -42,7 +43,7 @@ namespace MetaSmellDetector
             try
             {
                 Logger.Log(Logger.LogLevel.Debug, "Loading main data...");
-                List<string> files = Directory.GetFiles(dataPath.ElementAt(0), "*.*", SearchOption.AllDirectories).Where(f => DIR.Any(f.ToLower().EndsWith)).ToList();
+                List<string> files = FileExplorer.GetFilesByExtensions(dataPath.ElementAt(0), DIR, false);
                 foreach (string file in files)
                 {
                     string text = File.ReadAllText(file);
@@ -61,7 +62,7 @@ namespace MetaSmellDetector
                 if (dataPath.Count() > 1)
                 {
                     Logger.Log(Logger.LogLevel.Debug, "Loading metadata...");
-                    files = Directory.GetFiles(dataPath.ElementAt(1), "*.*", SearchOption.AllDirectories).Where(f => DIR.Any(f.ToLower().EndsWith)).ToList();
+                    files = FileExplorer.GetFilesByExtensions(dataPath.ElementAt(1), DIR, false);
                     foreach (string file in files)
                     {
                         string text = File.ReadAllText(file);

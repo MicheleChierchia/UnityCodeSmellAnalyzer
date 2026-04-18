@@ -1,10 +1,11 @@
-﻿using Microsoft.CodeAnalysis.CSharp;
+using Microsoft.CodeAnalysis.CSharp;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using AnalyzerUtilities;
 
 namespace CSharpAnalyzer
 {
@@ -151,7 +152,7 @@ namespace CSharpAnalyzer
             {
                 string[] dir = { ".dll" };
                 Logger.Log(Logger.LogLevel.Debug, "Loading Project Assemblies...");
-                List<string> projectAssemblies = Directory.GetFiles(projectPath, "*.*", SearchOption.AllDirectories).Where(f => dir.Any(f.ToLower().EndsWith))?.ToList();
+                List<string> projectAssemblies = FileExplorer.GetFilesByExtensions(projectPath, dir, true);
                 if (projectAssemblies.Count > 0)
                 {
                     assemblyList.AddRange(projectAssemblies);
@@ -171,8 +172,7 @@ namespace CSharpAnalyzer
                 List<string> assemblyDir = new List<string>();
                 foreach (var directory in assemblyDirectories)
                 {
-                    List<string> tempList = new List<string>();
-                    tempList = Directory.GetFiles(directory, "*.*", SearchOption.AllDirectories).Where(f => dir.Any(f.ToLower().EndsWith)).ToList();
+                    List<string> tempList = FileExplorer.GetFilesByExtensions(directory, dir, true);
                     if(tempList.Any()) assemblyDir.AddRange(tempList);
                 }
                 if (assemblyDir.Count <= 0) Logger.Log(Logger.LogLevel.Error, "Nothing Found!");
@@ -183,7 +183,7 @@ namespace CSharpAnalyzer
                 if (assemblyDirAdditional == null) return;
                 string[] dir = { ".dll" };
                 Logger.Log(Logger.LogLevel.Debug, "Loading Additional Assemblies Directory...");
-                List<string> projectAssemblies = Directory.GetFiles(assemblyDirAdditional, "*.*", SearchOption.AllDirectories).Where(f => dir.Any(f.ToLower().EndsWith)).ToList();
+                List<string> projectAssemblies = FileExplorer.GetFilesByExtensions(assemblyDirAdditional, dir, true);
                 if (projectAssemblies.Count > 0)
                 {
                     assemblyList.AddRange(projectAssemblies);

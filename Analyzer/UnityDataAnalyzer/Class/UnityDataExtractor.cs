@@ -1,4 +1,4 @@
-﻿using CSharpAnalyzer;
+using CSharpAnalyzer;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using UnityAnalyzer;
+using AnalyzerUtilities;
 
 namespace UnityDataAnalyzer
 {
@@ -74,14 +75,14 @@ namespace UnityDataAnalyzer
             try
             {
                 Logger.Log(Logger.LogLevel.Debug, "Searching main file...");
-                List<string> files = Directory.GetFiles(directory, "*.*", SearchOption.AllDirectories).Where(f => DIR.Any(f.ToLower().EndsWith)).ToList();
+                List<string> files = FileExplorer.GetFilesByExtensions(directory, DIR, false);
                 foreach (string f in files)
                 {
                     unityMainFileList.Add(f);
                 }
                 Logger.Log(Logger.LogLevel.Debug, "Done!");
                 Logger.Log(Logger.LogLevel.Debug, "Searching meta file...");
-                files = Directory.GetFiles(directory, "*.*", SearchOption.AllDirectories).Where(f => META.Any(f.ToLower().EndsWith)).ToList();
+                files = FileExplorer.GetFilesByExtensions(directory, META, false);
                 foreach (string f in files)
                 {
                     unityMetaFileList.Add(f);
