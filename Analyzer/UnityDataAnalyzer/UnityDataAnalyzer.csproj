@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="..\SharedUtilities\FileExplorer.cs" />
+    <Compile Include="..\SharedUtilities\*.cs" />
   </ItemGroup>
 
 </Project>
