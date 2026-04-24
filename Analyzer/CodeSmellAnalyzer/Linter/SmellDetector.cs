@@ -102,6 +102,7 @@ namespace CodeSmellFinder
             List<string> attributesList = new List<string> { "SerializeField" };
             JObject result = new JObject();
             result.Add("Name", "Static Coupling");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Static Coupling").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FieldDependenciesInCompilationUnit(data, "Type", types, "Attributes", attributesList));
             result.Add("Occurrency", smells.Count());
@@ -273,6 +274,7 @@ namespace CodeSmellFinder
             JObject result = new JObject();
             List<string> methods = new List<string> { "GetComponent" };
             result.Add("Name", "Dependency Between Objects");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Dependency Between Objects").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FieldDependenciesInCompilationUnit(data, "Type", types, null, null));
             smells.Merge(DataExtractor.DependenciesInMethods(data, types, methods, "Methods", "ReturnType", true));
@@ -339,6 +341,7 @@ namespace CodeSmellFinder
             Logger.Log(Logger.LogLevel.Debug, "Searching Singleton Pattern Smells...");
             JObject result = new JObject();
             result.Add("Name", "Singleton Pattern");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Singleton Pattern").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FindSingleton(data, "Modifiers", new List<string> { "static" }, new List<string> { "protected", "private" }));
             result.Add("Occurrency", smells.Count());
@@ -395,6 +398,7 @@ namespace CodeSmellFinder
             Logger.Log(Logger.LogLevel.Debug, "Searching Poor State Design Smells...");
             JObject result = new JObject();
             result.Add("Name", "Poor State Design");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Poor State Design").ToString());
             JArray smells = new JArray();
             List<string> methods = new List<string> { "Update", "FixedUpdate" };
             //le invocazioni vengono controllate per tutto il metodo quindi dovrebbero essere gia gestite
@@ -419,6 +423,7 @@ namespace CodeSmellFinder
             JObject result = new JObject();
             JArray smells = new JArray();
             result.Add("Name", "Velocity Change");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Velocity Change").ToString());
             smells.Merge(DataExtractor.FindPropertiesChange(data, "UnityEngine.Rigidbody", new List<string> { ".velocity", ".angularVelocity" }));
             result.Add("Occurrency", smells.Count());
             result.Add("Smells", smells);
@@ -438,6 +443,7 @@ namespace CodeSmellFinder
             JObject result = new JObject();
             JArray smells = new JArray();
             result.Add("Name", "Check position or rotation");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Check position or rotation").ToString());
             smells.Merge(DataExtractor.CheckPropertiesInInvocation(data, new List<string> { "Update", "FixedUpdate" }, new List<string> { "transform.","transform.position", "transform.rotation","UnityEngine.Transform", "UnityEngine.Transform.position", "UnityEngine.Transform.rotation" }, "IfBlocks"));
             smells.Merge(DataExtractor.CheckPropertiesInInvocation(data, new List<string> { "Update", "FixedUpdate" }, new List<string> { "transform.","transform.position", "transform.rotation","UnityEngine.Transform", "UnityEngine.Transform.position", "UnityEngine.Transform.rotation" }, "SwitchBlocks"));
             result.Add("Occurrency", smells.Count());

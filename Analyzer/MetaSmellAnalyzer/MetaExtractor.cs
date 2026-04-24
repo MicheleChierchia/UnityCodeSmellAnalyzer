@@ -110,6 +110,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "SubOptimal Expensive Lights");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("SubOptimal Expensive Lights").ToString());
             if (paramList.Count == 4)
             {
                 foreach (JObject c in data)
@@ -145,6 +146,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "SubOptimal Expensive Lights with enable LightRealTime");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("SubOptimal Expensive Lights with enable LightRealTime").ToString());
             if (paramList.Count == 4)
             {
                 foreach (JObject c in data)
@@ -212,6 +214,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Multiple animators for a single object");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Multiple animators for a single object").ToString());
             if (paramList.Count == 1)
             {
                 foreach (JObject c in data)
@@ -249,6 +252,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Static Coupling Smells");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Static Coupling Smells").ToString());
             if (paramList.Count == 2)
             {
                 int threshold = 0;
@@ -308,6 +312,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Anystate Smells");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Anystate Smells").ToString());
             if (paramList.Count == 1) { 
                 foreach (JObject c in data)
                 {
@@ -347,6 +352,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Bloated Assets Smells");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Bloated Assets Smells").ToString());
             if (paramList.Count == 3)
             {
                 try
@@ -428,6 +434,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Too Many Key Frames");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Too Many Key Frames").ToString());
             if(paramList.Count == 1)
             {
                 int threshold = 0;
