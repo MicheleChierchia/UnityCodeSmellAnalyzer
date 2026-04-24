@@ -248,6 +248,7 @@ namespace CodeSmellFinder
             //types.AddRange(classesFound);
             JObject result = new JObject();
             result.Add("Name", "Improper Collider");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Improper Collider").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FieldDependenciesInCompilationUnit(data, "FullName", types, null, null));
             smells.Merge(DataExtractor.DependenciesInMethods(data, types, methods, "Methods", "FullName", false));
@@ -294,6 +295,7 @@ namespace CodeSmellFinder
             List<string> lib = new List<string> { "UnityEngine." };
             JObject result = new JObject();
             result.Add("Name", "Lack of separation of concern");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Lack of separation of concern").ToString());
             JArray smells = new JArray();
             foreach (JToken token in data)
             {
@@ -374,6 +376,7 @@ namespace CodeSmellFinder
             Logger.Log(Logger.LogLevel.Debug, "Searching Find Methods Smells...");
             JObject result = new JObject();
             result.Add("Name", "Find Methods");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Find Methods").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FindInvocationSmell(data, new List<string> { "Update", "FixedUpdate" }, new List<string> { "Find", "FindGameObjectsWithTag", "FindObjectOfType", "FindGameObjectWithTag" }));
             result.Add("Occurrency", smells.Count());

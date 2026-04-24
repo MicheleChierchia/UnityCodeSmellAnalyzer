@@ -398,6 +398,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Mesh Collider Smells");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Mesh Collider Smells").ToString());
             if (paramList.Count == 1)
             {
                 var res = data.SelectTokens($"$.[?(@..{paramList[0]})]");
