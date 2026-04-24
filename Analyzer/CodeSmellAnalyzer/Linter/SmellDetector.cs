@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
@@ -7,6 +7,7 @@ using Newtonsoft.Json.Linq;
 using System.Reflection;
 using CSharpAnalyzer;
 using System.Xml.Linq;
+using AnalyzerUtilities;
 
 namespace CodeSmellFinder
 {
@@ -152,6 +153,7 @@ namespace CodeSmellFinder
             List<string> transformInvokes = new List<string> { "transform." };
             JObject result = new JObject();
             result.Add("Name", "Weak Temporization");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Weak Temporization").ToString());
 
             JArray smells = new JArray();
 
@@ -353,6 +355,7 @@ namespace CodeSmellFinder
             Logger.Log(Logger.LogLevel.Debug, "Searching Instantiate and Destroy Smells...");
             JObject result = new JObject();
             result.Add("Name", "Instantiate Destroy");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Instantiate Destroy").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.FindInvocationSmell(data, new List<string> { "Update", "FixedUpdate" }, new List<string> { "Instantiate", "Destroy" }));
             result.Add("Occurrency", smells.Count());
@@ -450,6 +453,7 @@ namespace CodeSmellFinder
             Logger.Log(Logger.LogLevel.Debug, "Searching Heavy Physics Computation...");
             JObject result = new JObject();
             result.Add("Name", "Heavy Physics Computations");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Heavy Physics Computations").ToString());
             JArray smells = new JArray();
             smells.Merge(DataExtractor.ChangesToVariableOfTypeInMethods(data, new List<string> { "Update", "FixedUpdate" }, "Assignment", "UnityEngine.Rigidbody", new List<string> { ".position", ".rotation" }));
             result.Add("Occurrency", smells.Count());

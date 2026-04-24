@@ -1,9 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json.Linq;
 using System.Reflection;
 using System.Drawing.Printing;
+using AnalyzerUtilities;
 
 namespace MetaSmellDetector
 {
@@ -65,6 +66,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Heavy Physics Computation ");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Heavy Physics Computation").ToString());
             if (paramList.Count == 5)
             {
                 foreach (JObject c in data)
@@ -178,6 +180,7 @@ namespace MetaSmellDetector
             JArray smells = new JArray();
             JObject result = new JObject();
             result.Add("Name", "Lack of optimization when drawing-rendering");
+            result.Add("Severity", SmellSeverityMapper.GetSeverity("Lack of optimization when drawing-rendering").ToString());
             if (paramList.Count == 3)
             {
                 foreach (JObject c in data)
