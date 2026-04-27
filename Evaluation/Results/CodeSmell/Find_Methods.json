@@ -1,6 +1,6 @@
 {
     "Name": "Find Methods",
-    "Occurrency": 46,
+    "Occurrency": 53,
     "Smells": [
         {
             "Script": "/home/videogames/dataset/ballance/Assets/Plugins/Graphy - Ultimate Stats Monitor/Runtime/Audio/G_AudioMonitor.cs",
@@ -277,6 +277,48 @@
             "Name": "FindObjectOfType<MapGenerator>",
             "Invocation": "FindObjectOfType<MapGenerator>",
             "Line": 27
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/Fight/AutoFight.cs",
+            "Name": "FindTarget",
+            "Invocation": "UnityMMO.AutoFight.FindTarget()",
+            "Line": 41
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/nodulus/Assets/Scripts/View/Control/ScrollView.cs",
+            "Name": "FindLevel",
+            "Invocation": "FindLevel",
+            "Line": 135
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Component/Weapon/TurretSystem.cs",
+            "Name": "FindAndTargetClosestEnemy",
+            "Invocation": "PFW.Units.Component.Weapon.TurretSystem.FindAndTargetClosestEnemy()",
+            "Line": 165
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Debug/PathFindingDebug.cs",
+            "Name": "transform.Find(\"WPToggle\").GetComponent<Toggle>",
+            "Invocation": "transform.Find(\"WPToggle\").GetComponent<Toggle>",
+            "Line": 108
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Debug/PathFindingDebug.cs",
+            "Name": "transform.Find",
+            "Invocation": "transform.Find",
+            "Line": 108
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Debug/PathFindingDebug.cs",
+            "Name": "transform.Find(\"EdgeToggle\").GetComponent<Toggle>",
+            "Invocation": "transform.Find(\"EdgeToggle\").GetComponent<Toggle>",
+            "Line": 109
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Debug/PathFindingDebug.cs",
+            "Name": "transform.Find",
+            "Invocation": "transform.Find",
+            "Line": 109
         }
     ]
 }

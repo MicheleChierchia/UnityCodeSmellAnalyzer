@@ -1,6 +1,6 @@
 {
     "Name": "Instantiate Destroy",
-    "Occurrency": 136,
+    "Occurrency": 143,
     "Smells": [
         {
             "Script": "/home/videogames/dataset/inputsystem/Assets/QA/Tests/Touch/Scripts/TouchscreenTouchVisualizer.cs",
@@ -817,6 +817,48 @@
             "Name": "Destroy",
             "Invocation": "Destroy",
             "Line": 28
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UnityCocosAction/CocosActionInstance.cs",
+            "Name": "UnityEngine.GameObject.Destroy",
+            "Invocation": "UnityEngine.GameObject.Destroy",
+            "Line": 146
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UnityCocosAction/CocosActionInstance.cs",
+            "Name": "UnityEngine.GameObject.DestroyImmediate",
+            "Invocation": "UnityEngine.GameObject.DestroyImmediate",
+            "Line": 144
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Component/Death/WreckComponent.cs",
+            "Name": "Destroy",
+            "Invocation": "Destroy",
+            "Line": 72
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Component/Death/WreckComponent.cs",
+            "Name": "Destroy",
+            "Invocation": "Destroy",
+            "Line": 73
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Ingame/MoveMarker.cs",
+            "Name": "Destroy",
+            "Invocation": "Destroy",
+            "Line": 34
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Player/Stats.cs",
+            "Name": "Instantiate",
+            "Invocation": "UnityEngine.Object.Instantiate<UnityEngine.GameObject>(UnityEngine.GameObject)",
+            "Line": 85
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Enemies/MageBall.cs",
+            "Name": "Object.Destroy",
+            "Invocation": "Object.Destroy",
+            "Line": 30
         }
     ]
 }

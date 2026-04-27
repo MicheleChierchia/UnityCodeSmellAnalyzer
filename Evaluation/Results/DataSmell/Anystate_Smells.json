@@ -1,6 +1,6 @@
 {
     "Name": "Anystate Smells",
-    "Occurrency": 85,
+    "Occurrency": 123,
     "Smells": [
         {
             "FilePath": "/home/videogames/dataset/project-404/Assets/P1/Models/Players/Olimar/P1/anim_controller_Olimar.controller",
@@ -341,6 +341,158 @@
         {
             "FilePath": "/home/videogames/dataset/fanren/Assets/BuildSource/AnimationControllers/\u5907\u4efd/\u82d7\u4eba\u51e4Controller.controller",
             "Name": "\u82d7\u4eba\u51e4Controller"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/UIResources/Content/Shop/Ani/Item_SlotCheck.controller",
+            "Name": "Item_SlotCheck"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/UIResources/Content/Shop/Ani/Item_SlotCheck_Count.controller",
+            "Name": "Item_SlotCheck_Count"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/UIResources/Content/Shop/Ani/Item_SlotDisable.controller",
+            "Name": "Item_SlotDisable"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/CollectionCell.controller",
+            "Name": "CollectionCell"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/FloorArea.controller",
+            "Name": "FloorArea"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/ItemView_Collection.controller",
+            "Name": "ItemView_Collection"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Item_RecipeListView.controller",
+            "Name": "Item_RecipeListView"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Item_RuneRecipeListView.controller",
+            "Name": "Item_RuneRecipeListView"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/LastReward.controller",
+            "Name": "LastReward"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/SummonItemView.controller",
+            "Name": "SummonItemView"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIArenaBattleContoller.controller",
+            "Name": "UIArenaBattleContoller"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UICombinationController_Craft.controller",
+            "Name": "UICombinationController_Craft"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UI_AdventureBossStageBuff.controller",
+            "Name": "UI_AdventureBossStageBuff"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UI_SummonResultPopup.controller",
+            "Name": "UI_SummonResultPopup"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Animation/Item_DialogBox.controller",
+            "Name": "Item_DialogBox"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Animation/Tutorial_Mask.controller",
+            "Name": "Tutorial_Mask"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Animation/Emoji/Tutorial_Emoji.controller",
+            "Name": "Tutorial_Emoji"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Currency/DailyBonusController.controller",
+            "Name": "DailyBonusController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Join/ArenaJoinSeasonBarCellAnimatorController.controller",
+            "Name": "ArenaJoinSeasonBarCellAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Join/ArenaJoinSeasonCellAnimatorController.controller",
+            "Name": "ArenaJoinSeasonCellAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Join/ArenaJoinSeasonCellChampionshipAnimatorController.controller",
+            "Name": "ArenaJoinSeasonCellChampionshipAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Join/ArenaJoinSeasonCellOffseasonAnimatorController.controller",
+            "Name": "ArenaJoinSeasonCellOffseasonAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Join/ArenaJoinSeasonCellSeasonAnimatorController.controller",
+            "Name": "ArenaJoinSeasonCellSeasonAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCell1stAnimatorController.controller",
+            "Name": "ArenaBoardRankCell1stAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCell2ndAnimatorController.controller",
+            "Name": "ArenaBoardRankCell2ndAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCell3rdAnimatorController.controller",
+            "Name": "ArenaBoardRankCell3rdAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCellAnimatorController.controller",
+            "Name": "ArenaBoardRankCellAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCellEtcAnimatorController.controller",
+            "Name": "ArenaBoardRankCellEtcAnimatorController"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Animations/AnimatorController_Jamo.controller",
+            "Name": "AnimatorController_Jamo"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Animations/PlayerAnimator.controller",
+            "Name": "PlayerAnimator"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Controller.controller",
+            "Name": "Controller"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Knight.controller",
+            "Name": "Knight"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Piranha.controller",
+            "Name": "Piranha"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Player2.controller",
+            "Name": "Player2"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Tru.controller",
+            "Name": "Tru"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Vampire.controller",
+            "Name": "Vampire"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/Wizzard.controller",
+            "Name": "Wizzard"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Animations/wizard idle_0.controller",
+            "Name": "wizard idle_0"
         }
     ]
 }

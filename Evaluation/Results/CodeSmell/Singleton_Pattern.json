@@ -1,6 +1,6 @@
 {
     "Name": "Singleton Pattern",
-    "Occurrency": 20,
+    "Occurrency": 37,
     "Smells": [
         {
             "Script": "/home/videogames/dataset/lcc/Assets/3rdPlugins/ETTask/ETTask.cs",
@@ -81,6 +81,74 @@
         {
             "Script": "/home/videogames/dataset/fanren/Assets/Script/MyDBManager.cs",
             "Class": "MyDBManager"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/UniTask/Runtime/UniTaskCompletionSource.cs",
+            "Class": "Cysharp.Threading.Tasks.AutoResetUniTaskCompletionSource"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/UniTask/Runtime/UniTaskCompletionSource.cs",
+            "Class": "Cysharp.Threading.Tasks.AutoResetUniTaskCompletionSource<T>"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/UniTask/Runtime/CompilerServices/StateMachineRunner.cs",
+            "Class": "Cysharp.Threading.Tasks.CompilerServices.AsyncUniTask<TStateMachine>"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/UniTask/Runtime/CompilerServices/StateMachineRunner.cs",
+            "Class": "Cysharp.Threading.Tasks.CompilerServices.AsyncUniTask<TStateMachine, T>"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/AudioKit/Scripts/Timer/TimerManager.cs",
+            "Class": "QFramework.TimeExtend.Timer"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/XLuaFramework/Scripts/Util/CSLuaBridge.cs",
+            "Class": "XLuaFramework.CSLuaBridge"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Net/NetMsgDispatcher.cs",
+            "Class": "UnityMMO.NetMsgDispatcher"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/GameInput.cs",
+            "Class": "UnityMMO.GameInput"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Timeline/TimelineManager.cs",
+            "Class": "UnityMMO.TimelineManager"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/Role/RoleMgr.cs",
+            "Class": "UnityMMO.RoleMgr"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/NPC/NPCMgr.cs",
+            "Class": "UnityMMO.NPCMgr"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/Monster/MonsterMgr.cs",
+            "Class": "UnityMMO.MonsterMgr"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/Fight/BuffMgr.cs",
+            "Class": "UnityMMO.BuffMgr"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Modules/Fight/SkillModule.cs",
+            "Class": "UnityMMO.SkillManager"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Config/ConfigGame.cs",
+            "Class": "UnityMMO.ConfigGame"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Config/ConfigMonster.cs",
+            "Class": "ConfigMonster"
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Config/ConfigNPC.cs",
+            "Class": "ConfigNPC"
         }
     ]
 }

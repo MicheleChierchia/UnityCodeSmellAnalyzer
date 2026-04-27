@@ -1,6 +1,6 @@
 {
     "Name": "Too Many Key Frame",
-    "Occurrency": 9,
+    "Occurrency": 78,
     "Smells": [
         {
             "FileName": "/home/videogames/dataset/ballance/Assets/Game/Animations/P_ExtraLife_Animation.anim",
@@ -55,6 +55,420 @@
             "Name": "brick",
             "Type": "anim",
             "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Button/CelebratePopupBody@Show.anim",
+            "Name": "CelebratePopupBody@Show",
+            "Type": "anim",
+            "KeyFrames": 8
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/UIResources/Content/WorldBoss/Prefab/TimeBlock_Change.anim",
+            "Name": "TimeBlock_Change",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Worldboss/Animation/Player@Chase.anim",
+            "Name": "Player@Chase",
+            "Type": "anim",
+            "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Worldboss/Animation/WorldBoss_01@MapMoveCamera.anim",
+            "Name": "WorldBoss_01@MapMoveCamera",
+            "Type": "anim",
+            "KeyFrames": 9
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Worldboss/Animation/WorldBoss_01@MapMoveCamera_5Wave.anim",
+            "Name": "WorldBoss_01@MapMoveCamera_5Wave",
+            "Type": "anim",
+            "KeyFrames": 9
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Worldboss/Animation/WorldBoss_01@MapMoveClose.anim",
+            "Name": "WorldBoss_01@MapMoveClose",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/AdventureBossFloor@Show.anim",
+            "Name": "AdventureBossFloor@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Chain@Loop.anim",
+            "Name": "Chain@Loop",
+            "Type": "anim",
+            "KeyFrames": 8
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Collecting_ItemSlot@Register.anim",
+            "Name": "Collecting_ItemSlot@Register",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/CustomCraftNPC@Show.anim",
+            "Name": "CustomCraftNPC@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/CustomTypeImage@Show.anim",
+            "Name": "CustomTypeImage@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/DialogBoxSmall@Close.anim",
+            "Name": "DialogBoxSmall@Close",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/DialogBoxSmall@Show.anim",
+            "Name": "DialogBoxSmall@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/EventBanner@Show.anim",
+            "Name": "EventBanner@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Item_AttPlusController@Show.anim",
+            "Name": "Item_AttPlusController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/Item_GrindModule_Reward@Show.anim",
+            "Name": "Item_GrindModule_Reward@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/JobButtonController@Pressed.anim",
+            "Name": "JobButtonController@Pressed",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/NotificationController@Loop.anim",
+            "Name": "NotificationController@Loop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/SeasonPassLastReward@Close.anim",
+            "Name": "SeasonPassLastReward@Close",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/SeasonPassLastReward@Show.anim",
+            "Name": "SeasonPassLastReward@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/StakingBuffController@Loop.anim",
+            "Name": "StakingBuffController@Loop",
+            "Type": "anim",
+            "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/SummonItemView@Show.anim",
+            "Name": "SummonItemView@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIArenaBattleController@Show.anim",
+            "Name": "UIArenaBattleController@Show",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIBossStatusController@Show.anim",
+            "Name": "UIBossStatusController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIBottomMenuController@Close.anim",
+            "Name": "UIBottomMenuController@Close",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIBottomMenuController@Show.anim",
+            "Name": "UIBottomMenuController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UICodeRewardBox@Idle.anim",
+            "Name": "UICodeRewardBox@Idle",
+            "Type": "anim",
+            "KeyFrames": 6
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UICombinationController@Show.anim",
+            "Name": "UICombinationController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UICombinationController_Synthesis@Show.anim",
+            "Name": "UICombinationController_Synthesis@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UILobbyController@BoxCat_ValentineLoop.anim",
+            "Name": "UILobbyController@BoxCat_ValentineLoop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UILobbyController@BoxCat_XmasLoop.anim",
+            "Name": "UILobbyController@BoxCat_XmasLoop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UILobbyController@Combination_XmasLoop.anim",
+            "Name": "UILobbyController@Combination_XmasLoop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UILobbyController@Quest_XmasLoop.anim",
+            "Name": "UILobbyController@Quest_XmasLoop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UILobbyController@bg_XmasLoop.anim",
+            "Name": "UILobbyController@bg_XmasLoop",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIMenuOpen@Show.anim",
+            "Name": "UIMenuOpen@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIStatusController@Close.anim",
+            "Name": "UIStatusController@Close",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIStatusController@Show.anim",
+            "Name": "UIStatusController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UIWorldMap_StageController@Show.anim",
+            "Name": "UIWorldMap_StageController@Show",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UI_Lobby_bg_Main_Valentine@Idle.anim",
+            "Name": "UI_Lobby_bg_Main_Valentine@Idle",
+            "Type": "anim",
+            "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Animations/UI_SummonResult@Show.anim",
+            "Name": "UI_SummonResult@Show",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Animation/Item_GuideArrow_Circle_FadeIN.anim",
+            "Name": "Item_GuideArrow_Circle_FadeIN",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Animation/Emoji/Tutorial_Emoji_Type_00.anim",
+            "Name": "Tutorial_Emoji_Type_00",
+            "Type": "anim",
+            "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Timeline/WorldBoss/Animations/AbyssSaehrimnir/Raid Camera@Skill.anim",
+            "Name": "Raid Camera@Skill",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Timeline/WorldBoss/Animations/AbyssSaehrimnir/Raid Camera@Skill_Enrage.anim",
+            "Name": "Raid Camera@Skill_Enrage",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Timeline/WorldBoss/Animations/AbyssFenrir/Raid Camera@Skill.anim",
+            "Name": "Raid Camera@Skill",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Timeline/WorldBoss/Animations/AbyssFenrir/Raid Camera@Skill_Enrage.anim",
+            "Name": "Raid Camera@Skill_Enrage",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Prefab/Background/Animations/07_grass_01_d.anim",
+            "Name": "07_grass_01_d",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Prefab/Background/Animations/front_grass_03.anim",
+            "Name": "front_grass_03",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Button/LightHandler_Idle.anim",
+            "Name": "LightHandler_Idle",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Button/PriceButtonController@Disable.anim",
+            "Name": "PriceButtonController@Disable",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Button/PriceButtonController@Highlighted.anim",
+            "Name": "PriceButtonController@Highlighted",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Button/PriceButtonController@Pressed.anim",
+            "Name": "PriceButtonController@Pressed",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Button/SubmitButtonController@Pressed.anim",
+            "Name": "SubmitButtonController@Pressed",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Arena/Board/ArenaBoardRankCell@Scroll.anim",
+            "Name": "ArenaBoardRankCell@Scroll",
+            "Type": "anim",
+            "KeyFrames": 13
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Popup/Close.anim",
+            "Name": "Close",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Popup/Open.anim",
+            "Name": "Open",
+            "Type": "anim",
+            "KeyFrames": 6
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Zoom/Idle.anim",
+            "Name": "Idle",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Sparkle Shine/Idle.anim",
+            "Name": "Idle",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Rotate/Idle.anim",
+            "Name": "Idle",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Pulse/Idle.anim",
+            "Name": "Idle",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Pop - Idle (Scale)/Idle (Scale).anim",
+            "Name": "Idle (Scale)",
+            "Type": "anim",
+            "KeyFrames": 11
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Pop - Idle (Scale)/Pop.anim",
+            "Name": "Pop",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Enter - Pop/Pop.anim",
+            "Name": "Pop",
+            "Type": "anim",
+            "KeyFrames": 6
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Enter - Pop - Idle (Scale)/Idle (Scale).anim",
+            "Name": "Idle (Scale)",
+            "Type": "anim",
+            "KeyFrames": 7
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Enter - Pop - Idle (Scale)/Pop.anim",
+            "Name": "Pop",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Enter - Pop - Idle (Rotate)/Idle (Rotate).anim",
+            "Name": "Idle (Rotate)",
+            "Type": "anim",
+            "KeyFrames": 5
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Effects/Enter - Pop - Idle (Rotate)/Pop.anim",
+            "Name": "Pop",
+            "Type": "anim",
+            "KeyFrames": 4
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Buttons/Idle (Pulse Big)/Normal.anim",
+            "Name": "Normal",
+            "Type": "anim",
+            "KeyFrames": 9
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Anim/Buttons/Handle (Slider)/Pressed.anim",
+            "Name": "Pressed",
+            "Type": "anim",
+            "KeyFrames": 4
         }
     ]
 }

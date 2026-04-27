@@ -1,6 +1,6 @@
 {
     "Name": "Lack of optimization when drawing-rendering",
-    "Occurrency": 38,
+    "Occurrency": 92,
     "Smells": [
         {
             "FilePath": "/home/videogames/dataset/inputsystem/Assets/Samples/Visualizers/PenVisualizer.unity",
@@ -153,6 +153,222 @@
         {
             "FilePath": "/home/videogames/dataset/ecs-iaus-sytstem/Assets/Scenes/SampleScene.unity",
             "Name": "SampleScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scenes/Game.unity",
+            "Name": "Game"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scenes/Game.unity",
+            "Name": "Game"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scenes/LoadingScene.unity",
+            "Name": "LoadingScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AppTrackingTransparency/Sample/Scenes/Sample.unity",
+            "Name": "Sample"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AppTrackingTransparency/Sample/Scenes/Sample.unity",
+            "Name": "Sample"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity",
+            "Name": "01-  Single Line TextMesh Pro"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity",
+            "Name": "02 - Multi-line TextMesh Pro"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity",
+            "Name": "04 - Word Wrapping"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity",
+            "Name": "07 - Superscript & Subscript Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
+            "Name": "13 - Soft Hyphenation"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity",
+            "Name": "21 - Script Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity",
+            "Name": "22 - Basic Scripting Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
+            "Name": "23 - Animating Vertex Attributes"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity",
+            "Name": "Benchmark (Floating Text)"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/Ready Player Me/Examples/Runtime Example/RuntimeExample.unity",
+            "Name": "RuntimeExample"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/FSMKit/Examples/3.FrameCount/FSMFrameCountExample.unity",
+            "Name": "FSMFrameCountExample"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/FSMKit/Examples/2.StateClass/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/FSMKit/Examples/1.BasicUsage/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/6.ReplaceableMonoSingleton/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/5.PersistentMonoSingleton/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/4.MonoSingletonPath/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/3.MonoSingletonProperty/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/2.SingletonProperty/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/1.MonoSingleton/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/SingletonKit/Example/0.Singleton/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/Customizable Skybox/Scenes/DemoScene.unity",
+            "Name": "DemoScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/nodulus/Assets/Plugins/YamlDotNet/Examples.unity",
+            "Name": "Examples"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity",
+            "Name": "01-  Single Line TextMesh Pro"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity",
+            "Name": "02 - Multi-line TextMesh Pro"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity",
+            "Name": "04 - Word Wrapping"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity",
+            "Name": "07 - Superscript & Subscript Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity",
+            "Name": "11 - The Style Tag"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
+            "Name": "13 - Soft Hyphenation"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity",
+            "Name": "14 - Multi Font & Sprites"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity",
+            "Name": "21 - Script Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity",
+            "Name": "22 - Basic Scripting Example"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
+            "Name": "23 - Animating Vertex Attributes"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity",
+            "Name": "Benchmark (Floating Text)"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Scenes/MainMenu.unity",
+            "Name": "MainMenu"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/VegetationSpawner/_Demo/VegetationSpawnerExample.unity",
+            "Name": "VegetationSpawnerExample"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Tests/Runtime/Scenes/SceneObjectSpawningTestsScene.unity",
+            "Name": "SceneObjectSpawningTestsScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/Room/Scenes/OfflineScene.unity",
+            "Name": "OfflineScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/Room/Scenes/RoomScene.unity",
+            "Name": "RoomScene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/Benchmark/Scenes/Scene.unity",
+            "Name": "Scene"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/FX_Kandol_Pack/FX_effect_sprite_image01/fx_fumefx/Scenes/FX_FumeFX_01.unity",
+            "Name": "FX_FumeFX_01"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/FX_Kandol_Pack/FX_effect_sprite_image01/fx_fumefx/Scenes/FX_FumeFX_02.unity",
+            "Name": "FX_FumeFX_02"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.unity",
+            "Name": "AllSky_Overcast4_Low"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Night MoonBurst/Night Moon Burst.unity",
+            "Name": "Night Moon Burst"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.unity",
+            "Name": "Epic_GloriousPink"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.unity",
+            "Name": "Epic_BlueSunset"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Deep Dusk/Deep Dusk.unity",
+            "Name": "Deep Dusk"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Cold Sunset/Cold Sunset.unity",
+            "Name": "Cold Sunset"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/AllSkyFree/Cold Night/Cold Night.unity",
+            "Name": "Cold Night"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Scene/loading-scene/loading-scene.unity",
+            "Name": "loading-scene"
         }
     ]
 }

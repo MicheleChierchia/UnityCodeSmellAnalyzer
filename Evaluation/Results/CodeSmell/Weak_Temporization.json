@@ -1,6 +1,6 @@
 {
     "Name": "Weak Temporization",
-    "Occurrency": 232,
+    "Occurrency": 264,
     "Smells": [
         {
             "Script": "/home/videogames/dataset/lcc/Assets/Scripts/Logic/Manager/Tips/Tips.cs",
@@ -1229,6 +1229,179 @@
             "Script": "/home/videogames/dataset/ecs-iaus-sytstem/Assets/Systems/Debug Tools/RetreatTestingTool.cs",
             "Name": "Update",
             "Line": 34
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs",
+            "Name": "Update",
+            "Line": 70
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs",
+            "Name": "Update",
+            "Line": 59
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Test/TestCameraCtr.cs",
+            "Name": "Update",
+            "Line": 10
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Test/TestPlayerCtr.cs",
+            "Name": "Update",
+            "Line": 67
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/IndexCameraController.cs",
+            "Name": "Update",
+            "Line": 10
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Scripts/Components/AngleMissile.cs",
+            "Name": "Update",
+            "Line": 15
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Scripts/Components/Cone.cs",
+            "Name": "Update",
+            "Line": 35
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Scripts/Components/Point.cs",
+            "Name": "Update",
+            "Line": 27
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/Simple Spin Blur/Scripts/SimpleSpinBlur.cs",
+            "Name": "Update",
+            "Line": 25
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Utile/Billboard.cs",
+            "Name": "Update",
+            "Line": 14
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UI/FightFlyWord.cs",
+            "Name": "Update",
+            "Line": 15
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UI/Nameboard.cs",
+            "Name": "Update",
+            "Line": 98
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Scene/SceneSeparateFrameWork/SceneCameraExDetector.cs",
+            "Name": "Update",
+            "Line": 38
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Scripts/RedRunner/Utilities/CameraController.cs",
+            "Name": "Update",
+            "Line": 65
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Scripts/RedRunner/Enemies/Eye.cs",
+            "Name": "Update",
+            "Line": 71
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Scripts/RedRunner/Characters/RedCharacter.cs",
+            "Name": "Update",
+            "Line": 278
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/SaveGameFree/Examples/Auto Save/ExampleMoveObject.cs",
+            "Name": "Update",
+            "Line": 11
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/nodulus/Assets/Scripts/View/Control/ScrollView.cs",
+            "Name": "Update",
+            "Line": 128
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs",
+            "Name": "Update",
+            "Line": 70
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs",
+            "Name": "Update",
+            "Line": 59
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Component/Weapon/TurretSystem.cs",
+            "Name": "Update",
+            "Line": 95
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/DraggableUI.cs",
+            "Name": "Update",
+            "Line": 10
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Ingame/CameraDistanceScaling.cs",
+            "Name": "Update",
+            "Line": 43
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Debug/PathFindingDebug.cs",
+            "Name": "Update",
+            "Line": 106
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/AdditiveScenes/Scripts/ShootingTankBehaviour.cs",
+            "Name": "Update",
+            "Line": 24
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Components/NetworkTransformBase.cs",
+            "Name": "Update",
+            "Line": 321
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Components/NetworkAnimator.cs",
+            "In": [
+                {
+                    "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Components/NetworkAnimator.cs",
+                    "Method": "Mirror.NetworkAnimator.CheckSendRate()",
+                    "Variables": [
+                        {
+                            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Components/NetworkAnimator.cs",
+                            "Kind": "Definition",
+                            "Type": "float",
+                            "Line": 200
+                        }
+                    ],
+                    "Invocations": []
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Player/MoveByTouch.cs",
+            "Name": "Update",
+            "Line": 31
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Player/PlayerController.cs",
+            "Name": "Update",
+            "Line": 24
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Otros/Chest.cs",
+            "Name": "Update",
+            "Line": 24
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Enemies/Boss.cs",
+            "Name": "Update",
+            "Line": 10
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Scripts/Camera/CameraController.cs",
+            "Name": "Update",
+            "Line": 21
         }
     ]
 }

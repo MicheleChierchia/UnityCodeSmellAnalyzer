@@ -1,6 +1,6 @@
 {
     "Name": "Lack of separation of concern",
-    "Occurrency": 1066,
+    "Occurrency": 1171,
     "Smells": [
         {
             "Script": "/home/videogames/dataset/lcc/Assets/Scripts/Util/DoubleClickButton.cs",
@@ -14809,6 +14809,1427 @@
                 {
                     "Name": "UnityEngine.Random",
                     "Line": 16
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_ScriptsEditor/Editor/MenuItem/SpineEditor.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Rendering",
+                    "Line": 12
+                },
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 13
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/UpgradeEquipmentSlot.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/LobbyMenu.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 14
+                },
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 32
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 33
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/RaidPreparation.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 12
+                },
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 27
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/StageLoadingEffect.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.U2D",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 12
+                },
+                {
+                    "Name": "UnityEngine.Video",
+                    "Line": 13
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Workshop/CustomCraft.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 27
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 28
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Screen/CombinationResultScreen.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 16
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Screen/IntroScreen.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 25
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 26
+                },
+                {
+                    "Name": "UnityEngine.Video",
+                    "Line": 27
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Screen/LoadingScreen.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.Video",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Screen/SummonResultPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 13
+                },
+                {
+                    "Name": "UnityEngine.Video",
+                    "Line": 14
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/AdventureBossEnterBountyPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/BattleResultPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 31
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 25
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/InfiniteTowerResultPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 16
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/ShopListPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.Purchasing",
+                    "Line": 17
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/SweepResultPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 18
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 19
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Widget/Popup/WorldBossResultPopup.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Shop/BuyView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.Vector3",
+                    "Line": 17
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/BonusBuffView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/PageView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Switch/InteractableSwitchableSelectable.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Stat/EnhancementOptionView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Pet/PetSlotView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 16
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Item/BaseItemView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 16
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 17
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Item/EquipmentSlot.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 10
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Item/GrindReward.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Item/RuneSlotView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Button/NormalButton.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Rendering",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 8
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Module/Button/ToggleableButton.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 8
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 9
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Login/CodeReaderView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Android",
+                    "Line": 10
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/UI/Login/PortalConnect.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 14
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 15
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Timeline/TimeScale/TimeScaleClip.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Timeline/TimeScale/TimeScaleTrack.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Timeline/TimeMachine/TimeMachineClip.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Timeline/TimeMachine/TimeMachineTrack.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Pool/SimpleUIImagePool.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/L10n/Editor/FontAssetGenerator.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.TextCore",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.Debug",
+                    "Line": 17
+                },
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 18
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Game/Game.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 49
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 51
+                },
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 57
+                },
+                {
+                    "Name": "UnityEngine.Debug",
+                    "Line": 58
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Game/TestScene/SpineCharacterViewer.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Game/Scene/NcSceneManager.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Game/Battle/Stage.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Rendering",
+                    "Line": 47
+                },
+                {
+                    "Name": "UnityEngine.UI.Extensions",
+                    "Line": 48
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 53
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/EventChannelComponents/TouchHandlerEventChannel.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/_Scripts/Director/RaidTimelineContainer.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 10
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Utility/Util.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 10
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/InfoConfirmAlert.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/TimeTrial/TimeTrialDetailUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 8
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/TimeTrial/TimeTrialRankItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/TimeTrial/TimeTrialResultUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 9
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Match/MatchMapItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Match/MatchRankItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Match/MatchRoomPlayerItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Homepage/HomepageUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Homepage/ProfileUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 9
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Equipment/ChangeCarItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 8
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Avatar/AvatarItem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 8
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/UI/Avatar/AvatarUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 10
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Test/TestUniTask.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/System/AddressableSystem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AddressableAssets",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/System/I18NSystem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AddressableAssets",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 10
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/System/NetworkSystem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/CarControl.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/CommonGameUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/UIController.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AddressableAssets",
+                    "Line": 10
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/UISceneLoadingCtrl.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Game/Guidance/GuidanceEventPenetrate.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Scripts/Command/InitDllCommand.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/UniTask/Runtime/UnityAsyncExtensions.uGUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/Ready Player Me/Runtime/Extras/EyeAnimationHandler.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/AudioKit/Scripts/AudioKit.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AddressableAssets",
+                    "Line": 29
+                },
+                {
+                    "Name": "UnityEngine.ResourceManagement.AsyncOperations",
+                    "Line": 30
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/GLTFUtility/Scripts/Spec/GLTFImage.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.Scripting",
+                    "Line": 10
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/GLTFUtility/Scripts/Spec/GLTFMaterial.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Rendering",
+                    "Line": 8
+                },
+                {
+                    "Name": "UnityEngine.Scripting",
+                    "Line": 9
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/PokemonUnity/Pokemon Unity/Assets/Scripts/PokemonEssentials/Scene/Typing/TypingForm.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 10
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 11
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/PokemonUnity/Pokemon Unity/Assets/Scripts/PokemonEssentials/Scene/Overworld/TileMapGenerator.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 22
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 23
+                },
+                {
+                    "Name": "UnityEngine.U2D",
+                    "Line": 24
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/PokemonUnity/Pokemon Unity/Assets/Scripts/PokemonEssentials/GameManager/LevelLoader.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 18
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 19
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/PokemonUnity/Pokemon Unity/Assets/Scripts/PokemonEssentials/GameManager/Game/GameScenes.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 21
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 22
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/XLuaFramework/Scripts/Manager/ResourceManager.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 8
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UI/CircleImage/BaseImage.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/UI/CircleImage/CircleImage.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Sprites",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Timeline/CastSkillBehaviour.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 8
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Systems/PlayerInputSystem.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Systems/TimelineModule.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 7
+                },
+                {
+                    "Name": "UnityEngine.Timeline",
+                    "Line": 8
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Scene/SceneMgr.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AI",
+                    "Line": 11
+                },
+                {
+                    "Name": "UnityEngine.Playables",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Entity/GameWorld.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Profiling",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Game/Component/MoveQuery.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.AI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.Profiling",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/UnityMMO/Assets/Scripts/Editor/XLuaGenConfig.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 14
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 19
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Scripts/RedRunner/UI/UIScreen/UIScreen.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 5
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 6
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/nodulus/Assets/Scripts/View/Control/ScrollView.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Analytics",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/DraggableUI.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 2
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 3
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/MainMenu/LoadSceneOnClick.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 17
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 18
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Ingame/ButtonGFXController.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 16
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 17
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Ingame/RightClickable.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 16
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/VegetationSpawner/Runtime/VegetationSpawner.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 8
+                },
+                {
+                    "Name": "UnityEngine.Object",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 10
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/VegetationSpawner/Editor/VegetationSpawnerInspector.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Random",
+                    "Line": 9
+                },
+                {
+                    "Name": "UnityEngine.Debug",
+                    "Line": 12
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Tests/Runtime/NetworkManagerTests.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.TestTools",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Tests/Runtime/SceneObjectSpawningTests.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.TestTools",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Runtime/NetworkManager.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 6
+                },
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 7
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Components/NetworkRoomManager.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 4
+                },
+                {
+                    "Name": "UnityEngine.Serialization",
+                    "Line": 5
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Cloud/ListServer/ListServerClientApi.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Events",
+                    "Line": 3
+                },
+                {
+                    "Name": "UnityEngine.Networking",
+                    "Line": 4
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Loading/LoadingScreen.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 18
+                },
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 19
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Camera/DecalFader.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.Rendering.HighDefinition",
+                    "Line": 17
+                },
+                {
+                    "Name": "UnityEngine.SceneManagement",
+                    "Line": 18
+                }
+            ]
+        },
+        {
+            "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Camera/MiniMap.cs",
+            "Usings": [
+                {
+                    "Name": "UnityEngine.UI",
+                    "Line": 15
+                },
+                {
+                    "Name": "UnityEngine.EventSystems",
+                    "Line": 17
                 }
             ]
         }

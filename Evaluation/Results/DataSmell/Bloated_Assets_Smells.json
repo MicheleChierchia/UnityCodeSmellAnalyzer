@@ -1,6 +1,6 @@
 {
     "Name": "Bloated Assets Smells",
-    "Occurrency": 837,
+    "Occurrency": 905,
     "Smells": [
         {
             "FilePath": "/home/videogames/dataset/lcc/Assets/Bundles/Prefab/Panel/TopPanel.prefab",
@@ -4186,6 +4186,346 @@
             "FilePath": "/home/videogames/dataset/ecs-iaus-sytstem/Assets/Scripts/For Testing Only/prefabs/Enemy.prefab",
             "Name": "Enemy",
             "NumComponents": "16"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/UIResources/Content/WorldBoss/Prefab/Background_WB_Serimnir.prefab",
+            "Name": "Background_WB_Serimnir",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Worldboss/Prefab/Player_Dummy.prefab",
+            "Name": "Player_Dummy",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Prefabs/UI_EventBanner.prefab",
+            "Name": "UI_EventBanner",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Prefabs/UI_ProgressBar.prefab",
+            "Name": "UI_ProgressBar",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Prefabs/UI_SimpleTooltip.prefab",
+            "Name": "UI_SimpleTooltip",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Prefabs/UI_StageTitle.prefab",
+            "Name": "UI_StageTitle",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/UI/Prefabs/UI_WorldClear_05.prefab",
+            "Name": "UI_WorldClear_05",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Tutorial/Prefab/Item_Emoji_Type_02.prefab",
+            "Name": "Item_Emoji_Type_02",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/Resources/Character/Player/EnemyPlayer.prefab",
+            "Name": "EnemyPlayer",
+            "NumComponents": "31"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Position_Tooltip_Stat.prefab",
+            "Name": "Position_Tooltip_Stat",
+            "NumComponents": "27"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Stat/StatView.prefab",
+            "Name": "StatView",
+            "NumComponents": "28"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1001.prefab",
+            "Name": "PetCard_1001",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1002.prefab",
+            "Name": "PetCard_1002",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1003.prefab",
+            "Name": "PetCard_1003",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1004.prefab",
+            "Name": "PetCard_1004",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1011.prefab",
+            "Name": "PetCard_1011",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1012.prefab",
+            "Name": "PetCard_1012",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1013.prefab",
+            "Name": "PetCard_1013",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1014.prefab",
+            "Name": "PetCard_1014",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1021.prefab",
+            "Name": "PetCard_1021",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1022.prefab",
+            "Name": "PetCard_1022",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1023.prefab",
+            "Name": "PetCard_1023",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/PFP/PetCard_1024.prefab",
+            "Name": "PetCard_1024",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Item/Item_BlockPeriod.prefab",
+            "Name": "Item_BlockPeriod",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Item/Item_SkillOption.prefab",
+            "Name": "Item_SkillOption",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Item/Item_StageBuff.prefab",
+            "Name": "Item_StageBuff",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Item/Item_StageBuffTitle.prefab",
+            "Name": "Item_StageBuffTitle",
+            "NumComponents": "28"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Item/StakingLevelIcon.prefab",
+            "Name": "StakingLevelIcon",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Currency/Hourglass.prefab",
+            "Name": "Hourglass",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/Currency/MaterialAsset.prefab",
+            "Name": "MaterialAsset",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/CellView/IAPRewardCell.prefab",
+            "Name": "IAPRewardCell",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/CellView/StatOptionCell.prefab",
+            "Name": "StatOptionCell",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/NineChronicles/nekoyume/Assets/AddressableAssets/UI/Module/AnimatedGraphics/CombinationResultOptionIconView.prefab",
+            "Name": "CombinationResultOptionIconView",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
+            "Name": "13 - Soft Hyphenation",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
+            "Name": "23 - Animating Vertex Attributes",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/ChangeCarItem.prefab",
+            "Name": "ChangeCarItem",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/UIPage/MatchGameUI.prefab",
+            "Name": "MatchGameUI",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/UI/UI Elements/Scrollbar/Scrollbar.prefab",
+            "Name": "Scrollbar",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/UI/UI Elements/Popup/Close Button.prefab",
+            "Name": "Close Button",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/UI/UI Elements/Buttons/Circles/Button Circle.prefab",
+            "Name": "Button Circle",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/Match/MatchGameUI.prefab",
+            "Name": "MatchGameUI",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/Match/MatchMapItem.prefab",
+            "Name": "MatchMapItem",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/Kaiju/Prefab/Kaiju.prefab",
+            "Name": "Kaiju",
+            "NumComponents": "26"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/WebView/Resources/WebViewCanvas.prefab",
+            "Name": "WebViewCanvas",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Prefabs/Cone/ChaosBlast.prefab",
+            "Name": "ChaosBlast",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Prefabs/Cone/Fire Blast.prefab",
+            "Name": "Fire Blast",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/SkillIndicator/StatusIndicators/Prefabs/Cone/Frost Blast.prefab",
+            "Name": "Frost Blast",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/QFramework/Toolkits/FSMKit/Examples/3.FrameCount/FSMFrameCountExample.unity",
+            "Name": "FSMFrameCountExample",
+            "NumComponents": "25"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/AB/Equip/Items/R_Car_F1_Blue.prefab",
+            "Name": "R_Car_F1_Blue",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/AB/Equip/Items/R_Car_MonsterTruck_Red.prefab",
+            "Name": "R_Car_MonsterTruck_Red",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/AB/Equip/Items/R_Car_OffRoadTruck_Orange_2.prefab",
+            "Name": "R_Car_OffRoadTruck_Orange_2",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/AB/Equip/Items/R_Car_SprintCar_White_2.prefab",
+            "Name": "R_Car_SprintCar_White_2",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/AB/Equip/Items/R_Car_StockCar_Red.prefab",
+            "Name": "R_Car_StockCar_Red",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab",
+            "Name": "CarTiltControls",
+            "NumComponents": "30"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/RedRunner/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab",
+            "Name": "MobileSingleStickControl",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity",
+            "Name": "11 - The Style Tag",
+            "NumComponents": "23"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity",
+            "Name": "13 - Soft Hyphenation",
+            "NumComponents": "21"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity",
+            "Name": "23 - Animating Vertex Attributes",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Prefabs/Obstacles/BoxAndBarrelsObstacle.prefab",
+            "Name": "BoxAndBarrelsObstacle",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Prefabs/Obstacles/Sci fi Barrel 1.prefab",
+            "Name": "Sci fi Barrel 1",
+            "NumComponents": "24"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Prefabs/Obstacles/Sci fi Barrel.prefab",
+            "Name": "Sci fi Barrel",
+            "NumComponents": "22"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_blocker.prefab",
+            "Name": "window_big_blocker",
+            "NumComponents": "29"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_corner_blocker.prefab",
+            "Name": "window_big_corner_blocker",
+            "NumComponents": "30"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Models/Bloodhound/Prefabs/AA_ATGM.prefab",
+            "Name": "AA_ATGM",
+            "NumComponents": "27"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Models/Bloodhound/Prefabs/FSV.prefab",
+            "Name": "FSV",
+            "NumComponents": "27"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Models/Bloodhound/Prefabs/MLRS.prefab",
+            "Name": "MLRS",
+            "NumComponents": "27"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Units/Models/Bloodhound/Prefabs/Mortar.prefab",
+            "Name": "Mortar",
+            "NumComponents": "27"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/VegetationSpawner/_Demo/VegetationSpawnerExample.unity",
+            "Name": "VegetationSpawnerExample",
+            "NumComponents": "23"
         }
     ]
 }

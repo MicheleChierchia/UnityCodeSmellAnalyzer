@@ -1,6 +1,6 @@
 {
     "Name": "Heavy Physics Computation ",
-    "Occurrency": 20,
+    "Occurrency": 21,
     "Smells": [
         {
             "FilePath": "/home/videogames/dataset/anyrpgcore/Assets/AnyRPG/Core/System/Prefabs/Character/Unit/DefaultCharacterUnit.prefab",
@@ -81,6 +81,10 @@
         {
             "FilePath": "/home/videogames/dataset/battleofmages/Assets/Skills/Fire Ball.prefab",
             "Name": "Fire Ball"
+        },
+        {
+            "FilePath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/Tanks/Prefabs/Projectile.prefab",
+            "Name": "Projectile"
         }
     ]
 }

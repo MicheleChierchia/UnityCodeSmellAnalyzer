@@ -1,6 +1,6 @@
 {
     "Name": "Mesh Collider Smells",
-    "Occurrency": 152,
+    "Occurrency": 184,
     "Smells": [
         {
             "FileName": "/home/videogames/dataset/anyrpgcore/Assets/AnyRPG/Core/Content/Models/Construction/MedievalBuildings/Prefab/canopy_cloth2.prefab",
@@ -760,6 +760,166 @@
         {
             "FileName": "/home/videogames/dataset/fanren/Assets/3DScene/Model/Common/Rock/Ruins/Ruin2_9D.prefab",
             "Name": "Ruin2_9D",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/Environment.prefab",
+            "Name": "Environment",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/ModularTrackCurveLarge.prefab",
+            "Name": "ModularTrackCurveLarge",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/ModularTrackCurveMedium.prefab",
+            "Name": "ModularTrackCurveMedium",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/ModularTrackCurveSmall.prefab",
+            "Name": "ModularTrackCurveSmall",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/ModularTrackSCurveLeft.prefab",
+            "Name": "ModularTrackSCurveLeft",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Prefabs/KartingPrefabs/ModularTrackStraight.prefab",
+            "Name": "ModularTrackStraight",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/EasyObjectsFade/ExampleScene/Models/tree1.prefab",
+            "Name": "tree1",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/EasyObjectsFade/ExampleScene/Models/tree2.prefab",
+            "Name": "tree2",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/EasyObjectsFade/ExampleScene/Models/tree3.prefab",
+            "Name": "tree3",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/EasyObjectsFade/ExampleScene/Models/tree4.prefab",
+            "Name": "tree4",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/CrazyCar/CrazyCarClient/Assets/Plugins/EasyObjectsFade/ExampleScene/Models/tree5.prefab",
+            "Name": "tree5",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Prefabs/Chunks/sky_floor_lod1 (6).prefab",
+            "Name": "sky_floor_lod1 (6)",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big.prefab",
+            "Name": "window_big",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_blocker.prefab",
+            "Name": "window_big_blocker",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_corner.prefab",
+            "Name": "window_big_corner",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_corner_far.prefab",
+            "Name": "window_big_corner_far",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_corner_far_plug.prefab",
+            "Name": "window_big_corner_far_plug",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_corner_plug.prefab",
+            "Name": "window_big_corner_plug",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_no_LOD.prefab",
+            "Name": "window_big_no_LOD",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_plug.prefab",
+            "Name": "window_big_plug",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/window_big_supplement.prefab",
+            "Name": "window_big_supplement",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big.prefab",
+            "Name": "window_big",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_blocker.prefab",
+            "Name": "window_big_blocker",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_corner.prefab",
+            "Name": "window_big_corner",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_corner_blocker.prefab",
+            "Name": "window_big_corner_blocker",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Windows/Complete Windows/window_big_corner_far.prefab",
+            "Name": "window_big_corner_far",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Walls/glass_panel_1_corner.prefab",
+            "Name": "glass_panel_1_corner",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/AwesomeRunner/Assets/Models/SciFi Styled Modular Pack/Walls/wall_big.prefab",
+            "Name": "wall_big",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/UI/Ingame/Prefab/SpawnPointRed.prefab",
+            "Name": "SpawnPointRed",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Standard Assets/3DParty/Mirror/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Icosphere.prefab",
+            "Name": "Icosphere",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/projectFieldWarning/src/FieldWarning/Assets/Buildings/Bridges/Prefab/Bridge300m_prefab.prefab",
+            "Name": "Bridge300m_prefab",
+            "Type": "prefab"
+        },
+        {
+            "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/Kailius/Assets/Prefabs/Camera/QuadNegro.prefab",
+            "Name": "QuadNegro",
             "Type": "prefab"
         }
     ]
