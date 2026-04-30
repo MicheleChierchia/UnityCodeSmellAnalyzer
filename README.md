@@ -52,7 +52,8 @@ UnityLint detects the following video game smells belonging to different categor
 ### Table of Contents
 
 **[Download and Installation](#download-and-installation)**
-**[Starter Tool](#starter-tool)**
+**[ProjectAnalyzer (Recommended)](#projectanalyzer-recommended)**
+**[Starter Tool (Legacy)](#starter-tool-legacy)**
 **[CSharpAnalyzer](#csharpanalyzer)**
 **[CodeSmellAnalyzer](#codesmellanalyzer)**
 **[UnityDataAnalyzer](#unitydataanalyzer)**
@@ -71,9 +72,28 @@ Alternatively, you can [recompile](#recompiling-unitylint) the tool using Visual
 
 The tool works natively under Windows, Linux, and MacOS. It requires the [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or Runtime. Mono is no longer required.
 
-## Starter Tool
+## ProjectAnalyzer (Recommended)
 
-ShellStarter is the execution file of UnityLint tool. Given a project or a list of projects, it detects video game smells. 
+**ProjectAnalyzer** is the modern orchestration tool for UnityLint. It automates the entire analysis pipeline (code analysis, code smells, metadata analysis, and meta-smells) and generates a professional, interactive HTML dashboard.
+
+### How to Use it
+
+1. Ensure all analyzers are compiled (see [Recompiling UnityLint](#recompiling-unitylint)).
+2. Run the executable from the repository root:
+
+```bash
+./ProjectAnalyzer <path_to_unity_game>
+```
+
+The tool will:
+- Sequentially execute all required analyzers.
+- Aggregate JSON results into a centralized structure.
+- Generate a `Results/` folder in your **current directory**.
+- Produce an interactive `analysis_report.html` for easy visualization.
+
+## Starter Tool (Legacy)
+
+ShellStarter is the original execution file of the UnityLint tool.
 
 ### How to Use it
 
@@ -336,11 +356,21 @@ Critical 5 None 6 (Debug is Default)
 
 ## Recompiling UnityLint
 UnityLint can be recompiled using Visual Studio (tested with Vistual Studio Community Edition 2019 for Windows and for MacOS, version 8.10.21). The sources of the five tools are located into the following folders:
+- [ProjectAnalyzer](Analyzer/ProjectAnalyzer)
 - [ShellStarter](ShellStarter)
 - [Analyzer/CSharpAnalyzer](Analyzer/CSharpAnalyzer)
 - [Analyzer/CodeSmellAnalyzer](Analyzer/CodeSmellAnalyzer)
 - [Analyzer/MetaSmellAnalyzer](Analyzer/MetaSmellAnalyzer)
 - [Analyzer/UnityDataAnalyzer](Analyzer/UnityDataAnalyzer)
+
+### Compiling ProjectAnalyzer (Single File)
+
+To create a portable, single-file executable in the root directory:
+
+```bash
+dotnet publish Analyzer/ProjectAnalyzer/ProjectAnalyzer.csproj -c Release -r linux-x64 --self-contained false -p:PublishSingleFile=true -o ./
+```
+*(Replace `linux-x64` with `win-x64` or `osx-x64` depending on your target OS).*
 
 To create a release (as well as to use the ShellStarter), you need to put the compilation result (.exe files and DLLs) of all tools in the same directory. Also, you need to add the smell.txt configuration file.
 
