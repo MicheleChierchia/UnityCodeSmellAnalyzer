@@ -10,59 +10,147 @@ namespace ProjectAnalyzer
 {
     class Program
     {
+        public class HistoryResult
+        {
+            public CommitInfo Commit { get; set; } = new();
+            public object Results { get; set; } = new();
+        }
+
+        private static GitHistoryManager? _activeGitManager;
+
+        private static void HandleExit()
+        {
+            if (_activeGitManager != null)
+            {
+                _activeGitManager.RestoreOriginalBranch();
+            }
+        }
+
         static int Main(string[] args)
         {
-            if (args.Length < 1)
+            AppDomain.CurrentDomain.ProcessExit += (s, e) => HandleExit();
+            Console.CancelKeyPress += (s, e) => {
+                e.Cancel = true;
+                HandleExit();
+                Environment.Exit(130);
+            };
+            var argList = args.ToList();
+            argList.Remove("--history"); // Ignore if provided for backwards compatibility
+            
+            int limit = 0;
+            int limitIndex = argList.IndexOf("--limit");
+            if (limitIndex >= 0 && limitIndex + 1 < argList.Count)
             {
-                Console.WriteLine("Usage: ProjectAnalyzer <game_folder> [results_dir]");
+                int.TryParse(argList[limitIndex + 1], out limit);
+                argList.RemoveAt(limitIndex); // remove "--limit"
+                argList.RemoveAt(limitIndex); // remove value
+            }
+
+            if (argList.Count < 1)
+            {
+                Console.WriteLine("Usage: ProjectAnalyzer <game_folder> [results_dir] [--limit N]");
                 return 1;
             }
 
-            string gameFolder = Path.GetFullPath(args[0]);
+            string gameFolder = Path.GetFullPath(argList[0]);
             string gameName = Path.GetFileName(gameFolder.TrimEnd(Path.DirectorySeparatorChar));
-            string rootDir = AppDomain.CurrentDomain.BaseDirectory;
-            while (!string.IsNullOrEmpty(rootDir) && !Directory.Exists(Path.Combine(rootDir, "Analyzer")))
-            {
-                rootDir = Path.GetDirectoryName(rootDir) ?? "";
-            }
-
-            string resultsDir = args.Length > 1 
-                ? Path.GetFullPath(args[1]) 
+            string resultsDir = argList.Count > 1
+                ? Path.GetFullPath(argList[1])
                 : Path.Combine(Environment.CurrentDirectory, "Results", gameName);
 
-            Console.WriteLine($"[ProjectAnalyzer] Starting analysis for {gameName}");
-            Console.WriteLine($"[ProjectAnalyzer] Game folder: {gameFolder}");
-            Console.WriteLine($"[ProjectAnalyzer] Results directory: {resultsDir}");
+            return RunHistoryAnalysis(gameFolder, gameName, resultsDir, limit);
+        }
 
+
+
+        static int RunHistoryAnalysis(string gameFolder, string gameName, string resultsDir, int limit)
+        {
+            Console.WriteLine($"[ProjectAnalyzer] Starting HISTORY analysis for {gameName}");
+            using var gitManager = new GitHistoryManager(gameFolder);
+            _activeGitManager = gitManager;
+
+            if (!gitManager.IsGitRepo())
+            {
+                Console.WriteLine("[ProjectAnalyzer] Error: game_folder is not a git repository.");
+                return 1;
+            }
+
+            gitManager.InitializeClone();
+
+            var commits = gitManager.GetCommitHistory(limit);
+            Console.WriteLine($"[ProjectAnalyzer] Found {commits.Count} commits to analyze.");
+
+            var historyResults = new List<HistoryResult>();
+            var csvLines = new List<string> { "CommitHash,Date,PullRequest,LOC,Files,Errors,Warnings" };
+            
             Directory.CreateDirectory(resultsDir);
-            string codeResults = Path.Combine(resultsDir, "Code");
-            string dataResults = Path.Combine(resultsDir, "Data");
-            Directory.CreateDirectory(codeResults);
-            Directory.CreateDirectory(dataResults);
 
+            int count = 0;
             try
             {
-                // 1. Run Analyzers
-                RunAnalyzers(gameFolder, gameName, codeResults, dataResults);
+                foreach (var commit in commits)
+                {
+                    count++;
+                    Console.WriteLine($"\n[ProjectAnalyzer] [{count}/{commits.Count}] Analyzing commit {commit.Hash.Substring(0, 8)} ({commit.Date})");
 
-                // 2. Aggregate Results
-                Console.WriteLine("[ProjectAnalyzer] Aggregating results...");
-                var reportData = AggregateResults(codeResults, dataResults);
+                    gitManager.Checkout(commit.Hash);
 
-                // 3. Generate HTML Report
-                Console.WriteLine("[ProjectAnalyzer] Generating HTML report...");
-                GenerateHtmlReport(reportData, resultsDir);
+                    // Restore dependencies if target project has package references
+                    RestoreDotnetDependencies(gitManager.TempGameFolder);
 
-                Console.WriteLine($"[ProjectAnalyzer] Success! Report generated at: {Path.Combine(resultsDir, "analysis_report.html")}");
-                return 0;
+                    string commitResultsDir = Path.Combine(resultsDir, "Commits", commit.Hash);
+                    Directory.CreateDirectory(commitResultsDir);
+                    string codeResults = Path.Combine(commitResultsDir, "Code");
+                    string dataResults = Path.Combine(commitResultsDir, "Data");
+                    Directory.CreateDirectory(codeResults);
+                    Directory.CreateDirectory(dataResults);
+
+                    try
+                    {
+                        RunAnalyzers(gitManager.TempGameFolder, gameName, codeResults, dataResults);
+                        var reportData = AggregateResults(codeResults, dataResults);
+                        historyResults.Add(new HistoryResult { Commit = commit, Results = reportData });
+                        
+                        dynamic summary = ((dynamic)reportData).summary;
+                        csvLines.Add($"{commit.Hash},{commit.Date},{commit.PullRequestNumber ?? ""},{summary.loc},{summary.files},{summary.errors},{summary.warnings}");
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to analyze commit {commit.Hash}: {ex.Message}");
+                    }
+                }
+            }
+            finally
+            {
+                // Ensure we checkout the original branch/commit when leaving the loop
+                gitManager.RestoreOriginalBranch();
+                _activeGitManager = null;
+            }
+
+            // Save aggregate history
+            string historyFile = Path.Combine(resultsDir, "history_results.json");
+            string json = JsonSerializer.Serialize(historyResults, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(historyFile, json);
+
+            string csvFile = Path.Combine(resultsDir, "history_trend.csv");
+            File.WriteAllLines(csvFile, csvLines);
+
+            // Generate HTML History Report
+            Console.WriteLine("[ProjectAnalyzer] Generating HTML history report...");
+            try
+            {
+                GenerateHistoryHtmlReport(historyResults, resultsDir);
+                Console.WriteLine($"[ProjectAnalyzer] Success! History report generated at: {Path.Combine(resultsDir, "history_report.html")}");
             }
             catch (Exception ex)
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"[ProjectAnalyzer] Error: {ex.Message}");
-                Console.ResetColor();
-                return 1;
+                Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to generate HTML history report: {ex.Message}");
             }
+
+            Console.WriteLine($"\n[ProjectAnalyzer] History analysis complete.");
+            Console.WriteLine($"[ProjectAnalyzer] JSON Results: {historyFile}");
+            Console.WriteLine($"[ProjectAnalyzer] CSV Trend: {csvFile}");
+            return 0;
         }
 
         static void RunAnalyzers(string gameFolder, string gameName, string codeResults, string dataResults)
@@ -167,7 +255,7 @@ namespace ProjectAnalyzer
             }
 
             int errs = issues.Count(i => ((dynamic)i).severity == "High");
-            int warns = issues.Count(i => ((dynamic)i).severity == "Medium" || ((dynamic)i).severity == "Low");
+            int warns = issues.Count(i => ((dynamic)i).severity != "High");
             
             return new { 
                 summary = new { summary.files, summary.loc, errors = errs, warnings = warns },
@@ -192,6 +280,7 @@ namespace ProjectAnalyzer
                             file = smell.TryGetProperty("Script", out var script) ? script.GetString() : (smell.TryGetProperty("File", out var f) ? f.GetString() : "Unknown"),
                             line = smell.TryGetProperty("Line", out var line) ? line.GetInt32() : 0,
                             severity = severity,
+                            smell = smellName,
                             message = $"{smellName}: Detected in {(smell.TryGetProperty("FullName", out var fn) ? fn.GetString() : "element")}"
                         });
                     }
@@ -200,11 +289,13 @@ namespace ProjectAnalyzer
             catch { }
         }
 
-        static void GenerateHtmlReport(object data, string outputDir)
+
+
+        static void GenerateHistoryHtmlReport(object data, string outputDir)
         {
             var assembly = Assembly.GetExecutingAssembly();
-            string resourceName = assembly.GetManifestResourceNames().FirstOrDefault(n => n.EndsWith("report_template.html")) 
-                ?? throw new Exception("Could not find embedded report template.");
+            string resourceName = assembly.GetManifestResourceNames().FirstOrDefault(n => n.EndsWith("history_report_template.html")) 
+                ?? throw new Exception("Could not find embedded history report template.");
 
             using var stream = assembly.GetManifestResourceStream(resourceName);
             using var reader = new StreamReader(stream ?? throw new Exception("Template stream is null"));
@@ -213,7 +304,42 @@ namespace ProjectAnalyzer
             string json = JsonSerializer.Serialize(data, new JsonSerializerOptions { WriteIndented = true });
             string reportContent = template.Replace("{{ DATA_JSON }}", json);
 
-            File.WriteAllText(Path.Combine(outputDir, "analysis_report.html"), reportContent);
+            File.WriteAllText(Path.Combine(outputDir, "history_report.html"), reportContent);
+        }
+
+        static void RestoreDotnetDependencies(string folder)
+        {
+            try
+            {
+                if (Directory.GetFiles(folder, "*.csproj", SearchOption.AllDirectories).Any() ||
+                    Directory.GetFiles(folder, "*.sln", SearchOption.AllDirectories).Any())
+                {
+                    Console.WriteLine("[ProjectAnalyzer] Dotnet project detected. Restoring dependencies...");
+                    var startInfo = new ProcessStartInfo
+                    {
+                        FileName = "dotnet",
+                        Arguments = "restore",
+                        RedirectStandardOutput = true,
+                        RedirectStandardError = true,
+                        UseShellExecute = false,
+                        CreateNoWindow = true,
+                        WorkingDirectory = folder
+                    };
+                    using var process = Process.Start(startInfo);
+                    if (process != null)
+                    {
+                        process.WaitForExit();
+                        if (process.ExitCode != 0)
+                        {
+                            Console.WriteLine($"[ProjectAnalyzer] Warning: dotnet restore exited with code {process.ExitCode}");
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to restore dependencies: {ex.Message}");
+            }
         }
     }
 }
