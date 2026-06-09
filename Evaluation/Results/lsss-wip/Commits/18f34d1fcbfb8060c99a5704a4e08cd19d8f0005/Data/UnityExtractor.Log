@@ -1,0 +1,1463 @@
+09/06/2026 12:15:11 Loading extensions...
+09/06/2026 12:15:11 Searching MetaData file inside project folder...
+09/06/2026 12:15:11 Searching main file...
+09/06/2026 12:15:11 Done!
+09/06/2026 12:15:11 Searching meta file...
+09/06/2026 12:15:11 Done!
+09/06/2026 12:15:11 Done!
+09/06/2026 12:15:11 Done!
+09/06/2026 12:15:11 Creating Result Directories
+09/06/2026 12:15:11 Start analisys...
+09/06/2026 12:15:11 Analyzing Main MetaData...
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ProjectInfo.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/AiTestShip.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9c1d1979da5a4b44c9c300cd2437db04.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/Main Camera.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d882b8f8fd8562045b2a355428c7687a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/PlayerTestShip.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: dd297a6baa033424b81adce1e596ecd7.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestBullet.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 09ef84b08d1bee74e9a666516377af6c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestExplosion.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1edcd485a8bc14647b37862cf1202c36.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestFleetSpawnGraphic.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f5f038c260af9b14e9f53c7e6ff4e447.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestSpawnGraphic.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 855d344d8708dfc42b74e5d1d3797a5a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/WormholeTest.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f436f0225910d4d4eb74e309500a2463.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/Blue.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b87ac9cdc2136cb41bf05937cc9d0d08.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/FireGas.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4044abfdf81754c408f134521c9d4354.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/FireGasLit.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c364818f027b24f48ad4e35ec749432f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/LaserShot.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5d2e71df174454b4c916789df4b82452.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/LaserShotLit.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f22057d2b7b610642a2c96e7db0626f4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/Red.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a5b23de7a647d674db1128dcbf9bc8d3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/SpawnWormhole.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4da0fba8ae3cef04fb16fe10a79243f4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/SpawnWormholeTail.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0e2fe8bf276cf5142a86f169d7ad6f13.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials/Wormhole.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 547f6d71763ac2d459593b517ac7b69e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e73a58f6e2794ae7b1b7e50b7fb811b0.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 79459efec17a4d00a321bdcc27bbc385.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest/HybridTest.unity
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d6a1b7a9c7b7c63458974e20c911ce95.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/HDRPDefaultResources/DefaultSceneRoot.prefab
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f9e3ff5a1b8f49c4fa8686e68d2dadae.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Backgrounds/DeepSpaceMat.mat
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e8f39eadb2555d941b213e575f984027.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Done!
+09/06/2026 12:15:11 Analyzing Meta files...
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7a1353c0c1a73f64f85da4224620bb7f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 862bf87f5b5dfd54f82cc706dee86e1a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/package.json.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a2e7cc2e6851cc54d9e3ea613db460b8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ce152cd6a54e0db48b2d0a0bc52c9013.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Components.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 37033950c59bfa943af92a0f69eee5d8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Debug.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 70d9e82762b0ede46978ee1245bfc5e5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 364802b4c23366d49b1b5d796ce7037a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Latios.Physics.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2de22fb7141426546b7382812669d73f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5396dc651fac79946a2ddf50b2389e58.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a07de205b0973cc46a28ac792efd937e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Builders.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 988459766b8f2834da80638234a88910.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Modifiers.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f38737c30cfda3341bb102b0b4ae2909.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 65926351232db9b4abadd1a76b93f7f4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.Aabbs.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7fbc8e33d4abdf84d8b3549db12f7acb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.DistanceBetween.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: bf44b911bdcda3e409a66b51d50de9a5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.DistanceBetweenDispatch.gen.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fd67ec1e186c04d458fc789d59db8352.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.DistanceBetweenDispatch.tt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9eac22d97a4e2f440bc57fc02ece3037.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.FindPairs.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5a96ba19b0086014e997698fd4c3e3a9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.Raycast.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 611256edbf63ea44493c1c4cb0800002.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.RaycastDispatch.gen.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e96e546a7810ad74db9ccfb7b7e8faea.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Queries/Physics.RaycastDispatch.tt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5625983522796e14a865a8c9f1283c6b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Modifiers/Physics.ScaleCollider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e5672063158ce184bbc671fee20f7380.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Builders/Physics.BuildCollisionLayer.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b5dc6366dccf4d34582423693d468d01.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Aabb.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b76461307e7ccd04080672ad85c6f9ed.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/ColliderBody.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c76e3f6028b93b44cab76e7bcc90ea67.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Colliders.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6c8112cf75bd98d498f04c92394f930d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/CollisionLayer.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2e5fa2fffb4a0324d8781415e2dca6c4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/PhysicsComponentDataFromEntity.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 553a0ba4e57b1b14292959c2e670f1ee.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/QueryResults.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: aafd757a6ae274b409c57d3aa99541fb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Ray.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f319b21352e8c5d4f8b8b50199fa8437.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Colliders/CapsuleCollider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ec9de6969f69970418c9fbbbe70104f1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Colliders/CompoundCollider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ff5bffaa16dbee04bad29ce4f72828cf.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Types/Colliders/SphereCollider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 62dd8471aa34c324a81847276afe2643.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Builders.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f036eb6572d6b544485e2d24fd3b87f3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Math.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b19d126b7e600a74f9f110e2d5ebdf1f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Queries.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 529492f8c38e465489bf7d926e92bcd0.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Queries/DistanceQueries.Collider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: deb6e27570d34984fa97a7b7afce0df1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Queries/FindPairsInternal.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6cdc8aeb9cdad26478ae1f9b74d7dc53.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Queries/QueriesLowLevelUtils.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7099ed4c026746947a3890b98b9830ff.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Queries/Raycasting.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 48a601ce96fa8b84fa4475a143dd52a8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Math/Plane.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4992f3d812fd9b94d8cd37d3a8bdad81.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Math/mathex.collision.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0741d2f054713f640939148487a0bb0f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Math/mathex.plane.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 480a73230ee7511498281e506ecaf864.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Builders/BuildCollisionLayerInternal.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6316619665b4b044a9d67c9fbd8c68dc.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Debug/PhysicsDebug.DrawLayer.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fa7548da7c6de9848b670be66e39cb3d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Components/Collider.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 19dc33d84eda87946a242092cf920ac9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Components/Collider.gen.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 8c43b51cb243d534f9dc1dc15d56c681.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Components/Collider.tt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 74099a3e946f4864dbaaa782d75ab50d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Components/PhysicsScale.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5d52782af852e8747904c0a0003e0d2b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/DontConvertColliderTag.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ca63356c5c5d01042970846bcbe58ca3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LatiosColliderAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 75a1b87513c8266459a8447e0b51359c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LatiosColliderConversionSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ef383084a8399414fbb72dda433011ed.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LegacyColliderConversionSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 423babcfc5ce7854b9af3f5978defa90.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 27509ac9d52e0614a95b65e5c2aa5b00.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 950683d6629a3264380a792809c316da.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/LatiosBurstPatched.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 815d311df2f708d45b52f8034c33537c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/LatiosBurstPatched/LatiosBurstPatched.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f9c32804d9c7a07418f2e19e06583d13.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/LatiosBurstPatched/MockCompilation.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 84a38ed4ef6251b4bbf9e58154635db4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Authoring.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c1afdf318c17cf6438809012c77ed1b2.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Components.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5c8c844d37f6a77448adf0880a302f10.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c07d04c5a1683304a9f7072dc5638239.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Internal.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: afd5907839d20eb4eaf69543494becb3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Latios.Core.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 46fe9b4ef94d76744bc0b97bc2f73d94.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3a481c75ed689534797424a626122fc4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2c541126880ef3a49a66b3f9ebe9afaa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/DestroyEntitiesOnSceneChangeSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c5b6979af3682c94491c3a46488226fa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/FixedSimulationSystemGroup.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4ef0335e7a6e44243b0456a6001ee28f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3b0f011b62f3f1a40a55514c92ceb310.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/ManagedStructStorageCleanupSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 510e5646251377f4b8907eef67d460c8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/MergeGlobalsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 855859ea8d1f7f84d9d1753a64b737ac.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/SceneManagerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2437ed84ed6c8614d8dcf82376808e6a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/LatiosMath.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0c2433fcf44dcc24a9c4e3d7da308014.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/mathExtensions.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ba8ddb8a79bbddc4ba530da41911061d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/simd.math.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ab99e1e13ff42774a9b4019552dae56e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/simdFloat3.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1641e0f18d2dabd40b9659817ced392d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/simdFloat3.swizzles.gen.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: be7da14480b956c4d8c5f2e3c85c922f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Math/simdFloat3.swizzles.tt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1c5a4ba3e6043634ab2de8569b862c48.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Internal/FakeBufferHeader.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1b9949e90d43aca4694a83dd3a26afaa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Internal/ManagedStructStorage.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: faf26fb735fc4ac44be44a8715509201.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/BootstrapTools.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5b67ec745c443b741b2a20533f4572bb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/BurstPatcherAttributes.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fd53d080e141f0d45a791613e73a2574.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/EntityDataCopyKit.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3bd62473a5ffbc1448ab4ec7d3fcd5bd.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/EntityManagerExtensions.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 015f808cb605b8d4b81f1adbdd2bffc7.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/FluentQuery.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 98afd96d626836c4d906e37720d21f06.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/ILatiosSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6853d908f96aad140b5f98a4e80b3ef5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2fff6874a8b561e4baf1a30941fb7fa9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/ManagedEntity.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 47891b38cee465f43b4a89587b974332.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/SubSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d92a52552a06c364d97be179d06bf415.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/SuperSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e003eb5bdee62a748aeb81dfceff2d6b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Components/GlobalEntityData.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f2a1c6def24f38545ac83721fed8b9a1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Components/IManagedComponent.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 24b4211f45c7d8342b26627ac018402b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Components/SceneComponents.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: edc600a10bedb1b49a3bb53bbb547208.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Authoring/TransformUniformScalePatchConversionSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f0f190f5391706640a91ad0811c4cc92.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/BurstPatcher.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d2ace277566e3cc44a5a14bfab22bad1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/Latios.Core.Editor.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 42b38659db4a3c64590f6c8e31576389.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/ScriptTemplateMenus.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fed1495a1f4881e4a8221d66dde4ed35.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/ScriptTemplates.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6f5ea3953eff18e4094afd2a760cd5e3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/ScriptTemplates/Bootstrap.txt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3f8a3a0c2f139b84ba06b14a6ebf4075.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/BurstPatcher/BurstPatcherCompiler.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e6c67f7183c2b34499ee223fb3883fa9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/BurstPatcher/BurstPatcherGenerator.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7c29a321bcb9941498ad83b2448c34a9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/BurstPatcher/BurstPatcherHook.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 759cafbd3ed1b744d91f04c3a33e9927.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Backgrounds.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f941b6c685891bc46b6f36d97370a233.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/HDRPDefaultResources.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: abc661c586a9116428571bb17ea1a331.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 94a30a40146782842b4ed4f12772f622.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2754f8cebe196654cbc72d1885ebcf0e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c270e52ab070df2498f906e02880c91e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Settings.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 006b6043041431d4d909ad5f958582cb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d4d4de935a4db704f83b08ff51c3f333.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f54d1bd14bd3ca042bd867b519fee8cc.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/VFXDefaultResources.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e4d61d0c025b6104a84e8f905e1a34f6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6242c123911c5ff458b8c78038df5d14.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Editor.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1c2b7cea62d9fa349821fb1251d68043.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Materials.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9871a0fc6a33632408ae3eda9cb51bde.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/Hud.prefab.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0b8a7f10b029a724194d182c9a889721.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestShip.prefab.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 759f46a00509153449855e58ef8c689b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Editor/CapsuleMeshAuthoringEditor.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f72e65843477d8d428ef687e45366052.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Editor/LsssEditor.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 45d077ec98ad82744869dc0785f741e4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6f00fbf6c4f30dd47a98e1a250082a9d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fe5ea0b02013f7741842f64d0fd1131c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Lsss.asmdef.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b9ae9abb24cbfa540874d8f60f12e8a3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Rendering.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 41b8967635f573049ad20342d642aaee.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 845ad2fe471ac6a48896a6a37d87fbb3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 36d1e569b9e15714e9a5d5e04ead50eb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/AiSuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9aaa76a937fea714d8860285f0e9552e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/GameplaySuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6fb6b83980b7f4f43b0c3a0996d17b74.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/GraphicsSuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c86001496d3c2d3409fafc7990ef5dcd.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/LsssBootstrap.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1c495feb6ac4bef46a833e92a1acac81.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/LsssRootSuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3fd1065afb67a8f4e86168e3d37be9a9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/PlayerSuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a814fa1b94552fe42866fdea334aa623.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SuperSystems/UiSuperSystems.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a036f29b204ad47408b96014ddc62ba3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: df67c512525ea2241b8764a949a41836.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 162ade0fc61b6c44190fd164f56aee5a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Graphics.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4014272ca13ff7f4b91ce520ec146209.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Player.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ec2f2b1f655a0f74d80f35a4d203481e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/UI.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 137fbe1b0c6edc94f98b7728ba43e135.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/UI/HudUpdateSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 23ca09eb3f469b6409edbf29f101c5c8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/UI/TitleAndMenuUpdateSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 150d1fb65b3fa304387ea70a70d331ec.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Player/PlayerGameplayReadInputSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c301265fa96ab06439ad9792bb8f9954.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Graphics/CameraFollowPlayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d2ad38b6475c02445967bd7abd457332.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Graphics/FaceCameraSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 75db91b2489dd774696ff8653c1b7adb.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Graphics/LifetimeFadeSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6450c18d5b5197a43bf67312dd783f1d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Graphics/SpawnPointAnimationSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b53a182bc258a7248aeffa08b414c9df.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildBulletsCollisionLayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f6dc2e3a6437ce64dac600e4160097a4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildExplosionsCollisionLayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2add9c1e06ac8ff4882d5f045e0ebfd6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildSpawnPointCollisionLayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7407adaacd5fb824d9f0e4adaff3978f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildWallsCollisionLayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 23a686a0b374e94408892df07d340432.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildWormholesCollisionLayerSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f019dc67540cc2043affc14731b81b3a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BulletVsWallSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 502fc5104e9540e4fa804dde1905a780.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/CheckSpawnPointIsSafeSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a5aaca30d37cee94b9bc8a06ea686f52.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/DestroyShipsWithNoHealthSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c6b3cb9e279b3554f9ba885f2074c552.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ExpandExplosionsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 509982ef87fd4f04f9b3990fdcb95c7a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/FireGunsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 857f6041fb17b06478daeb7536526075.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/MoveBulletsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5cd0a69caca5ade4b977644e1a93f07b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/MoveOrbitalSpawnPointsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4fb8ab2d8c49a3d438942a8ab708c6b3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/MoveShipsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1acde0afb26673b45a7b641e232dfd8f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsBulletDamageSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 88b8b33d4f1cebb47abe3c8fb5e03398.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsExplosionDamageSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 335c8a4486b106947bac5f742d22bf06.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsShipDamageSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f2fc5893a82c65642962419590ceba60.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsWallDamageSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7bdd6521946292b488194735102f5584.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/SpawnFleetsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ceeb31a79c8a074449b7c1917b5fb149.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/SpawnShipsDequeueSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7a387364dc2fa5f468fcda899ec450d7.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/SpawnShipsEnableSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6010bd0de0b44474f8076ae140356262.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/SpawnShipsEnqueueSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: ab88fe2772eabe84ba6f07a27d27a310.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/TravelThroughWormholeSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 76a6c7b261b0e344bb26a387c671b2fa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/UpdateTimeToLiveSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0267bfa4b3b370347acd1a4d3a8256b5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildFactionShipsCollisionLayersSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 176409c554ce03546a01c9925341f07e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/PopulateOrbitalSpawnersSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 995a5d0c689480e48a3c182e5eab0078.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI/AiCreateDesiredActionsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2f0cc339838b0934684f328357a3112e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI/AiEvaluateGoalsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3b8c210692e34d347be6e79832ee4f93.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI/AiShipRadarScanSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fb66c96210f08f44d8e929cd83988743.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI/AiInitializeNewShipsSystem.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 31044ad7ad890e147aa86a690d599222.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Rendering/SpaceSkyRenderer.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5ffa24819b641544fbcf82db714db63d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Rendering/SpaceSkySettings.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: dc4ff1f5d71920247a2510683e532549.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/AiComponents.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e65b2b0328877f54a95879e6254710e1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/GameplayComponents.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: cdeb925a4de38ed4aa858f0b9b4a29b0.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/GraphicsComponents.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 719f9a07237acd941a8b182d333efdf5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/Hud.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6dc9d1543ec5ab345b526098e7e1b4dc.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/PlayerComponents.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c2de6ddf764b91642b21ae4534da7622.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Components/TitleAndMenu.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1d41ef41ddc278e4280c30a1cdd25141.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/AiBrainAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b3b6fb063cb156342b9ec4228637c1d9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/AiShipRadarAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 324c01ceb24284f4cbd90fa6d12e20fc.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/ArenaAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f0bfac60bbf96e7498b842d397f6a7d6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/BulletAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d2a2f33b7ecbf6344a0f671f14011084.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/CapsuleMeshAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a468b5c704c2ba843a07df26bdcf641c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/ExplosionAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: df1df019ae43f6144a4d6695ec204848.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FaceCameraAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9746c8e997969e44896c9d289c3f71ca.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FactionAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e23fdba5bcf76c944b23235251759aaf.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FleetSpawnPointAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 79bc790d0ac208f448708e6822d4cc05.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FleetSpawnSlotAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f62c9ed4202f1dc4b8b478059d3d69b9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/OrbitalSpawnPointAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a55b6c7ac1b37d04e97f0e89a8e11ce8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/PlayerAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d532a20119901954b96d32fce5c06ebe.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/SpaceshipAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fa4480473f73d4142b5925e24b7d05a6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/SpawnPointGraphicAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7659a7471bde3e244a97b5a6b9d298ad.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/WallAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 06da1ab00b0370a4e895bc12011b1361.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/WormholeAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 0a6097d3d78036348b338c0e09e6de61.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/RandomOrbitalSpawnerPopulatorAuthoring.cs.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7b850f38ab968de4995e9c8361acadbd.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Documentation.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 8e7e8f5a82a3a134e91c54efd2274ea9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Fonts.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6ab70aee4d56447429c680537fbf93ed.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 243e06394e614e5d99fab26083b707fa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e9f693669af91aa45ad615fc681ed29f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Sprites.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d0603b6d5186471b96c778c3949c7ce2.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 381dcb09d5029d14897e55f98031fca5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 8f05276190cf498a8153f6cbe761d4e6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: dffef66376be4fa480fb02b19edbe903.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 48bb5f55d8670e349b6e614913f9d910.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1e3b057af24249748ff873be7fafee47.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 128e987d567d4e2c824d754223b3f3b0.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: dd89cf5b9246416f84610a006f916af7.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 14eb328de4b8eb245bb7cea29e4ac00b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: bc1ede39bf3643ee8e493720e4259791.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: a02a7d8c237544f1962732b55a9aebf1.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c8d12adcee749c344b8117cf7c7eb912.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fe393ace9b354375a9cb14cdbbc28be4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 85187c2149c549c5b33f0cdb02836b17.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f7ada0af4f174f0694ca6a487b8f543d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 68e6db2ebdc24f95958faec2be5558d6.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: cf81c85f95fe47e1a27f6ae460cf182c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c334973cef89a9840b0b0c507e0377ab.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3997e2241185407d80309a82f9148466.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d930090c0cd643c7b55f19a38538c162.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 407bc68d299748449bbf7f48ee690f8d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 731f1baa9d144a9897cb1d341c2092b8.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: fade42e8bc714b018fac513c043d323b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: d82c1b31c7e74239bff1220585707d2b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 512a49d95c0c4332bdd98131869c23c9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Style Sheets.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4aecb92fff08436c8303b10eab8da368.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3f5b5dff67a942289a9defa416b206f3.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f952c082cb03451daed3ee968ac6c63e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c41005c129ba4d66911b75229fd70b45.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2e498d1c8094910479dc3e1b768306a4.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 8f586378b4e144a9851e7b34d9b748ee.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 6e59c59b81ab47f9b6ec5781fa725d2c.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e3265ab4bf004d28a9537516768c1c75.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1b8d251f9af63b746bf2f7ffe00ebb9b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/HealthbarExample.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: c8ec92a91f7c07e4c94bb9ccbe8c8c51.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/Thruster.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: b885b346973d55a47b98a3ef28fe97aa.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/DeepSpace.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1afe97fd1e0168143b93e679d69f00ce.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/FibonacciSphereCellNoise.hlsl.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1cb10df2ea273b74b83828ac5e0c9c60.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/FireGas.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 814dc2b9c50e6a842b72256fa59d01fd.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/FireGasLit.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7f89ef47d1a7455488d45e4d723a90d2.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/LaserShotLit.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f6160323a08e5624ea244a5fd4cac922.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/LaserShotShader.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 08cecb3a4b1e5b94f98bcec0020ea17b.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/Nebula.hlsl.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 84a5f29d7778d5047b1c3c3eb694aaed.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/PerlinNoise3D.hlsl.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e477d29bb11b10a418ac2e53830414f7.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/ScreenPositionOfPoint.shadersubgraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 479d1921a7218904a9c0454e6494de1d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/SpaceSky.hlsl.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 85c94330fc34d134fbcf10d0a7628f27.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/SpaceSky.shader.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9c340a7bdf0ebdc4a8935e0b93a37eec.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/StarField.hlsl.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 14b204bbe8d00cc4c97ca206b3ae9467.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/StarField.shadersubgraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 5b76395b15fffa240a03bbbe19a2cea5.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/Wormhole.shadergraph.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 74f3a1619863275479d365132798f638.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Settings/Foliage.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 78322c7f82657514ebe48203160e3f39.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Settings/HDRenderPipelineAsset.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 3e2e6bfc59709614ab90c0cd7d755e48.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Settings/Skin.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 26bdddf49760c61438938733f07fa2a2.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 02d495ad3656d2544a3cc0c37ac34018.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/Title and Menu.unity.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 520a34ac6759cac46812f37356001a98.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest.unity.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 2468214e8a484d947a56e1557f8e17af.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/MassiveBattleTest1.unity.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 925e3498d081c364bb605dafd2ba4991.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest/Sky and Fog Volume Profile 1.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: f82d7493ac278df48841421e673e5e8a.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest/Sky and Fog Volume Profile 2.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 4c531a0bb9552374aabb2cef055af41e.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Scenes/GameplayTest/Sky and Fog Volume Profile.asset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 55c770d529f3d3440895335f7494f25d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/AudioCompressedInMemory.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: e18fd6ecd9cdb524ca99844f39b9d9ac.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/AudioStreaming.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 460e573eb8466884baaa0b8475505f83.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/Defaults.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 62d01720aebe09744845cc69fc236e31.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/HDRTexture.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 78830bb1431cab940b74be615e2a739f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/NormalTexture.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 1d826a4c23450f946b19c20560595a1f.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/UtilityTexture.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 9303d565bd8aa6948ba775e843320e4d.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/Defaults/AlbedoTexture_Default.preset.meta
+09/06/2026 12:15:11 Data Extracted!
+09/06/2026 12:15:11 Saving Results...
+09/06/2026 12:15:11 Saving File: 7a99f8aa944efe94cb9bd74562b7d5f9.json
+09/06/2026 12:15:11 Done!!
+09/06/2026 12:15:11 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Presets/Defaults/AudioDecompressOnLoad_Default.preset.meta
+09/06/2026 12:15:11 Data Extracted!

@@ -1,0 +1,26 @@
+{
+  "guid": "0170b9b36c5674f43b28edbb03d6eb75",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Resources/Unit Recipes/Delita.asset.meta",
+  "name": "Delita.asset",
+  "type": "meta",
+  "file_size": 180,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

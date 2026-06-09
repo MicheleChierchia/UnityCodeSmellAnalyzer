@@ -1,0 +1,42 @@
+{
+  "guid": "f23f3ae8f08bb914b90c15e40e51d1ae",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/FlatMeshGenerator.cs.meta",
+  "name": "FlatMeshGenerator.cs",
+  "type": "meta",
+  "file_size": 262,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

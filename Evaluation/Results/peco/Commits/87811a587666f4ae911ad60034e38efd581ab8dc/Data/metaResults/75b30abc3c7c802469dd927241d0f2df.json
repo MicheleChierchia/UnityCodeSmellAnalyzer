@@ -1,0 +1,113 @@
+{
+  "guid": "75b30abc3c7c802469dd927241d0f2df",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta",
+  "name": "JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll",
+  "type": "meta",
+  "file_size": 621,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PluginImporter",
+      "PluginImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "iconMap": ""
+        },
+        {
+          "executionOrder": ""
+        },
+        {
+          "defineConstraints": "[]"
+        },
+        {
+          "isPreloaded": "0"
+        },
+        {
+          "isOverridable": "0"
+        },
+        {
+          "isExplicitlyReferenced": "0"
+        },
+        {
+          "platformData": [
+            {
+              "- first": [
+                {
+                  "Any": ""
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": ""
+                }
+              ]
+            },
+            {
+              "- first": [
+                {
+                  "Editor": "Editor"
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "1"
+                },
+                {
+                  "settings": [
+                    {
+                      "DefaultValueInitialized": "true"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "- first": [
+                {
+                  "Windows Store Apps": "WindowsStoreApps"
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "4_peco",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+}

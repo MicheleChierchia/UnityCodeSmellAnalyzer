@@ -1,0 +1,48 @@
+{
+  "guid": "814dc2b9c50e6a842b72256fa59d01fd",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/FireGas.shadergraph.meta",
+  "name": "FireGas.shadergraph",
+  "type": "meta",
+  "file_size": 285,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ScriptedImporter",
+      "ScriptedImporter": [
+        {
+          "internalIDToNameTable": "[]"
+        },
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        },
+        {
+          "script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "625f186215c104763be7675aa2d941aa"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

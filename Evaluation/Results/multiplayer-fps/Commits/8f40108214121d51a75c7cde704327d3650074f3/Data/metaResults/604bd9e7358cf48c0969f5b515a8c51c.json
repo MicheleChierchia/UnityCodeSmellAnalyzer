@@ -1,0 +1,23 @@
+{
+  "guid": "604bd9e7358cf48c0969f5b515a8c51c",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Cameras.meta",
+  "name": "Cameras",
+  "type": "meta",
+  "file_size": 127,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

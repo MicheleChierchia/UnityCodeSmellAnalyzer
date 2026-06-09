@@ -1,0 +1,45 @@
+{
+  "guid": "509982ef87fd4f04f9b3990fdcb95c7a",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ExpandExplosionsSystem.cs.meta",
+  "name": "ExpandExplosionsSystem.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

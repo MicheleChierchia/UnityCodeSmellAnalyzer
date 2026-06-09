@@ -1,0 +1,33 @@
+{
+  "guid": "6acb8d21564821e4e92aaa49ce2151cc",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ShowInfoOfPlayer.cs.meta",
+  "name": "ShowInfoOfPlayer.cs",
+  "type": "meta",
+  "file_size": 165,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

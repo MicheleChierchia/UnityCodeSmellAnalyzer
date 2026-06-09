@@ -1,0 +1,1484 @@
+{
+  "ProjectName": "4_peco",
+  "ProjectDirectory": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco",
+  "DirectoryPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco",
+  "LOC": 84,
+  "ConfigurationFile": "Config.json",
+  "ProjectLanguage": "C#",
+  "ProjectLanguageVersion": "CSharp12",
+  "Project": [
+    {
+      "Name": "PlayerController",
+      "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Language": "C#",
+      "Loc": 84,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "PlayerController",
+          "FullName": "PlayerController",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": false,
+              "FullName": "PlayerController.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "GameObject.FindGameObjectsWithTag",
+                  "FullName": "GameObject.FindGameObjectsWithTag",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "\"PlayerControllable\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 23
+                },
+                {
+                  "Name": "controlledPawn.GetComponent<CharacterController>",
+                  "FullName": "controlledPawn.GetComponent<CharacterController>",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [],
+                  "Line": 24
+                },
+                {
+                  "Name": "pawnCamera.transform.SetParent",
+                  "FullName": "pawnCamera.transform.SetParent",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "controlledPawn.transform",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 27
+                },
+                {
+                  "Name": "Quaternion.Euler",
+                  "FullName": "Quaternion.Euler",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "15f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "0f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "0f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 30
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "controlledPawn",
+                    "Type": "GameObject",
+                    "Assignment": "GameObject.FindGameObjectsWithTag(\"PlayerControllable\")[0]",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 22,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.controlledPawn",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "controlledPawn"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.controlledPawn"
+                        ],
+                        "Invocations": [],
+                        "Type": "GameObject",
+                        "Statement": "controlledPawn",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnController",
+                    "Type": "CharacterController",
+                    "Assignment": "controlledPawn.GetComponent<CharacterController>()",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 23,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.pawnController",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnController"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnController"
+                        ],
+                        "Invocations": [],
+                        "Type": "CharacterController",
+                        "Statement": "pawnController",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnCamera.transform.rotation",
+                    "Type": "?",
+                    "Assignment": "Quaternion.Euler(15f, 0f, 0f)",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 29,
+                    "VariableKind": null,
+                    "FullName": null,
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnCamera"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnCamera"
+                        ],
+                        "Invocations": [],
+                        "Type": "Camera",
+                        "Statement": "pawnCamera",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnCamera.transform.localPosition",
+                    "Type": "?",
+                    "Assignment": "CameraPosition",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 30,
+                    "VariableKind": null,
+                    "FullName": null,
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnCamera"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnCamera"
+                        ],
+                        "Invocations": [],
+                        "Type": "Camera",
+                        "Statement": "pawnCamera",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "GameObject.FindGameObjectsWithTag(\"PlayerControllable\")[0]",
+                    "Type": "GameObject",
+                    "Kind": "Use",
+                    "UseLine": 22,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "controlledPawn",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn.GetComponent<CharacterController>()",
+                    "Type": "CharacterController",
+                    "Kind": "Use",
+                    "UseLine": 23,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "pawnController",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "Quaternion.Euler(15f, 0f, 0f)",
+                    "Type": "?",
+                    "Kind": "Use",
+                    "UseLine": 29,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "pawnCamera.transform.rotation",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "CameraPosition",
+                    "Type": "?",
+                    "Kind": "Use",
+                    "UseLine": 30,
+                    "UseKind": "FieldReference",
+                    "AssignedTo": "pawnCamera.transform.localPosition",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 21
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Update",
+              "IsEmpty": false,
+              "FullName": "PlayerController.Update()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "controlledPawn",
+                      "null"
+                    ],
+                    "Properties": [],
+                    "Fields": [
+                      "PlayerController.controlledPawn"
+                    ],
+                    "Invocations": [],
+                    "Type": "bool",
+                    "Statement": "controlledPawn != null",
+                    "ExpressionType": "NotEqualsExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 40,
+                  "StartLine": 36,
+                  "Invocations": [
+                    {
+                      "Name": "Movement",
+                      "FullName": "PlayerController.Movement()",
+                      "ReturnType": "Void",
+                      "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+                      "DefinitionLine": 43,
+                      "Kind": "SourceFile",
+                      "Module": null,
+                      "ReferenceFound": true,
+                      "Arguments": [],
+                      "Line": 38
+                    },
+                    {
+                      "Name": "RayTrace",
+                      "FullName": "PlayerController.RayTrace()",
+                      "ReturnType": "Void",
+                      "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+                      "DefinitionLine": 56,
+                      "Kind": "SourceFile",
+                      "Module": null,
+                      "ReferenceFound": true,
+                      "Arguments": [],
+                      "Line": 39
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": []
+                }
+              ],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 34
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Movement",
+              "IsEmpty": false,
+              "FullName": "PlayerController.Movement()",
+              "Modifiers": [
+                "private"
+              ],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Input.GetAxis",
+                  "FullName": "Input.GetAxis",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "\"Vertical\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 45
+                },
+                {
+                  "Name": "Input.GetAxis",
+                  "FullName": "Input.GetAxis",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "\"Horizontal\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 46
+                },
+                {
+                  "Name": "controlledPawn.transform.TransformVector",
+                  "FullName": "controlledPawn.transform.TransformVector",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "moveDirection",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 49
+                },
+                {
+                  "Name": "pawnController.Move",
+                  "FullName": "pawnController.Move",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "moveDirection * Time.deltaTime",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 52
+                },
+                {
+                  "Name": "pawnController.transform.Rotate",
+                  "FullName": "pawnController.transform.Rotate",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "(moveRotation * turnSpeed)",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "Space.Self",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 53
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "moveDirection",
+                    "Type": "Vector3",
+                    "Assignment": "new Vector3(0.0f, 0.0f, Input.GetAxis(\"Vertical\"))",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 44,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.moveDirection",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "moveDirection"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.moveDirection"
+                        ],
+                        "Invocations": [],
+                        "Type": "Vector3",
+                        "Statement": "moveDirection",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "moveRotation",
+                    "Type": "Vector3",
+                    "Assignment": "new Vector3(0.0f, Input.GetAxis(\"Horizontal\"), 0.0f)",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 45,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.moveRotation",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "moveRotation"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.moveRotation"
+                        ],
+                        "Invocations": [],
+                        "Type": "Vector3",
+                        "Statement": "moveRotation",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "moveDirection",
+                    "Type": "Vector3",
+                    "Assignment": "controlledPawn.transform.TransformVector(moveDirection)",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 48,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.moveDirection",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "moveDirection"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.moveDirection"
+                        ],
+                        "Invocations": [],
+                        "Type": "Vector3",
+                        "Statement": "moveDirection",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "moveDirection",
+                    "Type": "Vector3",
+                    "Assignment": "moveDirection * speed",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 49,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.moveDirection",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "moveDirection"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.moveDirection"
+                        ],
+                        "Invocations": [],
+                        "Type": "Vector3",
+                        "Statement": "moveDirection",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "new Vector3(0.0f, 0.0f, Input.GetAxis(\"Vertical\"))",
+                    "Type": "Vector3",
+                    "Kind": "Use",
+                    "UseLine": 44,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "moveDirection",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "new Vector3(0.0f, Input.GetAxis(\"Horizontal\"), 0.0f)",
+                    "Type": "Vector3",
+                    "Kind": "Use",
+                    "UseLine": 45,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "moveRotation",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn.transform.TransformVector(moveDirection)",
+                    "Type": "Vector3",
+                    "Kind": "Use",
+                    "UseLine": 48,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "moveDirection",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "moveDirection * speed",
+                    "Type": "Vector3",
+                    "Kind": "Use",
+                    "UseLine": 49,
+                    "UseKind": "BinaryOperator",
+                    "AssignedTo": "moveDirection",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": [
+                      {
+                        "Name": "moveDirection",
+                        "Type": "Vector3",
+                        "Kind": "Use",
+                        "UseLine": 49,
+                        "UseKind": "FieldReference",
+                        "AssignedTo": "moveDirection",
+                        "Value": null,
+                        "Operation": "IdentifierName",
+                        "VariablesList": []
+                      },
+                      {
+                        "Name": "speed",
+                        "Type": "float",
+                        "Kind": "Use",
+                        "UseLine": 49,
+                        "UseKind": "FieldReference",
+                        "AssignedTo": "moveDirection",
+                        "Value": null,
+                        "Operation": "IdentifierName",
+                        "VariablesList": []
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 43
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "RayTrace",
+              "IsEmpty": false,
+              "FullName": "PlayerController.RayTrace()",
+              "Modifiers": [
+                "private"
+              ],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Debug.DrawRay",
+                  "FullName": "Debug.DrawRay",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "position",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "forward * 10f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "Color.red",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 61
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "position",
+                    "Type": "var",
+                    "FullName": null,
+                    "Assignment": "controlledPawn.transform.position",
+                    "Kind": "Definition",
+                    "DefinitionLine": 57
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "forward",
+                    "Type": "var",
+                    "FullName": null,
+                    "Assignment": "controlledPawn.transform.forward",
+                    "Kind": "Definition",
+                    "DefinitionLine": 58
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "Input.GetMouseButtonDown0"
+                    ],
+                    "Properties": [],
+                    "Fields": [],
+                    "Invocations": [
+                      {
+                        "Name": "Input.GetMouseButtonDown",
+                        "FullName": "Input.GetMouseButtonDown",
+                        "ReturnType": null,
+                        "FileName": null,
+                        "DefinitionLine": 1,
+                        "Kind": null,
+                        "Module": null,
+                        "ReferenceFound": false,
+                        "Arguments": [
+                          {
+                            "Argument": "0",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          }
+                        ],
+                        "Line": 64
+                      }
+                    ],
+                    "Type": "?",
+                    "Statement": "!Input.GetMouseButtonDown(0)",
+                    "ExpressionType": "LogicalNotExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 64,
+                  "StartLine": 64,
+                  "Invocations": [
+                    {
+                      "Name": "Input.GetMouseButtonDown",
+                      "FullName": "Input.GetMouseButtonDown",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "0",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 64
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": [
+                    {
+                      "ReturnStatement": null,
+                      "ReturnType": "void",
+                      "Line": 64
+                    }
+                  ]
+                },
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "Physics.Raycastposition,",
+                      "forward,",
+                      "out",
+                      "hitObj,",
+                      "100,",
+                      "1"
+                    ],
+                    "Properties": [],
+                    "Fields": [
+                      "PlayerController.hitObj"
+                    ],
+                    "Invocations": [
+                      {
+                        "Name": "Physics.Raycast",
+                        "FullName": "Physics.Raycast",
+                        "ReturnType": null,
+                        "FileName": null,
+                        "DefinitionLine": 1,
+                        "Kind": null,
+                        "Module": null,
+                        "ReferenceFound": false,
+                        "Arguments": [
+                          {
+                            "Argument": "position",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          },
+                          {
+                            "Argument": "forward",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          },
+                          {
+                            "Argument": "hitObj",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          },
+                          {
+                            "Argument": "100",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          },
+                          {
+                            "Argument": "1",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          }
+                        ],
+                        "Line": 66
+                      }
+                    ],
+                    "Type": "?",
+                    "Statement": "!Physics.Raycast(position, forward, out hitObj, 100, 1)",
+                    "ExpressionType": "LogicalNotExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 66,
+                  "StartLine": 66,
+                  "Invocations": [
+                    {
+                      "Name": "Physics.Raycast",
+                      "FullName": "Physics.Raycast",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "position",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        },
+                        {
+                          "Argument": "forward",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        },
+                        {
+                          "Argument": "hitObj",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        },
+                        {
+                          "Argument": "100",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        },
+                        {
+                          "Argument": "1",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 66
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": [
+                    {
+                      "ReturnStatement": null,
+                      "ReturnType": "void",
+                      "Line": 66
+                    }
+                  ]
+                },
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "hitObj.transform.gameObject.CompareTag\"PlayerControllable\""
+                    ],
+                    "Properties": [],
+                    "Fields": [
+                      "PlayerController.hitObj"
+                    ],
+                    "Invocations": [
+                      {
+                        "Name": "hitObj.transform.gameObject.CompareTag",
+                        "FullName": "hitObj.transform.gameObject.CompareTag",
+                        "ReturnType": null,
+                        "FileName": null,
+                        "DefinitionLine": 1,
+                        "Kind": null,
+                        "Module": null,
+                        "ReferenceFound": false,
+                        "Arguments": [
+                          {
+                            "Argument": "\"PlayerControllable\"",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          }
+                        ],
+                        "Line": 68
+                      }
+                    ],
+                    "Type": "?",
+                    "Statement": "hitObj.transform.gameObject.CompareTag(\"PlayerControllable\")",
+                    "ExpressionType": "InvocationExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 71,
+                  "StartLine": 68,
+                  "Invocations": [
+                    {
+                      "Name": "hitObj.transform.gameObject.CompareTag",
+                      "FullName": "hitObj.transform.gameObject.CompareTag",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "\"PlayerControllable\"",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 68
+                    },
+                    {
+                      "Name": "ChangeControlledPawn",
+                      "FullName": "ChangeControlledPawn",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "hitObj.transform.gameObject",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 70
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": []
+                }
+              ],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 56
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "ChangeControlledPawn",
+              "IsEmpty": false,
+              "FullName": "PlayerController.ChangeControlledPawn(GameObject)",
+              "Modifiers": [
+                "private"
+              ],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [
+                {
+                  "Name": "newPawn",
+                  "Type": "GameObject",
+                  "Assignment": null,
+                  "Attributes": []
+                }
+              ],
+              "Invocations": [
+                {
+                  "Name": "controlledPawn.GetComponent<CharacterController>",
+                  "FullName": "controlledPawn.GetComponent<CharacterController>",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [],
+                  "Line": 79
+                },
+                {
+                  "Name": "pawnCamera.transform.SetParent",
+                  "FullName": "pawnCamera.transform.SetParent",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "controlledPawn.transform",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 80
+                },
+                {
+                  "Name": "Quaternion.Euler",
+                  "FullName": "Quaternion.Euler",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "15.0f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "0f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "0f",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 82
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "temp",
+                    "Type": "var",
+                    "FullName": null,
+                    "Assignment": "controlledPawn",
+                    "Kind": "Definition",
+                    "DefinitionLine": 76
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn",
+                    "Type": "GameObject",
+                    "Assignment": "newPawn",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 77,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.controlledPawn",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "controlledPawn"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.controlledPawn"
+                        ],
+                        "Invocations": [],
+                        "Type": "GameObject",
+                        "Statement": "controlledPawn",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnController",
+                    "Type": "CharacterController",
+                    "Assignment": "controlledPawn.GetComponent<CharacterController>()",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 78,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.pawnController",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnController"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnController"
+                        ],
+                        "Invocations": [],
+                        "Type": "CharacterController",
+                        "Statement": "pawnController",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnCamera.transform.localPosition",
+                    "Type": "?",
+                    "Assignment": "CameraPosition",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 80,
+                    "VariableKind": null,
+                    "FullName": null,
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnCamera"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnCamera"
+                        ],
+                        "Invocations": [],
+                        "Type": "Camera",
+                        "Statement": "pawnCamera",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnCamera.transform.rotation",
+                    "Type": "?",
+                    "Assignment": "controlledPawn.transform.rotation * Quaternion.Euler(15.0f, 0f, 0f)",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 81,
+                    "VariableKind": null,
+                    "FullName": null,
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnCamera"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnCamera"
+                        ],
+                        "Invocations": [],
+                        "Type": "Camera",
+                        "Statement": "pawnCamera",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnController.transform.rotation",
+                    "Type": "?",
+                    "Assignment": "temp.transform.rotation",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 82,
+                    "VariableKind": null,
+                    "FullName": null,
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnController"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnController"
+                        ],
+                        "Invocations": [],
+                        "Type": "CharacterController",
+                        "Statement": "pawnController",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "newPawn",
+                    "Type": "GameObject",
+                    "Kind": "Use",
+                    "UseLine": 77,
+                    "UseKind": "ParameterReference",
+                    "AssignedTo": "controlledPawn",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn.GetComponent<CharacterController>()",
+                    "Type": "CharacterController",
+                    "Kind": "Use",
+                    "UseLine": 78,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "pawnController",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "CameraPosition",
+                    "Type": "?",
+                    "Kind": "Use",
+                    "UseLine": 80,
+                    "UseKind": "FieldReference",
+                    "AssignedTo": "pawnCamera.transform.localPosition",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn.transform.rotation * Quaternion.Euler(15.0f, 0f, 0f)",
+                    "Type": "?",
+                    "Kind": "Use",
+                    "UseLine": 81,
+                    "UseKind": "BinaryOperator",
+                    "AssignedTo": "pawnCamera.transform.rotation",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": [
+                      {
+                        "Name": "controlledPawn.transform.rotation",
+                        "Type": "?",
+                        "Kind": "Use",
+                        "UseLine": 81,
+                        "UseKind": "Invalid",
+                        "AssignedTo": "pawnCamera.transform.rotation",
+                        "Value": null,
+                        "Operation": "SimpleMemberAccessExpression",
+                        "VariablesList": []
+                      },
+                      {
+                        "Name": "Quaternion.Euler(15.0f, 0f, 0f)",
+                        "Type": "?",
+                        "Kind": "Use",
+                        "UseLine": 81,
+                        "UseKind": "Invalid",
+                        "AssignedTo": "pawnCamera.transform.rotation",
+                        "Value": null,
+                        "Operation": "InvocationExpression",
+                        "VariablesList": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "temp.transform.rotation",
+                    "Type": "?",
+                    "Kind": "Use",
+                    "UseLine": 82,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "pawnController.transform.rotation",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 75
+            }
+          ],
+          "Fields": [
+            {
+              "Name": "controlledPawn",
+              "Type": "GameObject",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.controlledPawn",
+              "Line": 6
+            },
+            {
+              "Name": "pawnController",
+              "Type": "CharacterController",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.pawnController",
+              "Line": 7
+            },
+            {
+              "Name": "pawnCamera",
+              "Type": "Camera",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.pawnCamera",
+              "Line": 8
+            },
+            {
+              "Name": "hitObj",
+              "Type": "RaycastHit",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.hitObj",
+              "Line": 9
+            },
+            {
+              "Name": "speed",
+              "Type": "float",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "12.0f",
+              "Attributes": [],
+              "FullName": "PlayerController.speed",
+              "Line": 12
+            },
+            {
+              "Name": "turnSpeed",
+              "Type": "float",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "2f",
+              "Attributes": [],
+              "FullName": "PlayerController.turnSpeed",
+              "Line": 13
+            },
+            {
+              "Name": "moveDirection",
+              "Type": "Vector3",
+              "Modifiers": [],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.moveDirection",
+              "Line": 14
+            },
+            {
+              "Name": "moveRotation",
+              "Type": "Vector3",
+              "Modifiers": [],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.moveRotation",
+              "Line": 15
+            },
+            {
+              "Name": "CameraPosition",
+              "Type": "Vector3",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": "new Vector3(0.8f, 2.5f, -4.2f)",
+              "Attributes": [],
+              "FullName": "PlayerController.CameraPosition",
+              "Line": 18
+            }
+          ],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 3
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "UnityEngine",
+          "Line": 1
+        }
+      ],
+      "Line": 1
+    }
+  ]
+}

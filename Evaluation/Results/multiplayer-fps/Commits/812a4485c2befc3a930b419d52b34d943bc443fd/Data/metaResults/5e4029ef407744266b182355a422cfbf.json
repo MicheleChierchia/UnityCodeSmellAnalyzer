@@ -1,0 +1,26 @@
+{
+  "guid": "5e4029ef407744266b182355a422cfbf",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare Combo.prefab.meta",
+  "name": "Flare Combo.prefab",
+  "type": "meta",
+  "file_size": 138,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

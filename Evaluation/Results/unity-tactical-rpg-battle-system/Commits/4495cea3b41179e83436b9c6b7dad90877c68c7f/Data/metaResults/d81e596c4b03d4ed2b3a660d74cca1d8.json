@@ -1,0 +1,26 @@
+{
+  "guid": "d81e596c4b03d4ed2b3a660d74cca1d8",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scenes/Tests/BattleTests.unity.meta",
+  "name": "BattleTests.unity",
+  "type": "meta",
+  "file_size": 175,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

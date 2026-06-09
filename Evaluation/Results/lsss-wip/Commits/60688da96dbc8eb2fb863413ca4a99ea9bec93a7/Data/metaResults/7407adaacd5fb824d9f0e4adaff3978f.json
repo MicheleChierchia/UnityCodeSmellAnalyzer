@@ -1,0 +1,45 @@
+{
+  "guid": "7407adaacd5fb824d9f0e4adaff3978f",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/BuildSpawnPointCollisionLayerSystem.cs.meta",
+  "name": "BuildSpawnPointCollisionLayerSystem.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

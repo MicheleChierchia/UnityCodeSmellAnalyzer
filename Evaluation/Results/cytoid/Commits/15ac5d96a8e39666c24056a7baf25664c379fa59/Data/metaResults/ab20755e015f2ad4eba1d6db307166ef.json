@@ -1,0 +1,36 @@
+{
+  "guid": "ab20755e015f2ad4eba1d6db307166ef",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedUILabel.cs.meta",
+  "name": "LocalizedUILabel.cs",
+  "type": "meta",
+  "file_size": 178,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

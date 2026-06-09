@@ -1,0 +1,36 @@
+{
+  "guid": "7db67e7f5face2e42b6daafcaf4e6c82",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon/PhotonChat/Code/ChatUserStatus.cs.meta",
+  "name": "ChatUserStatus.cs",
+  "type": "meta",
+  "file_size": 178,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

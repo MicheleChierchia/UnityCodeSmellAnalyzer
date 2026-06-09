@@ -1,0 +1,42 @@
+{
+  "guid": "3b092acb836fd4a1588529672d00cb1f",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Operator/Multiply.cs.meta",
+  "name": "Multiply.cs",
+  "type": "meta",
+  "file_size": 221,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

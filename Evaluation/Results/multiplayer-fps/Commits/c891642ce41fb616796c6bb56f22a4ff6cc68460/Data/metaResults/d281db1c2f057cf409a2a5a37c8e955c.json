@@ -1,0 +1,20 @@
+{
+  "guid": "d281db1c2f057cf409a2a5a37c8e955c",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Photon-Unity-Win81.unitypackage.meta",
+  "name": "Photon-Unity-Win81.unitypackage",
+  "type": "meta",
+  "file_size": 90,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

@@ -1,0 +1,29 @@
+{
+  "guid": "d1c89a6dd566aa643a1087b1bd337b79",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/AssetBundles.manifest.meta",
+  "name": "AssetBundles.manifest",
+  "type": "meta",
+  "file_size": 158,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "4_peco",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+}

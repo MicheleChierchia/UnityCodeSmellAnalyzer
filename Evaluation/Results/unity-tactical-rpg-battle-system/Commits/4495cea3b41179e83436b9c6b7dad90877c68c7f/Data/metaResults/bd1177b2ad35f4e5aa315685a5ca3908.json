@@ -1,0 +1,42 @@
+{
+  "guid": "bd1177b2ad35f4e5aa315685a5ca3908",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Debug/LevelGrowthTests.cs.meta",
+  "name": "LevelGrowthTests.cs",
+  "type": "meta",
+  "file_size": 263,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

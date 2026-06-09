@@ -1,0 +1,29 @@
+{
+  "guid": "2de22fb7141426546b7382812669d73f",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Latios.Physics.asmdef.meta",
+  "name": "Latios.Physics.asmdef",
+  "type": "meta",
+  "file_size": 166,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AssemblyDefinitionImporter",
+      "AssemblyDefinitionImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

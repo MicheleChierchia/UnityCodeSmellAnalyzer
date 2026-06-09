@@ -1,0 +1,26 @@
+{
+  "guid": "8a5c3e7cc2b3e4c968d5cd7dc7f8fb35",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Levels/Board.asset.meta",
+  "name": "Board.asset",
+  "type": "meta",
+  "file_size": 180,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+}

@@ -1,0 +1,29 @@
+{
+  "guid": "489f460737efd5b42a1fbbc4a88a9a9a",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials.meta",
+  "name": "Materials",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "4_peco",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+}

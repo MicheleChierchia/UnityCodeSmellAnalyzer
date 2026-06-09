@@ -1,0 +1,30 @@
+{
+  "guid": "17568a7a5552c09428dd48e73548b8b8",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon/PhotonRealtime/Code/Room.cs.meta",
+  "name": "Room.cs",
+  "type": "meta",
+  "file_size": 213,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- ExitGames": [
+            {
+              "": "- PUN"
+            },
+            {
+              "": "- Photon"
+            },
+            {
+              "": "- Networking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

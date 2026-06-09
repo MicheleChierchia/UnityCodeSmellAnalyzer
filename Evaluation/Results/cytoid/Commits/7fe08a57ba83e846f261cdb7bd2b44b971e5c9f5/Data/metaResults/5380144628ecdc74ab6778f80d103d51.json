@@ -1,0 +1,26 @@
+{
+  "guid": "5380144628ecdc74ab6778f80d103d51",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers.meta",
+  "name": "Triggers",
+  "type": "meta",
+  "file_size": 193,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

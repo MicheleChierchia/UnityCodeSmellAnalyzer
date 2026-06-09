@@ -1,0 +1,45 @@
+{
+  "guid": "b5dc6366dccf4d34582423693d468d01",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Utilities/Builders/Physics.BuildCollisionLayer.cs.meta",
+  "name": "Physics.BuildCollisionLayer.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

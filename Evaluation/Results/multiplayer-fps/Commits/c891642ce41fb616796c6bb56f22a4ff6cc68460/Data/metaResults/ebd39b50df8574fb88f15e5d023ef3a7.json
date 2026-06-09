@@ -1,0 +1,26 @@
+{
+  "guid": "ebd39b50df8574fb88f15e5d023ef3a7",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion06.prefab.meta",
+  "name": "Explosion06.prefab",
+  "type": "meta",
+  "file_size": 138,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

@@ -1,0 +1,42 @@
+{
+  "guid": "af8e0bb174ad441e7813d040e288d9d3",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs.meta",
+  "name": "PlayerInput.cs",
+  "type": "meta",
+  "file_size": 263,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+}

@@ -1,0 +1,443 @@
+09/06/2026 13:13:29 Loading extensions...
+09/06/2026 13:13:29 Searching MetaData file inside project folder...
+09/06/2026 13:13:29 Searching main file...
+09/06/2026 13:13:29 Done!
+09/06/2026 13:13:29 Searching meta file...
+09/06/2026 13:13:29 Done!
+09/06/2026 13:13:29 Done!
+09/06/2026 13:13:29 Done!
+09/06/2026 13:13:29 Creating Result Directories
+09/06/2026 13:13:29 Start analisys...
+09/06/2026 13:13:29 Analyzing Main MetaData...
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: ProjectInfo.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes/Init.unity
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/obj_0.mat
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: e4b7c70cfe0efea40919d64440d1bd6b.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/obj_1.mat
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 33f089626b7a7f84b9a017e1694c9d9b.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/obj_2.mat
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 854d4afc4ad9bcd4380051b874b0fbb9.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/obj_3.mat
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: c0f338a2b51cf084faf3788974d8e015.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/logoMat.mat
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: b7b0f083f777c994c92a7aea5aa0a59a.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/LoginUI.prefab
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 2daaec0b7dc93e245982c86c71b00ed1.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/SubBundleAssets/mister91jiao.prefab
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 6de392dc803d65148b14472b6700ee24.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Done!
+09/06/2026 13:13:29 Analyzing Meta files...
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 2c1c40e9c96f6934cb51a16138c6b45f.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 1183708c5c26b1142b814ba9100f6bd8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 56c4a8acd12af0244ae5b7c7de915b2f.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: be904fd92a06cb54f8e632f25ca84154.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 7c1a56e442d0c5945863903b6462c218.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: e1a77785bce0b1f4db8ae4543f75c1d0.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 715e1f03d30411d42af7b60d0d6b43fa.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: acea8bbd9d31b5c42a6dda39d3a731f9.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: a5f211513bb893342b8196f1b781e988.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle/DependLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 850b63074d415e94fab2945e0e984cfd.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle/FileLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 561a8d45e5f50654a9404f2b28ba7037.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle/VersionLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 9e137177e2ac86b46912211676e4c285.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle/assets_bundles_subbundleassets_mister91jiao_prefab.bundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 9d39794f3f3e3684389eb0dc9d22f0f6.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/DependLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 822de77eda0e3e440b0e64828ad9f7fd.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/FileLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 22ae16454e26158479849a23649e95bd.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/VersionLogs.txt.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 5de8cff93f0dbd64488c0248ec7bb477.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/assets_bundles_loginui_prefab.bundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: ea53cb410ee201d40b8583b7a17bb9f0.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/assets_bundles_subbundleassets_mister91jiao_prefab.bundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 695bfe5ac06410540b3d6e9d286b79e5.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/assets_res_texture_91logo_png.bundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 99ec4daa5e4ef1145ad734000194468f.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/assets_scenes_game_unity.bundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 61f4fd3d51b330844b064ed4fd9e4023.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/AllBundle/shader_allbundle.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: dc5e968b24596a847968a69172fa2183.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Init.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 7fcf094991019c54884f4ac075a1624a.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Rot.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 1a0e96861f2085a47a4d1e887d2be157.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes/Game.unity.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 60c0b125629d7e9449419d1f97aec16c.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: f8040aa6a94db80439092e84622c3b42.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Shader.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: d55a49055d7b6b4459ad742cd40ceebc.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 0675cf6f227705449ae185093c852f35.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture/obj_0.jpg.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: c7d302dfe8943e747a558df48c66a58f.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture/obj_1.jpg.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 95fa8d749004ded469984a393351552b.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture/obj_2.jpg.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 05809ed2a2195484fa30963a2cc91d74.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture/obj_3.jpg.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 94a3f9071cc8a6444aeb6267ea98f044.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Texture/91logo.png.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 2ef022e80b631b648b4472b3202420be.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Shader/Loli.shader.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 7da2349deca246042a03c5d4841d117c.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 39f9902d99705454594abc029e8e6bbf.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/AssetLoadTable.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 75e5af2c46a19fb47a6519fd027a3505.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/AssetsLoadSetting.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 8f4acba0d04dbe4439552cc1b0163041.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildAssets.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 703aec3f8bd7d2f4393659ba9602da77.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildAssetsTools.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: d8e20bc5ca9673246bcecc414ef1eabc.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: e48b8b6c215ad2e4db7df0314cb6a255.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings/AssetLoadTable.asset.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 131f408fd0d51284798e39dbb89a926d.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings/AssetsLoadSetting_1.asset.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 0b8c754664ab2214fbfcd1f1a78cf066.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings/AssetsLoadSetting_2.asset.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: e86646ac61bb70c45b2c990888d4e2ec.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/ShaderVariants.shadervariants.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 73d2ed6625c8bc640a5af74fb2b0a8c2.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/SubBundleAssets.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: ce891db69f7df4143a54c71d895d0f95.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: e5ee9edd577cb5e42bacaafc5fb2d7b4.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 7f860bee79ec34047aa5dcea5e89f43d.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/AsyncETTaskCompletedMethodBuilder.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 0d6ac33daa469ca45887c72cceecbede.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/AsyncETTaskMethodBuilder.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 5a8e9bacaaf0be24c93b6058f5934800.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/AsyncETVoidMethodBuilder.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 5b9889db51c24c7449920952033f94e8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/AsyncMethodBuilderAttribute.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: d2c6390211c592b4b8ce4c3f2d4cfe60.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETCancellationToken.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: a10a04dc8627887459cee396e5ce2637.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETTask.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 21ecfda44dd96ce4782a05780c119f5d.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETTaskCompleted.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: ee92d3c3c00b55e4b973b276a28f6578.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETTaskHelper.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 1311998197e0dcb409703f88338ae5a8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETVoid.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 177dc9b31e0748743b0beadd9b4f31b8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/IAwaiter.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 62411233841138840b2fe15c09f599f1.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponent.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 625539e87edf0b248a1acba1c7bad881.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentConfig.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 0ee188bd9f9d3764eb53295b96b9af0f.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentInit.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 5e8b2f387289c754d842fdb652949f00.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentTools.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: d5f0601ee3d85c64b9e0180bd7d38119.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentUnLoad.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 6c761c7d8db4810418305fb3210908af.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentUpdate.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 8eee251d16fa6694282bcec23ab3bd2a.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 804d5928b701dc04cb3d38becfa1506c.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/BundleRuntimeInfo.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 2a032270117ba644a810964995ff939b.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Helper.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: cd15fe85bed9fae4899e60985fbc7ef8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/LoadHandler.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 865e922a06ab0f142bdf8dfe257bbdf1.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/LoadHandlerBase.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: fe79c94ba7a22f340ab3d847765c3435.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/LoadSceneHandler.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 8219f195aff961c43877024966a761e8.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Helper/AssetLogHelper.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 75702c7e08b16ad43b7788ac77f1b7f9.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Helper/DeleteHelper.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: d98308ba11d118d4c9f38f88e374233a.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Helper/DownloadBundleHelper.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: dcd562e187d32bc43aec75868119c377.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Helper/VerifyHelper.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 4cf5765d850a10d49a3303aa48a18135.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadBase.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 2b3bbc61493f58a4bb19a2fc69e2bf49.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadBaseRuntimeLoad.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: bf604347059a8ad48a34f6147fd86111.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadBaseUnLoad.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: a982332d9af84a64ca426f6e4a9dc93d.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadDepend.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 76f25b52667a43c4c979fb524247d8b4.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadFile.cs.meta
+09/06/2026 13:13:29 Data Extracted!
+09/06/2026 13:13:29 Saving Results...
+09/06/2026 13:13:29 Saving File: 490041d045a62db44ab1b937e13e34a0.json
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Done!!
+09/06/2026 13:13:29 Done!

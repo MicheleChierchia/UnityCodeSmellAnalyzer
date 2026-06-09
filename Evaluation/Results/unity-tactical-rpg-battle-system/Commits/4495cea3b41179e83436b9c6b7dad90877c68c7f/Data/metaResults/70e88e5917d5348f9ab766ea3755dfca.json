@@ -1,0 +1,26 @@
+{
+  "guid": "70e88e5917d5348f9ab766ea3755dfca",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Prefabs/UI/Overlay.meta",
+  "name": "Overlay",
+  "type": "meta",
+  "file_size": 192,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

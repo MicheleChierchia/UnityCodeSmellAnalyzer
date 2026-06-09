@@ -1,0 +1,23 @@
+{
+  "guid": "41b808ba7c2f15e47bef4912db87d7c5",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/RollerBall/Scripts.meta",
+  "name": "Scripts",
+  "type": "meta",
+  "file_size": 127,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

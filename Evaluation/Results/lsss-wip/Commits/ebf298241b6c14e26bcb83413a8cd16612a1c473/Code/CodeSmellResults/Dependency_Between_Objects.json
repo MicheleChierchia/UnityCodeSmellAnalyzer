@@ -1,0 +1,266 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 37,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Internal/Builders/BuildCollisionLayerInternal.cs",
+      "Kind": "Field",
+      "Type": "ArchetypeChunkComponentType<PhysicsScale>",
+      "FullName": "Latios.PhysicsEngine.BuildCollisionLayerInternal.LayerChunkTypeGroup.scale",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LatiosColliderConversionSystem.cs",
+      "Kind": "Field",
+      "Type": "List<LatiosColliderAuthoring>",
+      "FullName": "Latios.PhysicsEngine.Authoring.Systems.LatiosColliderConversionSystem.m_authorings",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs",
+      "Kind": "Field",
+      "Type": "SceneManagerSystem",
+      "FullName": "Latios.Systems.LatiosWorldInitializationSystemGroup.m_sceneManager",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs",
+      "Kind": "Field",
+      "Type": "MergeGlobalsSystem",
+      "FullName": "Latios.Systems.LatiosWorldInitializationSystemGroup.m_mergeGlobals",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs",
+      "Kind": "Field",
+      "Type": "DestroyEntitiesOnSceneChangeSystem",
+      "FullName": "Latios.Systems.LatiosWorldInitializationSystemGroup.m_destroySystem",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs",
+      "Kind": "Field",
+      "Type": "ManagedComponentsReactiveSystemGroup",
+      "FullName": "Latios.Systems.LatiosWorldInitializationSystemGroup.m_cleanupGroup",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/LatiosWorldInitializationSystemGroup.cs",
+      "Kind": "Field",
+      "Type": "LatiosSyncPointGroup",
+      "FullName": "Latios.Systems.LatiosWorldInitializationSystemGroup.m_syncGroup",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Systems/MergeGlobalsSystem.cs",
+      "Kind": "Field",
+      "Type": "EntityDataCopyKit",
+      "FullName": "Latios.Systems.MergeGlobalsSystem.m_copyKit",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs",
+      "Kind": "Field",
+      "Type": "ManagedStructComponentStorage",
+      "FullName": "Latios.LatiosWorld.m_componentStorage",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs",
+      "Kind": "Field",
+      "Type": "CollectionComponentStorage",
+      "FullName": "Latios.LatiosWorld.m_collectionsStorage",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs",
+      "Kind": "Field",
+      "Type": "SubSystemBase",
+      "FullName": "Latios.LatiosWorld.m_activeSystem",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/CheckSpawnPointIsSafeSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<SafeToSpawn>",
+      "FullName": "Lsss.CheckSpawnPointIsSafeSystem.SpawnPointIsNotSafeProcessor.safeToSpawnCdfe",
+      "Line": 95
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/CheckSpawnPointIsSafeSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<SafeToSpawn>",
+      "FullName": "Lsss.CheckSpawnPointIsSafeSystem.SpawnPointsAreTooCloseProcessor.safeToSpawnCdfe",
+      "Line": 106
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsBulletDamageSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<ShipHealth>",
+      "FullName": "Lsss.ShipVsBulletDamageSystem.DamageHitShipsAndDestroyBulletProcessor.shipHealthCdfe",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsExplosionDamageSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<ShipHealth>",
+      "FullName": "Lsss.ShipVsExplosionDamageSystem.DamageHitShipsProcessor.shipHealthCdfe",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsShipDamageSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<ShipHealth>",
+      "FullName": "Lsss.ShipVsShipDamageSystem.DamageCollidingShipsProcessor.shipHealthCdfe",
+      "Line": 54
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/ShipVsWallDamageSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<ShipHealth>",
+      "FullName": "Lsss.ShipVsWallDamageSystem.DamageHitShipsProcessor.shipHealthCdfe",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/TravelThroughWormholeSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<Translation>",
+      "FullName": "Lsss.TravelThroughWormholeSystem.TeleportWormholeTravelersProcessor.posCDFE",
+      "Line": 47
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/TravelThroughWormholeSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<Rotation>",
+      "FullName": "Lsss.TravelThroughWormholeSystem.TeleportWormholeTravelersProcessor.rotCDFE",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/Gameplay/TravelThroughWormholeSystem.cs",
+      "Kind": "Field",
+      "Type": "PhysicsComponentDataFromEntity<BulletPreviousPosition>",
+      "FullName": "Lsss.TravelThroughWormholeSystem.TeleportWormholeTravelersProcessor.prevPosCDFE",
+      "Line": 54
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/AiBrainAuthoring.cs",
+      "Kind": "Field",
+      "Type": "AiShipRadarAuthoring",
+      "FullName": "Lsss.Authoring.AiBrainAuthoring.shipRadar",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FactionAuthoring.cs",
+      "Kind": "Field",
+      "Type": "SpaceshipAuthoring",
+      "FullName": "Lsss.Authoring.FactionAuthoring.aiShipPrefab",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FactionAuthoring.cs",
+      "Kind": "Field",
+      "Type": "SpaceshipAuthoring",
+      "FullName": "Lsss.Authoring.FactionAuthoring.playerShipPrefab",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FleetSpawnPointAuthoring.cs",
+      "Kind": "Field",
+      "Type": "FactionAuthoring",
+      "FullName": "Lsss.Authoring.FleetSpawnPointAuthoring.faction",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/FleetSpawnPointAuthoring.cs",
+      "Kind": "Field",
+      "Type": "SpawnPointGraphicAuthoring",
+      "FullName": "Lsss.Authoring.FleetSpawnPointAuthoring.spawnPointGraphic",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/OrbitalSpawnPointAuthoring.cs",
+      "Kind": "Field",
+      "Type": "SpawnPointGraphicAuthoring",
+      "FullName": "Lsss.Authoring.OrbitalSpawnPointAuthoring.spawnGraphicPrefab",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/RandomOrbitalSpawnerPopulatorAuthoring.cs",
+      "Kind": "Field",
+      "Type": "SpawnPointGraphicAuthoring",
+      "FullName": "Lsss.Authoring.RandomOrbitalSpawnerPopulatorAuthoring.spawnGraphicPrefab",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/SpaceshipAuthoring.cs",
+      "Kind": "Field",
+      "Type": "ExplosionAuthoring",
+      "FullName": "Lsss.Authoring.SpaceshipAuthoring.explosionPrefab",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/SpaceshipAuthoring.cs",
+      "Kind": "Field",
+      "Type": "BulletAuthoring",
+      "FullName": "Lsss.Authoring.SpaceshipAuthoring.bulletPrefab",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/Authoring/WormholeAuthoring.cs",
+      "Kind": "Field",
+      "Type": "WormholeAuthoring",
+      "FullName": "Lsss.Authoring.WormholeAuthoring.otherEnd",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/EntityManagerExtensions.cs",
+      "Kind": "Invocation",
+      "Name": "GetComponent",
+      "ReturnType": "T",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/EntityManagerExtensions.cs",
+      "Kind": "Invocation",
+      "Name": "GetComponent",
+      "ReturnType": "T",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LatiosColliderConversionSystem.cs",
+      "Parameter": "root",
+      "Method": "Latios.PhysicsEngine.Authoring.Systems.LatiosColliderConversionSystem.CreateChildrenColliders(Latios.PhysicsEngine.Authoring.LatiosColliderAuthoring, System.Collections.Generic.List<UnityEngine.Collider>, NativeList<Latios.PhysicsEngine.Collider>, NativeList<RigidTransform>, NativeList<int2>)",
+      "Type": "LatiosColliderAuthoring",
+      "Line": 167
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/EntityManagerExtensions.cs",
+      "Parameter": "latiosWorld",
+      "Method": "Latios.EntityManagerExtensions.GetCollectionStorage(EntityManager, out Latios.LatiosWorld)",
+      "Type": "LatiosWorld",
+      "Line": 143
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/FluentQuery.cs",
+      "Parameter": "system",
+      "Method": "Latios.FluentQueryStarters.Fluent(Latios.ILatiosSystem)",
+      "Type": "ILatiosSystem",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs",
+      "Parameter": "sys",
+      "Method": "Latios.LatiosWorld.BeginCollectionTracking(Latios.SubSystemBase)",
+      "Type": "SubSystemBase",
+      "Line": 114
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/LatiosWorld.cs",
+      "Parameter": "sys",
+      "Method": "Latios.LatiosWorld.CheckMissingDependenciesForCollections(Latios.SubSystemBase)",
+      "Type": "SubSystemBase",
+      "Line": 137
+    }
+  ]
+}

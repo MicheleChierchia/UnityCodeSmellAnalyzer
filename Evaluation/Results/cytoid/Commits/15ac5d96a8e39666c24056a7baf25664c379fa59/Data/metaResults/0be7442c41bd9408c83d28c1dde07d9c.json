@@ -1,0 +1,29 @@
+{
+  "guid": "0be7442c41bd9408c83d28c1dde07d9c",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/mainTemplate.gradle.backup.meta",
+  "name": "mainTemplate.gradle.backup",
+  "type": "meta",
+  "file_size": 155,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

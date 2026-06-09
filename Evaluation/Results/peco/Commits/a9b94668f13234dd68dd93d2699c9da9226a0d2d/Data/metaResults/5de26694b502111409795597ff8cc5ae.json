@@ -1,0 +1,29 @@
+{
+  "guid": "5de26694b502111409795597ff8cc5ae",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox.unity.meta",
+  "name": "AlphaSandbox.unity",
+  "type": "meta",
+  "file_size": 155,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "4_peco",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+}

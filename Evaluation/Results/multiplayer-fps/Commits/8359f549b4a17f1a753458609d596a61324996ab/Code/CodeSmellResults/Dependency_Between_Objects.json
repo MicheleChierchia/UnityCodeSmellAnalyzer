@@ -1,0 +1,1680 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 239,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, ChatChannel>",
+      "FullName": "ExitGames.Client.Photon.Chat.ChatClient.PublicChannels",
+      "Line": 95
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, ChatChannel>",
+      "FullName": "ExitGames.Client.Photon.Chat.ChatClient.PrivateChannels",
+      "Line": 96
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Kind": "Field",
+      "Type": "IChatClientListener",
+      "FullName": "ExitGames.Client.Photon.Chat.ChatClient.listener",
+      "Line": 98
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Kind": "Field",
+      "Type": "ChatPeer",
+      "FullName": "ExitGames.Client.Photon.Chat.ChatClient.chatPeer",
+      "Line": 99
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs",
+      "Kind": "Field",
+      "Type": "MonoBehaviour",
+      "FullName": "PickupItem.OnPickedUpCall",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs",
+      "Kind": "Field",
+      "Type": "HashSet<PickupItem>",
+      "FullName": "PickupItem.DisabledPickupItems",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunTeams.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<Team, List<PhotonPlayer>>",
+      "FullName": "PunTeams.PlayersPerTeam",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Kind": "Field",
+      "Type": "RoomOptions",
+      "FullName": "ExitGames.Client.Photon.LoadbalancingPeer.EnterRoomParams.RoomOptions",
+      "Line": 144
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Kind": "Field",
+      "Type": "TypedLobby",
+      "FullName": "ExitGames.Client.Photon.LoadbalancingPeer.EnterRoomParams.Lobby",
+      "Line": 145
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Kind": "Field",
+      "Type": "TypedLobby",
+      "FullName": "ExitGames.Client.Photon.LoadbalancingPeer.OpJoinRandomRoomParams.TypedLobby",
+      "Line": 158
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Kind": "Field",
+      "Type": "RaiseEventOptions",
+      "FullName": "RaiseEventOptions.Default",
+      "Line": 1337
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Kind": "Field",
+      "Type": "TypedLobby",
+      "FullName": "TypedLobby.Default",
+      "Line": 1392
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "List<TypedLobbyInfo>",
+      "FullName": "NetworkingPeer.LobbyStatistics",
+      "Line": 88
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, RoomInfo>",
+      "FullName": "NetworkingPeer.mGameList",
+      "Line": 93
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "RoomInfo[]",
+      "FullName": "NetworkingPeer.mGameListCopy",
+      "Line": 94
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "EnterRoomParams",
+      "FullName": "NetworkingPeer.enterRoomParamsCache",
+      "Line": 153
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "Room",
+      "FullName": "NetworkingPeer.mCurrentGame",
+      "Line": 173
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<int, PhotonPlayer>",
+      "FullName": "NetworkingPeer.mActors",
+      "Line": 175
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "PhotonPlayer[]",
+      "FullName": "NetworkingPeer.mOtherPlayerListCopy",
+      "Line": 177
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "PhotonPlayer[]",
+      "FullName": "NetworkingPeer.mPlayerListCopy",
+      "Line": 178
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<int, PhotonView>",
+      "FullName": "NetworkingPeer.photonViewList",
+      "Line": 204
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Kind": "Field",
+      "Type": "IPunPrefabPool",
+      "FullName": "NetworkingPeer.ObjectPool",
+      "Line": 219
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Kind": "Field",
+      "Type": "PhotonPlayer",
+      "FullName": "PhotonMessageInfo.sender",
+      "Line": 833
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "PhotonMessageInfo.photonView",
+      "Line": 834
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs",
+      "Kind": "Field",
+      "Type": "PhotonHandler",
+      "FullName": "PhotonHandler.SP",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs",
+      "Kind": "Field",
+      "Type": "CloudRegionCode",
+      "FullName": "PhotonHandler.BestRegionCodeCurrently",
+      "Line": 219
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Kind": "Field",
+      "Type": "PhotonHandler",
+      "FullName": "PhotonNetwork.photonMono",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Kind": "Field",
+      "Type": "NetworkingPeer",
+      "FullName": "PhotonNetwork.networkingPeer",
+      "Line": 46
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Kind": "Field",
+      "Type": "ServerSettings",
+      "FullName": "PhotonNetwork.PhotonServerSettings",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Kind": "Field",
+      "Type": "Room",
+      "FullName": "PhotonNetwork.offlineModeRoom",
+      "Line": 505
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Kind": "Field",
+      "Type": "MonoBehaviour[]",
+      "FullName": "PhotonView.RpcMonoBehaviours",
+      "Line": 246
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs",
+      "Kind": "Field",
+      "Type": "CloudRegionCode",
+      "FullName": "Region.Code",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs",
+      "Kind": "Field",
+      "Type": "CloudRegionCode",
+      "FullName": "ServerSettings.PreferredRegion",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs",
+      "Kind": "Field",
+      "Type": "CloudRegionFlag",
+      "FullName": "ServerSettings.EnabledRegions",
+      "Line": 68
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Kind": "Field",
+      "Type": "PhotonStreamQueue",
+      "FullName": "PhotonAnimatorView.m_StreamQueue",
+      "Line": 60
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "PhotonAnimatorView.m_PhotonView",
+      "Line": 85
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewPositionModel",
+      "FullName": "PhotonTransformView.m_PositionModel",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewRotationModel",
+      "FullName": "PhotonTransformView.m_RotationModel",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewScaleModel",
+      "FullName": "PhotonTransformView.m_ScaleModel",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewPositionControl",
+      "FullName": "PhotonTransformView.m_PositionControl",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewRotationControl",
+      "FullName": "PhotonTransformView.m_RotationControl",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewScaleControl",
+      "FullName": "PhotonTransformView.m_ScaleControl",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "PhotonTransformView.m_PhotonView",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewPositionModel",
+      "FullName": "PhotonTransformViewPositionControl.m_Model",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationControl.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewRotationModel",
+      "FullName": "PhotonTransformViewRotationControl.m_Model",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleControl.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewScaleModel",
+      "FullName": "PhotonTransformViewScaleControl.m_Model",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/AccountService.cs",
+      "Kind": "Field",
+      "Type": "Action<AccountService>",
+      "FullName": "AccountService.registrationCallback",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs",
+      "Kind": "Field",
+      "Type": "PunWizardText",
+      "FullName": "PhotonEditor.CurrentLang",
+      "Line": 92
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs",
+      "Kind": "Field",
+      "Type": "AccountService.Origin",
+      "FullName": "PhotonEditor.RegisterOrigin",
+      "Line": 95
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewInspector.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "PhotonViewInspector.m_Target",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PunSceneSettings.cs",
+      "Kind": "Field",
+      "Type": "List<SceneSetting>",
+      "FullName": "PunSceneSettings.MinViewIdPerScene",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PunSceneSettings.cs",
+      "Kind": "Field",
+      "Type": "PunSceneSettings",
+      "FullName": "PunSceneSettings.instanceField",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonAnimatorViewEditor.cs",
+      "Kind": "Field",
+      "Type": "PhotonAnimatorView",
+      "FullName": "PhotonAnimatorViewEditor.m_Target",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonTransformViewEditor.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformView",
+      "FullName": "PhotonTransformViewEditor.m_Target",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/IdleRunJump.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "IdleRunJump.m_PhotonView",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/IdleRunJump.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformView",
+      "FullName": "IdleRunJump.m_TransformView",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/PlayerDiamond.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "PlayerDiamond.m_PhotonView",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/GameLogic.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "GameLogic.ScenePhotonView",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/RandomMatchmaker.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "RandomMatchmaker.myPhotonView",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonCamera.cs",
+      "Kind": "Field",
+      "Type": "ThirdPersonController",
+      "FullName": "ThirdPersonCamera.controller",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonNetwork.cs",
+      "Kind": "Field",
+      "Type": "ThirdPersonCamera",
+      "FullName": "ThirdPersonNetwork.cameraScript",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonNetwork.cs",
+      "Kind": "Field",
+      "Type": "ThirdPersonController",
+      "FullName": "ThirdPersonNetwork.controllerScript",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/DemoRPGMovement.cs",
+      "Kind": "Field",
+      "Type": "RPGCamera",
+      "FullName": "DemoRPGMovement.Camera",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/RPGMovement.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "RPGMovement.m_PhotonView",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/RPGMovement.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformView",
+      "FullName": "RPGMovement.m_TransformView",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/OnCollideSwitchTeam.cs",
+      "Kind": "Field",
+      "Type": "PunTeams.Team",
+      "FullName": "OnCollideSwitchTeam.TeamToSwitchTo",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupCamera.cs",
+      "Kind": "Field",
+      "Type": "PickupController",
+      "FullName": "PickupCamera.controller",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoMecanim/Scripts/DemoMecanimGUI.cs",
+      "Kind": "Field",
+      "Type": "PhotonAnimatorView",
+      "FullName": "DemoMecanimGUI.m_AnimatorView",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoHub/ToHubButton.cs",
+      "Kind": "Field",
+      "Type": "ToHubButton",
+      "FullName": "ToHubButton.instance",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoChat/ChatGui.cs",
+      "Kind": "Field",
+      "Type": "ChatChannel",
+      "FullName": "ChatGui.selectedChannel",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoChat/ChatGui.cs",
+      "Kind": "Field",
+      "Type": "ChatClient",
+      "FullName": "ChatGui.chatClient",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoChat/ChatGui.cs",
+      "Kind": "Field",
+      "Type": "ChatGui",
+      "FullName": "ChatGui.instance",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoChat/NamePickGui.cs",
+      "Kind": "Field",
+      "Type": "ChatGui",
+      "FullName": "NamePickGui.chatComponent",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/ColorPerPlayerApply.cs",
+      "Kind": "Field",
+      "Type": "ColorPerPlayer",
+      "FullName": "ColorPerPlayerApply.colorPicker",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Scripts/JumpAndRunMovement.cs",
+      "Kind": "Field",
+      "Type": "PhotonView",
+      "FullName": "JumpAndRunMovement.m_PhotonView",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/PlatformSpecificContent.cs",
+      "Kind": "Field",
+      "Type": "MonoBehaviour[]",
+      "FullName": "UnityStandardAssets.Utility.PlatformSpecificContent.m_MonoBehaviours",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/WaypointCircuit.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointCircuit.WaypointList.circuit",
+      "Line": 203
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointProgressTracker.circuit",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs",
+      "Kind": "Field",
+      "Type": "ObjectResetter",
+      "FullName": "UnityStandardAssets.Effects.Explosive.m_ObjectResetter",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs",
+      "Kind": "Field",
+      "Type": "AxisTouchButton",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.AxisTouchButton.m_PairedWith",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.AxisTouchButton.m_Axis",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.activeInput",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.s_TouchInput",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.s_HardwareInput",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.Joystick.m_HorizontalVirtualAxis",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.Joystick.m_VerticalVirtualAxis",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TiltInput.m_SteerAxis",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TouchPad.m_HorizontalVirtualAxis",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TouchPad.m_VerticalVirtualAxis",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, CrossPlatformInputManager.VirtualAxis>",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.VirtualInput.m_VirtualAxes",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, CrossPlatformInputManager.VirtualButton>",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.VirtualInput.m_VirtualButtons",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "MouseLook",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_MouseLook",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "FOVKick",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_FovKick",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "CurveControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_HeadBob",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "LerpControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_JumpBob",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs",
+      "Kind": "Field",
+      "Type": "CurveControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.HeadBob.motionBob",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs",
+      "Kind": "Field",
+      "Type": "LerpControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.HeadBob.jumpAndLandingBob",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs",
+      "Kind": "Field",
+      "Type": "RigidbodyFirstPersonController",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.HeadBob.rigidbodyFirstPersonController",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "MouseLook",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController.mouseLook",
+      "Line": 82
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Scripts/PlayerHealth.cs",
+      "Kind": "Field",
+      "Type": "FirstPersonController",
+      "FullName": "PlayerHealth.fps",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Scripts/PlayerHealth.cs",
+      "Kind": "Field",
+      "Type": "GunShooting",
+      "FullName": "PlayerHealth.playerShooting",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Parameter": "authValues",
+      "Method": "ExitGames.Client.Photon.Chat.ChatClient.Connect(string, string, ExitGames.Client.Photon.Chat.AuthenticationValues)",
+      "Type": "AuthenticationValues",
+      "Line": 138
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Parameter": "channel",
+      "Method": "ExitGames.Client.Photon.Chat.ChatClient.TryGetChannel(string, bool, out ExitGames.Client.Photon.Chat.ChatChannel)",
+      "Type": "ChatChannel",
+      "Line": 555
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Parameter": "channel",
+      "Method": "ExitGames.Client.Photon.Chat.ChatClient.TryGetChannel(string, out ExitGames.Client.Photon.Chat.ChatChannel)",
+      "Type": "ChatChannel",
+      "Line": 573
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs",
+      "Parameter": "listener",
+      "Constructor": "ChatClient",
+      "Type": "IChatClientListener",
+      "Line": 107
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatPeer.cs",
+      "Parameter": "authValues",
+      "Method": "ExitGames.Client.Photon.Chat.ChatPeer.AuthenticateOnNameServer(string, string, string, ExitGames.Client.Photon.Chat.AuthenticationValues)",
+      "Type": "AuthenticationValues",
+      "Line": 106
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/InRoomChat.cs",
+      "Parameter": "mi",
+      "Method": "InRoomChat.Chat(string, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 71
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/InRoomRoundTimer.cs",
+      "Parameter": "newMasterClient",
+      "Method": "InRoomRoundTimer.OnMasterClientSwitched(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs",
+      "Parameter": "stream",
+      "Method": "PickupItem.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs",
+      "Parameter": "info",
+      "Method": "PickupItem.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs",
+      "Parameter": "msgInfo",
+      "Method": "PickupItem.PunPickup(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 123
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSimple.cs",
+      "Parameter": "msgInfo",
+      "Method": "PickupItemSimple.PunPickupSimple(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs",
+      "Parameter": "newPlayer",
+      "Method": "PickupItemSyncer.OnPhotonPlayerConnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs",
+      "Parameter": "msgInfo",
+      "Method": "PickupItemSyncer.RequestForPickupTimes(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 72
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs",
+      "Parameter": "targtePlayer",
+      "Method": "PickupItemSyncer.SendPickedUpItems(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 87
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs",
+      "Parameter": "player",
+      "Method": "ScoreExtensions.SetScore(PhotonPlayer, int)",
+      "Type": "PhotonPlayer",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs",
+      "Parameter": "player",
+      "Method": "ScoreExtensions.AddScore(PhotonPlayer, int)",
+      "Type": "PhotonPlayer",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs",
+      "Parameter": "player",
+      "Method": "ScoreExtensions.GetScore(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunTeams.cs",
+      "Parameter": "player",
+      "Method": "TeamExtensions.GetTeam(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 81
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunTeams.cs",
+      "Parameter": "player",
+      "Method": "TeamExtensions.SetTeam(PhotonPlayer, PunTeams.Team)",
+      "Type": "PhotonPlayer",
+      "Line": 96
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs",
+      "Parameter": "stream",
+      "Method": "SmoothSyncMovement.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs",
+      "Parameter": "info",
+      "Method": "SmoothSyncMovement.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Parameter": "lobby",
+      "Method": "ExitGames.Client.Photon.LoadbalancingPeer.OpJoinLobby(TypedLobby)",
+      "Type": "TypedLobby",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Parameter": "roomOptions",
+      "Method": "ExitGames.Client.Photon.LoadbalancingPeer.RoomOptionsToOpParameters(System.Collections.Generic.Dictionary<byte, object>, RoomOptions)",
+      "Type": "RoomOptions",
+      "Line": 91
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Parameter": "authValues",
+      "Method": "ExitGames.Client.Photon.LoadbalancingPeer.OpAuthenticate(string, string, AuthenticationValues, string, bool)",
+      "Type": "AuthenticationValues",
+      "Line": 474
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs",
+      "Parameter": "raiseEventOptions",
+      "Method": "ExitGames.Client.Photon.LoadbalancingPeer.OpRaiseEvent(byte, object, bool, RaiseEventOptions)",
+      "Type": "RaiseEventOptions",
+      "Line": 590
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "player",
+      "Method": "NetworkingPeer.AddNewPlayer(int, PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 654
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "player",
+      "Method": "NetworkingPeer.RemovePlayer(int, PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 667
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "raiseEventOptions",
+      "Method": "NetworkingPeer.OpRaiseEvent(byte, object, bool, RaiseEventOptions)",
+      "Type": "RaiseEventOptions",
+      "Line": 1090
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "sender",
+      "Method": "NetworkingPeer.ExecuteRpc(ExitGames.Client.Photon.Hashtable, PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 2122
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "photonPlayer",
+      "Method": "NetworkingPeer.DoInstantiate(ExitGames.Client.Photon.Hashtable, PhotonPlayer, GameObject)",
+      "Type": "PhotonPlayer",
+      "Line": 2443
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.LocalCleanPhotonView(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 2866
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "netView",
+      "Method": "NetworkingPeer.RegisterPhotonView(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 2897
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.CleanRpcBufferIfMine(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 3005
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.OpCleanRpcBuffer(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 3017
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.RPC(PhotonView, string, PhotonPlayer, bool, params object[])",
+      "Type": "PhotonView",
+      "Line": 3049
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "player",
+      "Method": "NetworkingPeer.RPC(PhotonView, string, PhotonPlayer, bool, params object[])",
+      "Type": "PhotonPlayer",
+      "Line": 3049
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.RPC(PhotonView, string, PhotonTargets, bool, params object[])",
+      "Type": "PhotonView",
+      "Line": 3113
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.OnSerializeWrite(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 3487
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "sender",
+      "Method": "NetworkingPeer.OnSerializeRead(ExitGames.Client.Photon.Hashtable, PhotonPlayer, int, short)",
+      "Type": "PhotonPlayer",
+      "Line": 3553
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.DeltaCompressionWrite(PhotonView, ExitGames.Client.Photon.Hashtable)",
+      "Type": "PhotonView",
+      "Line": 3639
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "view",
+      "Method": "NetworkingPeer.DeltaCompressionRead(PhotonView, ExitGames.Client.Photon.Hashtable)",
+      "Type": "PhotonView",
+      "Line": 3713
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs",
+      "Parameter": "monob",
+      "Method": "NetworkingPeer.GetMethod(MonoBehaviour, string, out System.Reflection.MethodInfo)",
+      "Type": "MonoBehaviour",
+      "Line": 3814
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "stream",
+      "Method": "IPunObservable.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "info",
+      "Method": "IPunObservable.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "newMasterClient",
+      "Method": "IPunCallbacks.OnMasterClientSwitched(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 115
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "info",
+      "Method": "IPunCallbacks.OnPhotonInstantiate(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 204
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "newPlayer",
+      "Method": "IPunCallbacks.OnPhotonPlayerConnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 237
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "otherPlayer",
+      "Method": "IPunCallbacks.OnPhotonPlayerDisconnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 247
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "newMasterClient",
+      "Method": "Photon.PunBehaviour.OnMasterClientSwitched(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 511
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "info",
+      "Method": "Photon.PunBehaviour.OnPhotonInstantiate(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 618
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "newPlayer",
+      "Method": "Photon.PunBehaviour.OnPhotonPlayerConnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 657
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "otherPlayer",
+      "Method": "Photon.PunBehaviour.OnPhotonPlayerDisconnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 669
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "obj",
+      "Method": "PhotonStream.Serialize(ref PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 1289
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "player",
+      "Constructor": "PhotonMessageInfo",
+      "Type": "PhotonPlayer",
+      "Line": 847
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs",
+      "Parameter": "view",
+      "Constructor": "PhotonMessageInfo",
+      "Type": "PhotonView",
+      "Line": 847
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "roomOptions",
+      "Method": "PhotonNetwork.CreateRoom(string, RoomOptions, TypedLobby)",
+      "Type": "RoomOptions",
+      "Line": 1573
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "typedLobby",
+      "Method": "PhotonNetwork.CreateRoom(string, RoomOptions, TypedLobby)",
+      "Type": "TypedLobby",
+      "Line": 1573
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "roomOptions",
+      "Method": "PhotonNetwork.CreateRoom(string, RoomOptions, TypedLobby, string[])",
+      "Type": "RoomOptions",
+      "Line": 1604
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "typedLobby",
+      "Method": "PhotonNetwork.CreateRoom(string, RoomOptions, TypedLobby, string[])",
+      "Type": "TypedLobby",
+      "Line": 1604
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "roomOptions",
+      "Method": "PhotonNetwork.JoinOrCreateRoom(string, RoomOptions, TypedLobby)",
+      "Type": "RoomOptions",
+      "Line": 1693
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "typedLobby",
+      "Method": "PhotonNetwork.JoinOrCreateRoom(string, RoomOptions, TypedLobby)",
+      "Type": "TypedLobby",
+      "Line": 1693
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "typedLobby",
+      "Method": "PhotonNetwork.JoinRandomRoom(ExitGames.Client.Photon.Hashtable, byte, ExitGames.Client.Photon.MatchmakingMode, TypedLobby, string)",
+      "Type": "TypedLobby",
+      "Line": 1795
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "roomOptions",
+      "Method": "PhotonNetwork.EnterOfflineRoom(string, RoomOptions, bool)",
+      "Type": "RoomOptions",
+      "Line": 1829
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "typedLobby",
+      "Method": "PhotonNetwork.JoinLobby(TypedLobby)",
+      "Type": "TypedLobby",
+      "Line": 1905
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "options",
+      "Method": "PhotonNetwork.RaiseEvent(byte, object, bool, RaiseEventOptions)",
+      "Type": "RaiseEventOptions",
+      "Line": 2096
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "kickPlayer",
+      "Method": "PhotonNetwork.CloseConnection(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 2398
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "masterClientPlayer",
+      "Method": "PhotonNetwork.SetMasterClient(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 2456
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "targetView",
+      "Method": "PhotonNetwork.Destroy(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 2502
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "targetPlayer",
+      "Method": "PhotonNetwork.DestroyPlayerObjects(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 2554
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "targetPlayer",
+      "Method": "PhotonNetwork.RemoveRPCs(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 2633
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "targetPhotonView",
+      "Method": "PhotonNetwork.RemoveRPCs(PhotonView)",
+      "Type": "PhotonView",
+      "Line": 2658
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "view",
+      "Method": "PhotonNetwork.RPC(PhotonView, string, PhotonTargets, bool, params object[])",
+      "Type": "PhotonView",
+      "Line": 2690
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "view",
+      "Method": "PhotonNetwork.RPC(PhotonView, string, PhotonPlayer, bool, params object[])",
+      "Type": "PhotonView",
+      "Line": 2723
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs",
+      "Parameter": "targetPlayer",
+      "Method": "PhotonNetwork.RPC(PhotonView, string, PhotonPlayer, bool, params object[])",
+      "Type": "PhotonPlayer",
+      "Line": 2723
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonPlayer.cs",
+      "Parameter": "currentPlayer",
+      "Method": "PhotonPlayer.GetNextFor(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 291
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStreamQueue.cs",
+      "Parameter": "stream",
+      "Method": "PhotonStreamQueue.Serialize(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 137
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStreamQueue.cs",
+      "Parameter": "stream",
+      "Method": "PhotonStreamQueue.Deserialize(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 164
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "newOwner",
+      "Method": "PhotonView.TransferOwnership(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 284
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonView.SerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 319
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "info",
+      "Method": "PhotonView.SerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 319
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonView.DeserializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 332
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "info",
+      "Method": "PhotonView.DeserializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 332
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonView.DeserializeComponent(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 345
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "info",
+      "Method": "PhotonView.DeserializeComponent(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 345
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonView.SerializeComponent(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 425
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "info",
+      "Method": "PhotonView.SerializeComponent(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 425
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonView.ExecuteComponentOnSerialize(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 504
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "info",
+      "Method": "PhotonView.ExecuteComponentOnSerialize(Component, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 504
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "targetPlayer",
+      "Method": "PhotonView.RPC(string, PhotonPlayer, params object[])",
+      "Type": "PhotonPlayer",
+      "Line": 615
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs",
+      "Parameter": "targetPlayer",
+      "Method": "PhotonView.RpcSecure(string, PhotonPlayer, bool, params object[])",
+      "Type": "PhotonPlayer",
+      "Line": 639
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PingCloudRegions.cs",
+      "Parameter": "region",
+      "Method": "PhotonPingManager.PingSocket(Region)",
+      "Type": "Region",
+      "Line": 118
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs",
+      "Parameter": "options",
+      "Constructor": "Room",
+      "Type": "RoomOptions",
+      "Line": 177
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonAnimatorView.SerializeDataDiscretly(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 331
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonAnimatorView.DeserializeDataDiscretly(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 366
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonAnimatorView.SerializeSynchronizationTypeState(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 416
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonAnimatorView.DeserializeSynchronizationTypeState(PhotonStream)",
+      "Type": "PhotonStream",
+      "Line": 433
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonAnimatorView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 448
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs",
+      "Parameter": "info",
+      "Method": "PhotonAnimatorView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 448
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbody2DView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonRigidbody2DView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbody2DView.cs",
+      "Parameter": "info",
+      "Method": "PhotonRigidbody2DView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbodyView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonRigidbodyView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbodyView.cs",
+      "Parameter": "info",
+      "Method": "PhotonRigidbodyView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformView.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformViewPositionControl.OnPhotonSerializeView(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 163
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformViewPositionControl.OnPhotonSerializeView(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 163
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformViewPositionControl.SerializeData(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 183
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformViewPositionControl.SerializeData(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 183
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformViewPositionControl.DeserializeData(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 196
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformViewPositionControl.DeserializeData(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 196
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs",
+      "Parameter": "model",
+      "Constructor": "PhotonTransformViewPositionControl",
+      "Type": "PhotonTransformViewPositionModel",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationControl.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformViewRotationControl.OnPhotonSerializeView(Quaternion, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationControl.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformViewRotationControl.OnPhotonSerializeView(Quaternion, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationControl.cs",
+      "Parameter": "model",
+      "Constructor": "PhotonTransformViewRotationControl",
+      "Type": "PhotonTransformViewRotationModel",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleControl.cs",
+      "Parameter": "stream",
+      "Method": "PhotonTransformViewScaleControl.OnPhotonSerializeView(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleControl.cs",
+      "Parameter": "info",
+      "Method": "PhotonTransformViewScaleControl.OnPhotonSerializeView(Vector3, PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleControl.cs",
+      "Parameter": "model",
+      "Constructor": "PhotonTransformViewScaleControl",
+      "Type": "PhotonTransformViewScaleModel",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/GameLogic.cs",
+      "Parameter": "player",
+      "Method": "GameLogic.OnPhotonPlayerConnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/GameLogic.cs",
+      "Parameter": "player",
+      "Method": "GameLogic.OnPhotonPlayerDisconnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/NetworkCharacter.cs",
+      "Parameter": "stream",
+      "Method": "NetworkCharacter.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/NetworkCharacter.cs",
+      "Parameter": "info",
+      "Method": "NetworkCharacter.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerInGame.cs",
+      "Parameter": "player",
+      "Method": "WorkerInGame.OnMasterClientSwitched(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerInGame.cs",
+      "Parameter": "info",
+      "Method": "WorkerInGame.OnPhotonInstantiate(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 75
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerInGame.cs",
+      "Parameter": "player",
+      "Method": "WorkerInGame.OnPhotonPlayerConnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 80
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerInGame.cs",
+      "Parameter": "player",
+      "Method": "WorkerInGame.OnPhotonPlayerDisconnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 85
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonNetwork.cs",
+      "Parameter": "stream",
+      "Method": "ThirdPersonNetwork.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonNetwork.cs",
+      "Parameter": "info",
+      "Method": "ThirdPersonNetwork.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeExtra.cs",
+      "Parameter": "stream",
+      "Method": "CubeExtra.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeExtra.cs",
+      "Parameter": "info",
+      "Method": "CubeExtra.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeInter.cs",
+      "Parameter": "stream",
+      "Method": "CubeInter.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeInter.cs",
+      "Parameter": "info",
+      "Method": "CubeInter.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeLerp.cs",
+      "Parameter": "stream",
+      "Method": "CubeLerp.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeLerp.cs",
+      "Parameter": "info",
+      "Method": "CubeLerp.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/OnPickedUpScript.cs",
+      "Parameter": "item",
+      "Method": "OnPickedUpScript.OnPickedUp(PickupItem)",
+      "Type": "PickupItem",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupController.cs",
+      "Parameter": "stream",
+      "Method": "PickupController.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonStream",
+      "Line": 286
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupController.cs",
+      "Parameter": "info",
+      "Method": "PickupController.OnPhotonSerializeView(PhotonStream, PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 286
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/ColorPerPlayer.cs",
+      "Parameter": "otherPlayer",
+      "Method": "ColorPerPlayer.OnPhotonPlayerDisconnected(PhotonPlayer)",
+      "Type": "PhotonPlayer",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/ColorPerPlayerApply.cs",
+      "Parameter": "info",
+      "Method": "ColorPerPlayerApply.OnPhotonInstantiate(PhotonMessageInfo)",
+      "Type": "PhotonMessageInfo",
+      "Line": 22
+    }
+  ]
+}

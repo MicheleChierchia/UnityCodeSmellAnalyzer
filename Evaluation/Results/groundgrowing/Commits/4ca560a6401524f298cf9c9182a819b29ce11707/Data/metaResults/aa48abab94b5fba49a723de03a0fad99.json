@@ -1,0 +1,26 @@
+{
+  "guid": "aa48abab94b5fba49a723de03a0fad99",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Operator.meta",
+  "name": "Operator",
+  "type": "meta",
+  "file_size": 191,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

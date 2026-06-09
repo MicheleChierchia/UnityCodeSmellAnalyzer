@@ -1,0 +1,26 @@
+{
+  "guid": "d7d332ec55c067346bdf0aa8c95ed5c1",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/everythingfixedhopefully.npr.meta",
+  "name": "everythingfixedhopefully.npr",
+  "type": "meta",
+  "file_size": 174,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

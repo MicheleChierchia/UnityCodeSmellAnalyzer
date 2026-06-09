@@ -1,0 +1,45 @@
+{
+  "guid": "d5f0601ee3d85c64b9e0180bd7d38119",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentTools.cs.meta",
+  "name": "AssetComponentTools.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

@@ -1,0 +1,26 @@
+{
+  "guid": "fc677756dd9054f2f8006eb9d61ad7d5",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Resources/Unit Recipes/Ramza.asset.meta",
+  "name": "Ramza.asset",
+  "type": "meta",
+  "file_size": 180,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

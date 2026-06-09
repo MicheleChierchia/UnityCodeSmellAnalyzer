@@ -1,0 +1,14 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/UnityGetComponentAutoInjector/Example/Example.cs",
+      "Kind": "Field",
+      "Type": "Example",
+      "FullName": "Example.children",
+      "Line": 17
+    }
+  ]
+}

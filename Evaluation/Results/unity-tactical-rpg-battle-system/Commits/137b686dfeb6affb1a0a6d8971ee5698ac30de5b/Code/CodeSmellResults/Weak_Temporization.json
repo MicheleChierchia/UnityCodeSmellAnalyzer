@@ -1,0 +1,27 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 4,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DragRigidbody.cs",
+      "Name": "Update",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Unit.cs",
+      "Name": "Update",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridCell.cs",
+      "Name": "Update",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorMovement.cs",
+      "Name": "Update",
+      "Line": 47
+    }
+  ]
+}

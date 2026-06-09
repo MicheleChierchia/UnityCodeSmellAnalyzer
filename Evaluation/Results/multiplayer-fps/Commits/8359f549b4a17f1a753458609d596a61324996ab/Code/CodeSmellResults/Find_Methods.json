@@ -1,0 +1,19 @@
+{
+  "Name": "Find Methods",
+  "Severity": "Medium",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoMecanim/Scripts/DemoMecanimGUI.cs",
+      "Name": "FindRemoteAnimator",
+      "Invocation": "DemoMecanimGUI.FindRemoteAnimator()",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/DragRigidbody.cs",
+      "Name": "FindCamera",
+      "Invocation": "UnityStandardAssets.Utility.DragRigidbody.FindCamera()",
+      "Line": 27
+    }
+  ]
+}

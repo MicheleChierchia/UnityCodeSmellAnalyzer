@@ -1,0 +1,13 @@
+{
+  "Name": "Instantiate Destroy",
+  "Severity": "High",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Name": "Destroy",
+      "Invocation": "Destroy",
+      "Line": 41
+    }
+  ]
+}

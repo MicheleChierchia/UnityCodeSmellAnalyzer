@@ -1,0 +1,30 @@
+{
+  "guid": "d90864ccbf99d4a449c87472b0a181e8",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon/PhotonUnityNetworking/readme.txt.meta",
+  "name": "readme.txt",
+  "type": "meta",
+  "file_size": 108,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- ExitGames": [
+            {
+              "": "- PUN"
+            },
+            {
+              "": "- Photon"
+            },
+            {
+              "": "- Networking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

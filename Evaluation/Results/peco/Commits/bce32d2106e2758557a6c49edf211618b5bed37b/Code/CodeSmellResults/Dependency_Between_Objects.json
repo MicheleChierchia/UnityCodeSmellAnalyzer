@@ -1,0 +1,14 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, SpeedEffect>",
+      "FullName": "PlayerController._effects",
+      "Line": 27
+    }
+  ]
+}

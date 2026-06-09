@@ -1,0 +1,42 @@
+{
+  "guid": "e83ddad992535fb4f8a68a1e7ef8be60",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Operators/FromCoroutine.cs.meta",
+  "name": "FromCoroutine.cs",
+  "type": "meta",
+  "file_size": 264,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

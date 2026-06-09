@@ -1,0 +1,29 @@
+{
+  "guid": "7f860bee79ec34047aa5dcea5e89f43d",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync.meta",
+  "name": "ETTaskAsync",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

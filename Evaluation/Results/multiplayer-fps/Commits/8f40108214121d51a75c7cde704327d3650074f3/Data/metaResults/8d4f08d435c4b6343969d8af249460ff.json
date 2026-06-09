@@ -1,0 +1,34 @@
+{
+  "guid": "8d4f08d435c4b6343969d8af249460ff",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon/PhotonLibs/Photon3Unity3D.xml.meta",
+  "name": "Photon3Unity3D.xml",
+  "type": "meta",
+  "file_size": 141,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- ExitGames": [
+            {
+              "": "- PUN"
+            },
+            {
+              "": "- Photon"
+            },
+            {
+              "": "- Networking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "userData",
+      "userData": []
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

@@ -1,0 +1,29 @@
+{
+  "guid": "c11da368e86a7d74a9fc1d145afd8ecf",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs.meta",
+  "name": "_Prefabs",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "4_peco",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+}

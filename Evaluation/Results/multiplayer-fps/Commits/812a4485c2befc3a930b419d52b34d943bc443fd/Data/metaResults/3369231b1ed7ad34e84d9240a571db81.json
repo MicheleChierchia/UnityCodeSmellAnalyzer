@@ -1,0 +1,23 @@
+{
+  "guid": "3369231b1ed7ad34e84d9240a571db81",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta",
+  "name": "MobileAircraftControls.prefab",
+  "type": "meta",
+  "file_size": 115,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

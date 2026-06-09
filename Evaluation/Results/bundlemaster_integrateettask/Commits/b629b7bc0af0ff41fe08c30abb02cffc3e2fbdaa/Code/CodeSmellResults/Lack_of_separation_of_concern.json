@@ -1,0 +1,20 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Init.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    }
+  ]
+}

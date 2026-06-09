@@ -1,0 +1,26 @@
+{
+  "guid": "d36ffb2bf4e9f47e4b49bc9832bc479d",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/COPYING.LESSER.txt.meta",
+  "name": "COPYING.LESSER.txt",
+  "type": "meta",
+  "file_size": 136,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

@@ -1,0 +1,1008 @@
+09/06/2026 11:21:47 Loading extensions...
+09/06/2026 11:21:47 Searching MetaData file inside project folder...
+09/06/2026 11:21:47 Searching main file...
+09/06/2026 11:21:47 Done!
+09/06/2026 11:21:47 Searching meta file...
+09/06/2026 11:21:47 Done!
+09/06/2026 11:21:47 Done!
+09/06/2026 11:21:47 Done!
+09/06/2026 11:21:47 Creating Result Directories
+09/06/2026 11:21:47 Start analisys...
+09/06/2026 11:21:47 Analyzing Main MetaData...
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: ProjectInfo.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials/Blue.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 9fa36e31314e14dec85afa82bc0f4536.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials/Brown.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 4985c56d04a1c4924802d9f02972febe.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials/Default.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 91bafb69b2a7f4a8aaa6c0132390064e.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials/Green.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: bcc73435c14fb441188ef6a1fe67c0ce.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials/WhiteTransparent.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: e00a502e494bc4a5da85f323f2b860f1.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/GameController - Level1.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: f096aad965cdb439a8d1d46da18cef39.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Units/Kaylee.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 9d3037b94e7a34433807394972e2bcac.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Units/Mal.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 9e6a01dbb991a4c2eb531f0e2c79bd5d.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Terrains/Water.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 45ffcb42c585a4a4faf21b44aa5a349f.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Terrains/Dirt.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 43dca02b94f9e4c8ca70923757f61c44.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Terrains/Grass.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 110ee1fd19a104e16bd5cb64e74db7f7.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scenes/GridLoader.unity
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: b7b4867ae884148f894a4922b0c2a3af.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/Prefabs/FramerateCounter.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 81154777d5417884981849c5243f6c01.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: ab33e6080ae416b4d899f39fa8951b98.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 2b127815fd0f2074eae3a0c6a4786d0b.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 5d2e4237b4429b34fae4c9eb3cd9efd5.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 90d8e09703679534295bd2cacb73d6de.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype04x01x04.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 4620f3c93dca8c94c9124d8ba443f43e.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 584a8ef4749c89745b7ae07f3ba7617f.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 3681543e5b0f59742b73073cb379cdc6.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/HousePrototype16x16x24.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 5862bbfe91a75054ca72c13b555b6ac5.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/JoinInnerPrototype01x06x01.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 9ae7f9f9eacff4142b21eb85ae606fdc.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/JoinMidPrototype04x06x01.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 04a24b5e91096bd4e8ae6fba35c4dbf8.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/JoinOuterPrototype02x06x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: b321aed21e0872743a175d8dbbe12ac8.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PickupPrototype.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: c02747e7134ef1948a039c94a8f33c5b.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype01x02x01.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 88b5bfec6f1bd17439b2f4339902dca6.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype02x08x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 44884af1ac1d64d42902da40268ba120.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype02x01x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 45635d5190a12bc4884469b7dcafa846.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype04x01x04.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 831c1389ceffed84d947c9aa3fc86ac2.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype08x01x08.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 7f114e6b62ad5134b9ba4e0a01ddc050.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/RampPrototype04x02x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 4e11ef4f39bc65e44a4b0755ecac6ea1.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/StepsPrototype04x02x02.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: d85d3a32fb6157d488e31edf82b7b1c4.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/WallPrototype08x08x01.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 93e86b57e56570d46814839867bf9a52.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 76ff537c8e1a84345868e6aeee938ab3.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 1032d41f900276c40a9dd24f55b7d420.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 8c19a618a0bd9844583b91dca0875a34.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: fed4e78bda2b3de45954637fee164b8c.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 82096aab38f01cb40a1cbf8629a810ba.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 6e1d36c4bbd37d54f9ea183e4f5fd656.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 174090ae7f9eff84abe76f0ff062efac.json
+09/06/2026 11:21:47 Done!!
+09/06/2026 11:21:47 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+09/06/2026 11:21:47 Data Extracted!
+09/06/2026 11:21:47 Saving Results...
+09/06/2026 11:21:47 Saving File: 9529ecc3d479da5499993355e6c2cb4f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 999388b68bb99b44099461bfbed94358.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Done!
+09/06/2026 11:21:48 Analyzing Meta files...
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c32f676ac5dec4cc7a773b5ca8f23058.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 57086a1ad750a4172ad5882cae4f082e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scenes.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9751b95826d62478893d2580d132cadc.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Data.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 4e95cfcb2d184412fa57f9ef9849e5a7.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: e0e3e0d609025427fa70508a052c1628.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a0ac6ab211d2140c3a3641cdb96a1a29.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Resources/Materials.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3b0b62ec1431c4c5f9957d35ff11b228.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Terrains.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: cfbe60b3833714b67a6b0cca026cdb10.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/Units.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: bcc1973fdc61a4785b03b35e4480fa11.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Data/CellTerrains.xml.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 541982dfce0a84986a22d065854601e1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Data/Jobs.xml.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: d0ecc2ea48956437e9ec633b71615118.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scenes/Level1.unity.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: fd49ffaf555974b14b0b0a800563ee5b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 710bc43f80d178548bd226c252c8e65b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 153c77e0022ff3148beba89b18de3476.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 4539eb30e895bbb41b5eae6df2dde978.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/ActivateTrigger.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c8634e062924929664361c08745211fb.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 971f44ba24a74294294daed00507d80e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9c4978ff6447f9040b84acc89b0bbdc8.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a1347817507220a4384f3ff6f7c24546.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/CameraRefocus.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: d1e2e7a54dcc8694ab1eca46d072f264.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/CurveControlledBob.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 492f54f4accf00440828ffcb9e4fcc19.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DragRigidbody.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 58650e15a2607e44daa0f150e0061d89.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DynamicShadowSettings.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 8566902b50d5bfb4fb7f8b89f9cdbe8b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/EventSystemChecker.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9c0578910bbe00d43919a92c7b9893fe.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/FOVKick.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6045a93fb05b9c74884821030da2c46c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/FPSCounter.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 22bbf57ec543cee42a5aa0ec2dd9e457.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/FollowTarget.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 246cc59c7a84ea44f87f6b70acfe30c5.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/ForcedReset.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9b886447cba80f74e820adb3c9e70c76.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/LerpControlledBob.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c1bbfafbde15c854681023b9e01e12dd.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/ObjectResetter.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 643c971818f68d3439e84b5d8bdafe07.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 29014cd42b6d273408e0ceefd336c0b3.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/PlatformSpecificContent.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b27507c5d0efbbd47ac8c1de9a1a0a35.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/Prefabs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b43a4ef15621158419a2b639f7a98245.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 69b69a5b0e0a85b4aa97a7edc40c37d1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: cadd54e4832aeef4b9359f44cbe335cd.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SmoothFollow.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: f76806479d916a64aa03f8e3eba7912f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/TimedObjectActivator.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3a7cedf246fca744f90cbdc9dbe41166.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/TimedObjectDestructor.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 37fac21d1f093d344816942d1abce94e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointCircuit.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 70852dc981465ea48bb527b9e33a87fd.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c5cb22d331ef7d64796f917c6a455a32.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Materials.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 11fa60a4f5bdba144a008a674f32eb19.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 244e48ea2b590df4eb7841878685db1e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b7fd744af0c01c94c9c84cc342423458.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Shaders.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 8fa688219e8c82344b3714e4e5781647.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ec897f9ee2210c749ad1898ea59326f9.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a196fd6788131ec459bfb26012466fc1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c3edc74ae8207fd45a93c4ed8ee27567.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 86e4aa9207c9e2740b6ace599d659c05.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a336ccf90791f9841b7e680c010d1e88.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 8b939c5b46fae7e49af7d85f731ba4ec.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 580615edf5e29d245af58fc5fe2b06ac.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 590546bcbd472d94e874f6e0c76cc266.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9c4d7ee42c7d4f944b2ce9d370fa265c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9d0b29cecf2678b41982d2173d3670ff.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b4646ae63b0bcca40b1bdde3b87e01bf.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Shaders/WorldCoordDiffuse.shader.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 406a976191e8366459222b654c60e1f8.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 622a87b3379022740be7e2efea3ebd33.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: df4796b594b970842b69211cb0078c5d.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3f79402ff4ca9c54d96a09d1a77540d5.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c09052c9b19f0ea4987bc4f4f981252f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 080bc076ed19adb4091adca05de83d66.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 16fb769c0394c36469ed40a4f35c1eec.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: fadddc63520db414bbc9126cbf4743ad.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ce7348d724aa0fc44aaf53391b9bae9b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: f45b6695d6226cd48abfc605723cc3ae.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 40384240c1c82b94db82531689571ab0.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6386a10e23c45d040a22051e6ae3b70f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 00718395eefb6084bb25555f962f25c0.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 25712b9d3dd0eb4439390fb8fea8043e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 66a13889798137c498eae4b3acdafe19.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 38a9d3cc5c1e0aa4f92ff3445b73ed7f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: bc2ed85df3924a4458576f17e8b10057.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 879dd62cbfd65314d812354e257fc5cc.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b9d7ac1a0f551404f8d32e1e02b64325.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 900e53dd850c9cc4281be6fa21bdfea5.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b5290684820a94548bedb95083785116.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a3b997593a4f12c4c991490593f3b513.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5d3fb8e05edcf4b41aef584ca1b0d06f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3f66eeca8ac36914e9ec9a716a9d9f73.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 1835e4537efbdd94b93c2dd136860f1d.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: eb5f6e2757c821940b69cf1456f7865a.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: f588d850485d0ae479d73cf3bd0b7b00.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 49b611e658efbf443b686a4036f74fe3.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 4db017495c69e8140a56a0e2b669e3f8.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5b1a64ea234fb2343b8d0686c51280de.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 827c9cd4a3943534f909ac6473e17288.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a3983c59ebf804b4abba687bd7c9e92f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a94c9a7eb94ceec4a8d67a1890e22e51.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3d8675433a508ec47b8f895201eacf20.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5485e2f56028a3c4cb54f5caa167377e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9866a92691696b346901281f2b329034.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0c6271a290ef75b4c97d58746c86c5b8.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9d7c6e4896067aa4fa512a00f692ac1c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ea5873cfd9158664f89459f0c9e1d853.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0626b924325d1c34cafa6b22297f4e4f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: e4f1fee3de32377429fd1348fae62b10.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9ab98b66288df7b4fa182075f2f12bd6.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 85bf3be603548374ca46f521a3aa7fda.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6ac1ce5a5adfd9f46adbf5b6f752a47c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 7d3269566d48b8447bb48d2259e28f8b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 00c3c865782347f41b6358d9fba14b48.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 71398ce7fbc3a5b4fa50b50bd54317a7.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0bc72db1e9dcb9647818df5a07871127.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5c2d84226fbbaf94e9c1451f1c39b06a.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 1caf40fc8bebb6b43b2550c05ca791d6.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0f57aeb1b8dce3342bea5c28ac17db24.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9703d53e47195aa4190acd11369ccd1b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9961032f4f02c4f41997c3ea399d2f22.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 2169821f0567671499a5c10104c69c24.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3369231b1ed7ad34e84d9240a571db81.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 92925e86d472b42ba9f07560dc9eb58e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 931f99cd4f649460da961d587b1b2242.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Terrain.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ac3a65df936cb4349ae2336796339aef.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Data.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 10063b66f1e9f4357bcd0588686650c3.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c3fe97fc1f5c248f2aaa7cb900c723a1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a3b26cdedd6d94245a7804e962d900bd.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c1e815debc8724551a66ac0c5cc19ba7.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Combat.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: a12926e5b62f543a7aeac97cfffb2a5e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 40e765a91390c4e7d9206bf481dd1955.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Editor.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 64ede0b056a6444b7adcaaf51648c0a6.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/AI.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6a5a487a22d0f4da3ac214b20c926e4e.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/AI/TurnActionCore.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 1d2ca0275a7f9447fa3c9aedb05e18d2.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Editor/BattleWindow.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 514ff3df8d3774a73858e2743d48ba78.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/GameManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3ef4cce54e28a43e281177fa099a486a.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Loader.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 22ccd457a44bf483986d34ca2e2fbe49.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9fe3c32c005b34104a7bf6ab4c268dda.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: af76a46d94854407c9985e16edd6f041.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/TurnManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 55dfa224bf68d4a7ea2e211401870e29.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/TurnAction.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6005f273a552846138d409077193fc95.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/InformationController.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5b8c5cde290da4af9a7723295ec977e0.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/UIManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 884cfa59ee8ab494491cc36dae02dcaf.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/JobCollection.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 8dcf20ec47794474f80ccf93aface7ec.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitMovement.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 86969dfa0303e4c31bbdf0a930aac9e6.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/JobData.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5f90f10c00554491a8057b65393560a4.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 3ebcde98312a642c1a9ba62498505f57.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/PlayerControllable.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b0738673ec62f404b8f79eb5036e67e1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitCore.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0662b501abcde4cf7ae120291e9397f9.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitJob.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: e085437053c194f1c9de63c8fefae7df.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitJobEditor.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: c70113d473f4c4d5dacb124e87d13ca5.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitName.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: e34672d4a4a7d46d49468467f02144a5.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Terrain/CellTerrainData.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 079e9fdff321340c1bcfd06d2914886a.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Terrain/ColorConverter.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 310fe6625768d4433801bcd76225805d.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Terrain/CellTerrainCollection.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: d1dd30e9799014da9a04e87aa068607c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Data/DataManager.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: bcef8dc698d5746f5bdd3ffb97675daf.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Data/EditorLoader.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 0610ffcf886bd4d9580b64fc34fd1c43.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Data/DataLoader.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 078b7980cbfb7461483961b75b18a12b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursor.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ebae3bf7c680e498181ece58d097da08.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorPlayerInput.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 24aecfc0b6a4447a3a415cb3c39da320.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridCollection.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 6a3319b956c934b4582a5f9ddff3f907.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellOverlay.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 9046fb6f2d9484e70a4765f54581438c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridPerimeter.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 4bb753af7337747c78fa1840319b426c.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellTerrain.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: cb025177fdb4e4e7fa5f9b11c64ebc08.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridCell.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: b8b30c59aea5b4efe900e0c7d613dfef.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridController.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: ed2f7fa4fac214401adca91d738ab7e1.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorMovement.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: 5099cc82696e542208521e4f51989e2f.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs.meta
+09/06/2026 11:21:48 Data Extracted!
+09/06/2026 11:21:48 Saving Results...
+09/06/2026 11:21:48 Saving File: d1eae0b3fce5942d18e85b0ba9978d2b.json
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Done!!
+09/06/2026 11:21:48 Done!

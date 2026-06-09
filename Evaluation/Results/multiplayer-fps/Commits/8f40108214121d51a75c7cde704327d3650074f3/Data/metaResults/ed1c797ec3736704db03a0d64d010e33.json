@@ -1,0 +1,23 @@
+{
+  "guid": "ed1c797ec3736704db03a0d64d010e33",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Prefabs/DustStormMobile.prefab.meta",
+  "name": "DustStormMobile.prefab",
+  "type": "meta",
+  "file_size": 115,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

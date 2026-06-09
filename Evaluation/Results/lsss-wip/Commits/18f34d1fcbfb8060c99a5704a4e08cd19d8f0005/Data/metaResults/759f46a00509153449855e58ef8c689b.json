@@ -1,0 +1,29 @@
+{
+  "guid": "759f46a00509153449855e58ef8c689b",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/TestShip.prefab.meta",
+  "name": "TestShip.prefab",
+  "type": "meta",
+  "file_size": 154,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PrefabImporter",
+      "PrefabImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

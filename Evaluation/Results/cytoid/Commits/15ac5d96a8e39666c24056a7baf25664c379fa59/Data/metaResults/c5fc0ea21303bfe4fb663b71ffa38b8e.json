@@ -1,0 +1,29 @@
+{
+  "guid": "c5fc0ea21303bfe4fb663b71ffa38b8e",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners.meta",
+  "name": "UiRoundedCorners",
+  "type": "meta",
+  "file_size": 180,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

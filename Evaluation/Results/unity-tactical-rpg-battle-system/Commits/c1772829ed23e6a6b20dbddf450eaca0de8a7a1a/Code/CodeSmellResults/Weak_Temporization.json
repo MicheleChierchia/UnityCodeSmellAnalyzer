@@ -1,0 +1,12 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DragRigidbody.cs",
+      "Name": "Update",
+      "Line": 19
+    }
+  ]
+}

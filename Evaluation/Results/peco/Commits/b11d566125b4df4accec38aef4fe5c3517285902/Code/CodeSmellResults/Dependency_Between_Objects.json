@@ -1,0 +1,70 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 9,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Kind": "Field",
+      "Type": "PlayerController",
+      "FullName": "FormManager.player",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/GameManager.cs",
+      "Kind": "Field",
+      "Type": "GameManager",
+      "FullName": "GameManager.gm",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/GameManager.cs",
+      "Kind": "Field",
+      "Type": "PauseHandler",
+      "FullName": "GameManager.ph",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Kind": "Field",
+      "Type": "PlayerController",
+      "FullName": "PlayerController.pc",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Kind": "Field",
+      "Type": "FormDataBase",
+      "FullName": "PlayerController.formData",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Kind": "Field",
+      "Type": "FormManager",
+      "FullName": "PlayerController.formManager",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, SpeedEffect>",
+      "FullName": "PlayerController._effects",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Kind": "Field",
+      "Type": "BehaviorBase",
+      "FullName": "EnemyBase.behavior",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/UI/LoadingScreenManager.cs",
+      "Kind": "Field",
+      "Type": "LoadingScreenManager",
+      "FullName": "LoadingScreenManager.ls",
+      "Line": 8
+    }
+  ]
+}

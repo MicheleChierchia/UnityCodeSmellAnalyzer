@@ -1,0 +1,26 @@
+{
+  "guid": "ad9a58f01295f4cb08c52ad8a6ce4b24",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/Torch(Green).prefab.meta",
+  "name": "Torch(Green).prefab",
+  "type": "meta",
+  "file_size": 138,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

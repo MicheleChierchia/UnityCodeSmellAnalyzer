@@ -1,0 +1,48 @@
+{
+  "guid": "c8ec92a91f7c07e4c94bb9ccbe8c8c51",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/HealthbarExample.shadergraph.meta",
+  "name": "HealthbarExample.shadergraph",
+  "type": "meta",
+  "file_size": 285,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ScriptedImporter",
+      "ScriptedImporter": [
+        {
+          "internalIDToNameTable": "[]"
+        },
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        },
+        {
+          "script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "625f186215c104763be7675aa2d941aa"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

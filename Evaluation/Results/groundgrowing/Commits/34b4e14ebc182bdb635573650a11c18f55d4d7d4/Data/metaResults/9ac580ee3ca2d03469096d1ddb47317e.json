@@ -1,0 +1,26 @@
+{
+  "guid": "9ac580ee3ca2d03469096d1ddb47317e",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator.meta",
+  "name": "Operator",
+  "type": "meta",
+  "file_size": 191,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

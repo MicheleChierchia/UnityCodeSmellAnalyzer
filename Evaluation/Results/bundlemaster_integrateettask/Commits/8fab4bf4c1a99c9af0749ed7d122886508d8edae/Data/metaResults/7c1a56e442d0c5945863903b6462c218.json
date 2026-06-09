@@ -1,0 +1,29 @@
+{
+  "guid": "7c1a56e442d0c5945863903b6462c218",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes.meta",
+  "name": "Scenes",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

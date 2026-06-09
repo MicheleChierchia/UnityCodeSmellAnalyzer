@@ -1,0 +1,416 @@
+{
+  "ProjectName": "4_peco",
+  "ProjectDirectory": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco",
+  "DirectoryPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco",
+  "LOC": 34,
+  "ConfigurationFile": "Config.json",
+  "ProjectLanguage": "C#",
+  "ProjectLanguageVersion": "CSharp12",
+  "Project": [
+    {
+      "Name": "PlayerController",
+      "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Language": "C#",
+      "Loc": 34,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "PlayerController",
+          "FullName": "PlayerController",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": false,
+              "FullName": "PlayerController.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "GameObject.FindGameObjectsWithTag",
+                  "FullName": "GameObject.FindGameObjectsWithTag",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "\"PlayerControllable\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 12
+                },
+                {
+                  "Name": "controlledPawn.GetComponent<CharacterController>",
+                  "FullName": "controlledPawn.GetComponent<CharacterController>",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [],
+                  "Line": 13
+                },
+                {
+                  "Name": "pawnCamera.transform.SetParent",
+                  "FullName": "pawnCamera.transform.SetParent",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "controlledPawn.transform",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 14
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "controlledPawn",
+                    "Type": "GameObject",
+                    "Assignment": "GameObject.FindGameObjectsWithTag(\"PlayerControllable\")[0]",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 11,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.controlledPawn",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "controlledPawn"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.controlledPawn"
+                        ],
+                        "Invocations": [],
+                        "Type": "GameObject",
+                        "Statement": "controlledPawn",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "pawnController",
+                    "Type": "CharacterController",
+                    "Assignment": "controlledPawn.GetComponent<CharacterController>()",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 12,
+                    "VariableKind": "Field",
+                    "FullName": "PlayerController.pawnController",
+                    "AssignmentKind": "SimpleAssignmentExpression",
+                    "Cascades": [
+                      {
+                        "Tokens": [
+                          "pawnController"
+                        ],
+                        "Properties": [],
+                        "Fields": [
+                          "PlayerController.pawnController"
+                        ],
+                        "Invocations": [],
+                        "Type": "CharacterController",
+                        "Statement": "pawnController",
+                        "ExpressionType": "IdentifierName",
+                        "Kind": "Field"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "GameObject.FindGameObjectsWithTag(\"PlayerControllable\")[0]",
+                    "Type": "GameObject",
+                    "Kind": "Use",
+                    "UseLine": 11,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "controlledPawn",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "controlledPawn.GetComponent<CharacterController>()",
+                    "Type": "CharacterController",
+                    "Kind": "Use",
+                    "UseLine": 12,
+                    "UseKind": "Invalid",
+                    "AssignedTo": "pawnController",
+                    "Value": null,
+                    "Operation": "SimpleAssignmentExpression",
+                    "VariablesList": []
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 10
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Update",
+              "IsEmpty": false,
+              "FullName": "PlayerController.Update()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "controlledPawn",
+                      "null"
+                    ],
+                    "Properties": [],
+                    "Fields": [
+                      "PlayerController.controlledPawn"
+                    ],
+                    "Invocations": [],
+                    "Type": "bool",
+                    "Statement": "controlledPawn != null",
+                    "ExpressionType": "NotEqualsExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 24,
+                  "StartLine": 21,
+                  "Invocations": [
+                    {
+                      "Name": "MoveForward",
+                      "FullName": "PlayerController.MoveForward()",
+                      "ReturnType": "Void",
+                      "FileName": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+                      "DefinitionLine": 27,
+                      "Kind": "SourceFile",
+                      "Module": null,
+                      "ReferenceFound": true,
+                      "Arguments": [],
+                      "Line": 23
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": []
+                }
+              ],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 19
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "MoveForward",
+              "IsEmpty": false,
+              "FullName": "PlayerController.MoveForward()",
+              "Modifiers": [
+                "private"
+              ],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [
+                {
+                  "Condition": {
+                    "Tokens": [
+                      "Input.GetKeyDown\"w\""
+                    ],
+                    "Properties": [],
+                    "Fields": [],
+                    "Invocations": [
+                      {
+                        "Name": "Input.GetKeyDown",
+                        "FullName": "Input.GetKeyDown",
+                        "ReturnType": null,
+                        "FileName": null,
+                        "DefinitionLine": 1,
+                        "Kind": null,
+                        "Module": null,
+                        "ReferenceFound": false,
+                        "Arguments": [
+                          {
+                            "Argument": "\"w\"",
+                            "IsInvocation": false,
+                            "IsLiteral": false
+                          }
+                        ],
+                        "Line": 29
+                      }
+                    ],
+                    "Type": "?",
+                    "Statement": "Input.GetKeyDown(\"w\")",
+                    "ExpressionType": "InvocationExpression",
+                    "Kind": "Literal"
+                  },
+                  "Else": null,
+                  "DanglingElse": true,
+                  "Depth": 1,
+                  "EndLine": 32,
+                  "StartLine": 29,
+                  "Invocations": [
+                    {
+                      "Name": "Input.GetKeyDown",
+                      "FullName": "Input.GetKeyDown",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "\"w\"",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 29
+                    },
+                    {
+                      "Name": "pawnController.Move",
+                      "FullName": "pawnController.Move",
+                      "ReturnType": null,
+                      "FileName": null,
+                      "DefinitionLine": 1,
+                      "Kind": null,
+                      "Module": null,
+                      "ReferenceFound": false,
+                      "Arguments": [
+                        {
+                          "Argument": "new Vector3(0, 0, 1)",
+                          "IsInvocation": false,
+                          "IsLiteral": false
+                        }
+                      ],
+                      "Line": 31
+                    }
+                  ],
+                  "Variables": [],
+                  "WhileBlocks": [],
+                  "ForBlocks": [],
+                  "IfBlocks": [],
+                  "SwitchBlocks": [],
+                  "ForEachBlocks": [],
+                  "ElseBlocks": [],
+                  "TryBlocks": [],
+                  "Returns": []
+                }
+              ],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 27
+            }
+          ],
+          "Fields": [
+            {
+              "Name": "controlledPawn",
+              "Type": "GameObject",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.controlledPawn",
+              "Line": 6
+            },
+            {
+              "Name": "pawnController",
+              "Type": "CharacterController",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.pawnController",
+              "Line": 7
+            },
+            {
+              "Name": "pawnCamera",
+              "Type": "Camera",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": null,
+              "Attributes": [],
+              "FullName": "PlayerController.pawnCamera",
+              "Line": 8
+            }
+          ],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 3
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "UnityEngine",
+          "Line": 1
+        }
+      ],
+      "Line": 1
+    }
+  ]
+}

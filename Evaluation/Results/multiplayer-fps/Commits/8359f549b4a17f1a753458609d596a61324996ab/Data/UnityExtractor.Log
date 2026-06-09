@@ -1,0 +1,1387 @@
+09/06/2026 12:54:29 Loading extensions...
+09/06/2026 12:54:29 Searching MetaData file inside project folder...
+09/06/2026 12:54:29 Searching main file...
+09/06/2026 12:54:29 Done!
+09/06/2026 12:54:29 Searching meta file...
+09/06/2026 12:54:29 Done!
+09/06/2026 12:54:29 Done!
+09/06/2026 12:54:29 Done!
+09/06/2026 12:54:29 Creating Result Directories
+09/06/2026 12:54:29 Start analisys...
+09/06/2026 12:54:29 Analyzing Main MetaData...
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ProjectInfo.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/_Scenes/SimpleParticlePack.unity
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8b91fd7a774104815a685b479e7f0e16.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Materials/Flame01.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b1ca011c5f92d4fd4b5aeac44fd607c6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Materials/Flame02.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e2c8d6845c95d445685323e25880e162.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Materials/Shockwave.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f2bffbeb094e1415586c0fdcaa089b71.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Skin/Jura-Flat-Material.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c190da5d14d0e904ba512abe82018576.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Prefabs/Player Diamond.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e4158f2dc7e4b1748ae8e21a3937fb02.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Prefabs/PointerPrefab.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9c6977a9ecda14e4e96ea3a71c749c2c.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/Gradient.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 32e7ed8e6b80b884bbed8260b788648b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/PlayerDiamond.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c597444fc6a08854d89baeeff4ba511d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/Robot_Color.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0aa851515cd3747d6b3b3e461199a2ed.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/UnitCircleMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: fb6c12085a6b0a5429029fcd6478a816.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/UnitCircleTexture.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 80114bc117609cd4e9c988f8692e7a68.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/UnitTextureBlue.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1401c9e6acd739e49a9caa91ab07ac7a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/UnitTextureBlue12x.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c676d877ef241ab4686e2f237b1e2f13.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Materials/UnitTextureRed.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4c506c95d32f3494e9453ef5c0124b0e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Layer.controller
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 042914e107241244896b36a14ff15f88.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/RPGController.controller
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2608c949cda1edd44a9ae292d08e55d3.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Materials/EyesMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ce5a83fcea7762541ba43ca5bd854dae.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Materials/SkinMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 37d0d4d178b5dbf449ff0814718dc354.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Materials/SuitMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ed4e4079e2e99084d8d914283565fc5c.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Materials/TeethMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 17dd34e8a826d0641a0e0f43da1e03a0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Shared Assets/Animations/Materials/TongueMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 28498b9ebcb776a46b3c9479a664bfc7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/creature1-tanden.1.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4eb85af99fa90b5458b82b1712d9a38e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/creature1-tanden.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 98292beaa99b528409314e373d4bf6c8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktarcolorgoed_1.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e00d3462d66a5f7418d228981823b04d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-Mat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4ddcafa983f02e742af239c8601583eb.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-No Name.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7de122b788971734d91036434995bdb4.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-oog.1.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a28420d6e950cb241aabb704d86c919a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-oog.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4237e8c77361e6b43bdc3c785b6aa272.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-tanden.1.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c4868b40d578c5646a5d89e4dfc705a0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/muktargame-tanden.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0b1af9419dc8fd0458d208780f7d6704.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Materials/oudemanoogcolor.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 709a0be2fd7ac094fbde0f03dbab5354.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Art/SimpleMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4b1c7167fbb213a4dab343997dde0961.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoWorker/Art/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ca49380a71a2bb64c830d06bd421b9d1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/pick-idle.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3134f209b47fdec49a880b887fc7ab39.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/pick-run3.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 99f1e72a5ed8fb04f865c759fcb1a0ea.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/pick-walk.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 60f84450dfd95594583f64e03886caca.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/CharMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 41f984acc95ee444787756c8fe13520f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/DarkOverlay.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0e64e67439050b24f992cb6e55e2ab68.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/PickItem-Green.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8d034628a1766f64bb892b8e4aea38ae.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/PickItem-Yellow.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 96c1e8103cb08074786e86c7dfc04f64.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/PickLightMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b205376bcefa990488ef4615853255dd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/PickTiledMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 46ba1b9034891a845896863e11b0e97d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/TeamPickBlueMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 752a308575c9ae542b83f27c5a7746fe.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/Materials/TeamPickRedMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c7cf1bb431b424a468eb880c591a6177.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoPickup/Assets/3dFont/3d-Pickup-FontMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 00cb961ce0a33b343b73a490804a6caf.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/Resources/BoxFlashPrefab.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: fe06072e9e7fcb9478ad9b1e843e9148.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/Resources/BoxPrefab.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0c55a789949849840bb994e514e8fa71.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/Resources/UnitMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c6fbde8aaae8bca4a8c7bf6490e6f981.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/Resources/UnitMaterialDark.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: bd82f7e1fdfa0704e9c2422e24e0e1b6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/DemoBoxes/Resources/UnitMaterialEmit.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 14ebb622e6e427a449df28289c7c9d01.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/Fall.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 01b0b8b192837f34fbdd054d719dd80d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/Idle.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1a787ecb1de72484aad2d2aec3b4eebc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/Jump.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3e9fe32f4019e6f44bce9b2737cff4fc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/Land.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 298f4afe40ba3d74fae87ae1dfbe812e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/LandToIdle.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 337069aec9b26ee46a5fff4869b0b951.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/RobotKyle2D.controller
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c4166aae2783a884dbf46290328260bd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Animations/Run.anim
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 34cffcb838cf9d64383508932cb3c8c0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/UMP-45/FBX/Materials/Material_001.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4d0f6026188b5e648ba5425f7afc4d12.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Body_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9f90ae181d66a1a4aa039e9cb975a6ac.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Mag_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 16840cfda52056143857fbb613b6c563.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a56b024fb81a99946b3bba4ad8e3bff5.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS_Mag.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 59976b5d5b44c3244825a53e25df202e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Body Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 78ab691430c4c3948bafc63e58d78702.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Iron Sight Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 66a57e73664f8414da4ecb667a9ad401.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Magazine Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3603147297ee54a4d8d203e1d6e518e2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1_Sopmod_Body.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7f5faf930e173324683de25e09ceb003.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Materials/Smoke Grenade DIF.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ad39900d8b8e5ac43a0d0e8dbd426e51.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47 Magazine NRM.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6a12cf738358309408258643c954bef2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47Body__Untitled.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 975544c7f0aa2fa488bac6f7cb72bfb2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Ak-47/FBX/Materials/GreyMat.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 276aabccefda78d4f8022679e5de731d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/Ak-47/FBX/Materials/No Name.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 894cbf79128bb455a8e49e4708f67559.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/ACOG Diffuse + Specular.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c7fed8bb170036941930072ba5061f4d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Front_Lens.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 880fbc72e789ad547bcec9edea3aaa0f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Rear_Lens.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7289389567321af4f9cb1ad5524134ab.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Materials/FlareParticleMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ee4c67fddaf254bf0b483bd03884876d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Materials/LineRenderMaterial.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 442506d730ce04e298a85a7bd17fc2c2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/Prefabs/FramerateCounter.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 81154777d5417884981849c5243f6c01.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleAfterburner.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 89ff19d667a6a5d4bb76df1fcb718402.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleDuststorm.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7911795df27dd464190eed77dda90191.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleFireball.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 26ea534dcd83fe14c9173a52e151cce8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirecloud.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 77d08210df254d845885518314593544.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirework.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9f3080141f1f64197825663e067f94f8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlameLicks.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 30289309b0c21224ea5b6fcc73b07d59.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlames.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3bfa2f095c911d649bf4cb92a55ac974.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleGlow.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c10b1630d5621ec48a17223c3c102023.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeBlack.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: fc626cffedc907848a7b47b87aa5e34f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeMobile.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 473d6d3ec0d161b4a85e466c8c6da3fb.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeVertlit.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 225843b6084e75440a6ea970a17c93aa.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeWhite.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c50d77affeb31e14c9c062c282f13fc8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f63c576739a709747a1a571260d4fabd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSplashes.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ff6663d927968dc4482d24a8495316de.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpray.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3062613153ea47f42a262f065fec69d1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteam.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 60d4adad90a8b164abbb7d8ff5b4118a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteamMobile.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ed1b89d39279f564ea077ad8e46f3595.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Materials/ParticleWaterSpray.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 09a99b10658931c46a438c586a49ec65.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 174090ae7f9eff84abe76f0ff062efac.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9529ecc3d479da5499993355e6c2cb4f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 999388b68bb99b44099461bfbed94358.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5e9e851c0e142814dac026a256ba2ac0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c6453f8e1f814744d8b94e5a6d1f9942.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Body_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1dac1bb8d0cbe4d3b9030d1927372c1e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Bottom_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 827e18d10ac7547ada93d9b13f837bed.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Eyewear_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d7b6dcd9eb1144bd0891b8661ac2de15.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Hair_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a05531003c5964353a48ba1517a4cfb3.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Hat_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 213271a956f284d84897864db212eb01.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Shoes_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7552021ff978f4f27b14877437401253.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models/Policeman/Materials/Policeman_Top_Diffuse.mat
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1d3d13e397aec4c7da570944d9367a1a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Done!
+09/06/2026 12:54:29 Analyzing Meta files...
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Animator.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: eac93da34f83e454f95d19bae93173fe.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Audio.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9de3d4898102945a388a31ac728e0fc8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Masks.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8d47bf079323c468c85f427fbbf29cdd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Models.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5507ac69d0fb44eefbeb70931bd0abf0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Prefabs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 39ea97738976f43829b176b22af82024.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Scenes.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: cdc0fd1a7845c4ec9845c14782496eaf.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Scripts.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 268eea25b1a404232a6ccb18c0b55c56.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Sprites.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 926af4b2ac2644445b16db27a031cfef.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Editor.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8a1f528835eef49ce9b90cb1c70ea434.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Fonts.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ccfe69583bd964794b09cc0cc02dd172.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Materials.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e48618d63e19e435ab1883eaf663b630.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Modern Weapons Pack.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a9ced581cca434a3998e755a59894772.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 805f49fc11ef248088ccb10084d7223a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: cceb189cbe61744aa8dbbf97b7229fa8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e284c4a9e7a6a4dc38fa7c791896fd8e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 711c83e14b3024d97a408a182b6f60cd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Materials.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e4a9033ddcf3449938e101800814797a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6288ca114280d4904a737d5b95e2c0e8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Scripts.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e1d58103ce0d54bc789bfdc9c5d6f4f1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Textures.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a87666f9f8d74401795bab4ffa223abd.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/_Scenes.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d91813c31514a46948b0d5dc78e066cc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Textures/Flame.psd.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b260cbc8d9bc048bd8834c7a1b5aed36.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Textures/FlameA.psd.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8e3ff3e27ca4bc54dda56e89e0550dfa.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Textures/ShockWave.psd.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e12f8e30c9a7e49a589559cf53454a29.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Scripts/ParticleTester.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f9570b60f57644ed5b7e3178b8d57d93.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 88d3387f07f1c4c69b38099ea830d1e8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c8767de93461e4670a8feb09a125185f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b550944d1d797443fa6039e29cc6e6e1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare Combo.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5e4029ef407744266b182355a422cfbf.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare01.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e41a1ff11fe7f43e3bb0a215c7cd3d54.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare02-MultiColor.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 46c7347ec6bbf423d9905752824ca1b6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare02.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c65e964da65b04bdb95be0f0e10a0012.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare03-Autumn.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f3fa2416fe26847df991cfc3e8876474.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/Flare04-ColorBurst.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0ac53a594a4c2420982f877e49310386.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/FlareCore-Autumn.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0099cc09e124a43e68375bf6b1ae7238.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Flares/FlareCore.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e16e26b0fc4bd4fdfb4f8014fc3bd07b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Burst-Sharp.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 624359039ddfc43a6b27f8c6c1cc5499.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Burst.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8e1dcf1924b1945fcaab73df0affd2ab.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Destruction01.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9b26e1efdb8fd4d53b35c3c6b7f50cf5.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion01a.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: bf3f387d006f0414b80b25ba2b9cdf38.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion01b.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1e47e1a2302b340578c901da5181c6f1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion01c.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4813da6bfa5e94ac682f6d270a12d4b5.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion02.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e6ab56e4714ff4154ac034cf28db78b2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion03a.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6ea62d4e8979f4cb8ad6c56646a6af9f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion03b.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d33904b3aaa63498c9be5ef9d2e80a6b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion03c.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 748eb41b584bb49b99a42da7420e5d1e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion04a1.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e245491c3f96d49ff99b96bcdd7da7a3.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion04a2.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0f28c0d6e5f4c46428854ca9390ebbdc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion04a3.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 97a1d7f3a73b04feca9e61ea6cc1a3f7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion04b.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2cccb0aff0bec41229698d0012efce5b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion04c.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 07725ad1d903f4ea891afbc5b4a253f8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion05.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f75468363e2394440a081e9c175e6c93.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion06.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ebd39b50df8574fb88f15e5d023ef3a7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Explosion07.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 93a60ba8e409947b1a0334537c8b38c8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Flame1.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2f9e7030759a647e5b7ec0b46dd414f0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Flame2.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 07e0b48432a2942a4b04b88d70d29cbc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Flash01.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d321a98408cfc4e0299808f65181aab4.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Flash02.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3c1f0555cc3fd4e1d87382fbaa007f8f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRing01.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d3e0d9dd3a0bb4bf4815b26939dce392.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRing02.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: bb3bef2df5f35455f9e3890d21dbc268.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRingFlame01.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e0c82e4cda44945d0918554b304e6d70.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRingFlame02.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: dd8cbd77dc2344187bda7004b1d3f370.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRingFlame03.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 32a7d9c6c26df44cf8a12a037118c5ab.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/FlashRingFlame04.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ac8c1c4fd62d44c809ced6a1696a9d62.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Ring.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 956db5187dbbe46999d70f0824dc320f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Ring2x.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7cb5898aad48444f0ac3592bee3d738c.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/ShockFlame.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 57137b89e09584e3e839655c51e6f042.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/ShockFlash.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9f38591bb6b3f4bae89cf8f5b4091217.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Explosions/Shockwave.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4f2b448ece6bb4940be1ce4a87b8e110.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame(Blue).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e840ebf9e10804cc7a1bb453752a4923.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame(Green).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 440b55d8d692c4785aa1e7f875da6a43.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame(Red).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 834ef5bb49c804e1db7cbd8ef2e1ec84.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame2(Blue).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9f404cddce5a345d9998b301b60096e8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame2(Green).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 93f88cda45aa04c46be37909b0c07bc7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleFlame2(Red).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6c1de2b3c41b4411784f75bb6bd048ed.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/SimpleTorch.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d1260e9d5bca24af590ff56a193510fb.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/Torch(Blue).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8d82766463e42433aa5e49b70572f852.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/Torch(Green).prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ad9a58f01295f4cb08c52ad8a6ce4b24.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/SimpleParticlePack/Resources/Directional/Torch.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 06e14e2567d994e0b942d2e9ed9c92a7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Prefabs/GunParticles.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 874e34dc3327e49f38e4d29b0aa68688.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Prefabs/PolicemanController.prefab.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 230d42e8ab76442f7b8cecd0b5b2f6ed.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: fe718aa50e3944971978cb01bf30e441.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Metro.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6bb69213cd2c84e3ebe37545cd93675e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Photon-Unity-Win81.unitypackage.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d281db1c2f057cf409a2a5a37c8e955c.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Photon3Unity3D.dll.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: aadb37a20a33632429047acaef43658a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Photon3Unity3D.xml.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8d4f08d435c4b6343969d8af249460ff.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WP8.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e019ea70022e94c1292bd54a2cb14860.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WebSocket.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f0b6d264f3e924079a5ce8705e6a5345.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/release_history.txt.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c29089d5f5388bf479c9c8c96ba6df54.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WebSocket/WebSocket.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b1bad04f7805f764dba77f0d4518e0f0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WebSocket/WebSocket.jslib.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 04bb5f307f2e48b4fbaa6da865fd4091.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WebSocket/websocket-sharp.README.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3e262c2b04eaa8440987b50a91e86674.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WebSocket/websocket-sharp.dll.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 748eb70bc0d7515498ef73fed155520a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/WP8/Photon3Unity3D.dll.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b083984ccc3e389469dafb028fc4099b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/Metro/Photon3Unity3D.dll.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3b5a0a7dce46a13459199d174ad3db3f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatChannel.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f4cf36b38c9d2504e80b890f48a7185a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatClient.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 49c08d1c8ef071248880e977ea339479.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatDisconnectCause.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8fc8540da80fef04785c6d5235ede645.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatEventCode.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2f1eb6fdbafa44c4fa787555a7bb4eae.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatOperationCode.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 85911b2e3781ce244b7373111a315248.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatParameterCode.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2eb5211af038ef94b8f832ef72ad9693.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatPeer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5a50a642ff5207a47b09a103454c4b7f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatState.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 846f0ff4c2cf32b47a0c97cd083e59eb.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/ChatUserStatus.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 11c3b5d7f4e2b124c8dd99cd19efeee1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Plugins/ChatApi/IChatClientListener.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0437c269d6a1cf44d89de9365354f6a6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Demos.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 0082ee825184d43899389c9827fc6ce4.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a453498b02e4143b0be4c7af8d39ba14.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/PhotonCloud-icon.png.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 8425b95fef16c3f4194e3a20e245cb67.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/PhotonNetwork-Documentation.chm.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d93cfd57d52f80543b09a3f2ce724f84.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/PhotonNetwork-Documentation.pdf.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f226ce9e7a33bc24c95f34dd9f583516.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: cf4446ba592724cbca8229e3db32f32a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/PunIcon-White-128.png.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e1e27211415083e41bd38b51da93f58b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Resources.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d8f17176f808f40d0b0ca1af31171a79.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5579dbb3af4504d3ab10f694e336dde8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/changelog.txt.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 612a7d8fb44bb994d90d9c0fa1408703.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/readme.txt.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d90864ccbf99d4a449c87472b0a181e8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5c1b84a427010e0469ce0df07ab64dbc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/HighlightOwnedGameObj.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 000ef710937cf394f83251fd684272ec.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/InRoomChat.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 043bd8ce63fde7c41a9ee103809fa981.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/InRoomRoundTimer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ffcc1d657cd6ad9409b44f15d3deb78c.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/InputToEvent.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4fdde8222e647b24b816eec3ad67ff32.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ManualPhotonViewAllocator.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 2668418d0a8c6804facdeca6e5fc6d98.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/MoveByKeys.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 99b4daedc5e674a429acdf1e77da6a55.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnAwakeUsePhotonView.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d4d05e72b5afbcf489dc1e87a3fa38f2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnClickDestroy.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9dab7328ba500e944a99d62065fba6c0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnClickInstantiate.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9b79a9b62449de940a073364858c3f9b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnClickLoadSomething.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a9b53cc9db43d39428412f981834d9c1.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnJoinedInstantiate.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ed3b5dcba7bf9114cb13fc59e0a71f55.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/OnStartDelete.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f8d56a54ae062da4a87516fb994f4e30.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 49a81ce8037f41540ac70f51e9a19d7f.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSimple.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 7dcf9a2d8dc276745bb51228cc019f52.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d6826804b93f54045a69115648b2a143.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PointedAtGameObjectInfo.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e6262dd9a9b078c4e8cbd47495aa6d23.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6b4df3943860f1d45bfe232053a58d80.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/PunTeams.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6587c8104d7524f4280d0a68dd779f27.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/QuitOnEscapeOrBack.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 1fbabafd914a48f4eb6108d8d8f43d29.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ServerTime.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 63a4d1519cb8dea42be7addce2022400.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ShowInfoOfPlayer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6acb8d21564821e4e92aaa49ce2151cc.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/ShowStatusWhenConnecting.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 321c592dfcb49cd458c8f2cbe497513d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 35144820bcc25444bb8f0fd767d9423e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/SupportLogger.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9b61c60d38639484ebbd7f2100dd3d08.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/UtilityScripts/TimeKeeper.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 11b45bfcb19ad694bb6f199fb97642ce.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Resources/PhotonServerSettings.asset.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f25ac16b3fa7f4e0ab5cbc0b896a682b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 4a6f40dc1837f48c49048849f07f0df2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/CustomTypes.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: ab517bd36a2b2504b83979fcad45d4a2.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Enums.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: b7962bbdaba2a4940b1341d755abd40d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 3c0464991e33a70498abdd85c150cc59.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/FriendInfo.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 94ba1138c322ea04c8c37cfbcf87f468.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/GizmoType.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: a744e8c91e32ce742b8f79e048a8714a.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 35c989013c977244186e524a4c90dcee.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 6389c32085f1ef04f88e046b96ab6fc6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: f40f16a0227e5c14293e269c875c0f9b.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 177bddf229f8d8445a70c0652f03b7df.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonLagSimulationGui.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 5867a53c8db0e6745818285bb6b6e1b9.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 88e11b3353de7e94d84b1ec5adbdd15e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonPlayer.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e3e4b5bebc687044b9c6c2803c36be3d.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStatsGui.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: d06466c03d263624786afa88b52928b6.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStreamQueue.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 006991e32d9020c4d896f161318a2bc0.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: aa584fbee541324448dd18d8409c7a41.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PingCloudRegions.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 207807222df026f40ac3688a3a051e38.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/RPC.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: c40d255b1edd61842ae10e3346a2251e.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 17568a7a5552c09428dd48e73548b8b8.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/RoomInfo.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 71760b65ad7d5b842942c797a0366fa7.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/RpcIndexComponent.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: e001b6576e34b8d4e8ce3b3ab5aee427.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 12:54:29 Saving File: 9f3758f8f58fdef43803eb9be1df0608.json
+09/06/2026 12:54:29 Done!!
+09/06/2026 12:54:29 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/SocketUdp.cs.meta
+09/06/2026 12:54:29 Data Extracted!
+09/06/2026 12:54:29 Saving Results...
+09/06/2026 13:21:17 Saving File: fdcd4031513ba944ba1cc57b3aff328a.json
+09/06/2026 13:21:17 Done!!
+09/06/2026 13:21:17 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/SocketWebTcp.cs.meta

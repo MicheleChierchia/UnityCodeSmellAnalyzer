@@ -1,0 +1,29 @@
+{
+  "guid": "42b38659db4a3c64590f6c8e31576389",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core.Editor/Latios.Core.Editor.asmdef.meta",
+  "name": "Latios.Core.Editor.asmdef",
+  "type": "meta",
+  "file_size": 166,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AssemblyDefinitionImporter",
+      "AssemblyDefinitionImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

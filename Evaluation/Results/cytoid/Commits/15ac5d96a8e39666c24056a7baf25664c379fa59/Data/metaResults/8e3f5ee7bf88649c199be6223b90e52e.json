@@ -1,0 +1,116 @@
+{
+  "guid": "8e3f5ee7bf88649c199be6223b90e52e",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS/DetectHeadset.mm.meta",
+  "name": "DetectHeadset.mm",
+  "type": "meta",
+  "file_size": 637,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PluginImporter",
+      "PluginImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "iconMap": ""
+        },
+        {
+          "executionOrder": ""
+        },
+        {
+          "defineConstraints": "[]"
+        },
+        {
+          "isPreloaded": "0"
+        },
+        {
+          "isOverridable": "0"
+        },
+        {
+          "isExplicitlyReferenced": "0"
+        },
+        {
+          "validateReferences": "1"
+        },
+        {
+          "platformData": [
+            {
+              "- first": [
+                {
+                  "Any": ""
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": ""
+                }
+              ]
+            },
+            {
+              "- first": [
+                {
+                  "Editor": "Editor"
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "DefaultValueInitialized": "true"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "- first": [
+                {
+                  "iPhone": "iOS"
+                }
+              ]
+            },
+            {
+              "second": [
+                {
+                  "enabled": "1"
+                },
+                {
+                  "settings": [
+                    {
+                      "AddToEmbeddedBinaries": "false"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

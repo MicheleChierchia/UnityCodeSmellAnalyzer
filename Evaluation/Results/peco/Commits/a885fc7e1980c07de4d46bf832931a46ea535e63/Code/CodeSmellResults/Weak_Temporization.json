@@ -1,0 +1,12 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Name": "Update",
+      "Line": 76
+    }
+  ]
+}

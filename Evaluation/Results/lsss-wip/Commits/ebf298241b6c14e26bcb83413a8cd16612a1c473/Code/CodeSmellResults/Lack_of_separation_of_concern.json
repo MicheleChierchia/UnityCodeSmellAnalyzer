@@ -1,0 +1,50 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Physics/Authoring/LatiosColliderConversionSystem.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Profiling",
+          "Line": 10
+        },
+        {
+          "Name": "UnityEngine.Collider",
+          "Line": 12
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Packages/com.latios.latios-framework/Core/Core/Framework/BootstrapTools.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Debug",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.LowLevel",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.PlayerLoop",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/_Code/SubSystems/AI/AiShipRadarScanSystem.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Debug",
+          "Line": 3
+        },
+        {
+          "Name": "UnityEngine.Profiling",
+          "Line": 12
+        }
+      ]
+    }
+  ]
+}

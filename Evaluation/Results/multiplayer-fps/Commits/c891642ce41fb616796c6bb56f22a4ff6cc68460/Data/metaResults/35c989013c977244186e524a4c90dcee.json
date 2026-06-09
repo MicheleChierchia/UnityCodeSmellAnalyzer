@@ -1,0 +1,30 @@
+{
+  "guid": "35c989013c977244186e524a4c90dcee",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs.meta",
+  "name": "LoadbalancingPeer.cs",
+  "type": "meta",
+  "file_size": 213,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- ExitGames": [
+            {
+              "": "- PUN"
+            },
+            {
+              "": "- Photon"
+            },
+            {
+              "": "- Networking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

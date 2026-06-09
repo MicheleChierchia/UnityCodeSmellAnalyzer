@@ -1,0 +1,73 @@
+{
+  "guid": "2ca3fd169878a417b9322c4578204b62",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Fonts/Exo/Exo-Black.ttf.meta",
+  "name": "Exo-Black.ttf",
+  "type": "meta",
+  "file_size": 496,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TrueTypeFontImporter",
+      "TrueTypeFontImporter": [
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "fontSize": "16"
+        },
+        {
+          "forceTextureCase": "-2"
+        },
+        {
+          "characterSpacing": "0"
+        },
+        {
+          "characterPadding": "1"
+        },
+        {
+          "includeFontData": "1"
+        },
+        {
+          "fontNames": [
+            {
+              "": "- Exo"
+            }
+          ]
+        },
+        {
+          "fallbackFontReferences": [
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "111b340ced44d4371b49311d13e41edd"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "customCharacters": ""
+        },
+        {
+          "fontRenderingMode": "0"
+        },
+        {
+          "ascentCalculationMode": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

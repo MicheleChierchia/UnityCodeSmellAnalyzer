@@ -1,0 +1,13 @@
+{
+  "Name": "Find Methods",
+  "Severity": "Medium",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
+      "Name": "GameObject.Find",
+      "Invocation": "GameObject.Find",
+      "Line": 20
+    }
+  ]
+}

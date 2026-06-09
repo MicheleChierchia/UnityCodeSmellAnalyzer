@@ -1,0 +1,140 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 19,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointCircuit.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointCircuit.WaypointList.circuit",
+      "Line": 203
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointProgressTracker.circuit",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs",
+      "Kind": "Field",
+      "Type": "AxisTouchButton",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.AxisTouchButton.m_PairedWith",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.AxisTouchButton.m_Axis",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.activeInput",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.s_TouchInput",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+      "Kind": "Field",
+      "Type": "VirtualInput",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager.s_HardwareInput",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.Joystick.m_HorizontalVirtualAxis",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.Joystick.m_VerticalVirtualAxis",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TiltInput.m_SteerAxis",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TouchPad.m_HorizontalVirtualAxis",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Kind": "Field",
+      "Type": "CrossPlatformInputManager.VirtualAxis",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.TouchPad.m_VerticalVirtualAxis",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, CrossPlatformInputManager.VirtualAxis>",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.VirtualInput.m_VirtualAxes",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, CrossPlatformInputManager.VirtualButton>",
+      "FullName": "UnityStandardAssets.CrossPlatformInput.VirtualInput.m_VirtualButtons",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorPlayerInput.cs",
+      "Kind": "Field",
+      "Type": "CellCursor",
+      "FullName": "Tactical.Grid.CellCursorPlayerInput.cursor",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
+      "Kind": "Field",
+      "Type": "CellCursor",
+      "FullName": "Tactical.Grid.CursorController.mainCursor",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
+      "Kind": "Field",
+      "Type": "GridCollection",
+      "FullName": "Tactical.Grid.CursorController.grid",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridController.cs",
+      "Kind": "Field",
+      "Type": "GridCollection",
+      "FullName": "Tactical.Grid.GridController.grid",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/GridController.cs",
+      "Parameter": "cell",
+      "Method": "Tactical.Grid.GridController.CreateGridCell(Tactical.Grid.GridCell, Vector3)",
+      "Type": "GridCell",
+      "Line": 80
+    }
+  ]
+}

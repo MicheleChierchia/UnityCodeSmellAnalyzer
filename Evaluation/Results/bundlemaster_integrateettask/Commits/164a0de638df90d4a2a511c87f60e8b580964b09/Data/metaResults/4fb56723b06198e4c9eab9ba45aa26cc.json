@@ -1,0 +1,29 @@
+{
+  "guid": "4fb56723b06198e4c9eab9ba45aa26cc",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/StreamingAssets/SubBundle/subbundle_assets_bundles_subbundleassets_mister91jiao_prefab.bundle.meta",
+  "name": "subbundle_assets_bundles_subbundleassets_mister91jiao_prefab.bundle",
+  "type": "meta",
+  "file_size": 155,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

@@ -1,0 +1,546 @@
+{
+  "guid": "f096aad965cdb439a8d1d46da18cef39",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/GameController - Level1.prefab",
+  "name": "GameController - Level1",
+  "type": "prefab",
+  "file_size": 3146,
+  "num_components": 8,
+  "COMPONENTS": [
+    {
+      "id": "100100000",
+      "Prefab": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Modification": [
+            {
+              "m_TransformParent": [
+                {
+                  "fileID": "0"
+                }
+              ]
+            },
+            {
+              "m_Modifications": "[]"
+            },
+            {
+              "m_RemovedComponents": "[]"
+            }
+          ]
+        },
+        {
+          "m_ParentPrefab": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootGameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_IsPrefabParent": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000013241430758",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000010160687562"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000013870842306"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000011308915712"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000011819616104"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012416742658"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012234880406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "GameController - Level1"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "4000010160687562",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "-0.08388822"
+            },
+            {
+              "y": "-0.00025031995"
+            },
+            {
+              "z": "1.0782381"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_Children": "[]"
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114000011308915712",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "bcef8dc698d5746f5bdd3ffb97675daf"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "cellTerrains": "[]"
+        }
+      ]
+    },
+    {
+      "id": "114000011819616104",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "af76a46d94854407c9985e16edd6f041"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": [
+            {
+              "": "--- !u!114 &114000012234880406"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "3ebcde98312a642c1a9ba62498505f57"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "units": "[]"
+        }
+      ]
+    },
+    {
+      "id": "114000012416742658",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "55dfa224bf68d4a7ea2e211401870e29"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "actions": "[]"
+        },
+        {
+          "turnCount": "0"
+        }
+      ]
+    },
+    {
+      "id": "114000013870842306",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013241430758"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "3ef4cce54e28a43e281177fa099a486a"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "firstSceneName": "Level1"
+        },
+        {
+          "battleManager": [
+            {
+              "fileID": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+}

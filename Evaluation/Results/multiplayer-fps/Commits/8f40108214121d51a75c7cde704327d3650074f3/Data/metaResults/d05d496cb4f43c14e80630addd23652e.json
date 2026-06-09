@@ -1,0 +1,594 @@
+{
+  "guid": "d05d496cb4f43c14e80630addd23652e",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx.meta",
+  "name": "RollerBall.fbx",
+  "type": "meta",
+  "file_size": 7009,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ModelImporter",
+      "ModelImporter": [
+        {
+          "serializedVersion": "18"
+        },
+        {
+          "fileIDToRecycleName": [
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "group1"
+            },
+            {
+              "": "prop_ball"
+            },
+            {
+              "": "vehicle_planeProp_front_gear"
+            },
+            {
+              "": "vehicle_planeProp_front_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_aileron"
+            },
+            {
+              "": "vehicle_planeProp_left_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_gear"
+            },
+            {
+              "": "vehicle_planeProp_left_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_prop"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_left_propCone"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_right_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_flap"
+            },
+            {
+              "": "vehicle_planeProp_right_gear"
+            },
+            {
+              "": "vehicle_planeProp_right_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_right_prop"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_right_propCone"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_wing"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "group1"
+            },
+            {
+              "": "prop_ball"
+            },
+            {
+              "": "vehicle_planeProp_front_gear"
+            },
+            {
+              "": "vehicle_planeProp_front_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_aileron"
+            },
+            {
+              "": "vehicle_planeProp_left_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_gear"
+            },
+            {
+              "": "vehicle_planeProp_left_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_prop"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_left_propCone"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_right_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_flap"
+            },
+            {
+              "": "vehicle_planeProp_right_gear"
+            },
+            {
+              "": "vehicle_planeProp_right_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_right_prop"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_right_propCone"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_wing"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "prop_ball"
+            },
+            {
+              "": "vehicle_planeProp_front_gear"
+            },
+            {
+              "": "vehicle_planeProp_front_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_aileron"
+            },
+            {
+              "": "vehicle_planeProp_left_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_gear"
+            },
+            {
+              "": "vehicle_planeProp_left_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_prop"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_left_propCone"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_right_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_flap"
+            },
+            {
+              "": "vehicle_planeProp_right_gear"
+            },
+            {
+              "": "vehicle_planeProp_right_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_right_prop"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_right_propCone"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_wing"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "prop_ball"
+            },
+            {
+              "": "vehicle_planeProp_front_gear"
+            },
+            {
+              "": "vehicle_planeProp_front_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_aileron"
+            },
+            {
+              "": "vehicle_planeProp_left_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_gear"
+            },
+            {
+              "": "vehicle_planeProp_left_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_prop"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_left_propCone"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_right_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_flap"
+            },
+            {
+              "": "vehicle_planeProp_right_gear"
+            },
+            {
+              "": "vehicle_planeProp_right_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_right_prop"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_right_propCone"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_wing"
+            },
+            {
+              "": "Ball"
+            },
+            {
+              "": "pCube1"
+            },
+            {
+              "": "prop_ball"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_rightWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_rightDoor"
+            },
+            {
+              "": "vehicle_planeProp_leftWing_leftDoor"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_propCone"
+            },
+            {
+              "": "vehicle_planeProp_left_propCone"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane"
+            },
+            {
+              "": "vehicle_planeProp_right_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_flap"
+            },
+            {
+              "": "vehicle_planeProp_left_aileron"
+            },
+            {
+              "": "vehicle_planeProp_right_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_right_gear"
+            },
+            {
+              "": "vehicle_planeProp_left_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_left_gear"
+            },
+            {
+              "": "vehicle_planeProp_right_prop"
+            },
+            {
+              "": "vehicle_planeProp_left_prop"
+            },
+            {
+              "": "vehicle_planeProp_front_gear"
+            },
+            {
+              "": "vehicle_planeProp_front_gearWheel"
+            },
+            {
+              "": "vehicle_planeProp_wing"
+            },
+            {
+              "": "vehicle_planeProp_left_propBlurPlane1"
+            },
+            {
+              "": "vehicle_planeProp_right_propBlurPlane1"
+            },
+            {
+              "": "RollerBall"
+            },
+            {
+              "": "//RootNode"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "importMaterials": "1"
+            },
+            {
+              "materialName": "1"
+            },
+            {
+              "materialSearch": "2"
+            }
+          ]
+        },
+        {
+          "animations": [
+            {
+              "legacyGenerateAnimations": "4"
+            },
+            {
+              "bakeSimulation": "0"
+            },
+            {
+              "optimizeGameObjects": "0"
+            },
+            {
+              "motionNodeName": ""
+            },
+            {
+              "pivotNodeName": ""
+            },
+            {
+              "animationCompression": "1"
+            },
+            {
+              "animationRotationError": ".5"
+            },
+            {
+              "animationPositionError": ".5"
+            },
+            {
+              "animationScaleError": ".5"
+            },
+            {
+              "animationWrapMode": "0"
+            },
+            {
+              "extraExposedTransformPaths": "[]"
+            },
+            {
+              "clipAnimations": "[]"
+            },
+            {
+              "isReadable": "1"
+            }
+          ]
+        },
+        {
+          "meshes": [
+            {
+              "lODScreenPercentages": "[]"
+            },
+            {
+              "globalScale": ".00999999978"
+            },
+            {
+              "meshCompression": "0"
+            },
+            {
+              "addColliders": "0"
+            },
+            {
+              "importBlendShapes": "1"
+            },
+            {
+              "swapUVChannels": "0"
+            },
+            {
+              "generateSecondaryUV": "0"
+            },
+            {
+              "useFileUnits": "0"
+            },
+            {
+              "optimizeMeshForGPU": "1"
+            },
+            {
+              "weldVertices": "1"
+            },
+            {
+              "secondaryUVAngleDistortion": "8"
+            },
+            {
+              "secondaryUVAreaDistortion": "15.000001"
+            },
+            {
+              "secondaryUVHardAngle": "88"
+            },
+            {
+              "secondaryUVPackMargin": "4"
+            },
+            {
+              "useFileScale": "0"
+            }
+          ]
+        },
+        {
+          "tangentSpace": [
+            {
+              "normalSmoothAngle": "60"
+            },
+            {
+              "splitTangentsAcrossUV": "1"
+            },
+            {
+              "normalImportMode": "0"
+            },
+            {
+              "tangentImportMode": "1"
+            }
+          ]
+        },
+        {
+          "importAnimation": "0"
+        },
+        {
+          "copyAvatar": "0"
+        },
+        {
+          "humanDescription": [
+            {
+              "human": "[]"
+            },
+            {
+              "skeleton": "[]"
+            },
+            {
+              "armTwist": ".5"
+            },
+            {
+              "foreArmTwist": ".5"
+            },
+            {
+              "upperLegTwist": ".5"
+            },
+            {
+              "legTwist": ".5"
+            },
+            {
+              "armStretch": ".0500000007"
+            },
+            {
+              "legStretch": ".0500000007"
+            },
+            {
+              "feetSpacing": "0"
+            },
+            {
+              "rootMotionBoneName": ""
+            }
+          ]
+        },
+        {
+          "lastHumanDescriptionAvatarSource": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "animationType": "0"
+        },
+        {
+          "additionalBone": "0"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

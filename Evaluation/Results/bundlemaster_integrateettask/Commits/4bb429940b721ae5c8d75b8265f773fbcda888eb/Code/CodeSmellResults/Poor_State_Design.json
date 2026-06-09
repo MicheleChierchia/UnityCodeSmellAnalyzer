@@ -1,0 +1,21 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Unknown",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentUnLoad.cs",
+      "Class": "BM.AssetComponent",
+      "Method": "BM.AssetComponent.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 112
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentUnLoad.cs",
+      "Class": "BM.AssetComponent",
+      "Method": "BM.AssetComponent.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 112
+    }
+  ]
+}

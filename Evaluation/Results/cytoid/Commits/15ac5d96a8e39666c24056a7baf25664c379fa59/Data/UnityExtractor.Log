@@ -1,0 +1,1118 @@
+09/06/2026 13:20:57 Loading extensions...
+09/06/2026 13:20:57 Searching MetaData file inside project folder...
+09/06/2026 13:20:57 Searching main file...
+09/06/2026 13:20:57 Done!
+09/06/2026 13:20:57 Searching meta file...
+09/06/2026 13:20:58 Done!
+09/06/2026 13:20:58 Done!
+09/06/2026 13:20:58 Done!
+09/06/2026 13:20:58 Creating Result Directories
+09/06/2026 13:20:58 Start analisys...
+09/06/2026 13:20:58 Analyzing Main MetaData...
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: ProjectInfo.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/CoreHostBootstrap.unity
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 75036924964c4cb883e1e1480bf79f3e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/ButtonBack.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 16813899a6962204996cc1ea1ee58678.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/ButtonFore.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 587a7e537a5d23e4d94b0d16d2847dff.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/IndependentCornersMaterial.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c0977e733cf35b64bbde6d607888b917.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/MaskedMaterial.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: a792242b0ca2e2847968eb4a665a44d4.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/RoundedCornersColorMaterial.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 71663c8a1a78d6240830d2affc83a7b5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/RoundedCornersTextureMaterial.mat
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 6283e600cc258474490d63f2038384c5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/SaveLanguagePreference.prefab
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: a03d57045476c26429db43f573fde4fd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Done!
+09/06/2026 13:20:58 Analyzing Meta files...
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 152ae0442058464ab968a9c82c307904.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/BundledResources.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7babe4e36a77c8844960dee8c363730a.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ConsolePro.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: fe6844ebfad3d724aa68d3782d920ef9.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3ad92d6acec1b4bda925f80b9693b165.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Native Audio.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 31af37d1bf64244f69bd73155e7df543.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 937b3e7e1b1a4417fbb5d9fd15be1698.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: e7aa9b794709a4441a833c86c992eddc.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f7560a10c3cb34f6a9cde23ea5497493.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d1be1be6e35f34d42b174c4b47688a97.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 9bd091b9037484cb3b17fa06940face0.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/AudioManager.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2317ed6411aa473887f6a35e8f7f7d00.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/BuiltInData.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0fddd912ff88430a84f2a4d2c7309a36.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Character.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 36117098f8ab48518df7af37f7735445.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Context.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 009593e662b3c44b39fdcbcaac099174.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Editor.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 43990944fbbf440cb83dd777aa9ebb49.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/FontManager.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 5ba0d8b197d643c68a4d701a55e3cf78.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b453fa172ae9642c5982de7449c1fb1f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Chart.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 432d06701aa64c5da70839af1c197979.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/EffectController.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 968ad0a52db440418c2ad5da95970e41.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Effects.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c4d8e2f19a3b4c6d8e0f1a2b3c4d5e6f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: fa6f7200f62b6418d95d156681fe411c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/AccuracyText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: ec7a4b4dd9044850b6fc91ce6e3ae93f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/AllPerfectSplash.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 287aba3f84a641259c8ec82df1aa946d.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/BeatPulseVisualizer.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8a7d78485d1a47b8b0e1740b31b72aee.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/CircleProgressIndicator.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b067f2591d644435ae80fa14aabe3e6b.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/ComboText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 9803fabe70204d8683a811724c638a30.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/FullComboSplash.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 67dd66f2cd9348059424a04a0d7b2f14.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/GameMessageText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: e31e6551a42d46249b17eee4d780fd38.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/GameProgressIndicator.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8627809263a9415abf65ee328f9f0fe5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/GameTimeText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 795634fb7c0c41278f789109ce74a4da.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/GameTooltipText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: ffc9a07f4e4c4f629556661ceec7dfb4.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/MeshTriangle.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: dd14d537ef1c44c3961c3aa291ba57ba.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/ModSpan.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 67796d8602354811b05ccda2c1948263.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/NoteId.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 236c79dd286c4990925ae21ce52b94cf.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/NoteOffsetWidget.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4c854926eb8c46db85723af85e5f5657.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/ProgressRing.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3dd335411e47493898de5366d49fd9e8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/Scanner.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3a73a818db32431ab6008e3422a37946.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/ScoreText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 44e2f7ea6f934deda629c7914dce3a64.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/StatusText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c500d1acff1f41f1847ef5effceb3356.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/TierIntroSplash.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 67eb82ce2b41443291e79a4b7e749c57.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Elements/TitleText.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 799b40a86d1c46b59f37633bfc9e7fba.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Effects/NoteRippleEffect.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b7e4f1a23c5d4890ab6c2d8e7f901234.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Effects/NoteRippleEffect.mat.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f3a8c2d14e5b4a7091c6d8e2f4b0a9c7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Chart/Chart.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: cba0bc1fe0b549bb902bd162b8cc7757.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Game/Chart/ChartModel.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8045c0c5b0834fa48e864e2246c76d2f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Editor/ContextEditor.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 03f244b0bfb046a2967bb330b39dfb35.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Editor/CytoidCoreBuild.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3b4dc329f9f443dc81e2b7f75214c49e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scripts/Editor/CytoidStoryboardEditor.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 019b069ca83704a3cad0a4dc2c806a12.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/Bootstrapper.unity.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2439b31dd06a71b4f979012565c63624.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/Game.unity.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c8faed34822f248739349dc372d7f69d.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/GameSettings.lighting.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b28a6821c1aad42bc8e9aa5f5cff98be.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/Navigation.unity.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2cda990e2423bbf4892e6590ba056729.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Scenes/NavigationSettings.lighting.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 86ca217c32a6e408fbda7f50dc7206c4.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f51dd5ec1bf3fb041abdea3b3a79a12c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/DOTweenSettings.asset.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 85e8b6e41b48e4aec8b38de03fde11f5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 931072e48973a4a83aee77ab677b9469.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Prefabs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 5a669b200498ebc4986c78249835e135.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/MPLUSRounded1c-Bold.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7625d49d3fa0c427295ed289c6bfacbb.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/MPLUSRounded1c-Regular.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d5e1fc43f0edd4200b3a5bf2319ccbc9.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Bold SDF.asset.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4c786dbc368444df1b47275003617a9b.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Bold-JP.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: bc16074843972a6469f3c31fb1ea8024.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Bold.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 5c2f1ea2249b645bbaa8638ed1c82b34.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-ExtraBold-JP.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4f7133847bdb33a46ba61fa92690e88a.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-ExtraBold.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: cdc970835aebc486aba6703a904545f6.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-ExtraLight SDF.asset.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 9cc5f55aad7934850ba5440199b2670f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-ExtraLight-JP.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 36ca29d3d00ca994f91976f58f9d4d36.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-ExtraLight.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f30b05fea7c6e45e6a82b44023ece78f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Regular SDF.asset.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 1c04dee63486347b6a523bda7e715ecd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Regular-JP.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 246c7158f4940cf44b0b3e9fae059426.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Regular.ttf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7a6b59cdd73e04e37b341fa45c996f42.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/SourceHanSansHWTC-Bold.otf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0a9230741fb29934696ce39008fef96f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/SourceHanSansHWTC-Regular.otf.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4a1ce5d9c5e565042b3cb2bbbeaea11e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c06b229ed3acc4718b717e7423e6c3f8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/8bit.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b1123df5b2b644198a7de1f598452a8e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/clap.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2842e89d7123443e192fc93be7d9bb49.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/click1.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4de5d1323852b42dfa4d8c497b1edf90.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/click2.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2e1b342347eee49c09c4db88bbe7efda.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/click3.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 13b0631faf929486fba64e779b9c31bd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/donk.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 31ac588cf7152403faffb4d7e7e6d4d7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/hat.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d78fda8a43a3c4a128ba9a39ca778f3c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/quack.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0c2710553bc8a487e94a85d74f2d7d7e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/rim.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7f6900eac4e41c747a24cad364e4d356.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/shaker.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: cb7e0eb4391bd4f4596e979ef48bb859.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/snare.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d78ebf6a5180840ec8a52097c7b826c7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Audio/HitSounds/tambourine.wav.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d0e47940f02e543b786cc8a6e661173f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b0f0a15e696904f3590e3a872be6264e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d47d3c1adfb404152ace2345cf55729f.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/DetectHeadset.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8c6671b171d4c4e25b5d059aff622902.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 95a921ddab1874a10b929f23f0a9717b.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: fd7bd3a9e400e4824a66637cb45e74a6.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS/CytoidHostNativeBridge.mm.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: e74b1fa4b165e4962b6d1e05a648e5d7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS/DetectHeadset.mm.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8e3f5ee7bf88649c199be6223b90e52e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS/Editor.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: cfff69efe4fc14542adf508e09275ca2.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/iOS/Editor/iOSPostProcessBuildActions.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: bba9b3c99a605ae4cbd8c453bb907f48.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: a45a1047e7e1d2b49a82334c6733202c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Enums.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c6bd15f85c57d63429e2f427062010d9.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/IMpegFrame.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3a83c732056351d47a118ab1946f6781.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/MpegFile.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0dcefeeb7b363d142a95d92c39a25853.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/MpegFrameDecoder.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8d520820ea4749243bf5e44cc4d0b5f8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/NLayer.asmdef.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 31d1ef3d9498a1b4cb8916c8450b08b8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/BitReservoir.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c8840dcba9132c3439863878e6a5ca3c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/FrameBase.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7f193fbd66635ae46a506865b4699e58.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/Huffman.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0be7b3f7d6beb1c4fbcd13d156ec0052.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/ID3Frame.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 1e1c3081986cd4b40abe51a66c3b1ec7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/LayerDecoderBase.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 77716c6034eef144a80312e9a71129c2.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/LayerIDecoder.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: b8b00af58f3dbeb4da7442c3af4a6369.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/LayerIIDecoder.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 6b34fdd1860c59e4186d6c9790dc8414.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/LayerIIDecoderBase.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 3e20259ba1520234595cc0a51af6700c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/LayerIIIDecoder.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 9d44e3a33a9eaf54b9e82d1f41847bec.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/MpegFrame.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0a8bdcbec597508478c3cc83ca1a22ed.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/MpegStreamReader.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: e5f4d7dc1ba9dd4408ef97bfa07d4fc1.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/RiffHeaderFrame.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 785e4cd991302534ab731b2b95a48ddd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/NLayer/Decoder/VBRInfo.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 1630da77e5546ee4788b1cc9cc0295c8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 1959cbdac689545d480fa26cbd2fe5a3.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/DOTween.XML.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 34192c5e0d14aee43a0e86cc4823268a.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/DOTween.dll.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 64dafdd39e7f44df1b77eb4ca2a8c1dd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 405d8bb802a7944e7990025b69cb5f39.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c0da4d171df954d6c819d27249ca3aee.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/readme.txt.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: fccfc62abf2eb0a4db614853430894fd.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f98f7f1c9d6674eb5a814a7c5128afb6.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 43071b7c09d634945ac8f112502d19d5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 725066d09798b4881a6f8ff6e38c5d87.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 802d2922704b749c39562d6b42c1493b.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 9d7a29d2f609a474993a592da0347bbb.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 6e355e47ee05545f3a66d205be3f0c23.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 6ef586c3bf1e949a5acd4d4762acd274.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d21e73af492a641bcbdd14f5ee846f61.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d1dd8760af3bc4a41b5c629bc1452659.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d58144fed8a744d96b6e5df04387ed70.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: d11206cf11ef1429e9eaccac78b4caf5.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 7327f0a4659934189a033f062761b4ac.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenMiniIcon.png.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 2ed993079626849b6a8f1edd77b0348a.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: eec049d43d72549a8a31d77a16a6265c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 4f7ecb4d84da84a288832d46ec7fa912.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: dfd6c3ea7f2384c64bebb16d65e82890.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/AndroidManifest.xml.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 36f22ab11d68a6c4fa933aba1b7f0773.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/CytoidPlugin.aar.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: f21a79555ffb6cc4797d2181865acbe6.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/gradleTemplate.properties.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 40c9cf08d8ae34da8b4f313dec45d882.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/mainTemplate.gradle.backup.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 0be7442c41bd9408c83d28c1dde07d9c.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Android/mainTemplate.gradle.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 18b0c7fe9e1444d0785627a616a4226e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8b45085a512e5f14fa24f5ab5282014e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 32906ba9b140fb540aee73b16425acae.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 8ddeffe740a8df443ad055f860250de7.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/LICENSE.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 1b43d824145a28946bd5f4edd280b0d8.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/README.md.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c5e96d7fdc79c064f8744872ad300861.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: c5fc0ea21303bfe4fb663b71ffa38b8e.json
+09/06/2026 13:20:58 Done!!
+09/06/2026 13:20:58 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/gif-00.gif.meta
+09/06/2026 13:20:58 Data Extracted!
+09/06/2026 13:20:58 Saving Results...
+09/06/2026 13:20:58 Saving File: 65fa4ce3d5ec8e64cbe74a6c9b7c17e4.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/gif-01.gif.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 81cf59c3bbdc67840b1ee3781f994d3f.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/gif-02.gif.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 111580c72624cb247800b9b7420d9cd1.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/gif-04.gif.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 197ce8c46eddfe24eb0003cdb98b6019.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/gif-05.gif.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: ee1214df5bd127545b4d3d2972fb3cec.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/image-00.png.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 3cd486b28604a80448b2660fcd9971bb.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/package.json.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: c81519d75a1f38d4bad36f6d94701365.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/ImageWithIndependentRoundedCorners.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 109c41f08973846429af681aea0a30c4.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/ImageWithRoundedCorners.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: adb30198aa32dd140b5750692dd48104.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/IndependentRoundedCorners.shader.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: d3beb88e61f88ca4393acdefb005fa70.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/Nobi.UiRoundedCorners.asmdef.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 02fb846f82d73b64f884c961e8616088.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/RoundedCorners.shader.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 0bd2ec5d73751e34a814274a454bec41.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/SDFUtils.cginc.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 209beda86bef4cdf945cf90c8999e832.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/UiRoundedCorners/ShaderSetup.cginc.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: c8b27b6dc4af4c65a0d1531a5c3a9880.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/Lenna.png.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 29c435903c4f8404f87a061424329530.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Unity-UI-Rounded-Corners/Examples/example.unity.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 3fe7f49864db35c419623c5112a65cd1.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 7bd7ee0a318698943a68e455c32bebac.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Localization.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: da6ae5f75a01e774fafda13f7ae7fd12.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Resources.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: a2f4d9b4a5568c045be2f2b36157a99a.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scenes.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: eb64a9a4f0ceaba4ba6548da7f524daf.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 58f9d296c444abf4ba62a1ef0ac67982.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/CsvTsvParser.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 52cb27a67af0f0845a6af9842c52d2ef.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/DownloadPolyglotSheetButton.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 8e54cd3caac67e342a4de932a5bfcb1a.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/GoogleDownload.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: b40fbcf3b01f43d0b49614b03f03d28c.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/GoogleDriveDownloadFormat.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 9b1d4a5e6eac4e038629f1f9f46c01f6.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/ILocalize.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 2149ebc07ac5af542ad76188d4e03cb5.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/Language.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 8fcad05912c04dd47805e196f5bd0028.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LanguageDirection.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: ae3b16432c6b98d4c9861ece3c318b72.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LanguageDropdown.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: bb21fa66dda72f840a21c16c3badb6d2.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/Localization.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: f8b4bc5aeb29cde458fe1bd25d63edaa.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizationAsset.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 8b22dd82566042c0adea6d923e09cc33.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizationDocument.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: d35d7df8a98642318624cc6c3fccbb32.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizationImporter.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 87aa9a0793234724e8f3a5df7deb3698.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedString.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: be0464cfd3b112747909447f4f1f83fb.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedStringAttribute.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: d066b9595e70d99409d90602d1976efd.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedText.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 33817d1a3358b674188f3d0be8794067.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedTextComponent.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: cbcb9d65df554c64dbb7b00299a2c488.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedTextMesh.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: f3cddec3d35bdfc4ba65f3719edd8e08.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedTextMeshPro.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: e391908eac8f1ae4da76924a3813835b.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedTextMeshProUGUI.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 27798c389c988da48b345a899559ce5e.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/LocalizedUILabel.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: ab20755e015f2ad4eba1d6db307166ef.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/PolyglotScripts.asmdef.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 46cc2325ddc967847a6e9ca3f6ebd47f.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/SaveLanguagePreference.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 663abd50b6dae86498b4f968cd05cb00.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/CsvTsvParser/CsvReader.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 3a5595778eea4ba4bb00e3d703e21d78.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/CsvTsvParser/LICENSE.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 6059f1e293f392340b8734d074af53fb.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scripts/CsvTsvParser/TsvReader.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: c0ef5607af8a4512940bd56cbc3ab5d9.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Scenes/ExampleOptionsScreen.unity.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: b633c8ac4d9882e408e904fb566a7971.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Resources/Localization.asset.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 0f74782e1b8b9d744b2e1b71fdbc68af.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Localization/PolyglotGamedev - Master.txt.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: c4dc0d059266d8d47862f46460cf8f31.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizationEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: ca14bde410cf96740b40307f76d415f5.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizationPostProcessor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: cd56f1ff5576fda45ae8abc8a19a66f9.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 0638a87c9d5ba9b4180b3bf77def5d4c.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedStringAttributeDrawer.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 510debe6b5da0684c9b4fe5e928c796c.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedStringDrawer.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: ac77ea5aa1dacfc44ab431733abc0c68.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedTextEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 9812273c197fb264386042b2a7360c1d.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedTextMeshEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 7446b501597fde043a447c6c36a411bd.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedTextMeshProEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 8fbc72b7c90d1dd469c492dc81c96201.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedTextMeshProUGUIEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 8f1fd26d3c454a01a1247ac900c5b405.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/LocalizedUILabelEditor.cs.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 6dbb5e7a79e967d4ba42fef22aa3af21.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Packages/Polyglot/Editor/PolyglotEditor.asmdef.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: eb9d9c1b90447394ca071cb1cb5384a2.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: b42aa8acaabecbf943da2892de5e6aeb.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/1.2.172.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 2fbadeb0c8e5d4de48f015d20810dc24.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 01d990a293634e69adca38d1c9ad4b28.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/LICENSE.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: 7816b605d8704fa2b1ad93676ca39942.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/README.md.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: af375ab7a7be496495fce13d2f5d8f21.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.172_manifest.txt.meta
+09/06/2026 13:20:59 Data Extracted!
+09/06/2026 13:20:59 Saving Results...
+09/06/2026 13:20:59 Saving File: c1e59794c1de46afb29f9f464cc726c1.json
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Done!!
+09/06/2026 13:20:59 Done!

@@ -1,0 +1,78 @@
+{
+  "guid": "c2bf71b1d47491348bac1b31e2e9bb9d",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Audio/Wood Impact.mp3.meta",
+  "name": "Wood Impact.mp3",
+  "type": "meta",
+  "file_size": 485,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AudioImporter",
+      "AudioImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "7"
+        },
+        {
+          "defaultSettings": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "loadType": "0"
+            },
+            {
+              "sampleRateSetting": "0"
+            },
+            {
+              "sampleRateOverride": "44100"
+            },
+            {
+              "compressionFormat": "1"
+            },
+            {
+              "quality": "1"
+            },
+            {
+              "conversionMode": "0"
+            },
+            {
+              "preloadAudioData": "0"
+            }
+          ]
+        },
+        {
+          "platformSettingOverrides": ""
+        },
+        {
+          "forceToMono": "0"
+        },
+        {
+          "normalize": "1"
+        },
+        {
+          "loadInBackground": "0"
+        },
+        {
+          "ambisonic": "0"
+        },
+        {
+          "D": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

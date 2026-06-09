@@ -1,0 +1,26 @@
+{
+  "guid": "5ff1362dd6f1d7d4699e776eadf19460",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Looks Awesome.npr.meta",
+  "name": "Looks Awesome.npr",
+  "type": "meta",
+  "file_size": 174,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "2_groundgrowing",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+}

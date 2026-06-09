@@ -1,0 +1,29 @@
+{
+  "guid": "0b8a7f10b029a724194d182c9a889721",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Prefabs/Hud.prefab.meta",
+  "name": "Hud.prefab",
+  "type": "meta",
+  "file_size": 154,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PrefabImporter",
+      "PrefabImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

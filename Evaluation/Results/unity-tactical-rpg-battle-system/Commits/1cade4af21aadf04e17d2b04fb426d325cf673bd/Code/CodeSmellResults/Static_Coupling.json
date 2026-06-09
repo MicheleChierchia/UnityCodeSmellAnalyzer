@@ -1,0 +1,14 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointProgressTracker.circuit",
+      "Line": 14
+    }
+  ]
+}

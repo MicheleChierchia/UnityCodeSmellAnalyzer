@@ -1,0 +1,48 @@
+{
+  "guid": "f6160323a08e5624ea244a5fd4cac922",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip/Assets/Shaders/LaserShotLit.shadergraph.meta",
+  "name": "LaserShotLit.shadergraph",
+  "type": "meta",
+  "file_size": 285,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ScriptedImporter",
+      "ScriptedImporter": [
+        {
+          "internalIDToNameTable": "[]"
+        },
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        },
+        {
+          "script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "625f186215c104763be7675aa2d941aa"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "3_lsss-wip",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/3_lsss-wip"
+}

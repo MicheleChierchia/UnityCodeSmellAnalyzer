@@ -1,0 +1,30 @@
+{
+  "guid": "d06466c03d263624786afa88b52928b6",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStatsGui.cs.meta",
+  "name": "PhotonStatsGui.cs",
+  "type": "meta",
+  "file_size": 213,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- ExitGames": [
+            {
+              "": "- PUN"
+            },
+            {
+              "": "- Photon"
+            },
+            {
+              "": "- Networking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

@@ -1,0 +1,504 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Unknown",
+  "Occurrency": 71,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/ModuleBase.cs",
+      "Kind": "Field",
+      "Type": "ModuleBase[]",
+      "FullName": "LibNoise.ModuleBase._modules",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Noise2D.cs",
+      "Kind": "Field",
+      "Type": "ModuleBase",
+      "FullName": "LibNoise.Noise2D._generator",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Kind": "Field",
+      "Type": "Perlin",
+      "FullName": "LibNoise.Operator.Turbulence._xDistort",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Kind": "Field",
+      "Type": "Perlin",
+      "FullName": "LibNoise.Operator.Turbulence._yDistort",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Kind": "Field",
+      "Type": "Perlin",
+      "FullName": "LibNoise.Operator.Turbulence._zDistort",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/DemoController.cs",
+      "Kind": "Field",
+      "Type": "MapGenerator",
+      "FullName": "DemoController.mapGen",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "AnimationCurve",
+      "FullName": "MapGenerator.heightAdjuster",
+      "Line": 37
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "Noise2D",
+      "FullName": "MapGenerator.noiseMap",
+      "Line": 51
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "Noise2D",
+      "FullName": "MapGenerator.updatedMap",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "NoiseFunctions[]",
+      "FullName": "MapGenerator.noiseFunctions",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "ModuleBase",
+      "FullName": "MapGenerator.baseModule",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Kind": "Field",
+      "Type": "ModuleBase",
+      "FullName": "NoiseFunctions.moduleBase",
+      "Line": 399
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
+      "Kind": "Field",
+      "Type": "NoiseFunctions.NoiseType",
+      "FullName": "MapGenEditor.noiseType",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
+      "Kind": "Field",
+      "Type": "NoiseFunctions[]",
+      "FullName": "MapGenEditor.oldNoises",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Noise2D.cs",
+      "Parameter": "generator",
+      "Constructor": "Noise2D",
+      "Type": "ModuleBase",
+      "Line": 70
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Noise2D.cs",
+      "Parameter": "generator",
+      "Constructor": "Noise2D",
+      "Type": "ModuleBase",
+      "Line": 81
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Abs.cs",
+      "Parameter": "input",
+      "Constructor": "Abs",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Add.cs",
+      "Parameter": "lhs",
+      "Constructor": "Add",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Add.cs",
+      "Parameter": "rhs",
+      "Constructor": "Add",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Blend.cs",
+      "Parameter": "lhs",
+      "Constructor": "Blend",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Blend.cs",
+      "Parameter": "rhs",
+      "Constructor": "Blend",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Blend.cs",
+      "Parameter": "controller",
+      "Constructor": "Blend",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Cache.cs",
+      "Parameter": "input",
+      "Constructor": "Cache",
+      "Type": "ModuleBase",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Clamp.cs",
+      "Parameter": "input",
+      "Constructor": "Clamp",
+      "Type": "ModuleBase",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Clamp.cs",
+      "Parameter": "input",
+      "Constructor": "Clamp",
+      "Type": "ModuleBase",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Curve.cs",
+      "Parameter": "input",
+      "Constructor": "Curve",
+      "Type": "ModuleBase",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Displace.cs",
+      "Parameter": "input",
+      "Constructor": "Displace",
+      "Type": "ModuleBase",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Displace.cs",
+      "Parameter": "x",
+      "Constructor": "Displace",
+      "Type": "ModuleBase",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Displace.cs",
+      "Parameter": "y",
+      "Constructor": "Displace",
+      "Type": "ModuleBase",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Displace.cs",
+      "Parameter": "z",
+      "Constructor": "Displace",
+      "Type": "ModuleBase",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Exponent.cs",
+      "Parameter": "input",
+      "Constructor": "Exponent",
+      "Type": "ModuleBase",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Exponent.cs",
+      "Parameter": "input",
+      "Constructor": "Exponent",
+      "Type": "ModuleBase",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Invert.cs",
+      "Parameter": "input",
+      "Constructor": "Invert",
+      "Type": "ModuleBase",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Max.cs",
+      "Parameter": "lhs",
+      "Constructor": "Max",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Max.cs",
+      "Parameter": "rhs",
+      "Constructor": "Max",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Min.cs",
+      "Parameter": "lhs",
+      "Constructor": "Min",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Min.cs",
+      "Parameter": "rhs",
+      "Constructor": "Min",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Multiply.cs",
+      "Parameter": "lhs",
+      "Constructor": "Multiply",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Multiply.cs",
+      "Parameter": "rhs",
+      "Constructor": "Multiply",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Power.cs",
+      "Parameter": "lhs",
+      "Constructor": "Power",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Power.cs",
+      "Parameter": "rhs",
+      "Constructor": "Power",
+      "Type": "ModuleBase",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Rotate.cs",
+      "Parameter": "input",
+      "Constructor": "Rotate",
+      "Type": "ModuleBase",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Rotate.cs",
+      "Parameter": "input",
+      "Constructor": "Rotate",
+      "Type": "ModuleBase",
+      "Line": 58
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Scale.cs",
+      "Parameter": "input",
+      "Constructor": "Scale",
+      "Type": "ModuleBase",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Scale.cs",
+      "Parameter": "input",
+      "Constructor": "Scale",
+      "Type": "ModuleBase",
+      "Line": 46
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/ScaleBias.cs",
+      "Parameter": "input",
+      "Constructor": "ScaleBias",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/ScaleBias.cs",
+      "Parameter": "input",
+      "Constructor": "ScaleBias",
+      "Type": "ModuleBase",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Select.cs",
+      "Parameter": "inputA",
+      "Constructor": "Select",
+      "Type": "ModuleBase",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Select.cs",
+      "Parameter": "inputB",
+      "Constructor": "Select",
+      "Type": "ModuleBase",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Select.cs",
+      "Parameter": "controller",
+      "Constructor": "Select",
+      "Type": "ModuleBase",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Select.cs",
+      "Parameter": "inputA",
+      "Constructor": "Select",
+      "Type": "ModuleBase",
+      "Line": 52
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Select.cs",
+      "Parameter": "inputB",
+      "Constructor": "Select",
+      "Type": "ModuleBase",
+      "Line": 52
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Subtract.cs",
+      "Parameter": "lhs",
+      "Constructor": "Subtract",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Subtract.cs",
+      "Parameter": "rhs",
+      "Constructor": "Subtract",
+      "Type": "ModuleBase",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Terrace.cs",
+      "Parameter": "input",
+      "Constructor": "Terrace",
+      "Type": "ModuleBase",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Terrace.cs",
+      "Parameter": "input",
+      "Constructor": "Terrace",
+      "Type": "ModuleBase",
+      "Line": 46
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Translate.cs",
+      "Parameter": "input",
+      "Constructor": "Translate",
+      "Type": "ModuleBase",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Translate.cs",
+      "Parameter": "input",
+      "Constructor": "Translate",
+      "Type": "ModuleBase",
+      "Line": 46
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "input",
+      "Constructor": "Turbulence",
+      "Type": "ModuleBase",
+      "Line": 52
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "input",
+      "Constructor": "Turbulence",
+      "Type": "ModuleBase",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "x",
+      "Constructor": "Turbulence",
+      "Type": "Perlin",
+      "Line": 77
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "y",
+      "Constructor": "Turbulence",
+      "Type": "Perlin",
+      "Line": 77
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "z",
+      "Constructor": "Turbulence",
+      "Type": "Perlin",
+      "Line": 77
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise/Operator/Turbulence.cs",
+      "Parameter": "input",
+      "Constructor": "Turbulence",
+      "Type": "ModuleBase",
+      "Line": 77
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/FlatMeshGenerator.cs",
+      "Parameter": "noisemap",
+      "Method": "FlatMeshGenerator.GenerateTerrainMesh(LibNoise.Noise2D, float, AnimationCurve)",
+      "Type": "Noise2D",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapDisplay.cs",
+      "Parameter": "meshData",
+      "Method": "MapDisplay.DrawMesh(MeshData, Texture2D)",
+      "Type": "MeshData",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapGenerator.cs",
+      "Parameter": "noiseIn",
+      "Method": "MapGenerator.GetMapTexture(MapGenerator.RenderType, LibNoise.Noise2D)",
+      "Type": "Noise2D",
+      "Line": 206
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/SphereMagic.cs",
+      "Parameter": "noiseModule",
+      "Method": "SphereMagic.CreatePlanet(int, float, LibNoise.ModuleBase, float, TerrainType[])",
+      "Type": "ModuleBase",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/SphereMagic.cs",
+      "Parameter": "baseModule",
+      "Method": "SphereMagic.CreateHeightArray(Vector3[], double[], LibNoise.ModuleBase)",
+      "Type": "ModuleBase",
+      "Line": 173
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
+      "Parameter": "noiseFunc",
+      "Method": "MapGenEditor.GetInspectorElements(NoiseFunctions, int, MapGenerator)",
+      "Type": "NoiseFunctions",
+      "Line": 115
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
+      "Parameter": "generator",
+      "Method": "MapGenEditor.GetInspectorElements(NoiseFunctions, int, MapGenerator)",
+      "Type": "MapGenerator",
+      "Line": 115
+    }
+  ]
+}

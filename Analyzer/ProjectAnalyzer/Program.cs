@@ -127,27 +127,87 @@ namespace ProjectAnalyzer
                     WriteColoredConsole($"\n[ProjectAnalyzer] [{count}/{commits.Count}] Analyzing commit {commit.Hash.Substring(0, 8)} ({commit.Date})", ConsoleColor.Blue);
                     progressBar.Update(count);
 
-                    gitManager.Checkout(commit.Hash);
-
-                    // Restore dependencies if target project has package references
-                    using (var spinner = new SharedUtilities.ProgressIndicator("Restoring dependencies"))
-                    {
-                        RestoreDotnetDependencies(gitManager.TempGameFolder);
-                    }
-
                     string commitResultsDir = Path.Combine(resultsDir, "Commits", commit.Hash);
-                    Directory.CreateDirectory(commitResultsDir);
                     string codeResults = Path.Combine(commitResultsDir, "Code");
                     string dataResults = Path.Combine(commitResultsDir, "Data");
-                    Directory.CreateDirectory(codeResults);
-                    Directory.CreateDirectory(dataResults);
+
+                    bool codeChanged = true;
+                    bool dataChanged = true;
+                    string? previousCommitHash = count > 1 ? commits[count - 2].Hash : null;
+                    string? prevCodeResults = null;
+                    string? prevDataResults = null;
+
+                    if (previousCommitHash != null)
+                    {
+                        string previousCommitDir = Path.Combine(resultsDir, "Commits", previousCommitHash);
+                        prevCodeResults = Path.Combine(previousCommitDir, "Code");
+                        prevDataResults = Path.Combine(previousCommitDir, "Data");
+
+                        var changedFiles = gitManager.GetChangedFiles(previousCommitHash, commit.Hash);
+                        if (changedFiles != null && changedFiles.Count > 0)
+                        {
+                            codeChanged = changedFiles.Any(f => f.EndsWith(".cs", StringComparison.OrdinalIgnoreCase));
+                            dataChanged = changedFiles.Any(f => 
+                                f.EndsWith(".unity", StringComparison.OrdinalIgnoreCase) ||
+                                f.EndsWith(".prefab", StringComparison.OrdinalIgnoreCase) ||
+                                f.EndsWith(".mat", StringComparison.OrdinalIgnoreCase) ||
+                                f.EndsWith(".controller", StringComparison.OrdinalIgnoreCase) ||
+                                f.EndsWith(".asset", StringComparison.OrdinalIgnoreCase) ||
+                                f.EndsWith(".meta", StringComparison.OrdinalIgnoreCase)
+                            );
+                        }
+                    }
+
+                    if (Directory.Exists(commitResultsDir) && File.Exists(Path.Combine(codeResults, "CodeAnalysis.json")))
+                    {
+                        WriteColoredConsole($"[ProjectAnalyzer] Skipping commit {commit.Hash.Substring(0, 8)} - already analyzed.", ConsoleColor.DarkGray);
+                        var reportData = AggregateResults(codeResults, dataResults);
+                        historyResults.Add(new HistoryResult { Commit = commit, Results = reportData });
+
+                        dynamic summary = ((dynamic)reportData).summary;
+                        csvLines.Add($"{commit.Hash},{commit.Date},{commit.PullRequestNumber ?? ""},{summary.loc},{summary.files},{summary.errors},{summary.warnings}");
+                        continue;
+                    }
+
+                    if (!codeChanged && !dataChanged && prevCodeResults != null && prevDataResults != null && Directory.Exists(prevCodeResults) && Directory.Exists(prevDataResults))
+                    {
+                        WriteColoredConsole($"[ProjectAnalyzer] Skipping checkout (no relevant files changed in commit)", ConsoleColor.DarkGray);
+                        Directory.CreateDirectory(commitResultsDir);
+                        CopyDirectory(prevCodeResults, codeResults);
+                        CopyDirectory(prevDataResults, dataResults);
+                    }
+                    else
+                    {
+                        gitManager.Checkout(commit.Hash);
+
+                        if (codeChanged)
+                        {
+                            using (var spinner = new SharedUtilities.ProgressIndicator("Restoring dependencies"))
+                            {
+                                RestoreDotnetDependencies(gitManager.TempGameFolder);
+                            }
+                        }
+
+                        Directory.CreateDirectory(commitResultsDir);
+                        Directory.CreateDirectory(codeResults);
+                        Directory.CreateDirectory(dataResults);
+
+                        try
+                        {
+                            using (var spinner = new SharedUtilities.ProgressIndicator("Running analyzers"))
+                            {
+                                RunAnalyzers(gitManager.TempGameFolder, gameName, codeResults, dataResults, codeChanged, dataChanged, prevCodeResults, prevDataResults);
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, $"Failed to run analyzers for commit {commit.Hash}: {ex.Message}");
+                            SharedUtilities.Logger.LogException(ex, "Analyzers Execution");
+                        }
+                    }
 
                     try
                     {
-                        using (var spinner = new SharedUtilities.ProgressIndicator("Running analyzers"))
-                        {
-                            RunAnalyzers(gitManager.TempGameFolder, gameName, codeResults, dataResults);
-                        }
                         var reportData = AggregateResults(codeResults, dataResults);
                         historyResults.Add(new HistoryResult { Commit = commit, Results = reportData });
 
@@ -198,7 +258,22 @@ namespace ProjectAnalyzer
             return 0;
         }
 
-        static void RunAnalyzers(string gameFolder, string gameName, string codeResults, string dataResults)
+        static void CopyDirectory(string sourceDir, string destinationDir)
+        {
+            var dir = new DirectoryInfo(sourceDir);
+            if (!dir.Exists) return;
+            Directory.CreateDirectory(destinationDir);
+            foreach (FileInfo file in dir.GetFiles())
+            {
+                file.CopyTo(Path.Combine(destinationDir, file.Name), true);
+            }
+            foreach (DirectoryInfo subdir in dir.GetDirectories())
+            {
+                CopyDirectory(subdir.FullName, Path.Combine(destinationDir, subdir.Name));
+            }
+        }
+
+        static void RunAnalyzers(string gameFolder, string gameName, string codeResults, string dataResults, bool codeChanged, bool dataChanged, string? prevCodeResults, string? prevDataResults)
         {
             string baseDir = AppDomain.CurrentDomain.BaseDirectory;
             
@@ -207,12 +282,34 @@ namespace ProjectAnalyzer
             string unityDataAnalyzer = FindExecutable("UnityDataAnalyzer");
             string metaSmellAnalyzer = FindExecutable("MetaSmellAnalyzer");
 
-            ExecuteProcess(csharpAnalyzer, $"-n \"{gameName}\" -p \"{gameFolder}\" -r \"{codeResults}\" -v");
-            ExecuteProcess(codeSmellAnalyzer, $"-d \"{Path.Combine(codeResults, "CodeAnalysis.json")}\" -r \"{codeResults}\" -c -v");
-            ExecuteProcess(unityDataAnalyzer, $"-n \"{gameName}\" -d \"{gameFolder}\" -r \"{dataResults}\" -v");
-            
-            string smellFile = Path.Combine(Path.GetDirectoryName(metaSmellAnalyzer) ?? "", "smell.txt");
-            ExecuteProcess(metaSmellAnalyzer, $"-d \"{Path.Combine(dataResults, "mainResults")}\" \"{Path.Combine(dataResults, "metaResults")}\" -r \"{dataResults}\" -c -v -f \"{smellFile}\"");
+            var codeTask = System.Threading.Tasks.Task.Run(() => {
+                if (!codeChanged && prevCodeResults != null && Directory.Exists(prevCodeResults))
+                {
+                    WriteColoredConsole($"[ProjectAnalyzer] Skipping Code Analysis (no .cs files changed)", ConsoleColor.DarkGray);
+                    CopyDirectory(prevCodeResults, codeResults);
+                }
+                else
+                {
+                    ExecuteProcess(csharpAnalyzer, $"-n \"{gameName}\" -p \"{gameFolder}\" -r \"{codeResults}\" -v");
+                    ExecuteProcess(codeSmellAnalyzer, $"-d \"{Path.Combine(codeResults, "CodeAnalysis.json")}\" -r \"{codeResults}\" -c -v");
+                }
+            });
+
+            var dataTask = System.Threading.Tasks.Task.Run(() => {
+                if (!dataChanged && prevDataResults != null && Directory.Exists(prevDataResults))
+                {
+                    WriteColoredConsole($"[ProjectAnalyzer] Skipping Data Analysis (no unity/prefab files changed)", ConsoleColor.DarkGray);
+                    CopyDirectory(prevDataResults, dataResults);
+                }
+                else
+                {
+                    ExecuteProcess(unityDataAnalyzer, $"-n \"{gameName}\" -d \"{gameFolder}\" -r \"{dataResults}\" -v");
+                    string smellFile = Path.Combine(Path.GetDirectoryName(metaSmellAnalyzer) ?? "", "smell.txt");
+                    ExecuteProcess(metaSmellAnalyzer, $"-d \"{Path.Combine(dataResults, "mainResults")}\" \"{Path.Combine(dataResults, "metaResults")}\" -r \"{dataResults}\" -c -v -f \"{smellFile}\"");
+                }
+            });
+
+            System.Threading.Tasks.Task.WaitAll(codeTask, dataTask);
         }
 
         static string FindExecutable(string name)

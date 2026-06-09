@@ -1,0 +1,23 @@
+{
+  "guid": "a3b997593a4f12c4c991490593f3b513",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta",
+  "name": "CrossPlatformInputGuidelines.txt",
+  "type": "meta",
+  "file_size": 113,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

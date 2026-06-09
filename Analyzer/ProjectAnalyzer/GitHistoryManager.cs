@@ -129,6 +129,23 @@ namespace ProjectAnalyzer
             return commits;
         }
 
+        public List<string>? GetChangedFiles(string? previousCommitHash, string currentCommitHash)
+        {
+            try
+            {
+                string cmd = string.IsNullOrEmpty(previousCommitHash) 
+                    ? $"diff-tree --no-commit-id --name-only -r --root {currentCommitHash}"
+                    : $"diff-tree --no-commit-id --name-only -r {previousCommitHash} {currentCommitHash}";
+                string output = RunGitCommand(cmd);
+                return output.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+            }
+            catch (Exception ex)
+            {
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Warning, $"Could not get changed files: {ex.Message}");
+                return null;
+            }
+        }
+
         public void Checkout(string target)
         {
             RunGitCommand($"checkout {target} --quiet --force");

@@ -1,0 +1,23 @@
+{
+  "guid": "0cdb788e79be7594e8cc8e1f742d23b7",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt.meta",
+  "name": "RollerBallGuidelines.txt",
+  "type": "meta",
+  "file_size": 113,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

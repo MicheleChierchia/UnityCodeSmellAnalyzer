@@ -1,0 +1,23 @@
+{
+  "guid": "bc9b000e9b8028247bd816e159382646",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt.meta",
+  "name": "FirstPersonCharacterGuidelines.txt",
+  "type": "meta",
+  "file_size": 113,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

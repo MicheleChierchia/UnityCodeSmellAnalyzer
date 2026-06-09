@@ -1,0 +1,1597 @@
+{
+  "guid": "cb798a9e2a93e414b8960bdac45e8f1f",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Resources/Units/Hero.prefab",
+  "name": "Hero",
+  "type": "prefab",
+  "file_size": 8763,
+  "num_components": 20,
+  "COMPONENTS": [
+    {
+      "id": "100100000",
+      "Prefab": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Modification": [
+            {
+              "m_TransformParent": [
+                {
+                  "fileID": "0"
+                }
+              ]
+            },
+            {
+              "m_Modifications": "[]"
+            },
+            {
+              "m_RemovedComponents": "[]"
+            }
+          ]
+        },
+        {
+          "m_ParentPrefab": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootGameObject": [
+            {
+              "fileID": "1000010530667240"
+            }
+          ]
+        },
+        {
+          "m_IsPrefabParent": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000010511480472",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000013497923632"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Jumper"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000010530667240",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000010127069986"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Hero"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000010637555878",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000010926711144"
+                }
+              ]
+            },
+            {
+              "- 33": [
+                {
+                  "fileID": "33000010970249508"
+                }
+              ]
+            },
+            {
+              "- 135": [
+                {
+                  "fileID": "135000010793838292"
+                }
+              ]
+            },
+            {
+              "- 23": [
+                {
+                  "fileID": "23000012853472774"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Sphere"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000013568876842",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000010845967642"
+                }
+              ]
+            },
+            {
+              "- 33": [
+                {
+                  "fileID": "33000012627707078"
+                }
+              ]
+            },
+            {
+              "- 135": [
+                {
+                  "fileID": "135000012902910738"
+                }
+              ]
+            },
+            {
+              "- 23": [
+                {
+                  "fileID": "23000011991000806"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Sphere"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000013964582232",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000012967028708"
+                }
+              ]
+            },
+            {
+              "- 33": [
+                {
+                  "fileID": "33000011576171816"
+                }
+              ]
+            },
+            {
+              "- 135": [
+                {
+                  "fileID": "135000011599936124"
+                }
+              ]
+            },
+            {
+              "- 23": [
+                {
+                  "fileID": "23000011476897746"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Sphere 1"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "4000010127069986",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010530667240"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "1.6"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "4000013497923632"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "4000010845967642",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013568876842"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "4000010926711144"
+            },
+            {
+              "fileID": "4000012967028708"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "4000013497923632"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "4000010926711144",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010637555878"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "-0"
+            },
+            {
+              "y": "-0"
+            },
+            {
+              "z": "-0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0.15"
+            },
+            {
+              "y": "0.325"
+            },
+            {
+              "z": "0.308"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "0.14"
+            },
+            {
+              "y": "0.16000001"
+            },
+            {
+              "z": "0.14"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": "[]"
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "4000010845967642"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "4000012967028708",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013964582232"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "-0"
+            },
+            {
+              "y": "-0"
+            },
+            {
+              "z": "-0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "-0.15"
+            },
+            {
+              "y": "0.325"
+            },
+            {
+              "z": "0.308"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "0.14"
+            },
+            {
+              "y": "0.16000001"
+            },
+            {
+              "z": "0.14"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": "[]"
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "4000010845967642"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "1"
+        }
+      ]
+    },
+    {
+      "id": "4000013497923632",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010511480472"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "4000010845967642"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "4000010127069986"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "23000011476897746",
+      "MeshRenderer": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013964582232"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_CastShadows": "1"
+        },
+        {
+          "m_ReceiveShadows": "1"
+        },
+        {
+          "m_MotionVectors": "1"
+        },
+        {
+          "m_LightProbeUsage": "1"
+        },
+        {
+          "m_ReflectionProbeUsage": "1"
+        },
+        {
+          "m_Materials": [
+            {
+              "fileID": "2100000"
+            },
+            {
+              "guid": "75d5b9e16f1ed4fc0ae33c999a5f6c9b"
+            },
+            {
+              "type": "2"
+            }
+          ]
+        },
+        {
+          "m_SubsetIndices": ""
+        },
+        {
+          "m_StaticBatchRoot": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ProbeAnchor": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_LightProbeVolumeOverride": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ScaleInLightmap": "1"
+        },
+        {
+          "m_PreserveUVs": "1"
+        },
+        {
+          "m_IgnoreNormalsForChartDetection": "0"
+        },
+        {
+          "m_ImportantGI": "0"
+        },
+        {
+          "m_SelectedWireframeHidden": "0"
+        },
+        {
+          "m_MinimumChartSize": "4"
+        },
+        {
+          "m_AutoUVMaxDistance": "0.5"
+        },
+        {
+          "m_AutoUVMaxAngle": "89"
+        },
+        {
+          "m_LightmapParameters": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_SortingLayerID": "0"
+        },
+        {
+          "m_SortingOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "23000011991000806",
+      "MeshRenderer": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013568876842"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_CastShadows": "1"
+        },
+        {
+          "m_ReceiveShadows": "1"
+        },
+        {
+          "m_MotionVectors": "1"
+        },
+        {
+          "m_LightProbeUsage": "1"
+        },
+        {
+          "m_ReflectionProbeUsage": "1"
+        },
+        {
+          "m_Materials": [
+            {
+              "fileID": "2100000"
+            },
+            {
+              "guid": "cccb1602351bb4257a078f47028e92e2"
+            },
+            {
+              "type": "2"
+            }
+          ]
+        },
+        {
+          "m_SubsetIndices": ""
+        },
+        {
+          "m_StaticBatchRoot": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ProbeAnchor": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_LightProbeVolumeOverride": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ScaleInLightmap": "1"
+        },
+        {
+          "m_PreserveUVs": "1"
+        },
+        {
+          "m_IgnoreNormalsForChartDetection": "0"
+        },
+        {
+          "m_ImportantGI": "0"
+        },
+        {
+          "m_SelectedWireframeHidden": "0"
+        },
+        {
+          "m_MinimumChartSize": "4"
+        },
+        {
+          "m_AutoUVMaxDistance": "0.5"
+        },
+        {
+          "m_AutoUVMaxAngle": "89"
+        },
+        {
+          "m_LightmapParameters": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_SortingLayerID": "0"
+        },
+        {
+          "m_SortingOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "23000012853472774",
+      "MeshRenderer": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010637555878"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_CastShadows": "1"
+        },
+        {
+          "m_ReceiveShadows": "1"
+        },
+        {
+          "m_MotionVectors": "1"
+        },
+        {
+          "m_LightProbeUsage": "1"
+        },
+        {
+          "m_ReflectionProbeUsage": "1"
+        },
+        {
+          "m_Materials": [
+            {
+              "fileID": "2100000"
+            },
+            {
+              "guid": "75d5b9e16f1ed4fc0ae33c999a5f6c9b"
+            },
+            {
+              "type": "2"
+            }
+          ]
+        },
+        {
+          "m_SubsetIndices": ""
+        },
+        {
+          "m_StaticBatchRoot": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ProbeAnchor": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_LightProbeVolumeOverride": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_ScaleInLightmap": "1"
+        },
+        {
+          "m_PreserveUVs": "1"
+        },
+        {
+          "m_IgnoreNormalsForChartDetection": "0"
+        },
+        {
+          "m_ImportantGI": "0"
+        },
+        {
+          "m_SelectedWireframeHidden": "0"
+        },
+        {
+          "m_MinimumChartSize": "4"
+        },
+        {
+          "m_AutoUVMaxDistance": "0.5"
+        },
+        {
+          "m_AutoUVMaxAngle": "89"
+        },
+        {
+          "m_LightmapParameters": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_SortingLayerID": "0"
+        },
+        {
+          "m_SortingOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "33000010970249508",
+      "MeshFilter": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010637555878"
+            }
+          ]
+        },
+        {
+          "m_Mesh": [
+            {
+              "fileID": "10207"
+            },
+            {
+              "guid": "0000000000000000e000000000000000"
+            },
+            {
+              "type": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33000011576171816",
+      "MeshFilter": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013964582232"
+            }
+          ]
+        },
+        {
+          "m_Mesh": [
+            {
+              "fileID": "10207"
+            },
+            {
+              "guid": "0000000000000000e000000000000000"
+            },
+            {
+              "type": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33000012627707078",
+      "MeshFilter": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013568876842"
+            }
+          ]
+        },
+        {
+          "m_Mesh": [
+            {
+              "fileID": "10207"
+            },
+            {
+              "guid": "0000000000000000e000000000000000"
+            },
+            {
+              "type": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135000010793838292",
+      "SphereCollider": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010637555878"
+            }
+          ]
+        },
+        {
+          "m_Material": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_IsTrigger": "0"
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Radius": "0.5"
+        },
+        {
+          "m_Center": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135000011599936124",
+      "SphereCollider": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013964582232"
+            }
+          ]
+        },
+        {
+          "m_Material": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_IsTrigger": "0"
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Radius": "0.5"
+        },
+        {
+          "m_Center": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135000012902910738",
+      "SphereCollider": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013568876842"
+            }
+          ]
+        },
+        {
+          "m_Material": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_IsTrigger": "0"
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Radius": "0.5"
+        },
+        {
+          "m_Center": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

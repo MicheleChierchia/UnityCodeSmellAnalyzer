@@ -1,0 +1,15 @@
+{
+  "Name": "Singleton Pattern",
+  "Severity": "Low",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETTask.cs",
+      "Class": "ET.ETTask"
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/ETTaskAsync/ETTask.cs",
+      "Class": "ET.ETTask<T>"
+    }
+  ]
+}

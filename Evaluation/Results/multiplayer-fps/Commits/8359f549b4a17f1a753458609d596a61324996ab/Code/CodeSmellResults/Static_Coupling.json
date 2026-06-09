@@ -1,0 +1,77 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 10,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewPositionModel",
+      "FullName": "PhotonTransformView.m_PositionModel",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewRotationModel",
+      "FullName": "PhotonTransformView.m_RotationModel",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewScaleModel",
+      "FullName": "PhotonTransformView.m_ScaleModel",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Photon Unity Networking/Editor/PhotonNetwork/PunSceneSettings.cs",
+      "Kind": "Field",
+      "Type": "List<SceneSetting>",
+      "FullName": "PunSceneSettings.MinViewIdPerScene",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/PlatformSpecificContent.cs",
+      "Kind": "Field",
+      "Type": "MonoBehaviour[]",
+      "FullName": "UnityStandardAssets.Utility.PlatformSpecificContent.m_MonoBehaviours",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Kind": "Field",
+      "Type": "WaypointCircuit",
+      "FullName": "UnityStandardAssets.Utility.WaypointProgressTracker.circuit",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "MouseLook",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_MouseLook",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "FOVKick",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_FovKick",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "CurveControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_HeadBob",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+      "Kind": "Field",
+      "Type": "LerpControlledBob",
+      "FullName": "UnityStandardAssets.Characters.FirstPerson.FirstPersonController.m_JumpBob",
+      "Line": 25
+    }
+  ]
+}

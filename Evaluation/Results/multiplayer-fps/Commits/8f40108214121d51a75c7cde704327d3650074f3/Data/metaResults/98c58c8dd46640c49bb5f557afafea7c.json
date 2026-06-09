@@ -1,0 +1,23 @@
+{
+  "guid": "98c58c8dd46640c49bb5f557afafea7c",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps/Assets/Standard Assets/ParticleSystems/Prefabs/TyreBurnoutSmoke.prefab.meta",
+  "name": "TyreBurnoutSmoke.prefab",
+  "type": "meta",
+  "file_size": 115,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "1_multiplayer-fps",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/1_multiplayer-fps"
+}

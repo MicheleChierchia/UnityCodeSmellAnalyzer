@@ -1,0 +1,30 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Unknown",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Class": "PlayerController",
+      "Method": "PlayerController.Update()",
+      "Invocation": "PlayerController.RayTrace()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 89
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Class": "PlayerController",
+      "Method": "PlayerController.Update()",
+      "Invocation": "PlayerController.RayTrace()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 91
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Class": "PlayerController",
+      "Method": "PlayerController.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 48
+    }
+  ]
+}

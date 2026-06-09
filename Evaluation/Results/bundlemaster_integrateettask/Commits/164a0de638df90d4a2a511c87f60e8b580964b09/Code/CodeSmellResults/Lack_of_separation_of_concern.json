@@ -1,0 +1,33 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Init.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/AssetComponentUpdate.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.Time",
+          "Line": 5
+        }
+      ]
+    }
+  ]
+}

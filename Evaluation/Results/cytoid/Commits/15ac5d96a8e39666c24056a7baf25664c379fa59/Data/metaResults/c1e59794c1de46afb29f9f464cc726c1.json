@@ -1,0 +1,50 @@
+{
+  "guid": "c1e59794c1de46afb29f9f464cc726c1",
+  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.172_manifest.txt.meta",
+  "name": "external-dependency-manager_version-1.2.172_manifest.txt",
+  "type": "meta",
+  "file_size": 428,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- gvh_version-1.2.172": [
+            {
+              "": "- gvhp_exportpath-ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.172_manifest.txt"
+            },
+            {
+              "": "- gvh"
+            },
+            {
+              "": "- gvh_manifest"
+            },
+            {
+              "": "- gvhp_manifestname-0External Dependency Manager"
+            },
+            {
+              "": "- gvhp_manifestname-play-services-resolver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}
