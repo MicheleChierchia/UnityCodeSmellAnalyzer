@@ -26,6 +26,20 @@ namespace ProjectAnalyzer
             }
         }
 
+        private static void WriteColoredConsole(string message, ConsoleColor color)
+        {
+            var originalColor = Console.ForegroundColor;
+            try
+            {
+                Console.ForegroundColor = color;
+                Console.WriteLine(message);
+            }
+            finally
+            {
+                Console.ForegroundColor = originalColor;
+            }
+        }
+
         static int Main(string[] args)
         {
             AppDomain.CurrentDomain.ProcessExit += (s, e) => HandleExit();
@@ -36,7 +50,20 @@ namespace ProjectAnalyzer
             };
             var argList = args.ToList();
             argList.Remove("--history"); // Ignore if provided for backwards compatibility
-            
+
+            // Initialize logger
+            string logFilePath = "ProjectAnalyzer.log";
+            try
+            {
+                SharedUtilities.Logger.Initialize(logFilePath, SharedUtilities.LogLevel.Information, true, true);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Warning: Could not initialize logger: {ex.Message}");
+                // Continue without file logging
+            }
+            SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Information, "ProjectAnalyzer started");
+
             int limit = 0;
             int limitIndex = argList.IndexOf("--limit");
             if (limitIndex >= 0 && limitIndex + 1 < argList.Count)
@@ -49,6 +76,8 @@ namespace ProjectAnalyzer
             if (argList.Count < 1)
             {
                 Console.WriteLine("Usage: ProjectAnalyzer <game_folder> [results_dir] [--limit N]");
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, "Invalid arguments provided");
+                SharedUtilities.Logger.Close();
                 return 1;
             }
 
@@ -56,7 +85,7 @@ namespace ProjectAnalyzer
             string gameName = Path.GetFileName(gameFolder.TrimEnd(Path.DirectorySeparatorChar));
             string resultsDir = argList.Count > 1
                 ? Path.GetFullPath(argList[1])
-                : Path.Combine(Environment.CurrentDirectory, "Results", gameName);
+                : Path.Combine(Environment.CurrentDirectory, "Evaluation", "Results", gameName);
 
             return RunHistoryAnalysis(gameFolder, gameName, resultsDir, limit);
         }
@@ -65,20 +94,22 @@ namespace ProjectAnalyzer
 
         static int RunHistoryAnalysis(string gameFolder, string gameName, string resultsDir, int limit)
         {
-            Console.WriteLine($"[ProjectAnalyzer] Starting HISTORY analysis for {gameName}");
+            WriteColoredConsole($"[ProjectAnalyzer] Starting HISTORY analysis for {gameName}", ConsoleColor.Cyan);
             using var gitManager = new GitHistoryManager(gameFolder);
             _activeGitManager = gitManager;
 
             if (!gitManager.IsGitRepo())
             {
                 Console.WriteLine("[ProjectAnalyzer] Error: game_folder is not a git repository.");
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, $"Game folder is not a git repository: {gameFolder}");
+                SharedUtilities.Logger.Close();
                 return 1;
             }
 
             gitManager.InitializeClone();
 
             var commits = gitManager.GetCommitHistory(limit);
-            Console.WriteLine($"[ProjectAnalyzer] Found {commits.Count} commits to analyze.");
+            WriteColoredConsole($"[ProjectAnalyzer] Found {commits.Count} commits to analyze.", ConsoleColor.Green);
 
             var historyResults = new List<HistoryResult>();
             var csvLines = new List<string> { "CommitHash,Date,PullRequest,LOC,Files,Errors,Warnings" };
@@ -88,15 +119,21 @@ namespace ProjectAnalyzer
             int count = 0;
             try
             {
-                foreach (var commit in commits)
+                using (var progressBar = new SharedUtilities.ProgressBar("Analyzing commits", commits.Count))
                 {
+                    foreach (var commit in commits)
+                    {
                     count++;
-                    Console.WriteLine($"\n[ProjectAnalyzer] [{count}/{commits.Count}] Analyzing commit {commit.Hash.Substring(0, 8)} ({commit.Date})");
+                    WriteColoredConsole($"\n[ProjectAnalyzer] [{count}/{commits.Count}] Analyzing commit {commit.Hash.Substring(0, 8)} ({commit.Date})", ConsoleColor.Blue);
+                    progressBar.Update(count);
 
                     gitManager.Checkout(commit.Hash);
 
                     // Restore dependencies if target project has package references
-                    RestoreDotnetDependencies(gitManager.TempGameFolder);
+                    using (var spinner = new SharedUtilities.ProgressIndicator("Restoring dependencies"))
+                    {
+                        RestoreDotnetDependencies(gitManager.TempGameFolder);
+                    }
 
                     string commitResultsDir = Path.Combine(resultsDir, "Commits", commit.Hash);
                     Directory.CreateDirectory(commitResultsDir);
@@ -107,20 +144,24 @@ namespace ProjectAnalyzer
 
                     try
                     {
-                        RunAnalyzers(gitManager.TempGameFolder, gameName, codeResults, dataResults);
+                        using (var spinner = new SharedUtilities.ProgressIndicator("Running analyzers"))
+                        {
+                            RunAnalyzers(gitManager.TempGameFolder, gameName, codeResults, dataResults);
+                        }
                         var reportData = AggregateResults(codeResults, dataResults);
                         historyResults.Add(new HistoryResult { Commit = commit, Results = reportData });
-                        
+
                         dynamic summary = ((dynamic)reportData).summary;
                         csvLines.Add($"{commit.Hash},{commit.Date},{commit.PullRequestNumber ?? ""},{summary.loc},{summary.files},{summary.errors},{summary.warnings}");
                     }
                     catch (Exception ex)
                     {
-                        Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to analyze commit {commit.Hash}: {ex.Message}");
+                        SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, $"Failed to analyze commit {commit.Hash}: {ex.Message}");
+                        SharedUtilities.Logger.LogException(ex, "Commit Analysis");
                     }
                 }
             }
-            finally
+            } finally
             {
                 // Ensure we checkout the original branch/commit when leaving the loop
                 gitManager.RestoreOriginalBranch();
@@ -140,16 +181,20 @@ namespace ProjectAnalyzer
             try
             {
                 GenerateHistoryHtmlReport(historyResults, resultsDir);
-                Console.WriteLine($"[ProjectAnalyzer] Success! History report generated at: {Path.Combine(resultsDir, "history_report.html")}");
+                WriteColoredConsole($"[ProjectAnalyzer] Success! History report generated at: {Path.Combine(resultsDir, "history_report.html")}", ConsoleColor.Green);
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to generate HTML history report: {ex.Message}");
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Warning, $"Failed to generate HTML history report: {ex.Message}");
+                SharedUtilities.Logger.LogException(ex, "HTML Report Generation");
             }
 
-            Console.WriteLine($"\n[ProjectAnalyzer] History analysis complete.");
+            WriteColoredConsole($"\n[ProjectAnalyzer] History analysis complete.", ConsoleColor.Green);
             Console.WriteLine($"[ProjectAnalyzer] JSON Results: {historyFile}");
             Console.WriteLine($"[ProjectAnalyzer] CSV Trend: {csvFile}");
+
+            SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Information, "ProjectAnalyzer completed successfully");
+            SharedUtilities.Logger.Close();
             return 0;
         }
 
@@ -338,7 +383,8 @@ namespace ProjectAnalyzer
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"[ProjectAnalyzer] Warning: Failed to restore dependencies: {ex.Message}");
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Warning, $"Failed to restore dependencies: {ex.Message}");
+                SharedUtilities.Logger.LogException(ex, "Dependency Restoration");
             }
         }
     }

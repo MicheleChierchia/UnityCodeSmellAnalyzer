@@ -376,7 +376,7 @@ To create a release (as well as to use the ShellStarter), you need to put the co
 
 
 ## Other contents
-- [Evaluation](Evaluation) contains datasets and validation sheets used to the preliminary tool validation
+
 - [Examples](Examples) contains an example (also used in the video) to run the tool with.
 
 ## License

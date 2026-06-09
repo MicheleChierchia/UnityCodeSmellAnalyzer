@@ -47,9 +47,10 @@ namespace ProjectAnalyzer
                 if (!string.IsNullOrEmpty(branch))
                     return branch;
             }
-            catch
+            catch (Exception ex)
             {
-                // Fallback to commit hash if detached HEAD
+                // Fallback to commit hash if detached HEAD (e.g., in detached HEAD state)
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Debug, $"Could not get branch name (detached HEAD?): {ex.Message}");
             }
 
             try
@@ -146,7 +147,8 @@ namespace ProjectAnalyzer
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"[GitManager] Error restoring original branch/commit: {ex.Message}");
+                    SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, $"Error restoring original branch/commit: {ex.Message}");
+                    SharedUtilities.Logger.LogException(ex, "Git Restore");
                 }
             }
         }
@@ -173,7 +175,9 @@ namespace ProjectAnalyzer
 
             if (process.ExitCode != 0 && !args.Contains("checkout") && !args.Contains("symbolic-ref"))
             {
-                throw new Exception($"Git command failed: git {args}\nError: {error}");
+                string errorMsg = $"Git command failed: git {args}\nError: {error}";
+                SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Error, errorMsg);
+                throw new Exception(errorMsg);
             }
 
             return output;

@@ -58,9 +58,18 @@ namespace AnalyzerUtilities
                         }
                     }
                 }
-                catch (UnauthorizedAccessException) { }
-                catch (DirectoryNotFoundException) { }
-                catch (PathTooLongException) { }
+                catch (UnauthorizedAccessException ex)
+                {
+                    SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Debug, $"Access denied to directory {currentDir}: {ex.Message}");
+                }
+                catch (DirectoryNotFoundException ex)
+                {
+                    SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Debug, $"Directory not found {currentDir}: {ex.Message}");
+                }
+                catch (PathTooLongException ex)
+                {
+                    SharedUtilities.Logger.Log(SharedUtilities.LogLevel.Debug, $"Path too long for directory {currentDir}: {ex.Message}");
+                }
             }
 
             return files;

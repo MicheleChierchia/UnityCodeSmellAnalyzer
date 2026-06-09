@@ -71,8 +71,8 @@ namespace Starter
         /// <param name="repo">The repository to analyze</param>
         public void StartThread(string repo)
         {
-            codeAnalysis = new ThreadHandler(CodeAnalysisProcesses(), CodeAnalysisCommands(repo), "Results" + Path.DirectorySeparatorChar + ProjectName(repo) + Path.DirectorySeparatorChar + "Code" + Path.DirectorySeparatorChar);
-            dataAnalysis = new ThreadHandler(DataAnalysisProcesses(), DataAnalysisCommands(repo), "Results" + Path.DirectorySeparatorChar + ProjectName(repo) + Path.DirectorySeparatorChar + "Data" + Path.DirectorySeparatorChar);
+            codeAnalysis = new ThreadHandler(CodeAnalysisProcesses(), CodeAnalysisCommands(repo), "Evaluation" + Path.DirectorySeparatorChar + "Results" + Path.DirectorySeparatorChar + ProjectName(repo) + Path.DirectorySeparatorChar + "Code" + Path.DirectorySeparatorChar);
+            dataAnalysis = new ThreadHandler(DataAnalysisProcesses(), DataAnalysisCommands(repo), "Evaluation" + Path.DirectorySeparatorChar + "Results" + Path.DirectorySeparatorChar + ProjectName(repo) + Path.DirectorySeparatorChar + "Data" + Path.DirectorySeparatorChar);
         }
         /// <summary>
         /// Fetch the project name from the repository path.
@@ -113,9 +113,8 @@ namespace Starter
             string path = Path.GetFullPath(repo);
             string name = ProjectName(repo);
             WriteOutput(DateTime.Now + " Analyzing Code " + name + " Repository");
-            
-            commands.Add("-n " + name + " -p " + path + " -r Results/" + name + "/Code -v");
-            commands.Add("-d Results/" + name + "/Code/CodeAnalysis.json -r Results/" + name + "/Code -c -v");
+            commands.Add("-n " + name + " -p " + path + " -r Evaluation/Results/" + name + "/Code -v");
+            commands.Add("-d Evaluation/Results/" + name + "/Code/CodeAnalysis.json -r Evaluation/Results/" + name + "/Code -c -v");
 
             return commands;
         }
@@ -130,9 +129,8 @@ namespace Starter
             string path = Path.GetFullPath(repo);
             string name = ProjectName(repo);
             WriteOutput(DateTime.Now + " Analyzing Data " + name + " Repository");
-            
-            commands.Add("-n " + name + " -d " + path + " -r Results/" + name + "/Data -v");
-            commands.Add("-d Results/" + name + "/Data -r Results/" + name + "/Data -c -v");
+            commands.Add("-n " + name + " -d " + path + " -r Evaluation/Results/" + name + "/Data -v");
+            commands.Add("-d Evaluation/Results/" + name + "/Data -r Evaluation/Results/" + name + "/Data -c -v");
             
             return commands;
         }
