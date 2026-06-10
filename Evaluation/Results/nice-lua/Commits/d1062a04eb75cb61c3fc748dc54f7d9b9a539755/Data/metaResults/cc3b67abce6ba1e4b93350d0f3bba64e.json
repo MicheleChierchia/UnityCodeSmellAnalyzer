@@ -1,0 +1,26 @@
+{
+  "guid": "cc3b67abce6ba1e4b93350d0f3bba64e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/AssetsPackage/UI/Materials.meta",
+  "name": "Materials",
+  "type": "meta",
+  "file_size": 191,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

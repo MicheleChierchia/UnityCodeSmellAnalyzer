@@ -1,0 +1,29 @@
+{
+  "guid": "ce891db69f7df4143a54c71d895d0f95",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/SubBundleAssets.meta",
+  "name": "SubBundleAssets",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

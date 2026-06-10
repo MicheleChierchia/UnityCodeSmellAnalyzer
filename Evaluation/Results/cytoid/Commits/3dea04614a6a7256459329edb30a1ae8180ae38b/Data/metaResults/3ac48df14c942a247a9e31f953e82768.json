@@ -1,0 +1,26 @@
+{
+  "guid": "3ac48df14c942a247a9e31f953e82768",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Font.meta",
+  "name": "Font",
+  "type": "meta",
+  "file_size": 192,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

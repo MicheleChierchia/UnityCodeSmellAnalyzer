@@ -1,0 +1,42 @@
+{
+  "guid": "9a4e0be0588df4f4b802a7bda9594293",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Sleek Render/Editor/FxStyles.cs.meta",
+  "name": "FxStyles.cs",
+  "type": "meta",
+  "file_size": 263,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

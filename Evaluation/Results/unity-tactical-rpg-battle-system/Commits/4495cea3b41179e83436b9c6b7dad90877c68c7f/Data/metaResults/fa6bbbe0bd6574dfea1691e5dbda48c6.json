@@ -1,6 +1,6 @@
 {
   "guid": "fa6bbbe0bd6574dfea1691e5dbda48c6",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/MoveTargetState.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/MoveTargetState.cs.meta",
   "name": "MoveTargetState.cs",
   "type": "meta",
   "file_size": 263,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

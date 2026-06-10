@@ -1,0 +1,29 @@
+{
+  "guid": "841a4bc2a8ac4489f865df1e61e91d83",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/package.json.meta",
+  "name": "package.json",
+  "type": "meta",
+  "file_size": 163,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PackageManifestImporter",
+      "PackageManifestImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "8_impossibleodds-toolkit",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit"
+}

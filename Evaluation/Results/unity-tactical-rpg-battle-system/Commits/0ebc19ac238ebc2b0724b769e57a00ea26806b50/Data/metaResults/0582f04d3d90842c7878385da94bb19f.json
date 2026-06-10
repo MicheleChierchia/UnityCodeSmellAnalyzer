@@ -1,6 +1,6 @@
 {
   "guid": "0582f04d3d90842c7878385da94bb19f",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/JobCollection.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/JobCollection.cs.meta",
   "name": "JobCollection.cs",
   "type": "meta",
   "file_size": 263,
@@ -37,6 +37,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

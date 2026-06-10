@@ -1,0 +1,42 @@
+{
+  "guid": "0848bff101191904ead4bb831f7084db",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIShadow.cs.meta",
+  "name": "UIShadow.cs",
+  "type": "meta",
+  "file_size": 265,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "-400"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

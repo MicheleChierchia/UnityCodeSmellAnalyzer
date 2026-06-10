@@ -1,0 +1,29 @@
+{
+  "guid": "43286280490d97d43bf4c0b1587d38a2",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/AssetsPackage/Lua/UI/Config/UIWindowNames.lua.bytes.meta",
+  "name": "UIWindowNames.lua.bytes",
+  "type": "meta",
+  "file_size": 158,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

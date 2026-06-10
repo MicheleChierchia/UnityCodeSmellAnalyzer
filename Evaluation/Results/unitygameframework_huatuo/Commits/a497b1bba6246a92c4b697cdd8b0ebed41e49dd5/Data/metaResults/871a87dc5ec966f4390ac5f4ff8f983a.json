@@ -1,0 +1,26 @@
+{
+  "guid": "871a87dc5ec966f4390ac5f4ff8f983a",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms.meta",
+  "name": "UIForms",
+  "type": "meta",
+  "file_size": 191,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

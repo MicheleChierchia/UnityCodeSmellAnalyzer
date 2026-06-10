@@ -1,0 +1,29 @@
+{
+  "guid": "f67bae3267d724f83a65e055354241a8",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/Xml/Assets/MovieDatabase.xml.meta",
+  "name": "MovieDatabase.xml",
+  "type": "meta",
+  "file_size": 158,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "8_impossibleodds-toolkit",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit"
+}

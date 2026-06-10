@@ -1,0 +1,29 @@
+{
+  "guid": "3c0d45bee6d945348a79f892e6d47614",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/modules/SimpleLogger.meta",
+  "name": "SimpleLogger",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

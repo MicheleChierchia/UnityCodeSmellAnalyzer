@@ -1,0 +1,45 @@
+{
+  "guid": "0e2f6370dd4ea407badc66be4e2226f1",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/ChipInteraction.cs.meta",
+  "name": "ChipInteraction.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "12_digital-logic-sim-ce",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce"
+}

@@ -1,0 +1,29 @@
+{
+  "guid": "b600aab29dc0544e7bf22bb9264bb2c2",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Impossible Odds Toolkit/Scripts/Runnables/ImpossibleOdds.Runnables.asmdef.meta",
+  "name": "ImpossibleOdds.Runnables.asmdef",
+  "type": "meta",
+  "file_size": 166,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AssemblyDefinitionImporter",
+      "AssemblyDefinitionImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "8_impossibleodds-toolkit",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit"
+}

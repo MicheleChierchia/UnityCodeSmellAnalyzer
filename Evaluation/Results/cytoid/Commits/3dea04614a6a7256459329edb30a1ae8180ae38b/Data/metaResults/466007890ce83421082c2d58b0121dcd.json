@@ -1,0 +1,29 @@
+{
+  "guid": "466007890ce83421082c2d58b0121dcd",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/ForTMPro/Shaders/TMP_Sprite (UIEffect).shader.meta",
+  "name": "TMP_Sprite (UIEffect).shader",
+  "type": "meta",
+  "file_size": 195,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

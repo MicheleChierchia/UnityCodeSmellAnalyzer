@@ -1,6 +1,6 @@
 {
   "guid": "ad1a22922a735ee479baf0e179648532",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/Operators/Amb.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/Operators/Amb.cs.meta",
   "name": "Amb.cs",
   "type": "meta",
   "file_size": 264,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

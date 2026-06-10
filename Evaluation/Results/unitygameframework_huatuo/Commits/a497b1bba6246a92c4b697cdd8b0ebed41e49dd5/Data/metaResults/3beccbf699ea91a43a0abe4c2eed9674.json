@@ -1,0 +1,29 @@
+{
+  "guid": "3beccbf699ea91a43a0abe4c2eed9674",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/Game.Editor.asmdef.meta",
+  "name": "Game.Editor.asmdef",
+  "type": "meta",
+  "file_size": 166,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AssemblyDefinitionImporter",
+      "AssemblyDefinitionImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

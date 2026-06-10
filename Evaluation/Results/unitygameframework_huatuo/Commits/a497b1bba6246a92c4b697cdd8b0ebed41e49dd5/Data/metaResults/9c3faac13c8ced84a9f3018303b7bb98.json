@@ -1,0 +1,29 @@
+{
+  "guid": "9c3faac13c8ced84a9f3018303b7bb98",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Sound.bytes.meta",
+  "name": "Sound.bytes",
+  "type": "meta",
+  "file_size": 168,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "datatables"
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

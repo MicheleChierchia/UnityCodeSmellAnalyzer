@@ -1,6 +1,6 @@
 {
   "guid": "bf604347059a8ad48a34f6147fd86111",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadBaseRuntimeLoad.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/BundleMaster/BundleMasterRuntime/Base/LoadBaseRuntimeLoad.cs.meta",
   "name": "LoadBaseRuntimeLoad.cs",
   "type": "meta",
   "file_size": 243,
@@ -41,5 +41,5 @@
     }
   ],
   "ProjectName": "6_bundlemaster_integrateettask",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
 }

@@ -1,6 +1,6 @@
 {
   "guid": "ea5873cfd9158664f89459f0c9e1d853",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta",
   "name": "SliderBackgroundSprite.png",
   "type": "meta",
   "file_size": 1126,
@@ -187,6 +187,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

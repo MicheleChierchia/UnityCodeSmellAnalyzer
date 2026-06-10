@@ -1,0 +1,166 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 21,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitManager.cs",
+      "Class": "Tactical.Unit.UnitManager",
+      "Method": "Tactical.Unit.UnitManager.Update()",
+      "Invocation": "Tactical.Unit.UnitManager.UpdateUnits()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/InformationController.cs",
+      "Class": "Tactical.UI.InformationController",
+      "Method": "Tactical.UI.InformationController.Update()",
+      "Invocation": "Tactical.UI.InformationController.UpdateInformations()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 37
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/InformationController.cs",
+      "Class": "Tactical.UI.InformationController",
+      "Method": "Tactical.UI.InformationController.Update()",
+      "Invocation": "Tactical.UI.InformationController.UpdateInformations()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/InformationController.cs",
+      "Class": "Tactical.UI.InformationController",
+      "Method": "Tactical.UI.InformationController.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorMovement.cs",
+      "Class": "Tactical.Grid.CellCursorMovement",
+      "Method": "Tactical.Grid.CellCursorMovement.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorPlayerInput.cs",
+      "Class": "Tactical.Grid.CellCursorPlayerInput",
+      "Method": "Tactical.Grid.CellCursorPlayerInput.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 77
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 70
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 72
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/PlayerInput.cs",
+      "Class": "Tactical.Core.PlayerInput",
+      "Method": "Tactical.Core.PlayerInput.Update()",
+      "Invocation": "Tactical.Core.PlayerInput.HandleInputs()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Class": "Tactical.Core.Controller.InputController",
+      "Method": "Tactical.Core.Controller.InputController.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Class": "Tactical.Core.Controller.Repeater",
+      "Method": "Tactical.Core.Controller.Repeater.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleManager.cs",
+      "Class": "Tactical.Battle.BattleManager",
+      "Method": "Tactical.Battle.BattleManager.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleManager.cs",
+      "Class": "Tactical.Battle.BattleManager",
+      "Method": "Tactical.Battle.BattleManager.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/PlayerActionManager.cs",
+      "Class": "Tactical.Battle.PlayerActionManager",
+      "Method": "Tactical.Battle.PlayerActionManager.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Component/CameraRig.cs",
+      "Class": "Tactical.Battle.Component.CameraRig",
+      "Method": "Tactical.Battle.Component.CameraRig.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 17
+    }
+  ]
+}

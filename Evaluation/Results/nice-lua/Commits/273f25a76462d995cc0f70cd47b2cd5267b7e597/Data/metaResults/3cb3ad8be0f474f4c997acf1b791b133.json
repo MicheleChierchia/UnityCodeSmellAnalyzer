@@ -1,0 +1,20 @@
+{
+  "guid": "3cb3ad8be0f474f4c997acf1b791b133",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/LuaScripts/Common/Tools/event.lua.meta",
+  "name": "event.lua",
+  "type": "meta",
+  "file_size": 90,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

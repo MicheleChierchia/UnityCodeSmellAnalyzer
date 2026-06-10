@@ -1,6 +1,6 @@
 {
   "guid": "0e1375a9dcaa97c4e855f090944b79f3",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.controller",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.controller",
   "name": "PecoBearTest",
   "type": "controller",
   "file_size": 8166,
@@ -1318,5 +1318,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

@@ -1,0 +1,35 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 4,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformViewClassic.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewPositionModel",
+      "FullName": "Photon.Pun.PhotonTransformViewClassic.m_PositionModel",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformViewClassic.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewRotationModel",
+      "FullName": "Photon.Pun.PhotonTransformViewClassic.m_RotationModel",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformViewClassic.cs",
+      "Kind": "Field",
+      "Type": "PhotonTransformViewScaleModel",
+      "FullName": "Photon.Pun.PhotonTransformViewClassic.m_ScaleModel",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonUnityNetworking/Code/Editor/PunSceneSettings.cs",
+      "Kind": "Field",
+      "Type": "List<SceneSetting>",
+      "FullName": "Photon.Pun.PunSceneSettings.MinViewIdPerScene",
+      "Line": 31
+    }
+  ]
+}

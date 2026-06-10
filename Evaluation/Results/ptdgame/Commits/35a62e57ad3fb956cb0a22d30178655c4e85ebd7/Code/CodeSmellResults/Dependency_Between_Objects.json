@@ -1,0 +1,1281 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Medium",
+  "Occurrency": 182,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "LevelWave.UnitLeftEvent",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "LevelWave.UnitDefeatedEvent",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "LevelWave.UnitCapturedEvent",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "LevelWave.Path1",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "LevelWave.Path2",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "LevelWave.Path3",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "LevelWave.Path4",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "UnitProfile",
+      "FullName": "LevelWave.profile1",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Kind": "Field",
+      "Type": "List<Unit>",
+      "FullName": "LevelWave.UnitList",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Variables/TowerSpotVariable.cs",
+      "Kind": "Field",
+      "Type": "TowerSpot",
+      "FullName": "TowerSpotVariable.Value",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/Level/DisposeUnit.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "DisposeUnit.UnitLeftEvent",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Lifebar.cs",
+      "Kind": "Field",
+      "Type": "FloatVariable",
+      "FullName": "Lifebar.weaknessLevel",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnPointerOver.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "OnPointerOver.myUnit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnPointerOver.cs",
+      "Kind": "Field",
+      "Type": "UnitRuntimeCollection",
+      "FullName": "OnPointerOver.HoveringUnits",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnDrag.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "OnDrag.myUnit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnDrag.cs",
+      "Kind": "Field",
+      "Type": "IntEvent",
+      "FullName": "OnDrag.StartTowerDrag",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnDrag.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "OnDrag.EndTowerDrag",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnDrag.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "OnDrag.DoTowerDrag",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/TowerContainer.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "TowerContainer.unit",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/TowerContainer.cs",
+      "Kind": "Field",
+      "Type": "UnitProfile",
+      "FullName": "TowerContainer.profile",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitParty.cs",
+      "Kind": "Field",
+      "Type": "List<TowerContainer>",
+      "FullName": "UnitParty.party",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "AttackingUnit.myUnit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Kind": "Field",
+      "Type": "Attack",
+      "FullName": "AttackingUnit.attack1",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Kind": "Field",
+      "Type": "CreateAttackEvent",
+      "FullName": "AttackingUnit.createAttackEvent",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "AttackingUnit.PauseStatus",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/CandyUnit.cs",
+      "Kind": "Field",
+      "Type": "CandyRuntimeCollection",
+      "FullName": "CandyUnit.candyList",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "UnitRuntimeCollection",
+      "FullName": "Unit.EnemyList",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "UnitRuntimeCollection",
+      "FullName": "Unit.FriendlyList",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "Unit.UnitDefeatedEvent",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "Unit.UnitCaptured",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "FloatVariable",
+      "FullName": "Unit.weaknessLevel",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "UnitProfile",
+      "FullName": "Unit.profile",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Kind": "Field",
+      "Type": "WayPointFollower",
+      "FullName": "Unit.pathFollower",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "WayPointFollower.myUnit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "WayPointFollower.initialPoint",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "WayPointFollower.currentPoint",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "WayPointFollower.targetPoint",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "CandyUnit",
+      "FullName": "WayPointFollower.carriedCandy",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "WayPointFollower.UnitLeftEvent",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "WayPointFollower.PauseStatus",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Kind": "Field",
+      "Type": "CandyRuntimeCollection",
+      "FullName": "WayPointFollower.candyList",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs",
+      "Kind": "Field",
+      "Type": "AttackID",
+      "FullName": "UnitProfile.attack1ID",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs",
+      "Kind": "Field",
+      "Type": "AttackID",
+      "FullName": "UnitProfile.attack2ID",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs",
+      "Kind": "Field",
+      "Type": "AttackID",
+      "FullName": "UnitProfile.attack3ID",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs",
+      "Kind": "Field",
+      "Type": "AttackID",
+      "FullName": "UnitProfile.attack4ID",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/CaptureDragDrop.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "CaptureDragDrop.PauseState",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/CaptureDragDrop.cs",
+      "Kind": "Field",
+      "Type": "UnitRuntimeCollection",
+      "FullName": "CaptureDragDrop.HoveringUnits",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/PauseButton.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "PauseButton.PauseStatus",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "DragTower.PauseStatus",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "TowerSpotVariable",
+      "FullName": "DragTower.selectedTowerSpot",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "IntEvent",
+      "FullName": "DragTower.StartTowerDrag",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "DragTower.EndTowerDrag",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "DragTower.DoTowerDrag",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "DragTower.draggingUnit",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "UnitProfile",
+      "FullName": "DragTower.draggingUnitProfile",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs",
+      "Kind": "Field",
+      "Type": "UnitParty",
+      "FullName": "DragTower.currentParty",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerSpot.cs",
+      "Kind": "Field",
+      "Type": "TowerSpotVariable",
+      "FullName": "TowerSpot.selectedTowerSpot",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerSpot.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "TowerSpot.myUnit",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "IntEvent",
+      "FullName": "TowerBtn.StartTowerDrag",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "TowerBtn.EndTowerDrag",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "BasicEvent",
+      "FullName": "TowerBtn.DoTowerDrag",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "UnitParty",
+      "FullName": "TowerBtn.currentParty",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "UnitProfile",
+      "FullName": "TowerBtn.currentProfile",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs",
+      "Kind": "Field",
+      "Type": "IntEvent",
+      "FullName": "TowerBtn.AddedToParty",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/Waypoint.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "Waypoint.prev",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/Waypoint.cs",
+      "Kind": "Field",
+      "Type": "Waypoint",
+      "FullName": "Waypoint.next",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Kind": "Field",
+      "Type": "UnitParty",
+      "FullName": "PartyManager.currentParty",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Kind": "Field",
+      "Type": "IntEvent",
+      "FullName": "PartyManager.AddedToParty",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Kind": "Field",
+      "Type": "UnitEvent",
+      "FullName": "PartyManager.UnitCapturedEvent",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/CreateAttackEvent.cs",
+      "Kind": "Field",
+      "Type": "Func<Unit, AttackID, Attack>",
+      "FullName": "CreateAttackEvent.listener",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/EffectEvent.cs",
+      "Kind": "Field",
+      "Type": "List<Func<Effect, int>>",
+      "FullName": "EffectEvent.listeners",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitEvent.cs",
+      "Kind": "Field",
+      "Type": "List<Func<Unit, int>>",
+      "FullName": "UnitEvent.listeners",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitOrProfileEvent.cs",
+      "Kind": "Field",
+      "Type": "List<Func<Unit, UnitProfile, int>>",
+      "FullName": "UnitOrProfileEvent.listeners",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Kind": "Field",
+      "Type": "List<Effect>",
+      "FullName": "Effect.stack",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Kind": "Field",
+      "Type": "List<Effect>",
+      "FullName": "Effect.endStack",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Kind": "Field",
+      "Type": "IEffectContainer",
+      "FullName": "Effect.container",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectForUnit.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "EffectForUnit.target",
+      "Line": 3
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectForUnit.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "EffectForUnit.fromWho",
+      "Line": 4
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Projectile.cs",
+      "Kind": "Field",
+      "Type": "Effect_Trigger_Remove",
+      "FullName": "Effect_Projectile.onHitEffect",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Kind": "Field",
+      "Type": "EffectContainerBase",
+      "FullName": "EffectContainer.effectBaseFunc",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Kind": "Field",
+      "Type": "EffectEvent",
+      "FullName": "EffectContainer.addEffectEvent",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "EffectContainer.PauseStatus",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectFadeUnit.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "EffectFadeUnit.fadeTarget",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Kind": "Field",
+      "Type": "CreateAttackEvent",
+      "FullName": "Attack_Finder.createAttackEvent",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Kind": "Field",
+      "Type": "BaseAttack",
+      "FullName": "Attack_Finder.baseFunc",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Kind": "Field",
+      "Type": "EffectEvent",
+      "FullName": "Attack_Finder.addEffectEvent",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Kind": "Field",
+      "Type": "AttackProfile",
+      "FullName": "Attack_Finder.basicProfile",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Kind": "Field",
+      "Type": "AttackProfile",
+      "FullName": "Attack_Finder.basicProjectileProfile",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Kind": "Field",
+      "Type": "Unit",
+      "FullName": "Attack.myUnit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Kind": "Field",
+      "Type": "UnitRuntimeCollection",
+      "FullName": "Attack.targetList",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Kind": "Field",
+      "Type": "BaseAttack",
+      "FullName": "Attack.baseFunc",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Kind": "Field",
+      "Type": "EffectEvent",
+      "FullName": "Attack.addEffectEvent",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Kind": "Field",
+      "Type": "ITargetable",
+      "FullName": "Projectile.myTarget",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Kind": "Field",
+      "Type": "Effect_Trigger_Remove",
+      "FullName": "Projectile.OnHitEffect",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Kind": "Field",
+      "Type": "ProjectileBasicFunc",
+      "FullName": "Projectile.func",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Kind": "Field",
+      "Type": "EffectEvent",
+      "FullName": "Projectile.addEffectEvent",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Kind": "Field",
+      "Type": "IntVariable",
+      "FullName": "ProjectileBasicFunc.PauseStatus",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "profile",
+      "Method": "LevelWave.CreateEnemy(UnitProfile)",
+      "Type": "UnitProfile",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "profile",
+      "Method": "LevelWave.spawnEnemyOnPath(UnitProfile, Waypoint)",
+      "Type": "UnitProfile",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "path",
+      "Method": "LevelWave.spawnEnemyOnPath(UnitProfile, Waypoint)",
+      "Type": "Waypoint",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "whichUnit",
+      "Method": "LevelWave.spawnEnemy(Unit, Waypoint)",
+      "Type": "Unit",
+      "Line": 82
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "path",
+      "Method": "LevelWave.spawnEnemy(Unit, Waypoint)",
+      "Type": "Waypoint",
+      "Line": 82
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "whichUnit",
+      "Method": "LevelWave.UnitLeftLevelEvent(Unit)",
+      "Type": "Unit",
+      "Line": 91
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "whichUnit",
+      "Method": "LevelWave.onUnitDefeated(Unit)",
+      "Type": "Unit",
+      "Line": 97
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs",
+      "Parameter": "whichUnit",
+      "Method": "LevelWave.onUnitCaptured(Unit)",
+      "Type": "Unit",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/Level/DisposeUnit.cs",
+      "Parameter": "whichUnit",
+      "Method": "DisposeUnit.UnitLeftLevel(Unit)",
+      "Type": "Unit",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Parameter": "myUnit",
+      "Method": "AttackingUnit.GetAttack(Unit, AttackID)",
+      "Type": "Unit",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs",
+      "Parameter": "profile",
+      "Method": "Unit.doInit(UnitProfile)",
+      "Type": "UnitProfile",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Parameter": "startPoint",
+      "Method": "WayPointFollower.reset(Waypoint)",
+      "Type": "Waypoint",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Parameter": "newPoint",
+      "Method": "WayPointFollower.setNewPoint(Waypoint)",
+      "Type": "Waypoint",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Parameter": "whichPoint",
+      "Method": "WayPointFollower.GetTargetPoint(Waypoint)",
+      "Type": "Waypoint",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Parameter": "whichPoint",
+      "Method": "WayPointFollower.getNewRotation(Waypoint, bool)",
+      "Type": "Waypoint",
+      "Line": 73
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs",
+      "Parameter": "profile",
+      "Method": "UnitProfile.getBaseValues(UnitProfile)",
+      "Type": "UnitProfile",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "container",
+      "Method": "EffectContainerBase.doAddEffect(IEffectContainer, Effect)",
+      "Type": "IEffectContainer",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectContainerBase.doAddEffect(IEffectContainer, Effect)",
+      "Type": "Effect",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "container",
+      "Method": "EffectContainerBase.doRemoveEffect(IEffectContainer, Effect)",
+      "Type": "IEffectContainer",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectContainerBase.doRemoveEffect(IEffectContainer, Effect)",
+      "Type": "Effect",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "container",
+      "Method": "EffectContainerBase.doRemoveAll(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "container",
+      "Method": "EffectContainerBase.doRunEffects(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs",
+      "Parameter": "container",
+      "Method": "EffectContainerBase.RemoveAllMarked(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerSpot.cs",
+      "Parameter": "newUnit",
+      "Method": "TowerSpot.AddUnit(Unit)",
+      "Type": "Unit",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Parameter": "unit",
+      "Method": "PartyManager.onUnitCaptured(Unit)",
+      "Type": "Unit",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Parameter": "profile",
+      "Method": "PartyManager.addCapturedUnitToParty(UnitProfile)",
+      "Type": "UnitProfile",
+      "Line": 50
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/PartyManager.cs",
+      "Parameter": "profile",
+      "Method": "PartyManager.CreateTower(UnitProfile, int)",
+      "Type": "UnitProfile",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "attacker",
+      "Method": "BaseAttack.getDamage(Unit, Unit, ELMTTYPE, float, int, bool)",
+      "Type": "Unit",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "target",
+      "Method": "BaseAttack.getDamage(Unit, Unit, ELMTTYPE, float, int, bool)",
+      "Type": "Unit",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "defender",
+      "Method": "BaseAttack.getWeakness(ELMTTYPE, Unit)",
+      "Type": "Unit",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "defender",
+      "Method": "BaseAttack.checkTypeWeakness(ELMTTYPE, Unit)",
+      "Type": "Unit",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "attacker",
+      "Method": "BaseAttack.getStabMultiplier(Unit, ELMTTYPE)",
+      "Type": "Unit",
+      "Line": 249
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "attacker",
+      "Method": "BaseAttack.faceTarget(Unit, ITargetable)",
+      "Type": "Unit",
+      "Line": 257
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "target",
+      "Method": "BaseAttack.faceTarget(Unit, ITargetable)",
+      "Type": "ITargetable",
+      "Line": 257
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "attacker",
+      "Method": "BaseAttack.getTargetInRange(Unit, UnitRuntimeCollection, float)",
+      "Type": "Unit",
+      "Line": 280
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs",
+      "Parameter": "targetList",
+      "Method": "BaseAttack.getTargetInRange(Unit, UnitRuntimeCollection, float)",
+      "Type": "UnitRuntimeCollection",
+      "Line": 280
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/CreateAttackEvent.cs",
+      "Parameter": "unit",
+      "Method": "CreateAttackEvent.Raise(Unit, AttackID)",
+      "Type": "Unit",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/EffectEvent.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectEvent.Raise(Effect)",
+      "Type": "Effect",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitEvent.cs",
+      "Parameter": "core",
+      "Method": "UnitEvent.Raise(Unit)",
+      "Type": "Unit",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitOrProfileEvent.cs",
+      "Parameter": "unit",
+      "Method": "UnitOrProfileEvent.Raise(Unit, UnitProfile)",
+      "Type": "Unit",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitOrProfileEvent.cs",
+      "Parameter": "profile",
+      "Method": "UnitOrProfileEvent.Raise(Unit, UnitProfile)",
+      "Type": "UnitProfile",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "whichEffect",
+      "Method": "IEffectContainer.doRemoveEffect(Effect)",
+      "Type": "Effect",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "whichEffect",
+      "Method": "IEffectContainer.doAddEffect(Effect)",
+      "Type": "Effect",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "newEffect",
+      "Method": "Effect.addToStack(Effect)",
+      "Type": "Effect",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "newEffect",
+      "Method": "Effect.addToEndStack(Effect)",
+      "Type": "Effect",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "container",
+      "Method": "Effect.doInit(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 91
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "container",
+      "Method": "Effect.doInitCustom(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 101
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs",
+      "Parameter": "newContainer",
+      "Method": "Effect.addSelfToContainer(IEffectContainer)",
+      "Type": "IEffectContainer",
+      "Line": 142
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectForUnit.cs",
+      "Parameter": "target",
+      "Constructor": "EffectForUnit",
+      "Type": "Unit",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectForUnit.cs",
+      "Parameter": "fromWho",
+      "Constructor": "EffectForUnit",
+      "Type": "Unit",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Projectile.cs",
+      "Parameter": "onHitEffect",
+      "Constructor": "Effect_Projectile",
+      "Type": "Effect_Trigger_Remove",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Projectile.cs",
+      "Parameter": "target",
+      "Constructor": "Effect_Projectile",
+      "Type": "Unit",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Projectile.cs",
+      "Parameter": "fromWho",
+      "Constructor": "Effect_Projectile",
+      "Type": "Unit",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectContainer.onAddEffectEvent(Effect)",
+      "Type": "Effect",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectContainer.doRemoveEffect(Effect)",
+      "Type": "Effect",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Parameter": "whichEffect",
+      "Method": "EffectContainer.doAddEffect(Effect)",
+      "Type": "Effect",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectFadeUnit.cs",
+      "Parameter": "fadeTarget",
+      "Constructor": "EffectFadeUnit",
+      "Type": "Unit",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Damage.cs",
+      "Parameter": "target",
+      "Constructor": "Effect_Damage",
+      "Type": "Unit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Damage.cs",
+      "Parameter": "fromWho",
+      "Constructor": "Effect_Damage",
+      "Type": "Unit",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Damage.cs",
+      "Parameter": "myUnit",
+      "Constructor": "Attack_Damage",
+      "Type": "Unit",
+      "Line": 3
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Damage.cs",
+      "Parameter": "profile",
+      "Constructor": "Attack_Damage",
+      "Type": "AttackProfile",
+      "Line": 3
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Damage.cs",
+      "Parameter": "baseFunc",
+      "Constructor": "Attack_Damage",
+      "Type": "BaseAttack",
+      "Line": 3
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Damage.cs",
+      "Parameter": "addEffectEvent",
+      "Constructor": "Attack_Damage",
+      "Type": "EffectEvent",
+      "Line": 3
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs",
+      "Parameter": "unit",
+      "Method": "Attack_Finder.createAttack(Unit, AttackID)",
+      "Type": "Unit",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "whichUnit",
+      "Method": "Attack.init(Unit, AttackProfile, BaseAttack)",
+      "Type": "Unit",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "profile",
+      "Method": "Attack.init(Unit, AttackProfile, BaseAttack)",
+      "Type": "AttackProfile",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "baseFunc",
+      "Method": "Attack.init(Unit, AttackProfile, BaseAttack)",
+      "Type": "BaseAttack",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "myUnit",
+      "Constructor": "Attack",
+      "Type": "Unit",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "profile",
+      "Constructor": "Attack",
+      "Type": "AttackProfile",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "baseFunc",
+      "Constructor": "Attack",
+      "Type": "BaseAttack",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs",
+      "Parameter": "addEffectEvent",
+      "Constructor": "Attack",
+      "Type": "EffectEvent",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Projectile.cs",
+      "Parameter": "myUnit",
+      "Constructor": "Attack_Projectile",
+      "Type": "Unit",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Projectile.cs",
+      "Parameter": "profile",
+      "Constructor": "Attack_Projectile",
+      "Type": "AttackProfile",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Projectile.cs",
+      "Parameter": "baseFunc",
+      "Constructor": "Attack_Projectile",
+      "Type": "BaseAttack",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Projectile.cs",
+      "Parameter": "addEffectEvent",
+      "Constructor": "Attack_Projectile",
+      "Type": "EffectEvent",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Parameter": "target",
+      "Method": "Projectile.init(ITargetable, Effect_Trigger_Remove, GameObject, float, bool)",
+      "Type": "ITargetable",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Parameter": "OnHitEffect",
+      "Method": "Projectile.init(ITargetable, Effect_Trigger_Remove, GameObject, float, bool)",
+      "Type": "Effect_Trigger_Remove",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.faceTarget(Projectile)",
+      "Type": "Projectile",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.doRun(Projectile)",
+      "Type": "Projectile",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.CheckIfHitTarget(Projectile)",
+      "Type": "Projectile",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.hitTarget(Projectile)",
+      "Type": "Projectile",
+      "Line": 96
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.CheckPause(Projectile)",
+      "Type": "Projectile",
+      "Line": 121
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.GetVelocity(Projectile)",
+      "Type": "Projectile",
+      "Line": 140
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.updateTargetLocation(Projectile)",
+      "Type": "Projectile",
+      "Line": 150
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs",
+      "Parameter": "holder",
+      "Method": "ProjectileBasicFunc.CheckReachedLocation(Projectile, Vector3, bool)",
+      "Type": "Projectile",
+      "Line": 169
+    }
+  ]
+}

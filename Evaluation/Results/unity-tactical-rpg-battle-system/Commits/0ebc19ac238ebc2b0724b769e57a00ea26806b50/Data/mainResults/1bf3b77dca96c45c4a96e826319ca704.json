@@ -1,6 +1,6 @@
 {
   "guid": "1bf3b77dca96c45c4a96e826319ca704",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Prefabs/CellCursor.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Prefabs/CellCursor.prefab",
   "name": "CellCursor",
   "type": "prefab",
   "file_size": 2159,
@@ -381,6 +381,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

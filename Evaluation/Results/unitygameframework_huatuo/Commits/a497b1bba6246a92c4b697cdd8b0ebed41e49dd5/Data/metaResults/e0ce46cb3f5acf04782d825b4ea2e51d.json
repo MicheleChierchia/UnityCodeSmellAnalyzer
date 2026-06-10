@@ -1,0 +1,26 @@
+{
+  "guid": "e0ce46cb3f5acf04782d825b4ea2e51d",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure.meta",
+  "name": "Procedure",
+  "type": "meta",
+  "file_size": 191,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

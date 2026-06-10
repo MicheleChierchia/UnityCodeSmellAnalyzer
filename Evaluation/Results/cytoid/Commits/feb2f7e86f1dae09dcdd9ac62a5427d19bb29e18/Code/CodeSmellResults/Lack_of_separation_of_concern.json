@@ -1,0 +1,158 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 11,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/TextureCache.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.Object",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Utils/UIMonoBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Widgets/ActionTabs.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Widgets/RectangularDetectionArea.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Local/LevelSelection/LevelCard.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Local/GamePreparation/GamePreparationScreen.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Level/LevelManager.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 8
+        },
+        {
+          "Name": "UnityEngine.Object",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/UnityGraphicExtensions.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoApp.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/LoopScrollRect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/Editor/SGMenuOptions.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    }
+  ]
+}

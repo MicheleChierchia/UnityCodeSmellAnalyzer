@@ -1,6 +1,6 @@
 {
   "guid": "c3cd207057515c4438a31a6a7b548fe7",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/MainThreadDispatcher.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/MainThreadDispatcher.cs.meta",
   "name": "MainThreadDispatcher.cs",
   "type": "meta",
   "file_size": 269,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

@@ -1,0 +1,29 @@
+{
+  "guid": "4419853b961fb5b4587e01d32d528b09",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/AssetsPackage/Effect/Common.meta",
+  "name": "Common",
+  "type": "meta",
+  "file_size": 197,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "effect/common.assetbundle"
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

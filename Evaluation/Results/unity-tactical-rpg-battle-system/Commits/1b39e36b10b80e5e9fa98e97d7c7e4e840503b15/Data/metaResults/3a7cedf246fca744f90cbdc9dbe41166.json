@@ -1,6 +1,6 @@
 {
   "guid": "3a7cedf246fca744f90cbdc9dbe41166",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/TimedObjectActivator.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/TimedObjectActivator.cs.meta",
   "name": "TimedObjectActivator.cs",
   "type": "meta",
   "file_size": 198,
@@ -34,6 +34,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

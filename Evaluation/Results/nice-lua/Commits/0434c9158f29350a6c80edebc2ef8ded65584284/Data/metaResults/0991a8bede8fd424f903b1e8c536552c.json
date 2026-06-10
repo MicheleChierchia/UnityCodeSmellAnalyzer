@@ -1,0 +1,26 @@
+{
+  "guid": "0991a8bede8fd424f903b1e8c536552c",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/LuaScripts/Framework/Updater/UpdateManager.lua.meta",
+  "name": "UpdateManager.lua",
+  "type": "meta",
+  "file_size": 174,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

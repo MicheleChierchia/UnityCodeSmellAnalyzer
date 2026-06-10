@@ -1,0 +1,20 @@
+{
+  "guid": "a724ff00b77e85d44a2af6baf46fc6a2",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonUnityNetworking/Code/Views.meta",
+  "name": "Views",
+  "type": "meta",
+  "file_size": 112,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "8_impossibleodds-toolkit",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit"
+}

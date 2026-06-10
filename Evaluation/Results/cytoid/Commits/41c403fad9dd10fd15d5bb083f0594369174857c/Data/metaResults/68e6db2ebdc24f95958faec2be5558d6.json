@@ -1,0 +1,29 @@
+{
+  "guid": "68e6db2ebdc24f95958faec2be5558d6",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta",
+  "name": "TMP_SDF.shader",
+  "type": "meta",
+  "file_size": 154,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

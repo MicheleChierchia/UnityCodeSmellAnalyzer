@@ -1,0 +1,29 @@
+{
+  "guid": "4362289f4a81637419f9f9e96b92fd41",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/mscorlib.dll.bytes.meta",
+  "name": "mscorlib.dll.bytes",
+  "type": "meta",
+  "file_size": 158,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

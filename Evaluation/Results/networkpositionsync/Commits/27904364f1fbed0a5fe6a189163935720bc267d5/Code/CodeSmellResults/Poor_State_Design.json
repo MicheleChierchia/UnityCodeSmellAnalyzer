@@ -1,0 +1,68 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 8,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionSystem.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionSystem",
+      "Method": "JamesFrowen.PositionSync.SyncPositionSystem.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 263
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour.Update()",
+      "Invocation": "JamesFrowen.PositionSync.SyncPositionBehaviour.ClientInterpolation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 408
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour.Update()",
+      "Invocation": "JamesFrowen.PositionSync.SyncPositionBehaviour.ClientInterpolation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 414
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour.Update()",
+      "Invocation": "JamesFrowen.PositionSync.SyncPositionBehaviour.ClientAuthorityUpdate()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 363
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour_Debug.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour_Debug",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour_Debug.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour_Debug.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour_Debug",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour_Debug.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 47
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionSystem.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionSystem",
+      "Method": "JamesFrowen.PositionSync.SyncPositionSystem.Update()",
+      "Invocation": "JamesFrowen.PositionSync.SyncPositionSystem.ClientUpdate(float)",
+      "ConditionBlock": "IfBlocks",
+      "Line": 304
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour.cs",
+      "Class": "JamesFrowen.PositionSync.SyncPositionBehaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviour.Update()",
+      "Invocation": "JamesFrowen.PositionSync.SyncPositionBehaviour.ClientAuthorityUpdate()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 363
+    }
+  ]
+}

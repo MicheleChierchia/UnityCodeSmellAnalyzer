@@ -1,6 +1,6 @@
 {
   "guid": "4d0601416f2e9432fa38d301843ee5fb",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Actor/Component/Movement/FlyMovement.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/FlyMovement.cs.meta",
   "name": "FlyMovement.cs",
   "type": "meta",
   "file_size": 263,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

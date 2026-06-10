@@ -1,6 +1,6 @@
 {
   "guid": "86e4aa9207c9e2740b6ace599d659c05",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta",
   "name": "SwatchNavyAlbedo.png",
   "type": "meta",
   "file_size": 1095,
@@ -183,6 +183,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

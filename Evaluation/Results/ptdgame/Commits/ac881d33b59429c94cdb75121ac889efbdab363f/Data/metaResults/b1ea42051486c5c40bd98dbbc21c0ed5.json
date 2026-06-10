@@ -1,0 +1,29 @@
+{
+  "guid": "b1ea42051486c5c40bd98dbbc21c0ed5",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/UI.meta",
+  "name": "UI",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "429_ptdgame",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame"
+}

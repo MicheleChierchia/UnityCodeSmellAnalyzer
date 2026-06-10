@@ -1,9 +1,9 @@
 {
   "guid": "7a6b59cdd73e04e37b341fa45c996f42",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Resources/Fonts/Nunito-Regular.ttf.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Fonts/Nunito-Regular.ttf.meta",
   "name": "Nunito-Regular.ttf",
   "type": "meta",
-  "file_size": 657,
+  "file_size": 652,
   "num_components": 0,
   "COMPONENTS": [
     {
@@ -39,7 +39,7 @@
               "": "- Nunito"
             },
             {
-              "": "- Source Han Sans HW TC"
+              "": "- Rounded Mplus 1c"
             }
           ]
         },
@@ -58,7 +58,7 @@
               "fileID": "12800000"
             },
             {
-              "guid": "4a1ce5d9c5e565042b3cb2bbbeaea11e"
+              "guid": "d5e1fc43f0edd4200b3a5bf2319ccbc9"
             },
             {
               "type": "3"
@@ -93,5 +93,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

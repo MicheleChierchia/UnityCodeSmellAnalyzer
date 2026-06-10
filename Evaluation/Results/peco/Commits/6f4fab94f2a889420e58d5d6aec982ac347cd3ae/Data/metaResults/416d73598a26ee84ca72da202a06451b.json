@@ -1,6 +1,6 @@
 {
   "guid": "416d73598a26ee84ca72da202a06451b",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor/CreateAssetBundles.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor/CreateAssetBundles.cs.meta",
   "name": "CreateAssetBundles.cs",
   "type": "meta",
   "file_size": 243,
@@ -41,5 +41,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

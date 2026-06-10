@@ -1,0 +1,45 @@
+{
+  "guid": "947b11a66576cb6409cbc4b19cfb5d9e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/TestSocketFactory.cs.meta",
+  "name": "TestSocketFactory.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

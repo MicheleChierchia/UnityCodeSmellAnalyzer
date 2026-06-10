@@ -1,0 +1,29 @@
+{
+  "guid": "0c412f19a14875f4ea07ad56d9fe66e2",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync.meta",
+  "name": "NetworkPositionSync",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

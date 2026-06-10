@@ -1,0 +1,26 @@
+{
+  "guid": "8f05276190cf498a8153f6cbe761d4e6",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta",
+  "name": "EmojiOne.json",
+  "type": "meta",
+  "file_size": 177,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "12_digital-logic-sim-ce",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce"
+}

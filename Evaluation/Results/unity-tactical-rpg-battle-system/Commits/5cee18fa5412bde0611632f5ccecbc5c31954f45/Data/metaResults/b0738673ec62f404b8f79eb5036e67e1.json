@@ -1,6 +1,6 @@
 {
   "guid": "b0738673ec62f404b8f79eb5036e67e1",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/PlayerControllable.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/PlayerControllable.cs.meta",
   "name": "PlayerControllable.cs",
   "type": "meta",
   "file_size": 263,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

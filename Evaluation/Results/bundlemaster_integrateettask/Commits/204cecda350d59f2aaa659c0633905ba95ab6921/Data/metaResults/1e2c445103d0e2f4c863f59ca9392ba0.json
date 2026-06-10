@@ -1,0 +1,29 @@
+{
+  "guid": "1e2c445103d0e2f4c863f59ca9392ba0",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Resources/DownLoadUI.prefab.meta",
+  "name": "DownLoadUI.prefab",
+  "type": "meta",
+  "file_size": 154,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PrefabImporter",
+      "PrefabImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

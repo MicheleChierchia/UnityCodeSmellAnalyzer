@@ -1,6 +1,6 @@
 {
   "guid": "cf04a11deed324e6d865d940cb9e0a05",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scenes/Battle.unity",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scenes/Battle.unity",
   "name": "Battle",
   "type": "unity",
   "file_size": 13637,
@@ -2510,5 +2510,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

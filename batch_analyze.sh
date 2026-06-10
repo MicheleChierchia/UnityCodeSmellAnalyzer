@@ -52,6 +52,14 @@ while IFS= read -r url_quoted || [ -n "$url_quoted" ]; do
             exit 1
         fi
         
+        # 1.5 Check size limit (500 MB = 512000 KB)
+        repo_size_kb=$(du -sk "$repo_path" | cut -f1)
+        if [ "$repo_size_kb" -gt 512000 ]; then
+            echo "Skipping $game_name (Size too large: $((repo_size_kb/1024)) MB > 500 MB)"
+            rm -rf "$repo_path"
+            exit 0
+        fi
+        
         # 2. Count commits
         commits=$(git -C "$repo_path" rev-list --count HEAD)
         

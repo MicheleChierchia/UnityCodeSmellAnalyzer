@@ -1,0 +1,29 @@
+{
+  "guid": "1053b0070685be347ab58587156842dc",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseTraditional/Dictionaries/Default.xml.meta",
+  "name": "Default.xml",
+  "type": "meta",
+  "file_size": 188,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "localization/dictionaries"
+        },
+        {
+          "assetBundleVariant": "zh-tw"
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

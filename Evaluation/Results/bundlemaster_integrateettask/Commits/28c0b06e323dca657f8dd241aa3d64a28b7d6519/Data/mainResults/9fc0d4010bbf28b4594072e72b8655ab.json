@@ -1,6 +1,6 @@
 {
   "guid": "9fc0d4010bbf28b4594072e72b8655ab",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes/Init.unity",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scenes/Init.unity",
   "name": "Init",
   "type": "unity",
   "file_size": 13108,
@@ -2206,5 +2206,5 @@
     }
   ],
   "ProjectName": "6_bundlemaster_integrateettask",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
 }

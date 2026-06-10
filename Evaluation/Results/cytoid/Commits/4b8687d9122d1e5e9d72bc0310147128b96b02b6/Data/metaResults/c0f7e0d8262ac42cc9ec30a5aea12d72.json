@@ -1,0 +1,29 @@
+{
+  "guid": "c0f7e0d8262ac42cc9ec30a5aea12d72",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/SoftMaskForUGUI/SoftMask.cginc.meta",
+  "name": "SoftMask.cginc",
+  "type": "meta",
+  "file_size": 195,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

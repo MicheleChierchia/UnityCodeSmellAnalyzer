@@ -1,6 +1,6 @@
 {
   "guid": "93e86b57e56570d46814839867bf9a52",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/WallPrototype08x08x01.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Prefabs/WallPrototype08x08x01.prefab",
   "name": "WallPrototype08x08x01",
   "type": "prefab",
   "file_size": 2455,
@@ -469,5 +469,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

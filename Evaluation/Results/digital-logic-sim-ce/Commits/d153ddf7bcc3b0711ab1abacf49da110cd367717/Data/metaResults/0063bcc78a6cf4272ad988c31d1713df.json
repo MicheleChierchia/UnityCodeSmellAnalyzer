@@ -1,0 +1,29 @@
+{
+  "guid": "0063bcc78a6cf4272ad988c31d1713df",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Sprites/UI.meta",
+  "name": "UI",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "12_digital-logic-sim-ce",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce"
+}

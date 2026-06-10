@@ -1,0 +1,45 @@
+{
+  "guid": "67eee23643da4e84fb42c8804ea18b4d",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Utility/TransformEx.cs.meta",
+  "name": "TransformEx.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "12_digital-logic-sim-ce",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce"
+}

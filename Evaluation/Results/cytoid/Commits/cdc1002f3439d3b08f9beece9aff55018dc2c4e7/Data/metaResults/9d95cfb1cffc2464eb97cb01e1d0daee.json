@@ -1,0 +1,26 @@
+{
+  "guid": "9d95cfb1cffc2464eb97cb01e1d0daee",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/MirrorReflectionEffectForUGUI/Demo/MirrorReflectionEffectForUGUI_Demo.unity.meta",
+  "name": "MirrorReflectionEffectForUGUI_Demo.unity",
+  "type": "meta",
+  "file_size": 174,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

@@ -1,6 +1,6 @@
 {
   "guid": "85c29e9ee0eab7b40907910b629ffe0b",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.manifest.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.manifest.meta",
   "name": "testcapsule.manifest",
   "type": "meta",
   "file_size": 158,
@@ -25,5 +25,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

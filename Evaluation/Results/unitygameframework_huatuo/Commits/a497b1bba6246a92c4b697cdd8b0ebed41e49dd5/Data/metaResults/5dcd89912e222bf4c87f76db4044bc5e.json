@@ -1,0 +1,29 @@
+{
+  "guid": "5dcd89912e222bf4c87f76db4044bc5e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/Korean/Dictionaries/Default.xml.meta",
+  "name": "Default.xml",
+  "type": "meta",
+  "file_size": 188,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "localization/dictionaries"
+        },
+        {
+          "assetBundleVariant": "ko-kr"
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

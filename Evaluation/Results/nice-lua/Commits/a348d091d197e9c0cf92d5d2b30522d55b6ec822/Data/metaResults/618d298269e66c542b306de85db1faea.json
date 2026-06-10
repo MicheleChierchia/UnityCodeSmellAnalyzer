@@ -1,0 +1,32 @@
+{
+  "guid": "618d298269e66c542b306de85db1faea",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/Runtime/Data/ForwardRendererData.asset.meta",
+  "name": "ForwardRendererData.asset",
+  "type": "meta",
+  "file_size": 189,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "mainObjectFileID": "11400000"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

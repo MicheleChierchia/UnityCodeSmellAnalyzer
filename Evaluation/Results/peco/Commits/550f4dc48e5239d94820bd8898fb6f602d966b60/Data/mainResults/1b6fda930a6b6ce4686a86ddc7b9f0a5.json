@@ -1,6 +1,6 @@
 {
   "guid": "1b6fda930a6b6ce4686a86ddc7b9f0a5",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Camera.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Camera.prefab",
   "name": "Main Camera",
   "type": "prefab",
   "file_size": 3491,
@@ -629,5 +629,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

@@ -1,6 +1,6 @@
 {
   "guid": "f175561f23d1be74dbef08bd6192f56d",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Camera Target Pos.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Camera Target Pos.prefab",
   "name": "Camera Target Pos",
   "type": "prefab",
   "file_size": 2196,
@@ -408,5 +408,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

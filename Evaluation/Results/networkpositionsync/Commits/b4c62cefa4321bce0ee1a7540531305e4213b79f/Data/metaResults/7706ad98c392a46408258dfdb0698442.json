@@ -1,0 +1,29 @@
+{
+  "guid": "7706ad98c392a46408258dfdb0698442",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/examples/TransformSync/Scenes.meta",
+  "name": "Scenes",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

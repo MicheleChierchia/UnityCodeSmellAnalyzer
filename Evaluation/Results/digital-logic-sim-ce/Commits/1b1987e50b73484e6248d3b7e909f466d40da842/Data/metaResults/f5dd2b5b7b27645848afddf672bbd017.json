@@ -1,0 +1,29 @@
+{
+  "guid": "f5dd2b5b7b27645848afddf672bbd017",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI/Options Menu.prefab.meta",
+  "name": "Options Menu.prefab",
+  "type": "meta",
+  "file_size": 154,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PrefabImporter",
+      "PrefabImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "12_digital-logic-sim-ce",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce"
+}

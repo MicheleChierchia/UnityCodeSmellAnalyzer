@@ -1,0 +1,45 @@
+{
+  "guid": "c811b377f1f94574f9e8d77ddaa70385",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncSettings.cs.meta",
+  "name": "SyncSettings.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

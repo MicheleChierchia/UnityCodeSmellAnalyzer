@@ -1,6 +1,6 @@
 {
   "guid": "03515121745b2d74c8782ce92eb2a1a0",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableVisibleTrigger.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableVisibleTrigger.cs.meta",
   "name": "ObservableVisibleTrigger.cs",
   "type": "meta",
   "file_size": 264,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

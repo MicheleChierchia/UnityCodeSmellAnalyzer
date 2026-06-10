@@ -1,0 +1,49 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 6,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.green",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.yellow",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.red",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLightState.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightStateKey",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLightState.stateKey",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/TestWebRpc.cs",
+      "Kind": "Field",
+      "Type": "DemoNetwork",
+      "FullName": "ImpossibleOdds.Examples.Photon.WebRpc.TestWebRpc.network",
+      "Line": 134
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/ExampleDependencyInstaller.cs",
+      "Kind": "Field",
+      "Type": "CharacterSettings",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.ExampleDependencyInstaller.settings",
+      "Line": 9
+    }
+  ]
+}

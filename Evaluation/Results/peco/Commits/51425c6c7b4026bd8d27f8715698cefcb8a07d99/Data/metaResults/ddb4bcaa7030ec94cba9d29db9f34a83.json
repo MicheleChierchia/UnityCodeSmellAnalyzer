@@ -1,6 +1,6 @@
 {
   "guid": "ddb4bcaa7030ec94cba9d29db9f34a83",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Resources/FormData/TestCapsule.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Resources/FormData/TestCapsule.cs.meta",
   "name": "TestCapsule.cs",
   "type": "meta",
   "file_size": 243,
@@ -41,5 +41,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

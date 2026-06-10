@@ -4,7 +4,7 @@
   "Occurrency": 1,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Editor/MapGenEditor.cs",
       "Name": "FindObjectOfType<MapGenerator>",
       "Invocation": "FindObjectOfType<MapGenerator>",
       "Line": 23

@@ -1,0 +1,21 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Class": "PlayerBehavior",
+      "Method": "PlayerBehavior.FixedUpdate()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Class": "PlayerBehavior",
+      "Method": "PlayerBehavior.FixedUpdate()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 49
+    }
+  ]
+}

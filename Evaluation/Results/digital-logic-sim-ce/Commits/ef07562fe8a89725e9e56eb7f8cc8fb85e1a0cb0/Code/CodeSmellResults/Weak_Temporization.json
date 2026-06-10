@@ -1,0 +1,32 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 5,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Player/ChipInteraction.cs",
+      "Name": "Update",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Player/ChipInterfaceEditor.cs",
+      "Name": "Update",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Player/PinAndWireInteraction.cs",
+      "Name": "Update",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/ChipTemplate.cs",
+      "Name": "Update",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/Graphics/ComponentEditBounds.cs",
+      "Name": "Update",
+      "Line": 45
+    }
+  ]
+}

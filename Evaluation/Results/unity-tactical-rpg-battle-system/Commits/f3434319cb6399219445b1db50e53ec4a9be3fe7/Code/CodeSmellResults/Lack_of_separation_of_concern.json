@@ -1,0 +1,46 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/BaseIcon.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Assertions",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/StatusIcon.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Assertions",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/StatusMarker.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Assertions",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    }
+  ]
+}

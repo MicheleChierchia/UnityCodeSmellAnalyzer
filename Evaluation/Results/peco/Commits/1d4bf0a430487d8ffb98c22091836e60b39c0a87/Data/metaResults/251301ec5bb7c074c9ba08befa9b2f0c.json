@@ -1,6 +1,6 @@
 {
   "guid": "251301ec5bb7c074c9ba08befa9b2f0c",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.manifest.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.manifest.meta",
   "name": "pecobear.manifest",
   "type": "meta",
   "file_size": 158,
@@ -25,5 +25,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

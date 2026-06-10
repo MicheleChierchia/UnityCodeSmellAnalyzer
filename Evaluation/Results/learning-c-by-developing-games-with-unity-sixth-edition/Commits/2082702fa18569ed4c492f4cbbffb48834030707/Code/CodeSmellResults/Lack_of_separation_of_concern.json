@@ -1,0 +1,72 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 5,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/GameBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/GameBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/GameBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/GameBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/GameBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    }
+  ]
+}

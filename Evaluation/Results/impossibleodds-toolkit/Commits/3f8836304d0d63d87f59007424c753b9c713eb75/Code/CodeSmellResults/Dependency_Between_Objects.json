@@ -1,0 +1,3080 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Medium",
+  "Occurrency": 439,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.green",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.yellow",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.red",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "StateMachine<TrafficLightStateKey>",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.stateMachine",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.TransitionDescription.from",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLight.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightState",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLight.TransitionDescription.to",
+      "Line": 49
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLightState.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightStateKey",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLightState.stateKey",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLightTransition.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightStateKey",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLightTransition.from",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TrafficLightTransition.cs",
+      "Kind": "Field",
+      "Type": "TrafficLightStateKey",
+      "FullName": "ImpossibleOdds.Examples.StateMachines.TrafficLightTransition.to",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/MovieDatabase.cs",
+      "Kind": "Field",
+      "Type": "List<Actor>",
+      "FullName": "ImpossibleOdds.Examples.Xml.MovieDatabase.actors",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/MovieDatabase.cs",
+      "Kind": "Field",
+      "Type": "List<Producer>",
+      "FullName": "ImpossibleOdds.Examples.Xml.MovieDatabase.producers",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/MovieDatabase.cs",
+      "Kind": "Field",
+      "Type": "List<Production>",
+      "FullName": "ImpossibleOdds.Examples.Xml.MovieDatabase.productions",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/TestXmlSerialization.cs",
+      "Kind": "Field",
+      "Type": "MovieDatabase",
+      "FullName": "ImpossibleOdds.Examples.Xml.TestXmlSerialization.movieDatabase",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/TestXmlSerialization.cs",
+      "Kind": "Field",
+      "Type": "XmlOptions",
+      "FullName": "ImpossibleOdds.Examples.Xml.TestXmlSerialization.xmlOptions",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables/Scripts/TestRunnables.cs",
+      "Kind": "Field",
+      "Type": "FrameCounter",
+      "FullName": "ImpossibleOdds.Examples.Runnables.TestRunnables.frameCounter",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/TestWebRpc.cs",
+      "Kind": "Field",
+      "Type": "DemoNetwork",
+      "FullName": "ImpossibleOdds.Examples.Photon.WebRpc.TestWebRpc.network",
+      "Line": 134
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/AnimalRegister.cs",
+      "Kind": "Field",
+      "Type": "List<Animal>",
+      "FullName": "ImpossibleOdds.Examples.Json.AnimalRegister.registeredAnimals",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/TestJsonSerialization.cs",
+      "Kind": "Field",
+      "Type": "AnimalRegister",
+      "FullName": "ImpossibleOdds.Examples.Json.TestJsonSerialization.animalRegister",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/TestJsonSerialization.cs",
+      "Kind": "Field",
+      "Type": "JsonOptions",
+      "FullName": "ImpossibleOdds.Examples.Json.TestJsonSerialization.jsonOptions",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs",
+      "Kind": "Field",
+      "Type": "HttpMessenger",
+      "FullName": "ImpossibleOdds.Examples.Http.TestHttp.messenger",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs",
+      "Kind": "Field",
+      "Type": "JsonOptions",
+      "FullName": "ImpossibleOdds.Examples.Http.TestHttp.jsonPrintOptions",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/GetLeaderboardResponse.cs",
+      "Kind": "Field",
+      "Type": "Leaderboard",
+      "FullName": "ImpossibleOdds.Examples.Http.GetLeaderboardResponse.leaderboard",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/Leaderboard.cs",
+      "Kind": "Field",
+      "Type": "List<LeaderboardEntry>",
+      "FullName": "ImpossibleOdds.Examples.Http.Leaderboard.entries",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/ExampleDependencyInstaller.cs",
+      "Kind": "Field",
+      "Type": "CharacterSettings",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.ExampleDependencyInstaller.settings",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/Character.cs",
+      "Kind": "Field",
+      "Type": "IInputManager",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.Character.inputManager",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/Character.cs",
+      "Kind": "Field",
+      "Type": "CharacterSettings",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.Character.settings",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/Character.cs",
+      "Kind": "Field",
+      "Type": "CharacterController",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.Character.controller",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<TStateKey, IState>",
+      "FullName": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.stateMapping",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<TStateKey, List<IStateTransition<TStateKey>>>",
+      "FullName": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.transitions",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlAttributeSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlAttributeSerializationDefinition.serializationProcessors",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlAttributeSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlAttributeSerializationDefinition.deserializationProcessors",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlCDataSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlCDataSerializationDefinition.serializationProcessors",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlCDataSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlCDataSerializationDefinition.deserializationProcessors",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlOptions",
+      "FullName": "ImpossibleOdds.Xml.XmlProcessor.defaultOptions",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlSerializationDefinition.serializationProcessors",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Xml.XmlSerializationDefinition.deserializationProcessors",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.XmlSerializationDefinition.attributeDefinition",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.XmlSerializationDefinition.cdataDefinition",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlSequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlSerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.XmlSequenceProcessor.definition",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCDataProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.XmlCDataProcessor.definition",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlSerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.xmlDefinition",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlLookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlSerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.XmlLookupProcessor.definition",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlAttributesProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlSerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.UnityPrimitiveXmlAttributesProcessor<T>.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlElementsProcessor.cs",
+      "Kind": "Field",
+      "Type": "XmlSerializationDefinition",
+      "FullName": "ImpossibleOdds.Xml.Processors.UnityPrimitiveXmlElementsProcessor<T>.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkUtilities.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, IWeblinkReflectionMap>",
+      "FullName": "ImpossibleOdds.Weblink.WeblinkUtilities.typeMapCache",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Caching/WeblinkReflectionMap.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, ITargetedCallback[]>",
+      "FullName": "ImpossibleOdds.Weblink.Caching.WeblinkReflectionMap.targetedCallbacks",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/SerializationUtilities.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, SequenceCollectionTypeInfo>",
+      "FullName": "ImpossibleOdds.Serialization.SerializationUtilities.sequenceTypeInfoCache",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/SerializationUtilities.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, ISerializationReflectionMap>",
+      "FullName": "ImpossibleOdds.Serialization.SerializationUtilities.typeMapCache",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/AbstractCustomObjectProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.AbstractCustomObjectProcessor.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/AbstractCustomObjectProcessor.cs",
+      "Kind": "Field",
+      "Type": "ICallbacksSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.AbstractCustomObjectProcessor.callbacksDefinition",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DateTimeProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.DateTimeProcessor.definition",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DecimalProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.DecimalProcessor.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/EnumProcessor.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, EnumSerializationReflectionMap>",
+      "FullName": "ImpossibleOdds.Serialization.Processors.EnumProcessor.enumTypeCache",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/EnumProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.EnumProcessor.definition",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/EnumProcessor.cs",
+      "Kind": "Field",
+      "Type": "IEnumAliasSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.EnumProcessor.enumAliasSupport",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/ExactMatchProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.ExactMatchProcessor.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/GuidProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.GuidProcessor.definition",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/NullValueProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.NullValueProcessor.definition",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/PrimitiveTypeProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.PrimitiveTypeProcessor.definition",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/StringProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.StringProcessor.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/VersionProcessor.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.VersionProcessor.definition",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IIndexSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectSequenceProcessor.definition",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IIndexTypeResolveSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectSequenceProcessor.typeResolveDefinition",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IParallelProcessingSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectSequenceProcessor.parallelProcessingSupport",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/LookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "ILookupSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.LookupProcessor.definition",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/LookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "IParallelProcessingSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.LookupProcessor.parallelProcessingSupport",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/SequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IIndexSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.SequenceProcessor.definition",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/SequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IParallelProcessingSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.SequenceProcessor.parallelProcessingSupport",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "ILookupSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.definition",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "ILookupTypeResolveSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.typeResolveSupport",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "IRequiredValueSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.requiredValueSupport",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Kind": "Field",
+      "Type": "IParallelProcessingSupport",
+      "FullName": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.parallelProcessingSupport",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveLoopkupProcessor.cs",
+      "Kind": "Field",
+      "Type": "ILookupSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.UnityPrimitiveLookupProcessor<T>.definition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSequenceProcessor.cs",
+      "Kind": "Field",
+      "Type": "IIndexSerializationDefinition",
+      "FullName": "ImpossibleOdds.Serialization.Processors.UnityPrimitiveSequenceProcessor<T>.definition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSwitchProcessor.cs",
+      "Kind": "Field",
+      "Type": "TSequenceProcessor",
+      "FullName": "ImpossibleOdds.Serialization.Processors.UnityPrimitiveSwitchProcessor<TSequenceProcessor, TLookupProcessor, TPrimitive>.sequenceProcessor",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSwitchProcessor.cs",
+      "Kind": "Field",
+      "Type": "TLookupProcessor",
+      "FullName": "ImpossibleOdds.Serialization.Processors.UnityPrimitiveSwitchProcessor<TSequenceProcessor, TLookupProcessor, TPrimitive>.lookupProcessor",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationReflectionMap.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, ITypeResolveParameter[]>",
+      "FullName": "ImpossibleOdds.Serialization.Caching.SerializationReflectionMap.typeResolveParameters",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationReflectionMap.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, ISerializableMember[]>",
+      "FullName": "ImpossibleOdds.Serialization.Caching.SerializationReflectionMap.serializableMembers",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationReflectionMap.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, ISerializationCallback[]>",
+      "FullName": "ImpossibleOdds.Serialization.Caching.SerializationReflectionMap.serializationCallbacks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationReflectionMap.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, IRequiredSerializableMember[]>",
+      "FullName": "ImpossibleOdds.Serialization.Caching.SerializationReflectionMap.requiredMembers",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/GlobalRunner.cs",
+      "Kind": "Field",
+      "Type": "GlobalRunner",
+      "FullName": "ImpossibleOdds.Runnables.GlobalRunner.globalRunner",
+      "Line": 7
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Kind": "Field",
+      "Type": "List<IRunnable>",
+      "FullName": "ImpossibleOdds.Runnables.Runner.runnables",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Kind": "Field",
+      "Type": "List<IFixedRunnable>",
+      "FullName": "ImpossibleOdds.Runnables.Runner.fixedRunnables",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Kind": "Field",
+      "Type": "List<ILateRunnable>",
+      "FullName": "ImpossibleOdds.Runnables.Runner.lateRunnables",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/SceneRunner.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Scene, SceneRunner>",
+      "FullName": "ImpossibleOdds.Runnables.SceneRunner.sceneRunners",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessageHandle.cs",
+      "Kind": "Field",
+      "Type": "IWebRpcRequest",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessageHandle.request",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessageHandle.cs",
+      "Kind": "Field",
+      "Type": "IWebRpcResponse",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessageHandle.response",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.DefaultMessageConfigurator.bodyDefinition",
+      "Line": 219
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.DefaultMessageConfigurator.urlDefinition",
+      "Line": 220
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Kind": "Field",
+      "Type": "IWebRpcMessageConfigurator",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.messageConfigurator",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<object, WebRpcMessageHandle>",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.pendingCalls",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL/WebRpcURLSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcUrlSerializationDefinition.serializationProcessors",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL/WebRpcURLSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcUrlSerializationDefinition.deserializationProcessors",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/WebRpcBodySerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcBodySerializationDefinition.serializationProcessors",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/WebRpcBodySerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Photon.WebRpc.WebRpcBodySerializationDefinition.deserializationProcessors",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Json.JsonSerializationDefinition.serializationProcessors",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Json.JsonSerializationDefinition.deserializationProcessors",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Kind": "Field",
+      "Type": "JsonSerializationDefinition",
+      "FullName": "ImpossibleOdds.Json.JsonProcessor.defaultSerializationDefinition",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessageHandle.cs",
+      "Kind": "Field",
+      "Type": "IHttpRequest",
+      "FullName": "ImpossibleOdds.Http.HttpMessageHandle.request",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessageHandle.cs",
+      "Kind": "Field",
+      "Type": "IHttpResponse",
+      "FullName": "ImpossibleOdds.Http.HttpMessageHandle.response",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.urlDefinition",
+      "Line": 190
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.headerDefinition",
+      "Line": 191
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Kind": "Field",
+      "Type": "ISerializationDefinition",
+      "FullName": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.bodyDefinition",
+      "Line": 192
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Kind": "Field",
+      "Type": "JsonOptions",
+      "FullName": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.jsonOptions",
+      "Line": 194
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Kind": "Field",
+      "Type": "IHttpMessageConfigurator",
+      "FullName": "ImpossibleOdds.Http.HttpMessenger.messageConfigurator",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/HttpURLSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpURLSerializationDefinition.serializationProcessors",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/HttpURLSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpURLSerializationDefinition.deserializationProcessors",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header/HttpHeaderSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpHeaderSerializationDefinition.serializationProcessors",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header/HttpHeaderSerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpHeaderSerializationDefinition.deserializationProcessors",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/HttpBodySerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "ISerializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpBodySerializationDefinition.serializationProcessors",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/HttpBodySerializationDefinition.cs",
+      "Kind": "Field",
+      "Type": "IDeserializationProcessor[]",
+      "FullName": "ImpossibleOdds.Http.HttpBodySerializationDefinition.deserializationProcessors",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, IDependencyBinding>",
+      "FullName": "ImpossibleOdds.DependencyInjection.DependencyContainer.bindings",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/CompositeDependencyContainer.cs",
+      "Kind": "Field",
+      "Type": "List<IReadOnlyDependencyContainer>",
+      "FullName": "ImpossibleOdds.DependencyInjection.CompositeDependencyContainer.containers",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, TypeInjectionCache>",
+      "FullName": "ImpossibleOdds.DependencyInjection.DependencyInjector.typeInjectionCache",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/AbstractDependencyScopeBehaviour.cs",
+      "Kind": "Field",
+      "Type": "IDependencyContainer",
+      "FullName": "ImpossibleOdds.DependencyInjection.AbstractDependencyScopeBehaviour.container",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/GlobalDependencyScope.cs",
+      "Kind": "Field",
+      "Type": "GlobalDependencyScope",
+      "FullName": "ImpossibleOdds.DependencyInjection.GlobalDependencyScope.globalScope",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/GlobalDependencyScope.cs",
+      "Kind": "Field",
+      "Type": "IDependencyContainer",
+      "FullName": "ImpossibleOdds.DependencyInjection.GlobalDependencyScope.globalContainer",
+      "Line": 47
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/DisplayNameCaching/DisplayNameCache.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Type, DisplayNameCache>",
+      "FullName": "ImpossibleOdds.DisplayNameCache.cache",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/DisplayNameCaching/DisplayNameCache.cs",
+      "Kind": "Field",
+      "Type": "ConcurrentDictionary<Enum, DisplayNameCacheEntry>",
+      "FullName": "ImpossibleOdds.DisplayNameCache.displayNameFields",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/ProjectSettings.cs",
+      "Kind": "Field",
+      "Type": "List<IProjectSetting>",
+      "FullName": "ImpossibleOdds.Settings.ProjectSettings.settings",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/AnimalRegister.cs",
+      "Parameter": "animal",
+      "Method": "ImpossibleOdds.Examples.Json.AnimalRegister.AddAnimal(ImpossibleOdds.Examples.Json.Animal)",
+      "Type": "Animal",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs",
+      "Parameter": "handle",
+      "Method": "ImpossibleOdds.Examples.Http.TestHttp.OnGetLeaderboardResponseReceived(ImpossibleOdds.Http.HttpMessageHandle, ImpossibleOdds.Examples.Http.GetLeaderboardRequest, ImpossibleOdds.Examples.Http.GetLeaderboardResponse)",
+      "Type": "HttpMessageHandle",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Examples.Http.TestHttp.OnGetLeaderboardResponseReceived(ImpossibleOdds.Http.HttpMessageHandle, ImpossibleOdds.Examples.Http.GetLeaderboardRequest, ImpossibleOdds.Examples.Http.GetLeaderboardResponse)",
+      "Type": "GetLeaderboardRequest",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Examples.Http.TestHttp.OnGetLeaderboardResponseReceived(ImpossibleOdds.Http.HttpMessageHandle, ImpossibleOdds.Examples.Http.GetLeaderboardRequest, ImpossibleOdds.Examples.Http.GetLeaderboardResponse)",
+      "Type": "GetLeaderboardResponse",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/ExampleDependencyInstaller.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.Examples.DependencyInjection.ExampleDependencyInstaller.Install(ImpossibleOdds.DependencyInjection.IDependencyContainer)",
+      "Type": "IDependencyContainer",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Parameter": "state",
+      "Method": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.AddState(TStateKey, ImpossibleOdds.StateMachines.IState)",
+      "Type": "IState",
+      "Line": 91
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Parameter": "state",
+      "Method": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.ImpossibleOdds.StateMachines.IStateMachine.AddState(object, ImpossibleOdds.StateMachines.IState)",
+      "Type": "IState",
+      "Line": 99
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Parameter": "transition",
+      "Method": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.ImpossibleOdds.StateMachines.IStateMachine.AddTransition(ImpossibleOdds.StateMachines.IStateTransition)",
+      "Type": "IStateTransition",
+      "Line": 341
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Parameter": "transition",
+      "Method": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.ImpossibleOdds.StateMachines.IStateMachine.RemoveTransition(ImpossibleOdds.StateMachines.IStateTransition)",
+      "Type": "IStateTransition",
+      "Line": 371
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs",
+      "Parameter": "transition",
+      "Method": "ImpossibleOdds.StateMachines.StateMachine<TStateKey>.OnTransitionTriggered(ImpossibleOdds.StateMachines.IStateTransition)",
+      "Type": "IStateTransition",
+      "Line": 418
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateMachine.cs",
+      "Parameter": "state",
+      "Method": "ImpossibleOdds.StateMachines.IStateMachine.AddState(object, ImpossibleOdds.StateMachines.IState)",
+      "Type": "IState",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateMachine.cs",
+      "Parameter": "transition",
+      "Method": "ImpossibleOdds.StateMachines.IStateMachine.AddTransition(ImpossibleOdds.StateMachines.IStateTransition)",
+      "Type": "IStateTransition",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateMachine.cs",
+      "Parameter": "transition",
+      "Method": "ImpossibleOdds.StateMachines.IStateMachine.RemoveTransition(ImpossibleOdds.StateMachines.IStateTransition)",
+      "Type": "IStateTransition",
+      "Line": 81
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateMachine.cs",
+      "Parameter": "state",
+      "Method": "ImpossibleOdds.StateMachines.IStateMachine<TStateKey>.AddState(TStateKey, ImpossibleOdds.StateMachines.IState)",
+      "Type": "IState",
+      "Line": 105
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Serialize(object, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Serialize(object, System.Text.StringBuilder, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Serialize(object, System.IO.TextWriter, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 60
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Serialize(object, ImpossibleOdds.Xml.XmlOptions, System.Text.StringBuilder)",
+      "Type": "XmlOptions",
+      "Line": 85
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Serialize(object, ImpossibleOdds.Xml.XmlOptions, System.IO.TextWriter)",
+      "Type": "XmlOptions",
+      "Line": 94
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.SerializeAsync(object, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 106
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.SerializeAsync(object, System.Text.StringBuilder, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 119
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.SerializeAsync(object, System.IO.TextWriter, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 130
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 140
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 150
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize<TTarget>(string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 166
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize<TTarget>(System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 177
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize<TTarget>(XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 189
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(System.Type, string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 201
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(System.Type, System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 212
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(System.Type, XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 231
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(object, string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 245
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(object, System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 255
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.Deserialize(object, XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 277
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 291
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 303
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync<TTarget>(string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 316
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync<TTarget>(System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 329
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync<TTarget>(XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 342
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(System.Type, string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 355
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(System.Type, System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 368
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(System.Type, XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 381
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(object, string, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 393
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(object, System.IO.TextReader, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 403
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.DeserializeAsync(object, XDocument, ImpossibleOdds.Xml.XmlOptions)",
+      "Type": "XmlOptions",
+      "Line": 413
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "definition",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.ToXml(object, ImpossibleOdds.Xml.XmlSerializationDefinition)",
+      "Type": "XmlSerializationDefinition",
+      "Line": 418
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "definition",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.FromXml(System.Type, XDocument, ImpossibleOdds.Xml.XmlSerializationDefinition)",
+      "Type": "XmlSerializationDefinition",
+      "Line": 455
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs",
+      "Parameter": "definition",
+      "Method": "ImpossibleOdds.Xml.XmlProcessor.FromXml(object, XDocument, ImpossibleOdds.Xml.XmlSerializationDefinition)",
+      "Type": "XmlSerializationDefinition",
+      "Line": 470
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlSequenceProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlSequenceProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCDataProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlCDataProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "elementAttribute",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Serialize(object, System.Reflection.MemberInfo, ImpossibleOdds.Xml.XmlElementAttribute)",
+      "Type": "XmlElementAttribute",
+      "Line": 182
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "attributeAttribute",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Serialize(object, System.Reflection.MemberInfo, ImpossibleOdds.Xml.XmlAttributeAttribute)",
+      "Type": "XmlAttributeAttribute",
+      "Line": 197
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "listElementAttribute",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Serialize(object, System.Reflection.MemberInfo, ImpossibleOdds.Xml.XmlListElementAttribute)",
+      "Type": "XmlListElementAttribute",
+      "Line": 202
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "cdataAttribute",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Serialize(object, System.Reflection.MemberInfo, ImpossibleOdds.Xml.XmlCDataAttribute)",
+      "Type": "XmlCDataAttribute",
+      "Line": 227
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "memberInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlAttributeAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializableMember",
+      "Line": 302
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "attributeInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlAttributeAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "XmlAttributeAttribute",
+      "Line": 302
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "typeMap",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlAttributeAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializationReflectionMap",
+      "Line": 302
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "memberInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializableMember",
+      "Line": 319
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "elementInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "XmlElementAttribute",
+      "Line": 319
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "typeMap",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializationReflectionMap",
+      "Line": 319
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "memberInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlListElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializableMember",
+      "Line": 336
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "listElementInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlListElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "XmlListElementAttribute",
+      "Line": 336
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "typeMap",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlListElementAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializationReflectionMap",
+      "Line": 336
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "memberInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlCDataAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializableMember",
+      "Line": 358
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "cdataInfo",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlCDataAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "XmlCDataAttribute",
+      "Line": 358
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "typeMap",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.Deserialize(XElement, ImpossibleOdds.Serialization.Caching.ISerializableMember, ImpossibleOdds.Xml.XmlCDataAttribute, ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap)",
+      "Type": "ISerializationReflectionMap",
+      "Line": 358
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "xmlAttribute",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.GetElementKey(ImpossibleOdds.Xml.AbstractXmlMemberAttribute, System.Reflection.MemberInfo)",
+      "Type": "AbstractXmlMemberAttribute",
+      "Line": 385
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "typeResolveParam",
+      "Method": "ImpossibleOdds.Xml.Processors.XmlCustomObjectProcessor.ResolveTypeForDeserialization(XElement, ImpossibleOdds.Xml.XmlTypeAttribute, XName)",
+      "Type": "XmlTypeAttribute",
+      "Line": 450
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlCustomObjectProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlLookupProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlLookupProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColor32AttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColor32ElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColor32Processor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlColor32Processor",
+      "Type": "XmlColor32AttributesProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlColor32Processor",
+      "Type": "XmlColor32ElementsProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColorAttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColorElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlColorProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlColorProcessor",
+      "Type": "XmlColorAttributesProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlColorProcessor",
+      "Type": "XmlColorElementsProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlQuaternionAttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlQuaternionElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlQuaternionProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlQuaternionProcessor",
+      "Type": "XmlQuaternionAttributesProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlQuaternionProcessor",
+      "Type": "XmlQuaternionElementsProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2IntAttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2IntElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2IntProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlVector2IntProcessor",
+      "Type": "XmlVector2IntAttributesProcessor",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlVector2IntProcessor",
+      "Type": "XmlVector2IntElementsProcessor",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2AttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2ElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector2Processor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlVector2Processor",
+      "Type": "XmlVector2AttributesProcessor",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlVector2Processor",
+      "Type": "XmlVector2ElementsProcessor",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3IntAttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3IntElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3IntProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlVector3IntProcessor",
+      "Type": "XmlVector3IntAttributesProcessor",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlVector3IntProcessor",
+      "Type": "XmlVector3IntElementsProcessor",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3AttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3ElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector3Processor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlVector3Processor",
+      "Type": "XmlVector3AttributesProcessor",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlVector3Processor",
+      "Type": "XmlVector3ElementsProcessor",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector4AttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector4ElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "XmlVector4Processor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs",
+      "Parameter": "attributesProcessor",
+      "Constructor": "XmlVector4Processor",
+      "Type": "XmlVector4AttributesProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs",
+      "Parameter": "elementsProcessor",
+      "Constructor": "XmlVector4Processor",
+      "Type": "XmlVector4ElementsProcessor",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlAttributesProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "UnityPrimitiveXmlAttributesProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlElementsProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "UnityPrimitiveXmlElementsProcessor",
+      "Type": "XmlSerializationDefinition",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.WeblinkMessenger<TRequest, TResponse, THandle, TResponseAssoc, TResponseCallback>.ImpossibleOdds.Weblink.IWeblinkMessenger.GetMessageHandle(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 259
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.WeblinkMessenger<TRequest, TResponse, THandle, TResponseAssoc, TResponseCallback>.ImpossibleOdds.Weblink.IWeblinkMessenger.IsPending(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 271
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.WeblinkMessenger<TRequest, TResponse, THandle, TResponseAssoc, TResponseCallback>.ImpossibleOdds.Weblink.IWeblinkMessenger.SendRequest(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 283
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.WeblinkMessenger<TRequest, TResponse, THandle, TResponseAssoc, TResponseCallback>.ImpossibleOdds.Weblink.IWeblinkMessenger.Stop(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 295
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkUtilities.cs",
+      "Parameter": "handle",
+      "Method": "ImpossibleOdds.Weblink.WeblinkUtilities.InvokeResponseCallback<TCallbackAttr, TResponseAssocAttr>(object, ImpossibleOdds.Weblink.IWeblinkMessageHandle)",
+      "Type": "IWeblinkMessageHandle",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.IWeblinkMessenger.IsPending(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.IWeblinkMessenger.Stop(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.IWeblinkMessenger.GetMessageHandle(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Weblink.IWeblinkMessenger.SendRequest(ImpossibleOdds.Weblink.IWeblinkRequest)",
+      "Type": "IWeblinkRequest",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/SerializationUtilities.cs",
+      "Parameter": "collectionInfo",
+      "Method": "ImpossibleOdds.Serialization.SerializationUtilities.InsertInSequence(System.Collections.IList, ImpossibleOdds.Serialization.Caching.SequenceCollectionTypeInfo, int, object)",
+      "Type": "SequenceCollectionTypeInfo",
+      "Line": 176
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs",
+      "Parameter": "serializationDefinition",
+      "Method": "ImpossibleOdds.Serialization.Serializer.Serialize(object, ImpossibleOdds.Serialization.ISerializationDefinition)",
+      "Type": "ISerializationDefinition",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs",
+      "Parameter": "serializationDefinition",
+      "Method": "ImpossibleOdds.Serialization.Serializer.Serialize<TTarget>(object, ImpossibleOdds.Serialization.ISerializationDefinition)",
+      "Type": "ISerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs",
+      "Parameter": "deserializationDefinition",
+      "Method": "ImpossibleOdds.Serialization.Serializer.Deserialize<TTarget>(object, ImpossibleOdds.Serialization.ISerializationDefinition)",
+      "Type": "ISerializationDefinition",
+      "Line": 82
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs",
+      "Parameter": "deserializationDefinition",
+      "Method": "ImpossibleOdds.Serialization.Serializer.Deserialize(System.Type, object, ImpossibleOdds.Serialization.ISerializationDefinition)",
+      "Type": "ISerializationDefinition",
+      "Line": 94
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs",
+      "Parameter": "deserializationDefinition",
+      "Method": "ImpossibleOdds.Serialization.Serializer.Deserialize(object, object, ImpossibleOdds.Serialization.ISerializationDefinition)",
+      "Type": "ISerializationDefinition",
+      "Line": 133
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/AbstractCustomObjectProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "AbstractCustomObjectProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DateTimeProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "DateTimeProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DateTimeProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "DateTimeProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DecimalProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "DecimalProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/EnumProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "EnumProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/ExactMatchProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "ExactMatchProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/GuidProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "GuidProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/GuidProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "GuidProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/NullValueProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "NullValueProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/PrimitiveTypeProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "PrimitiveTypeProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 37
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/StringProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "StringProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/VersionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "VersionProcessor",
+      "Type": "ISerializationDefinition",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs",
+      "Parameter": "member",
+      "Method": "ImpossibleOdds.Serialization.Processors.CustomObjectSequenceProcessor.GetIndex(ImpossibleOdds.Serialization.Caching.ISerializableMember)",
+      "Type": "ISerializableMember",
+      "Line": 268
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "CustomObjectSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/LookupProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "LookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/SequenceProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "SequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Parameter": "member",
+      "Method": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.GetKey(ImpossibleOdds.Serialization.Caching.ISerializableMember)",
+      "Type": "ISerializableMember",
+      "Line": 317
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Parameter": "typeResolveParam",
+      "Method": "ImpossibleOdds.Serialization.Processors.CustomObjectLookupProcessor.ResolveTypeForDeserialization(System.Collections.IDictionary, ImpossibleOdds.Serialization.ITypeResolveParameter, object)",
+      "Type": "ITypeResolveParameter",
+      "Line": 389
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "CustomObjectLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 83
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Color32SequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Color32LookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Color32Processor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Color32Processor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Color32Processor",
+      "Type": "Color32SequenceProcessor",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Color32Processor",
+      "Type": "Color32LookupProcessor",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "ColorSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "ColorLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "ColorProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "ColorProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "ColorProcessor",
+      "Type": "ColorSequenceProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "ColorProcessor",
+      "Type": "ColorLookupProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "QuaternionSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "QuaternionLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "QuaternionProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "QuaternionProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "QuaternionProcessor",
+      "Type": "QuaternionSequenceProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "QuaternionProcessor",
+      "Type": "QuaternionLookupProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector2IntSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector2IntLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Vector2IntProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Vector2IntProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Vector2IntProcessor",
+      "Type": "Vector2IntSequenceProcessor",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Vector2IntProcessor",
+      "Type": "Vector2IntLookupProcessor",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector2SequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector2LookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Vector2Processor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Vector2Processor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Vector2Processor",
+      "Type": "Vector2SequenceProcessor",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Vector2Processor",
+      "Type": "Vector2LookupProcessor",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector3IntSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector3IntLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Vector3IntProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Vector3IntProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Vector3IntProcessor",
+      "Type": "Vector3IntSequenceProcessor",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Vector3IntProcessor",
+      "Type": "Vector3IntLookupProcessor",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector3SequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector3LookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Vector3Processor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Vector3Processor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Vector3Processor",
+      "Type": "Vector3SequenceProcessor",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Vector3Processor",
+      "Type": "Vector3LookupProcessor",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector4SequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "definition",
+      "Constructor": "Vector4LookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "sequenceDefinition",
+      "Constructor": "Vector4Processor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "lookupDefinition",
+      "Constructor": "Vector4Processor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "sequenceProcessor",
+      "Constructor": "Vector4Processor",
+      "Type": "Vector4SequenceProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs",
+      "Parameter": "lookupProcessor",
+      "Constructor": "Vector4Processor",
+      "Type": "Vector4LookupProcessor",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveLoopkupProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "UnityPrimitiveLookupProcessor",
+      "Type": "ILookupSerializationDefinition",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSequenceProcessor.cs",
+      "Parameter": "definition",
+      "Constructor": "UnityPrimitiveSequenceProcessor",
+      "Type": "IIndexSerializationDefinition",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationReflectionMap.cs",
+      "Parameter": "requiredMemberInfo",
+      "Method": "ImpossibleOdds.Serialization.Caching.SerializationReflectionMap.TryGetRequiredMemberInfo(System.Reflection.MemberInfo, System.Type, out ImpossibleOdds.Serialization.Caching.IRequiredSerializableMember)",
+      "Type": "IRequiredSerializableMember",
+      "Line": 72
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/Interfaces/ISerializationReflectionMap.cs",
+      "Parameter": "requiredMemberInfo",
+      "Method": "ImpossibleOdds.Serialization.Caching.ISerializationReflectionMap.TryGetRequiredMemberInfo(System.Reflection.MemberInfo, System.Type, out ImpossibleOdds.Serialization.Caching.IRequiredSerializableMember)",
+      "Type": "IRequiredSerializableMember",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/EnumProcessing/EnumSerializationReflectionMap.cs",
+      "Parameter": "enumAliasSupport",
+      "Method": "ImpossibleOdds.Serialization.Caching.EnumSerializationReflectionMap.GetEnumSerializationValues(ImpossibleOdds.Serialization.IEnumAliasSupport)",
+      "Type": "IEnumAliasSupport",
+      "Line": 68
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/EnumProcessing/EnumSerializationReflectionMap.cs",
+      "Parameter": "enumAliasSupport",
+      "Method": "ImpossibleOdds.Serialization.Caching.EnumSerializationReflectionMap.PrefersStringBasedRespresentation(ImpossibleOdds.Serialization.IEnumAliasSupport)",
+      "Type": "IEnumAliasSupport",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/EnumProcessing/EnumSerializationReflectionMap.cs",
+      "Parameter": "enumAliasSupport",
+      "Method": "ImpossibleOdds.Serialization.Caching.EnumSerializationReflectionMap.GetStringRespresentationFor(System.Enum, ImpossibleOdds.Serialization.IEnumAliasSupport)",
+      "Type": "IEnumAliasSupport",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/EnumProcessing/EnumSerializationReflectionMap.cs",
+      "Parameter": "enumAliasSupport",
+      "Method": "ImpossibleOdds.Serialization.Caching.EnumSerializationReflectionMap.GetEnumValueFor(string, ImpossibleOdds.Serialization.IEnumAliasSupport)",
+      "Type": "IEnumAliasSupport",
+      "Line": 136
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.AddUpdate(ImpossibleOdds.Runnables.IRunnable)",
+      "Type": "IRunnable",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.AddFixedUpdate(ImpossibleOdds.Runnables.IFixedRunnable)",
+      "Type": "IFixedRunnable",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.AddLateUpdate(ImpossibleOdds.Runnables.ILateRunnable)",
+      "Type": "ILateRunnable",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.RemoveUpdate(ImpossibleOdds.Runnables.IRunnable)",
+      "Type": "IRunnable",
+      "Line": 75
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.RemoveFixedUpdate(ImpossibleOdds.Runnables.IFixedRunnable)",
+      "Type": "IFixedRunnable",
+      "Line": 86
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.Runner.RemoveLateUpdate(ImpossibleOdds.Runnables.ILateRunnable)",
+      "Type": "ILateRunnable",
+      "Line": 97
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/SceneRunner.cs",
+      "Parameter": "runner",
+      "Method": "ImpossibleOdds.Runnables.SceneRunner.RegisterRunner(Scene, ImpossibleOdds.Runnables.SceneRunner)",
+      "Type": "SceneRunner",
+      "Line": 70
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IFixedRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.IFixedRunner.AddFixedUpdate(ImpossibleOdds.Runnables.IFixedRunnable)",
+      "Type": "IFixedRunnable",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IFixedRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.IFixedRunner.RemoveFixedUpdate(ImpossibleOdds.Runnables.IFixedRunnable)",
+      "Type": "IFixedRunnable",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/ILateRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.ILateRunner.AddLateUpdate(ImpossibleOdds.Runnables.ILateRunnable)",
+      "Type": "ILateRunnable",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/ILateRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.ILateRunner.RemoveLateUpdate(ImpossibleOdds.Runnables.ILateRunnable)",
+      "Type": "ILateRunnable",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.IRunner.AddUpdate(ImpossibleOdds.Runnables.IRunnable)",
+      "Type": "IRunnable",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IRunner.cs",
+      "Parameter": "runnable",
+      "Method": "ImpossibleOdds.Runnables.IRunner.RemoveUpdate(ImpossibleOdds.Runnables.IRunnable)",
+      "Type": "IRunnable",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessageHandle.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessageHandle.SetResponse(ImpossibleOdds.Photon.WebRpc.IWebRpcResponse, string)",
+      "Type": "IWebRpcResponse",
+      "Line": 89
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessageHandle.cs",
+      "Parameter": "request",
+      "Constructor": "WebRpcMessageHandle",
+      "Type": "IWebRpcRequest",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.DefaultMessageConfigurator.GenerateRequestUri(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 289
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.DefaultMessageConfigurator.GenerateRequestBody(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 310
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.DefaultMessageConfigurator.ProcessResponseBody(ImpossibleOdds.Photon.WebRpc.IWebRpcResponse, System.Collections.IDictionary)",
+      "Type": "IWebRpcResponse",
+      "Line": 342
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.SendRequest(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "handle",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.AddPendingRequest(ImpossibleOdds.Photon.WebRpc.WebRpcMessageHandle)",
+      "Type": "WebRpcMessageHandle",
+      "Line": 95
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.RemovePendingRequest(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 104
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.WebRpcMessenger.CustomOpWebRPC(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest, string, System.Collections.IDictionary)",
+      "Type": "IWebRpcRequest",
+      "Line": 125
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "bodyDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 255
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "urlDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 255
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "bodyDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 275
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "urlDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 275
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs",
+      "Parameter": "configurator",
+      "Constructor": "WebRpcMessenger",
+      "Type": "IWebRpcMessageConfigurator",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcMessageConfigurator.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.IWebRpcMessageConfigurator.GenerateRequestUri(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcMessageConfigurator.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Photon.WebRpc.IWebRpcMessageConfigurator.GenerateRequestBody(ImpossibleOdds.Photon.WebRpc.IWebRpcRequest)",
+      "Type": "IWebRpcRequest",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcMessageConfigurator.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Photon.WebRpc.IWebRpcMessageConfigurator.ProcessResponseBody(ImpossibleOdds.Photon.WebRpc.IWebRpcResponse, System.Collections.IDictionary)",
+      "Type": "IWebRpcResponse",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Serialize(object, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 54
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Serialize(object, System.Text.StringBuilder, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 67
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Serialize(object, System.IO.TextWriter, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 82
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.SerializeAsync(object, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.SerializeAsync(object, System.Text.StringBuilder, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 115
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.SerializeAsync(object, System.IO.TextWriter, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 126
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 136
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 149
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize<TTarget>(string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 167
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize<TTarget>(System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 178
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(System.Type, string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 189
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(System.Type, System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 201
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(object, string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 214
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.Deserialize(object, System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 227
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 239
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 251
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync<TTarget>(string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 264
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync<TTarget>(System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 277
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(System.Type, string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 290
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(System.Type, System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 303
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(object, string, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 316
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs",
+      "Parameter": "options",
+      "Method": "ImpossibleOdds.Json.JsonProcessor.DeserializeAsync(object, System.IO.TextReader, ImpossibleOdds.Json.JsonOptions)",
+      "Type": "JsonOptions",
+      "Line": 327
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessageHandle.cs",
+      "Parameter": "request",
+      "Constructor": "HttpMessageHandle",
+      "Type": "IHttpRequest",
+      "Line": 92
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.GenerateRequestUrl(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 227
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.GenerateRequestHeaders(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 241
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.GenerateRequestPostBody(ImpossibleOdds.Http.IHttpPostRequest)",
+      "Type": "IHttpPostRequest",
+      "Line": 248
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.ProcessResponseHeaders(ImpossibleOdds.Http.IHttpResponse, System.Collections.IDictionary)",
+      "Type": "IHttpResponse",
+      "Line": 260
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.DefaultMessageConfigurator.ProcessResponsePostBody(ImpossibleOdds.Http.IHttpStructuredResponse, string)",
+      "Type": "IHttpStructuredResponse",
+      "Line": 271
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.SendRequest(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.GenerateWebRequest(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "handle",
+      "Method": "ImpossibleOdds.Http.HttpMessenger.OnRequestCompleted(ImpossibleOdds.Http.HttpMessageHandle)",
+      "Type": "HttpMessageHandle",
+      "Line": 130
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "bodyDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 209
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "urlDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 209
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "headerDefinition",
+      "Constructor": "DefaultMessageConfigurator",
+      "Type": "ISerializationDefinition",
+      "Line": 209
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs",
+      "Parameter": "configurator",
+      "Constructor": "HttpMessenger",
+      "Type": "IHttpMessageConfigurator",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.IHttpMessageConfigurator.GenerateRequestPostBody(ImpossibleOdds.Http.IHttpPostRequest)",
+      "Type": "IHttpPostRequest",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.IHttpMessageConfigurator.GenerateRequestUrl(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs",
+      "Parameter": "request",
+      "Method": "ImpossibleOdds.Http.IHttpMessageConfigurator.GenerateRequestHeaders(ImpossibleOdds.Http.IHttpRequest)",
+      "Type": "IHttpRequest",
+      "Line": 30
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Http.IHttpMessageConfigurator.ProcessResponseHeaders(ImpossibleOdds.Http.IHttpResponse, System.Collections.IDictionary)",
+      "Type": "IHttpResponse",
+      "Line": 37
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs",
+      "Parameter": "response",
+      "Method": "ImpossibleOdds.Http.IHttpMessageConfigurator.ProcessResponsePostBody(ImpossibleOdds.Http.IHttpStructuredResponse, string)",
+      "Type": "IHttpStructuredResponse",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions/DependencyContainerExtensions.cs",
+      "Parameter": "container",
+      "Method": "DependencyContainerExtensions.RegisterInstance<T>(ImpossibleOdds.DependencyInjection.IDependencyContainer, T)",
+      "Type": "IDependencyContainer",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions/DependencyContainerExtensions.cs",
+      "Parameter": "container",
+      "Method": "DependencyContainerExtensions.RegisterInstanceWithInterfaces<T>(ImpossibleOdds.DependencyInjection.IDependencyContainer, T)",
+      "Type": "IDependencyContainer",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions/DependencyContainerExtensions.cs",
+      "Parameter": "container",
+      "Method": "DependencyContainerExtensions.RegisterGenerator<T>(ImpossibleOdds.DependencyInjection.IDependencyContainer, System.Func<T>)",
+      "Type": "IDependencyContainer",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions/DependencyContainerExtensions.cs",
+      "Parameter": "container",
+      "Method": "DependencyContainerExtensions.RegisterGeneratorWithInterfaces<T>(ImpossibleOdds.DependencyInjection.IDependencyContainer, System.Func<T>)",
+      "Type": "IDependencyContainer",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.Register(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.Register<TypeKey>(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.Register(System.Type, ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 44
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.RegisterWithInterfaces(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 58
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.RegisterWithInterfaces<T>(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyContainer.RegisterWithInterfaces(System.Type, ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 71
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/CompositeDependencyContainer.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.CompositeDependencyContainer.AddContainer(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/CompositeDependencyContainer.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.CompositeDependencyContainer.RemoveContainer(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/CompositeDependencyContainer.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.CompositeDependencyContainer.ContainerExists(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(GameObject, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, bool)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(GameObject, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string, bool)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(System.Collections.Generic.IEnumerable<GameObject>, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, bool)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(System.Collections.Generic.IEnumerable<GameObject>, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string, bool)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(MonoBehaviour, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 75
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(MonoBehaviour, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 89
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(System.Collections.Generic.IEnumerable<MonoBehaviour>, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 102
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.Inject(System.Collections.Generic.IEnumerable<MonoBehaviour>, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 115
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.AddComponentAndInject<TComponent>(GameObject, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 130
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjectionExtensions.AddComponentAndInject<TComponent>(GameObject, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 145
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.CreateAndInject<T>(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.CreateAndInject(System.Type, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 75
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.CreateAndInject<T>(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 89
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.CreateAndInject(System.Type, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 103
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 137
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 158
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, object)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 180
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string, object)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 195
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, System.Collections.IEnumerable)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 209
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string, System.Collections.IEnumerable)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 229
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, params object[])",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 249
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.Inject(ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string, params object[])",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 265
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.ResolveDependenciesForObject(object, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 281
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.ResolveFieldDependencies(object, System.Type, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 296
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.ResolvePropertyDependencies(object, System.Type, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 327
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.ResolveMethodDependencies(object, System.Type, ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer, string)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 358
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.FillParameterInjectionList(System.Reflection.ParameterInfo[], object[], ImpossibleOdds.DependencyInjection.IReadOnlyDependencyContainer)",
+      "Type": "IReadOnlyDependencyContainer",
+      "Line": 389
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs",
+      "Parameter": "typeInjection",
+      "Method": "ImpossibleOdds.DependencyInjection.DependencyInjector.TryGetTypeInjectionInfo(System.Type, out ImpossibleOdds.DependencyInjection.TypeInjectionCache)",
+      "Type": "TypeInjectionCache",
+      "Line": 403
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyScopeInstaller.cs",
+      "Parameter": "container",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyScopeInstaller.Install(ImpossibleOdds.DependencyInjection.IDependencyContainer)",
+      "Type": "IDependencyContainer",
+      "Line": 5
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.Register(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.Register<T>(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.Register(System.Type, ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.RegisterWithInterfaces(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.RegisterWithInterfaces<TypeKey>(ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 51
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs",
+      "Parameter": "binding",
+      "Method": "ImpossibleOdds.DependencyInjection.IDependencyContainer.RegisterWithInterfaces(System.Type, ImpossibleOdds.DependencyInjection.IDependencyBinding)",
+      "Type": "IDependencyBinding",
+      "Line": 57
+    }
+  ]
+}

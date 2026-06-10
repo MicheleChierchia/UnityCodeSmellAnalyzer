@@ -1,6 +1,6 @@
 {
   "guid": "e6e26d5412c7e484a8c020b868a57fab",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Pink.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Pink.mat",
   "name": "M_Pink",
   "type": "mat",
   "file_size": 2053,
@@ -455,5 +455,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

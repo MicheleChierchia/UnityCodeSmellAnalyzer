@@ -1,0 +1,694 @@
+{
+  "guid": "96033178e4652f14286938d9c52dffd5",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/examples/TransformSync/Prefabs/ExampleNetworkManager.prefab",
+  "name": "ExampleNetworkManager",
+  "type": "prefab",
+  "file_size": 4435,
+  "num_components": 8,
+  "COMPONENTS": [
+    {
+      "id": "8884906697866078237",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "6"
+        },
+        {
+          "m_Component": [
+            {
+              "- component": [
+                {
+                  "fileID": "8884906697866078226"
+                }
+              ]
+            },
+            {
+              "- component": [
+                {
+                  "fileID": "8884906697866078227"
+                }
+              ]
+            },
+            {
+              "- component": [
+                {
+                  "fileID": "8884906697866078236"
+                }
+              ]
+            },
+            {
+              "- component": [
+                {
+                  "fileID": "8884906697866078225"
+                }
+              ]
+            },
+            {
+              "- component": [
+                {
+                  "fileID": "9143822966503921370"
+                }
+              ]
+            },
+            {
+              "- component": [
+                {
+                  "fileID": "639185289229711855"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "ExampleNetworkManager"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "8884906697866078226",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_Children": "[]"
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8884906697866078227",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "259b20479d861ee45bb71cf160c7c1f1"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "dontDestroyOnLoad": "1"
+        },
+        {
+          "runInBackground": "1"
+        },
+        {
+          "autoStartServerBuild": "1"
+        },
+        {
+          "showDebugMessages": "0"
+        },
+        {
+          "serverTickRate": "30"
+        },
+        {
+          "serverBatching": "0"
+        },
+        {
+          "serverBatchInterval": "0"
+        },
+        {
+          "offlineScene": ""
+        },
+        {
+          "onlineScene": ""
+        },
+        {
+          "transport": [
+            {
+              "fileID": "8884906697866078236"
+            }
+          ]
+        },
+        {
+          "networkAddress": "localhost"
+        },
+        {
+          "maxConnections": "4"
+        },
+        {
+          "disconnectInactiveConnections": "0"
+        },
+        {
+          "disconnectInactiveTimeout": "60"
+        },
+        {
+          "authenticator": [
+            {
+              "fileID": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "",
+      "guiRect": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "x": "250"
+        },
+        {
+          "y": "40"
+        },
+        {
+          "width": "200"
+        },
+        {
+          "height": "200"
+        }
+      ]
+    },
+    {
+      "id": "8884906697866078236",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "c7424c1070fad4ba2a7a96b02fbeb4bb"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "port": "7777"
+        },
+        {
+          "NoDelay": "1"
+        },
+        {
+          "serverMaxMessageSize": "16384"
+        },
+        {
+          "serverMaxReceivesPerTick": "10000"
+        },
+        {
+          "clientMaxMessageSize": "16384"
+        },
+        {
+          "clientMaxReceivesPerTick": "1000"
+        }
+      ]
+    },
+    {
+      "id": "8884906697866078225",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "6442dc8070ceb41f094e44de0bf87274"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "showGUI": "1"
+        },
+        {
+          "offsetX": "0"
+        },
+        {
+          "offsetY": "0"
+        }
+      ]
+    },
+    {
+      "id": "9143822966503921370",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "bc654f29862fc2643b948f772ebb9e68"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "showPing": "1"
+        },
+        {
+          "showRoundTripTime": "1"
+        },
+        {
+          "position": [
+            {
+              "x": "200"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "fontSize": "24"
+        },
+        {
+          "textColor": [
+            {
+              "r": "1"
+            },
+            {
+              "g": "1"
+            },
+            {
+              "b": "1"
+            },
+            {
+              "a": "0.3137255"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "639185289229711855",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_CorrespondingSourceObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInstance": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabAsset": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "8884906697866078237"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "e39d7f8e1b55ad64493bf95650278d9b"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "_behaviours": [
+            {
+              "fileID": "11400000"
+            },
+            {
+              "guid": "dbdb2ef6064cd7d4fb7355637c47ce06"
+            },
+            {
+              "type": "2"
+            }
+          ]
+        },
+        {
+          "packer": [
+            {
+              "fileID": "11400000"
+            },
+            {
+              "guid": "9d07eef94c2ff144aba70e4db5e33448"
+            },
+            {
+              "type": "2"
+            }
+          ]
+        },
+        {
+          "syncInterval": "0.1"
+        },
+        {
+          "checkEveryFrame": "1"
+        },
+        {
+          "sendToAll": "1"
+        }
+      ]
+    }
+  ],
+  "ProjectName": "7_networkpositionsync",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync"
+}

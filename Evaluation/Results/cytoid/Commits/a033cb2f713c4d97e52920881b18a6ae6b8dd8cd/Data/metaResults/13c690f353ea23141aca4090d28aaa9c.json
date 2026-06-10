@@ -1,6 +1,6 @@
 {
   "guid": "13c690f353ea23141aca4090d28aaa9c",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/InspectableReactiveProperty.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/InspectableReactiveProperty.cs.meta",
   "name": "InspectableReactiveProperty.cs",
   "type": "meta",
   "file_size": 264,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

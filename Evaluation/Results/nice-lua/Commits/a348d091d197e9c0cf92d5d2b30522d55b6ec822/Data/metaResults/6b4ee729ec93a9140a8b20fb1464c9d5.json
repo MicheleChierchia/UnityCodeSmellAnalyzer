@@ -1,0 +1,32 @@
+{
+  "guid": "6b4ee729ec93a9140a8b20fb1464c9d5",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/AddressableAssetsData/AssetGroups/Schemas/48dbfbe2a009c4246b248635b5d031d7_BundledAssetGroupSchema.asset.meta",
+  "name": "48dbfbe2a009c4246b248635b5d031d7_BundledAssetGroupSchema.asset",
+  "type": "meta",
+  "file_size": 182,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "mainObjectFileID": "0"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

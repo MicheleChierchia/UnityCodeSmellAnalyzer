@@ -1,0 +1,32 @@
+{
+  "guid": "d6dae50ee9e1bfa4db75f19f99355220",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/Shaders/Utils/CopyDepth.shader.meta",
+  "name": "CopyDepth.shader",
+  "type": "meta",
+  "file_size": 217,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

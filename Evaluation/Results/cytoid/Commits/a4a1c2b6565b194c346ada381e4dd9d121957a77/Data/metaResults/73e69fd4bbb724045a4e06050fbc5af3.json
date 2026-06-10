@@ -1,6 +1,6 @@
 {
   "guid": "73e69fd4bbb724045a4e06050fbc5af3",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample04_ConvertFromUnityCallback.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample04_ConvertFromUnityCallback.cs.meta",
   "name": "Sample04_ConvertFromUnityCallback.cs",
   "type": "meta",
   "file_size": 264,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

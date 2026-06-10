@@ -1,0 +1,29 @@
+{
+  "guid": "9adc879d74aec4400bbdce89ff664a05",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/ShaderLibrary/ShaderGraphFunctions.hlsl.meta",
+  "name": "ShaderGraphFunctions.hlsl",
+  "type": "meta",
+  "file_size": 195,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

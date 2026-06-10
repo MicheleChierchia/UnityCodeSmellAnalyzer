@@ -1,6 +1,6 @@
 {
   "guid": "b3a8da88b8614aa4a81de0863ef0fec2",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/ResetUI.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/ResetUI.prefab",
   "name": "ResetUI",
   "type": "prefab",
   "file_size": 7314,
@@ -1432,5 +1432,5 @@
     }
   ],
   "ProjectName": "6_bundlemaster_integrateettask",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
 }

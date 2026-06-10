@@ -1,52 +1,52 @@
 {
   "Name": "Poor State Design",
-  "Severity": "Unknown",
+  "Severity": "Medium",
   "Occurrency": 34,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 31
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 33
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 33
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 36
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 36
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Class": "FormManager",
       "Method": "FormManager.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 39
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
       "Class": "PauseHandler",
       "Method": "PauseHandler.Update()",
       "Invocation": "PauseHandler.MouseLock()",
@@ -54,7 +54,7 @@
       "Line": 44
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
       "Class": "PauseHandler",
       "Method": "PauseHandler.Update()",
       "Invocation": "PauseHandler.PauseGame()",
@@ -62,42 +62,42 @@
       "Line": 29
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PauseHandler.cs",
       "Class": "PauseHandler",
       "Method": "PauseHandler.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 19
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 84
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 86
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 86
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 88
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "Invocation": "PlayerController.Movement()",
@@ -105,7 +105,7 @@
       "Line": 110
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "Invocation": "PlayerController.Movement()",
@@ -113,7 +113,7 @@
       "Line": 114
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "Invocation": "PlayerController.Movement()",
@@ -121,7 +121,7 @@
       "Line": 122
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "Invocation": "PlayerController.Movement()",
@@ -129,77 +129,77 @@
       "Line": 124
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "ConditionBlock": "IfBlocks",
       "Line": 93
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Class": "PlayerController",
       "Method": "PlayerController.FixedUpdate()",
       "ConditionBlock": "IfBlocks",
       "Line": 96
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 37
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 41
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 41
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 41
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 41
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 59
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 44
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 44
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "Invocation": "BehaviorBase.OnSuspicious()",
@@ -207,7 +207,7 @@
       "Line": 52
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "Invocation": "BehaviorBase.OnDetectPlayer()",
@@ -215,35 +215,35 @@
       "Line": 64
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 28
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 28
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 30
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs",
       "Class": "BehaviorBase",
       "Method": "BehaviorBase.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 30
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Class": "EnemyBase",
       "Method": "EnemyBase.Update()",
       "ConditionBlock": "SwitchBlocks",

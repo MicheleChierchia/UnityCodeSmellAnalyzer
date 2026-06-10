@@ -1,648 +1,648 @@
-09/06/2026 12:26:39 Loading extensions...
-09/06/2026 12:26:39 Searching MetaData file inside project folder...
-09/06/2026 12:26:39 Searching main file...
-09/06/2026 12:26:39 Done!
-09/06/2026 12:26:39 Searching meta file...
-09/06/2026 12:26:39 Done!
-09/06/2026 12:26:39 Done!
-09/06/2026 12:26:39 Done!
-09/06/2026 12:26:39 Creating Result Directories
-09/06/2026 12:26:39 Start analisys...
-09/06/2026 12:26:39 Analyzing Main MetaData...
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ProjectInfo.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Dev/Costume Debug - Bear.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 66b6ddd3e0846ac49a8ac1fb13a87477.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies/EnemyTest.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a285d7c77909fe444aabcd810a46e6ba.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Loading Screen.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a72c30ada5a589949b91865b21168177.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/GameManager.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 4285c06ef07a69d4ca05e2d96c0a1060.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Camera Target Pos.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f175561f23d1be74dbef08bd6192f56d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Camera.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 1b6fda930a6b6ce4686a86ddc7b9f0a5.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/PlayerController.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 0b9f54eea674a0c4cab60d45646198a2.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player/PecoTestCapsule.prefab
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 0043a034ea317324c9c49f7854db5b0e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 03f94d903e5e49d4ebb6b9abac9f8427.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.controller
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 4116e0228800bde4393b32a20f5f17f0.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTestAttack.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 6afe643398f66324da6ead8f1f1de8f4.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/PecoTest.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 17433c3fbd06f3a449d8f18beade999e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/PecoTest.controller
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 617f4a7938e936544976b10e62f3ce8b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/ScissorTest.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 3dfb686bea04b5847a292c0c1d57f491.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttack.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7d0ab8d1fb8a589469aca92373267174.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttackLanding.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5cae723ca5b37584fb6a889486bc9f38.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAttack.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 0840de76271743944994111071f8bc74.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearCharge.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: b99be2cb72f180c49bddc9d2722ed1d3.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearChargeAttackHit.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f93974939179f374ba290392e309530c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.anim
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: fc1c46ec15395f34eac9a698e08c2f7b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.controller
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 0e1375a9dcaa97c4e855f090944b79f3.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Bear.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7d24fede7a080c8488629afe068e123d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Eye.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7d9fc9b51a7cd304889675612227b33f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Hair.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: b98e7c952708b874d9eaf2885fab96c1.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/bow.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: c91ec54deb4b73148bd963ea07bd583c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/face.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: d640b52869fe3d34f8add9237c7b8d49.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/zipper.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5f738ae367deda0418c9308e377f86e8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Bear.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ba9372aa95d9e1d4faf6e9e6b87bb9f5.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Eye.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 28c6127d18f7b4a48945f9c6e2cb62ac.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Hair.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f0729fbe88d70c344adc7c449d60860c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/bow.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: bfb99d53b6ad6074ebb5e13207b3bd2b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/face.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 6133a2a068544294ebad7b06603b1502.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/zipper.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 9a99105f6be30884a9184b5a8c7ac2ec.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Materials/face(norm).mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: bd9289efb46313c4d9ee8e1e473e7f8d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Brown.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: bb1025674cdaf0146bbae480dc02ae8a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Generic.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8424c2a4b80a95e4094a5d80a3ed9366.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Pink.mat
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: e6e26d5412c7e484a8c020b868a57fab.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Done!
-09/06/2026 12:26:39 Analyzing Meta files...
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: b7d24d214d7896b4e8d0e106facebfa2.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7bd3d876721dddc49a527e75f4bd2aa6.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: c11da368e86a7d74a9fc1d145afd8ecf.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7b86a5462a99800489c085bacdd93a6b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 871ec7c94514c784bbac969bd1c48b6e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 25ab93494a656dc4d8bbc60eec9d4dc9.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 149e5274c9a2cc04984fa0756eae2ce8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: fc57bcc69fbc1894fad328e3457f8cc9.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: c760f556366c046429e0746f292c9ad2.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Dev.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 60b5e6299d1252e4aa599ea54b456543.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Canvas.prefab.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: daba209c4b2cb734486c448903a43209.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player/PecoBear.prefab.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ca4bfefbbbc49984db7fdfcd3f649d00.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 01cca5549a3f3e0488325b78d9f0f499.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/AssetBundles.manifest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: eea7ab72f762671429dc2d50c018409d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/AssetBundles.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 4dffdaef1524e5249b5085d7f1b0a996.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/formdata.manifest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f544b63c902a65341a41ad4f2946c0ae.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/formdata.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 14578b9bd5517504a8d591c865739201.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.manifest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 251301ec5bb7c074c9ba08befa9b2f0c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 812bd00f786281a4ca23f27eda35af31.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.manifest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 268553f35d6542a4885fe24f63f83549.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7e0adf85f10bc0240a0d1d4c830bb2bc.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor/CreateAssetBundles.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 416d73598a26ee84ca72da202a06451b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 61591e8b6c1cb784aaad4ac707cca7a9.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a7d8d17ef60958a4ca6218d3ed4fe3ef.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: fad9d858fc07af14cbeade7979572001.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7091964768d0c5547beb625211de7bf7.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 34f1dafccf4b02a4bb480887a5cdc1e7.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: cb2ec5f1928898c48a9ddc58ba684ec5.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8ea7c706c7fbda04b867b78f4cd2313a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/pecoLogo.png.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a4233e017ccca584c9afd93c5d25e48a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/stealthGradientTemp.png.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 2c13ca9df5639da48b7adc7b37d798a0.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-empty-heart.png.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: bf3ab05e9a2a6f948838c62b84072621.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-full-heart.png.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 04855c2bb0809a74bbca52e4593fb0c8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 3421fb621035bc74fa38b302c9424f95.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 855b4e83941176640bbd758e3c85bcbb.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/PecoBearModel.fbx.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: c28bf858c63e29142a9999d16dda76cc.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 489f460737efd5b42a1fbbc4a88a9a9a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Materials.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: eaa9b583c4be8684b9f4d8a6297c5abd.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/face(norm).png.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a11598142c256224db33b1aacda997d4.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/Shaders.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: bd4baf8bcf2aa8340a835cfaed33a667.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/Shaders/VertexColorsStandard.shader.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 44a6a3f7ef59c0e4c9cf84d9d0740bb8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7a354c376f8d22e49a039c3c8b643c9f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8a6977df6b2747a4192c2826b548e51f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: b4da1f45fde19f54da30e2da0c59dc16.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 53ffe48e88b103646900c268961fe38a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 548eb7017c350684fb764132eea408b2.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5197fb149248dd1468272f5299140f7e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 2e02f5ec4ed57f243a5853a138d56505.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/FormManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 77ad25790fdd82a4c8dc04f0193a451f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/GroundedManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 7958c87718e130e4998bcab7d1f7eb2f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/PlayerController.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 2537fe87976f1b247a1ab4d859ddc6f8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/BearData.asset.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 1404c254af47e954ab5ea4faee10d47b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/FormDataBase.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 305ec95c33a71b442b7ad36cf729c1b1.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/HumanData.asset.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 0c2d4f3a321adc54a80f196e01091264.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/TestCapsuleData.asset.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 3e8cc525288dba04489d5a5d503a3d7a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera/CameraController.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 225cc8ccce2f8244fb70125b6834d3e9.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera/CameraTargetPos.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 577232c48f9ba9e44b60f2bee381bdba.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/CostumeDebug.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a6cb2801659fc1a458fe6f1d7fda150d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 9eeb3a897d289ed4a88588fad62f8e9c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Effects.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 1167cb7148c944edad2e70dffd877107.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/PlayerCollisions.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f4b71861d3ecafd48bb25205ba7c3f1d.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Utils.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ccb9cf93201946a098681acd85fd5236.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Effects/Effect.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: d9a7e7dd396057e41b9e5cd341c1c7b8.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/CanvasManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ad528135be4b8df45b66cfff2147ed5a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 055616b55225d91408bdc6b8a63a4d17.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/PauseHandler.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 127777c21abb40840a9f2a859312bde5.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 05976c1d74bb71542aa9d8b77a714a60.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 92d09d1c691538d4eb661a4fddaf84d9.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management/LevelData.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: d54f11da4cd7f7d46b207d847ac96f4b.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management/SetRespawn.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8811bfa4fbcab284f8dccfdf7bd94dac.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/LoadingScreenManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: fa47358d19bafb443aa3de7d5b60ea33.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/MainMenuManager.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8e69b231c0b18704a8a15b6473433fba.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 04cf60f0e5f30ba408469ab43351af67.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f405da21fe51b33478f080e887d47361.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/TestEnemy.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 2e9b685ce6a65e64e8eac89f7a10708e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ccc9eed4eaa63fb4397a9ece6250cb6c.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/PatrolBasic.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 4e351fbfd09bf7e49af3b93dffb42340.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/HealthSystem.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: f5e893ba29cd1454cb54358cc3dc6c89.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/Scissors.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 4ae38234b2a12c94ea13848d22f53e47.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/DamageEnemy.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 3dcc0970e2891c440bd2021ae1feea4f.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/DamagePlayer.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: fb44da3021a84744e94a4f68acdc055a.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/HealPlayer.cs.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 8367c3db35a73de42adf4f01d2c3e051.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.unity.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5b88b75230cdd2c40911b507bba07353.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/MainMenu.unity.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5d0642be1abe98442811212dc5943b87.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ece694a22b8ec0b4f9af2120606d7372.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox.unity.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 5de26694b502111409795597ff8cc5ae.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: ff987e5c0fcae7443abb6d7583bc9465.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox/NavMesh.asset.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: a914f4451c810d743a0a3ff556ecea3e.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene/NavMesh.asset.meta
-09/06/2026 12:26:39 Data Extracted!
-09/06/2026 12:26:39 Saving Results...
-09/06/2026 12:26:39 Saving File: 28ef36adce4b70644885c18e02c7ed04.json
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Done!!
-09/06/2026 12:26:39 Done!
+09/06/2026 22:37:15 Loading extensions...
+09/06/2026 22:37:15 Searching MetaData file inside project folder...
+09/06/2026 22:37:15 Searching main file...
+09/06/2026 22:37:15 Done!
+09/06/2026 22:37:15 Searching meta file...
+09/06/2026 22:37:15 Done!
+09/06/2026 22:37:15 Done!
+09/06/2026 22:37:15 Done!
+09/06/2026 22:37:15 Creating Result Directories
+09/06/2026 22:37:15 Start analisys...
+09/06/2026 22:37:15 Analyzing Main MetaData...
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ProjectInfo.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Dev/Costume Debug - Bear.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 66b6ddd3e0846ac49a8ac1fb13a87477.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies/EnemyTest.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a285d7c77909fe444aabcd810a46e6ba.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Loading Screen.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a72c30ada5a589949b91865b21168177.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/GameManager.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 4285c06ef07a69d4ca05e2d96c0a1060.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Camera Target Pos.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f175561f23d1be74dbef08bd6192f56d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Camera.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 1b6fda930a6b6ce4686a86ddc7b9f0a5.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/PlayerController.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 0b9f54eea674a0c4cab60d45646198a2.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player/PecoTestCapsule.prefab
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 0043a034ea317324c9c49f7854db5b0e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 03f94d903e5e49d4ebb6b9abac9f8427.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.controller
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 4116e0228800bde4393b32a20f5f17f0.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTestAttack.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 6afe643398f66324da6ead8f1f1de8f4.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/PecoTest.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 17433c3fbd06f3a449d8f18beade999e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/PecoTest.controller
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 617f4a7938e936544976b10e62f3ce8b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest/ScissorTest.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 3dfb686bea04b5847a292c0c1d57f491.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttack.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7d0ab8d1fb8a589469aca92373267174.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttackLanding.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5cae723ca5b37584fb6a889486bc9f38.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAttack.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 0840de76271743944994111071f8bc74.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearCharge.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: b99be2cb72f180c49bddc9d2722ed1d3.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearChargeAttackHit.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f93974939179f374ba290392e309530c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.anim
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: fc1c46ec15395f34eac9a698e08c2f7b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearTest.controller
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 0e1375a9dcaa97c4e855f090944b79f3.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Bear.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7d24fede7a080c8488629afe068e123d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Eye.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7d9fc9b51a7cd304889675612227b33f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/Hair.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: b98e7c952708b874d9eaf2885fab96c1.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/bow.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: c91ec54deb4b73148bd963ea07bd583c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/face.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: d640b52869fe3d34f8add9237c7b8d49.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials/zipper.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5f738ae367deda0418c9308e377f86e8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Bear.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ba9372aa95d9e1d4faf6e9e6b87bb9f5.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Eye.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 28c6127d18f7b4a48945f9c6e2cb62ac.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Hair.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f0729fbe88d70c344adc7c449d60860c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/bow.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: bfb99d53b6ad6074ebb5e13207b3bd2b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/face.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 6133a2a068544294ebad7b06603b1502.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/zipper.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 9a99105f6be30884a9184b5a8c7ac2ec.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Materials/face(norm).mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: bd9289efb46313c4d9ee8e1e473e7f8d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Brown.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: bb1025674cdaf0146bbae480dc02ae8a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Generic.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8424c2a4b80a95e4094a5d80a3ed9366.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/M_Pink.mat
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: e6e26d5412c7e484a8c020b868a57fab.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Done!
+09/06/2026 22:37:15 Analyzing Meta files...
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: b7d24d214d7896b4e8d0e106facebfa2.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7bd3d876721dddc49a527e75f4bd2aa6.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: c11da368e86a7d74a9fc1d145afd8ecf.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7b86a5462a99800489c085bacdd93a6b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 871ec7c94514c784bbac969bd1c48b6e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 25ab93494a656dc4d8bbc60eec9d4dc9.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 149e5274c9a2cc04984fa0756eae2ce8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: fc57bcc69fbc1894fad328e3457f8cc9.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: c760f556366c046429e0746f292c9ad2.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Dev.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 60b5e6299d1252e4aa599ea54b456543.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Main Canvas.prefab.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: daba209c4b2cb734486c448903a43209.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Player/PecoBear.prefab.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ca4bfefbbbc49984db7fdfcd3f649d00.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 01cca5549a3f3e0488325b78d9f0f499.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/AssetBundles.manifest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: eea7ab72f762671429dc2d50c018409d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/AssetBundles.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 4dffdaef1524e5249b5085d7f1b0a996.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/formdata.manifest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f544b63c902a65341a41ad4f2946c0ae.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/formdata.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 14578b9bd5517504a8d591c865739201.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.manifest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 251301ec5bb7c074c9ba08befa9b2f0c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/pecobear.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 812bd00f786281a4ca23f27eda35af31.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.manifest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 268553f35d6542a4885fe24f63f83549.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/StreamingAssets/AssetBundles/testcapsule.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7e0adf85f10bc0240a0d1d4c830bb2bc.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Editor/CreateAssetBundles.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 416d73598a26ee84ca72da202a06451b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 61591e8b6c1cb784aaad4ac707cca7a9.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a7d8d17ef60958a4ca6218d3ed4fe3ef.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: fad9d858fc07af14cbeade7979572001.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7091964768d0c5547beb625211de7bf7.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 34f1dafccf4b02a4bb480887a5cdc1e7.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoTest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: cb2ec5f1928898c48a9ddc58ba684ec5.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8ea7c706c7fbda04b867b78f4cd2313a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/pecoLogo.png.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a4233e017ccca584c9afd93c5d25e48a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/stealthGradientTemp.png.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 2c13ca9df5639da48b7adc7b37d798a0.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-empty-heart.png.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: bf3ab05e9a2a6f948838c62b84072621.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-full-heart.png.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 04855c2bb0809a74bbca52e4593fb0c8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 3421fb621035bc74fa38b302c9424f95.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 855b4e83941176640bbd758e3c85bcbb.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/PecoBearModel.fbx.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: c28bf858c63e29142a9999d16dda76cc.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 489f460737efd5b42a1fbbc4a88a9a9a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Materials.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: eaa9b583c4be8684b9f4d8a6297c5abd.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/face(norm).png.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a11598142c256224db33b1aacda997d4.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/Shaders.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: bd4baf8bcf2aa8340a835cfaed33a667.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Materials/Shaders/VertexColorsStandard.shader.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 44a6a3f7ef59c0e4c9cf84d9d0740bb8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7a354c376f8d22e49a039c3c8b643c9f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8a6977df6b2747a4192c2826b548e51f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: b4da1f45fde19f54da30e2da0c59dc16.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 53ffe48e88b103646900c268961fe38a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 548eb7017c350684fb764132eea408b2.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5197fb149248dd1468272f5299140f7e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 2e02f5ec4ed57f243a5853a138d56505.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/FormManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 77ad25790fdd82a4c8dc04f0193a451f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/GroundedManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 7958c87718e130e4998bcab7d1f7eb2f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/PlayerController.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 2537fe87976f1b247a1ab4d859ddc6f8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/BearData.asset.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 1404c254af47e954ab5ea4faee10d47b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/FormDataBase.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 305ec95c33a71b442b7ad36cf729c1b1.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/HumanData.asset.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 0c2d4f3a321adc54a80f196e01091264.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Player/Form Data/TestCapsuleData.asset.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 3e8cc525288dba04489d5a5d503a3d7a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera/CameraController.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 225cc8ccce2f8244fb70125b6834d3e9.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Camera/CameraTargetPos.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 577232c48f9ba9e44b60f2bee381bdba.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/CostumeDebug.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a6cb2801659fc1a458fe6f1d7fda150d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 9eeb3a897d289ed4a88588fad62f8e9c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Effects.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 1167cb7148c944edad2e70dffd877107.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/PlayerCollisions.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f4b71861d3ecafd48bb25205ba7c3f1d.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Utils.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ccb9cf93201946a098681acd85fd5236.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/Old Stuff/Effects/Effect.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: d9a7e7dd396057e41b9e5cd341c1c7b8.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/CanvasManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ad528135be4b8df45b66cfff2147ed5a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 055616b55225d91408bdc6b8a63a4d17.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/PauseHandler.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 127777c21abb40840a9f2a859312bde5.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 05976c1d74bb71542aa9d8b77a714a60.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 92d09d1c691538d4eb661a4fddaf84d9.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management/LevelData.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: d54f11da4cd7f7d46b207d847ac96f4b.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/Level Management/SetRespawn.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8811bfa4fbcab284f8dccfdf7bd94dac.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/LoadingScreenManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: fa47358d19bafb443aa3de7d5b60ea33.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/MainMenuManager.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8e69b231c0b18704a8a15b6473433fba.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 04cf60f0e5f30ba408469ab43351af67.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f405da21fe51b33478f080e887d47361.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/TestEnemy.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 2e9b685ce6a65e64e8eac89f7a10708e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/BehaviorBase.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ccc9eed4eaa63fb4397a9ece6250cb6c.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/Behaviors/PatrolBasic.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 4e351fbfd09bf7e49af3b93dffb42340.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/HealthSystem.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: f5e893ba29cd1454cb54358cc3dc6c89.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/Scissors.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 4ae38234b2a12c94ea13848d22f53e47.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/DamageEnemy.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 3dcc0970e2891c440bd2021ae1feea4f.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/DamagePlayer.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: fb44da3021a84744e94a4f68acdc055a.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Combat/HealPlayer.cs.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 8367c3db35a73de42adf4f01d2c3e051.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.unity.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5b88b75230cdd2c40911b507bba07353.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/MainMenu.unity.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5d0642be1abe98442811212dc5943b87.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ece694a22b8ec0b4f9af2120606d7372.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox.unity.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 5de26694b502111409795597ff8cc5ae.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: ff987e5c0fcae7443abb6d7583bc9465.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox/NavMesh.asset.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: a914f4451c810d743a0a3ff556ecea3e.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene/NavMesh.asset.meta
+09/06/2026 22:37:15 Data Extracted!
+09/06/2026 22:37:15 Saving Results...
+09/06/2026 22:37:15 Saving File: 28ef36adce4b70644885c18e02c7ed04.json
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Done!!
+09/06/2026 22:37:15 Done!

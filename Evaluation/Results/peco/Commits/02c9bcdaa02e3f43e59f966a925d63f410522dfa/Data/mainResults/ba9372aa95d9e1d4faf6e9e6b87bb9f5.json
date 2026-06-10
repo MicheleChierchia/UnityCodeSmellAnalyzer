@@ -1,6 +1,6 @@
 {
   "guid": "ba9372aa95d9e1d4faf6e9e6b87bb9f5",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Bear.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/PecoBear/Materials_Peco_Bear/Bear.mat",
   "name": "Bear",
   "type": "mat",
   "file_size": 2059,
@@ -455,5 +455,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

@@ -1,0 +1,45 @@
+{
+  "guid": "eb77bd5bf3a4ba64b9643b02d343f2fb",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Waves/LevelWave.cs.meta",
+  "name": "LevelWave.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "429_ptdgame",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame"
+}

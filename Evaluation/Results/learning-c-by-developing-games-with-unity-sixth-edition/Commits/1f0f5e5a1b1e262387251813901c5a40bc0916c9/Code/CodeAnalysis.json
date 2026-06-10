@@ -1,0 +1,101 @@
+{
+  "ProjectName": "423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "ProjectDirectory": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "DirectoryPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "LOC": 18,
+  "ConfigurationFile": "Config.json",
+  "ProjectLanguage": "C#",
+  "ProjectLanguageVersion": "CSharp12",
+  "Project": [
+    {
+      "Name": "LearningCurve",
+      "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scripts/LearningCurve.cs",
+      "Language": "C#",
+      "Loc": 18,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "LearningCurve",
+          "FullName": "LearningCurve",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": false,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": true,
+              "FullName": "LearningCurve.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 8
+            },
+            {
+              "HasBody": false,
+              "HasExpressionBody": false,
+              "Name": "Update",
+              "IsEmpty": true,
+              "FullName": "LearningCurve.Update()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 14
+            }
+          ],
+          "Fields": [],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 5
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "System.Collections",
+          "Line": 1
+        },
+        {
+          "Name": "System.Collections.Generic",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine",
+          "Line": 3
+        }
+      ],
+      "Line": 1
+    }
+  ]
+}

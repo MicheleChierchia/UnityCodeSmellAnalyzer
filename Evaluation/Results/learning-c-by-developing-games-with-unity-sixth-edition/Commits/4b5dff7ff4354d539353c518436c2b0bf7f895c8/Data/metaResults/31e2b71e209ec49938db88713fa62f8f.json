@@ -1,0 +1,45 @@
+{
+  "guid": "31e2b71e209ec49938db88713fa62f8f",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/Utilities.cs.meta",
+  "name": "Utilities.cs",
+  "type": "meta",
+  "file_size": 243,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition"
+}

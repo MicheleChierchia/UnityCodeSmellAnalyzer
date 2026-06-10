@@ -1,6 +1,6 @@
 {
   "guid": "bf149e51e08d24a7d818770cf1687df4",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Animation/TransformAnimationExtensions.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Animation/TransformAnimationExtensions.cs.meta",
   "name": "TransformAnimationExtensions.cs",
   "type": "meta",
   "file_size": 263,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

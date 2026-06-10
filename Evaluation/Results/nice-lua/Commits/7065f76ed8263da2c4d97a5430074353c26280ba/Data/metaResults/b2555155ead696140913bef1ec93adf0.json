@@ -1,0 +1,29 @@
+{
+  "guid": "b2555155ead696140913bef1ec93adf0",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/ShaderLibrary/Input.hlsl.meta",
+  "name": "Input.hlsl",
+  "type": "meta",
+  "file_size": 195,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": "[]"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

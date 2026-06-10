@@ -1,0 +1,29 @@
+{
+  "guid": "438ff13102db66947b40d8b1083d61e8",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units.meta",
+  "name": "Units",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "429_ptdgame",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame"
+}

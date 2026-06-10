@@ -4,7 +4,7 @@
   "Occurrency": 6,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/TextureCache.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/TextureCache.cs",
       "Usings": [
         {
           "Name": "UnityEngine.Networking",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Local/GamePreparation/GamePreparationScreen.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Local/GamePreparation/GamePreparationScreen.cs",
       "Usings": [
         {
           "Name": "UnityEngine.Networking",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/UnityGraphicExtensions.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/UnityGraphicExtensions.cs",
       "Usings": [
         {
           "Name": "UnityEngine.Events",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoApp.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoApp.cs",
       "Usings": [
         {
           "Name": "UnityEngine.UI",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/LoopScrollRect.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/LoopScrollRect.cs",
       "Usings": [
         {
           "Name": "UnityEngine.Events",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/Editor/SGMenuOptions.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/Editor/SGMenuOptions.cs",
       "Usings": [
         {
           "Name": "UnityEngine.EventSystems",

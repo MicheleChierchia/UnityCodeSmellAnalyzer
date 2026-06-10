@@ -1,6 +1,6 @@
 {
   "guid": "fb17fa5206a14a7469af368ac1bd2656",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapDisplay.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/MapDisplay.cs.meta",
   "name": "MapDisplay.cs",
   "type": "meta",
   "file_size": 262,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

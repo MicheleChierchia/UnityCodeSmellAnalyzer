@@ -1,0 +1,1173 @@
+09/06/2026 22:26:06 Loading extensions...
+09/06/2026 22:26:06 Searching MetaData file inside project folder...
+09/06/2026 22:26:06 Searching main file...
+09/06/2026 22:26:06 Done!
+09/06/2026 22:26:06 Searching meta file...
+09/06/2026 22:26:06 Done!
+09/06/2026 22:26:06 Done!
+09/06/2026 22:26:06 Done!
+09/06/2026 22:26:06 Creating Result Directories
+09/06/2026 22:26:06 Start analisys...
+09/06/2026 22:26:06 Analyzing Main MetaData...
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: ProjectInfo.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs/Bullet.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a146a17815a82496e83b7d3154b48e3f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials/Bullet_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a56bfb75d012147e2b70d0e56e66ea61.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs/Bullet.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a146a17815a82496e83b7d3154b48e3f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials/Bullet_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a56bfb75d012147e2b70d0e56e66ea61.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs/Bullet.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a146a17815a82496e83b7d3154b48e3f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials/Bullet_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a56bfb75d012147e2b70d0e56e66ea61.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs/Bullet.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a146a17815a82496e83b7d3154b48e3f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials/Bullet_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a56bfb75d012147e2b70d0e56e66ea61.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs/Bullet.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a146a17815a82496e83b7d3154b48e3f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials/Bullet_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a56bfb75d012147e2b70d0e56e66ea61.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Prefabs/Enemy.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 95cda2d951edf4236b4c574e4ba7368b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Prefabs/Player.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 18c65bf4c443c4a67a13239331f2ce09.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Materials/Enemy_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 660a239f591cf4faabbd1c05cd23080d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Materials/Player_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d246c00ee37114d949b19afe5e05d46a.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Prefabs/Barrier_01.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f74f0eacd0558443e9de22146ba250e4.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Prefabs/Health_Pickup.prefab
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 535a7c81de09e4f0aaf15c7f6342fa4d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Materials/Ground_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 38a7d3d224d864c83b1bcbdb75a6a949.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Materials/Health_Pickup_Mat.mat
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 3f3f40c9afe754b8ea3fc61ebaf3190d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Animations/Health_Pickup.controller
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7b0b824b64ceb45bdacd80c03bc35c2d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Animations/Pickup_Spin.anim
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: c516d7df2a98041e3bfbaa987cfc755e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scenes/SampleScene.unity
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_05_Starter/Assets/Scenes/SampleScene.unity
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scenes/SampleScene.unity
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_03_Starter/Assets/Scenes/SampleScene.unity
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scenes/SampleScene.unity
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Done!
+09/06/2026 22:26:06 Analyzing Meta files...
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/BulletBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a9be290b68f794086926b57dc0230f0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/CustomExtensions.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 335068402ce964efb9173d3271adab0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/GameBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 2ab0976b95b7a4906b0b54ccc66ddf33.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/IManager.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: ec8050579269c4cd08d5411b60fe3c54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/InventoryList.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1976344b76290411c9259d1bbe537a94.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/Utilities.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 31e2b71e209ec49938db88713fa62f8f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes/SampleScene.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 4397c35f579d645fb89225f064c2e7ae.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes/SampleScene/LightingData.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1cd6a0b9577054b519b155bdb3be1828.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes/SampleScene/NavMesh.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 84614ada976eb45e6a5f7554973b93c2.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d28811cabac06460f8c8314e172ce61e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/BulletBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a9be290b68f794086926b57dc0230f0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/CustomExtensions.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 335068402ce964efb9173d3271adab0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/GameBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 2ab0976b95b7a4906b0b54ccc66ddf33.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/IManager.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: ec8050579269c4cd08d5411b60fe3c54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/Utilities.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 31e2b71e209ec49938db88713fa62f8f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes/SampleScene.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 4397c35f579d645fb89225f064c2e7ae.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes/SampleScene/LightingData.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1cd6a0b9577054b519b155bdb3be1828.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes/SampleScene/NavMesh.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 84614ada976eb45e6a5f7554973b93c2.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d28811cabac06460f8c8314e172ce61e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/BulletBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a9be290b68f794086926b57dc0230f0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/CustomExtensions.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 335068402ce964efb9173d3271adab0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/GameBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 2ab0976b95b7a4906b0b54ccc66ddf33.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/IManager.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: ec8050579269c4cd08d5411b60fe3c54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/Utilities.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 31e2b71e209ec49938db88713fa62f8f.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes/SampleScene.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 4397c35f579d645fb89225f064c2e7ae.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes/SampleScene/LightingData.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1cd6a0b9577054b519b155bdb3be1828.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes/SampleScene/NavMesh.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 84614ada976eb45e6a5f7554973b93c2.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d28811cabac06460f8c8314e172ce61e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/BulletBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a9be290b68f794086926b57dc0230f0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/GameBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 2ab0976b95b7a4906b0b54ccc66ddf33.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 4397c35f579d645fb89225f064c2e7ae.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene/LightingData.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1cd6a0b9577054b519b155bdb3be1828.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene/NavMesh.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 84614ada976eb45e6a5f7554973b93c2.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d28811cabac06460f8c8314e172ce61e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/BulletBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a9be290b68f794086926b57dc0230f0d.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/GameBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 2ab0976b95b7a4906b0b54ccc66ddf33.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scenes/SampleScene.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 4397c35f579d645fb89225f064c2e7ae.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scenes/SampleScene/LightingData.asset.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1cd6a0b9577054b519b155bdb3be1828.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scenes/SampleScene/ReflectionProbe-0.exr.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d28811cabac06460f8c8314e172ce61e.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/CameraBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 83ee534d7a9e54ac1bd5b47e4dd5c983.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/EnemyBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: b1bca613cd68c471ab8c99c3659700d5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/ItemBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: a0a5b743adb4347a6a88fa8250bbebd9.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/PlayerBehavior.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: d5a7cf5b168844a1ba3f16fdf7e377e5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_08_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Animations.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 5beb42846a2274a8ca885f65b1db00ba.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Materials.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: e787aaff03b6048cb90386b493b49dac.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Prefabs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 7d7c4e8cd431d4e85bdd35f38904a11b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scripts/ItemRotation.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 554be4a6eb4d5406a8dc8a8ca6e495ec.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_07_Starter/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scripts/Character.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 1274dca8c9c964b6fb1cd0c74ae908fe.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_06_Starter/Assets/Scripts/Weapon.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: f2be4f4b6e38e4d439ece3378eba05f5.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_05_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_05_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_05_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_03_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_03_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_03_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scenes.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 9820d61fc1251439e91cd99e56610d54.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scripts.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 6abc5ed30ff4b4714956f72ac5032b2b.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scripts/LearningCurve.cs.meta
+09/06/2026 22:26:06 Data Extracted!
+09/06/2026 22:26:06 Saving Results...
+09/06/2026 22:26:06 Saving File: 217ec36133fa4403ba779eb5136247ee.json
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Done!!
+09/06/2026 22:26:06 Done!

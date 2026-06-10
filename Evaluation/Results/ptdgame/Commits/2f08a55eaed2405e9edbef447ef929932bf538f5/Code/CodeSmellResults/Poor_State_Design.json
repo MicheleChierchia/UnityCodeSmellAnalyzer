@@ -1,0 +1,212 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 27,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "Invocation": "AttackingUnit.init()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "Invocation": "AttackingUnit.init()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "Invocation": "AttackingUnit.init()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs",
+      "Class": "AttackingUnit",
+      "Method": "AttackingUnit.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 72
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 74
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 80
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 80
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "Invocation": "WayPointFollower.checkIfReachedPoint()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 80
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 65
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs",
+      "Class": "WayPointFollower",
+      "Method": "WayPointFollower.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 66
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs",
+      "Class": "EffectContainer",
+      "Method": "EffectContainer.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs",
+      "Class": "Projectile",
+      "Method": "Projectile.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/Script/LevelWave.cs",
+      "Class": "LevelWave",
+      "Method": "LevelWave.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/Script/LevelWave.cs",
+      "Class": "LevelWave",
+      "Method": "LevelWave.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/Script/LevelWave.cs",
+      "Class": "LevelWave",
+      "Method": "LevelWave.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 69
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "594ea882c5a793440b60ff72d896021e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat",
+  "name": "TerrainLit",
+  "type": "mat",
+  "file_size": 6000,
+  "num_components": 0,
+  "COMPONENTS": [],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

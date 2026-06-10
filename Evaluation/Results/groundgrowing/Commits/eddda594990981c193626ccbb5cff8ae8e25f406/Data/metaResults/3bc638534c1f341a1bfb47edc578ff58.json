@@ -1,6 +1,6 @@
 {
   "guid": "3bc638534c1f341a1bfb47edc578ff58",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta",
   "name": "Noise2D.cs",
   "type": "meta",
   "file_size": 221,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

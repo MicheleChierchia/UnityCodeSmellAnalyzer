@@ -1,0 +1,198 @@
+09/06/2026 22:40:17 Loading extensions...
+09/06/2026 22:40:17 Searching MetaData file inside project folder...
+09/06/2026 22:40:17 Searching main file...
+09/06/2026 22:40:17 Done!
+09/06/2026 22:40:17 Searching meta file...
+09/06/2026 22:40:17 Done!
+09/06/2026 22:40:17 Done!
+09/06/2026 22:40:17 Done!
+09/06/2026 22:40:17 Creating Result Directories
+09/06/2026 22:40:17 Start analisys...
+09/06/2026 22:40:17 Analyzing Main MetaData...
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: ProjectInfo.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Done!
+09/06/2026 22:40:17 Analyzing Meta files...
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 0c412f19a14875f4ea07ad56d9fe66e2.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/CHANGELOG.md.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: aa1f33e8918fc8e479346567c7cd5e6d.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/LICENSE.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 39b43c361edda9c488672e497cd7d72a.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Readme.txt.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 49de9b5654534ad40b7aafa29ef377e3.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: cc46c6cbf807583408a34e512e12d562.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: a57f54c8bc4c25a44b6e495524243233.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/package.json.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: de80a43e9b2b0b042a03a5d786ae97b6.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 819d894860e1c8049aa1949f575f643b.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: d98488ca86e9eb94cbe6bfb91622b563.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/AsyncUtil.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: e3ad0b3e99729458bafbbf213d74a453.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/Castle.Core.dll.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 739a02265856e4e4b8a3ae587a908479.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/ClientInstance.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: e87cd3797b15b7940ad5c4998f0235dd.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/ClientServerSetupBase.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: ea3fa5c3324d1f241aa2b1750a837542.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/HostSetupBase.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 116a707ad0b0c104db4222f3efeb2668.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/Mirage.Tests.Common.asmdef.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 4e9aca8a359ab48de906aedbfa1ffe21.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/NSubstitute.dll.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 601589975b5ca43179df797ffa3b468d.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/ServerInstance.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: be444c39e053ad34eb70117d2893f20e.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/System.Threading.Tasks.Extensions.dll.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 00713e0dc7f8d4ed2906179677779859.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/TestBase.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: d50502838bc66e34a9ae8f63b53daab1.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/TestScenes.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 0d9cb552ad589ce4ca37c2edf350f8b6.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Mirage.Tests/TestSocketFactory.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 947b11a66576cb6409cbc4b19cfb5d9e.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime/JamesFrowen.PositionSync.Tests.Runtime.asmdef.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 9c52aa995ef6b264e9cecc54e8d1f536.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime/NetworkTransformSnapshotInterpolationTest.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 8579b02e7de035c47b5227f58900b574.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime/SnapshotBufferTests.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: b8c1b5e67eab50940855a393baabff78.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime/ClientServerSetup.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 245783e0fe8073448b3366aa2a5e3704.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Tests/Runtime/TimeSyncTest.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 087cf732117559547a34e3368bf2ac3b.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/AssemblyInfo.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 68ec0acd89f6c6d4390380a7e0f426f8.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/InterpolationTime.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 4e56b42faa34c7e4687650e4b499eeaa.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/JamesFrowen.PositionSync.asmdef.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 487d539b4bd0171418f9c39fe89d7d75.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SnapshotBuffer.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: dcff336bb00a26b42a2d78518335a071.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 4ad408b25fc5a054ba28ca1f9dd57371.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionBehaviour_Debug.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 9d849c6a14ab39a43a583eb05ce67b64.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncPositionSystem.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: e39d7f8e1b55ad64493bf95650278d9b.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/SyncSettings.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: c811b377f1f94574f9e8d77ddaa70385.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/TransformState.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: 13d1f82076063b34c86a704aa838db76.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/Assets/NetworkPositionSync/Runtime/WorldState.cs.meta
+09/06/2026 22:40:17 Data Extracted!
+09/06/2026 22:40:17 Saving Results...
+09/06/2026 22:40:17 Saving File: bfc2d6e5d929b24449ce7e45a7c4175c.json
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Done!!
+09/06/2026 22:40:17 Done!

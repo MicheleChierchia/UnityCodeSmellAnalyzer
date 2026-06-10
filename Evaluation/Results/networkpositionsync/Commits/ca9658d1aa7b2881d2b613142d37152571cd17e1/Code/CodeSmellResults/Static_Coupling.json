@@ -1,0 +1,35 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 4,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionPacker",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour.packer",
+      "Line": 58
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionPacker.cs",
+      "Kind": "Field",
+      "Type": "SyncSettings",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionPacker.settings",
+      "Line": 98
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionPacker.cs",
+      "Kind": "Field",
+      "Type": "SyncSettingsDebug",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionPacker.settingsDebug",
+      "Line": 101
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/examples/TransformSync/Scripts/TransformSyncNetworkManager.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionSystem",
+      "FullName": "JamesFrowen.PositionSync.Example.TransformSyncNetworkManager.system",
+      "Line": 12
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "guid": "6386a10e23c45d040a22051e6ae3b70f",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta",
   "name": "JoinOuterPrototype02x06x02.fbx",
   "type": "meta",
   "file_size": 1708,
@@ -226,6 +226,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

@@ -1,0 +1,28 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Class": "Tactical.Core.Controller.InputController",
+      "Method": "Tactical.Core.Controller.InputController.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Class": "Tactical.Core.Controller.Repeater",
+      "Method": "Tactical.Core.Controller.Repeater.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Component/CameraRig.cs",
+      "Class": "Tactical.Battle.Component.CameraRig",
+      "Method": "Tactical.Battle.Component.CameraRig.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 17
+    }
+  ]
+}

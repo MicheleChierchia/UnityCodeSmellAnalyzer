@@ -1,0 +1,29 @@
+{
+  "guid": "c6971f6a38d27a14193a3b07b084ec00",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab.meta",
+  "name": "Prefab",
+  "type": "meta",
+  "file_size": 172,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "429_ptdgame",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame"
+}

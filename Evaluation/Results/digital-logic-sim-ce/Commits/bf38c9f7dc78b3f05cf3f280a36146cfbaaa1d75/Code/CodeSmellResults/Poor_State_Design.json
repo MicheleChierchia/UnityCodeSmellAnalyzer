@@ -1,0 +1,28 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 41
+    }
+  ]
+}

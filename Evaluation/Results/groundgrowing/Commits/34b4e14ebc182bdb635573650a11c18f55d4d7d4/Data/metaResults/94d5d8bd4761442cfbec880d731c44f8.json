@@ -1,6 +1,6 @@
 {
   "guid": "94d5d8bd4761442cfbec880d731c44f8",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta",
   "name": "Exponent.cs",
   "type": "meta",
   "file_size": 221,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

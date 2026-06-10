@@ -1,0 +1,26 @@
+{
+  "guid": "a93e660810f238b4282ca5a5c091d47c",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/EasyTouchBundle/EasyTouchControls/Documentation/EasyTouchControls_APIDocumentation.pdf.meta",
+  "name": "EasyTouchControls_APIDocumentation.pdf",
+  "type": "meta",
+  "file_size": 133,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

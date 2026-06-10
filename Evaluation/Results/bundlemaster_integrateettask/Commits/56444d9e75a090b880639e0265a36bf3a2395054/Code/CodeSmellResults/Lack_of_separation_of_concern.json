@@ -4,7 +4,7 @@
   "Occurrency": 1,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Init.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Scripts/Init.cs",
       "Usings": [
         {
           "Name": "UnityEngine.SceneManagement",

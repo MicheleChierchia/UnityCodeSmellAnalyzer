@@ -1,0 +1,14 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/BoardCreator.cs",
+      "Kind": "Field",
+      "Type": "LevelData",
+      "FullName": "Tactical.Grid.DevTools.BoardCreator.levelData",
+      "Line": 20
+    }
+  ]
+}

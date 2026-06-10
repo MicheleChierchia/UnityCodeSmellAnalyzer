@@ -1,0 +1,57 @@
+{
+  "guid": "85ad24dd0759947ddb117625e108d49c",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Shaders/UI-Effect-Transition.shader.meta",
+  "name": "UI-Effect-Transition.shader",
+  "type": "meta",
+  "file_size": 335,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ShaderImporter",
+      "ShaderImporter": [
+        {
+          "defaultTextures": [
+            {
+              "- _MainTex": [
+                {
+                  "instanceID": "0"
+                }
+              ]
+            },
+            {
+              "- _NoiseTex": [
+                {
+                  "fileID": "2800000"
+                },
+                {
+                  "guid": "3e04c247fb2604af186173fce0bc62de"
+                },
+                {
+                  "type": "3"
+                }
+              ]
+            },
+            {
+              "- _ParamTex": [
+                {
+                  "instanceID": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

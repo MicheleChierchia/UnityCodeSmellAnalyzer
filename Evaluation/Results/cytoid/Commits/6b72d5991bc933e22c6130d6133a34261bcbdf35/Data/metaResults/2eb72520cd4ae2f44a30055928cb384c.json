@@ -1,0 +1,112 @@
+{
+  "guid": "2eb72520cd4ae2f44a30055928cb384c",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/NativeShare/iOS/NativeShare.mm.meta",
+  "name": "NativeShare.mm",
+  "type": "meta",
+  "file_size": 610,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PluginImporter",
+      "PluginImporter": [
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "iconMap": ""
+        },
+        {
+          "executionOrder": ""
+        },
+        {
+          "isPreloaded": "0"
+        },
+        {
+          "isOverridable": "0"
+        },
+        {
+          "platformData": [
+            {
+              "data": [
+                {
+                  "first": [
+                    {
+                      "Any": ""
+                    }
+                  ]
+                },
+                {
+                  "second": [
+                    {
+                      "enabled": "0"
+                    },
+                    {
+                      "settings": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": [
+                {
+                  "first": [
+                    {
+                      "Editor": "Editor"
+                    }
+                  ]
+                },
+                {
+                  "second": [
+                    {
+                      "enabled": "0"
+                    },
+                    {
+                      "settings": [
+                        {
+                          "DefaultValueInitialized": "true"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": [
+                {
+                  "first": [
+                    {
+                      "iPhone": "iOS"
+                    }
+                  ]
+                },
+                {
+                  "second": [
+                    {
+                      "enabled": "1"
+                    },
+                    {
+                      "settings": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

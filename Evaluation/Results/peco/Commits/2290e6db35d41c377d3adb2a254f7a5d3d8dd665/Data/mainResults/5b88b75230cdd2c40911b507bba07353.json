@@ -1,6 +1,6 @@
 {
   "guid": "5b88b75230cdd2c40911b507bba07353",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.unity",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/TestScene.unity",
   "name": "TestScene",
   "type": "unity",
   "file_size": 13686,
@@ -2471,5 +2471,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

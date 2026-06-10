@@ -1,0 +1,628 @@
+09/06/2026 22:33:25 Loading extensions...
+09/06/2026 22:33:25 Searching MetaData file inside project folder...
+09/06/2026 22:33:25 Searching main file...
+09/06/2026 22:33:25 Done!
+09/06/2026 22:33:25 Searching meta file...
+09/06/2026 22:33:25 Done!
+09/06/2026 22:33:25 Done!
+09/06/2026 22:33:25 Done!
+09/06/2026 22:33:25 Creating Result Directories
+09/06/2026 22:33:25 Start analisys...
+09/06/2026 22:33:25 Analyzing Main MetaData...
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ProjectInfo.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/VoxelDogTutorial.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 22667741e123edd458105191e4ae95a0.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/3dModel/defaultMat.mat
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: a29bff4ea864eb24caae480a840b36d1.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/EnemyContainer Variant.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9f9b042eb9c7c094bb7cb6a425e248a6.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/ProjectileContainer.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 2c1c55fd5678d7842b8eb4a93c7c043b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/UnitContainer.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 3613322116d065544b5ff72990435616.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/TowerContainer.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 2ff6b753a129588428dc854d277c4939.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/unitGfx/u0000_dog.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: f9132e219ca04c64fb4d1319eeb0ff8c.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/unitGfx/gfx/u0000_dog.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 76d7ee26917d1e2498457c84bf1f9d48.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/Unit.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 06f9b6c281df32546b39482885484383.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/dogModel.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 5b4fd3f87f0c71c429470fbdf34f5dd4.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/LifeBar.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 2a28a40f5a6a6f542aeb0d71f2a92aa2.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/Basics/TowerSpot.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 3158c629b2a398b4181486f94e34d4ff.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/Basics/Waypoint.prefab
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 85ae475585fbfa54b92de420d43899b3.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Materials/ForestFloor.mat
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 865d16c1a280d12408963465e31f10e7.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Materials/TowerSpot.mat
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b41887522a37f3e4b80a53555cf6b521.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Materials/WaterAttack.mat
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b1a53706f43594540b952bfab952e443.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Materials/WaypointRed.mat
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ad1395128c94319499b4fb28fb69d0d9.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Done!
+09/06/2026 22:33:25 Analyzing Meta files...
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 22bf76a7afdb0544e9ef36b675b082e5.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Materials.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 0cc4afeaa60f05f4eaa3af457df754b3.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: c170560abc8646f4f9ee41ac985fe6fd.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: c6971f6a38d27a14193a3b07b084ec00.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e11ce5c0584bd8f4992021a755b9843a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9d9c689e64d1721418f7853fbb19ee12.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: bcec3f48bbbc3e145bc5f078be21725d.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 59491ecab470d564b8352b385fe8f0f1.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Collections.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 21509130db2b1e540834c816fe77a4e8.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9b0d436438ab50340a05fd6c62efc912.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Enums.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7f080a380a092b8459b5b6751548c8bd.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 1f13db1c41555fa4baf60ba32da98688.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7f69d3ec18fa70e41a383b6560e1438c.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 8710c4c4b3244b448a0f542f73170035.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 148b0bff1de62ff4399382a821206104.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 438ff13102db66947b40d8b1083d61e8.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e6aab13fe003889448106aa8199bb96e.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Variables.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: f41b51e910e35a847b56f0e426f98837.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Variables/FloatVariable.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: d163af8c86ab75a4a82931953a49ab7b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Variables/IntVariable.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 936c84f0d4aa426479ed5510d9c2288f.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Variables/TowerSpotVariable.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ecc09c61a5bf017479d83622e1f7d2bc.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/FaceCamera.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e90310fef61edd54eb2c6b2d7c78de0f.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/Level.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ba30a97bcd0d88242acbfef3d64c94d2.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/MaterialUtil.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 8db469612f050c84b835717d4759c640.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Utils/Level/DisposeUnit.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 517bef604acf65c40a63b8a40be75bf0.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/AttackingUnit.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 4d792aca20a5d064e8d5dac506f2a624.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 5c6710eae8d03e545822b5b8c9c43071.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/IHasLife.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ca4da5b4db339a04889125d2fd5e2afd.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Lifebar.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: facefa6e5b6789e498e9c4f3d9232ddb.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnDrag.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: bf540a1270c50fa429e5944130e9a051.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/OnPointerOver.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: bd0df4999ccc8b74db0b899f88e9f294.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Unit.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: d1f9c14bb0fc2b84f92500337518dd49.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/UnitProfile.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: c3da0b77720127c4d803670729105780.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/WayPointFollower.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 3cb41c99cf957604193a45bcaaafc314.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Units/Functionality/EffectContainerBase.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 43c0acaa343f81a458744bea79867b6b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/CaptureDragDrop.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: f93232fe7cf2d4244bfdc2ba895a5e26.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/PauseButton.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e431df4a3d07722498ed9d26e1169e3a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerBtn.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 8394d62ea824306419c59301eaf90d63.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/TowerSpot.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: cc2c164102759d947b3a1ca037bd47c7.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/UI/DragTower.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ba6a6ada958e1954a86b12ec3e178dad.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Level/Waypoint.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 3697870bf7cedc941a392238f8d823d0.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b6b843baece5f4c4c98968b01001fa99.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Functionality/Attacks/BaseAttack.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b1f92a69bf917ea4194ba27d05fbd303.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/CreateAttackEvent.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 6c2d245e15347d44093173c7c4c57269.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/EffectEvent.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: fff63a5276135b64c82e7270c4e9cb36.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitEvent.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7c9fa5ae50713b241af1d022ce58567b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/BasicEvent.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 2e5c76654e1de804eb74282cdc7cacf9.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Events/UnitOrProfileEvent.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7e94564ce11c54e49b0c4e2c89ea1f3a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7dfb0e1709924494e9a1c2527633aa61.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectContainer.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 666874343b93157499921fc2e24475c1.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectFadeUnit.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 4815686a94f534c428fa36eb56fc0767.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/EffectForUnit.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b37e0e1cf10e95549b46f9f36c9d7922.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Damage.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7e18440dcc4cbf44cb7ea8954dee6e61.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Projectile.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 750b856a359449a4dbfedb6c2c9cb0f9.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Effects/Effect_Trigger_Remove.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b5d1be5733ba66b44ac8a7890fcb9098.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Collections/RuntimeCollection.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 84435206749ef7248a235491aa5ea230.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Collections/UnitRuntimeCollection.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 11f40e401673fcd488b5d774218ad8e0.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 4acca99313b1f1643af700bab8f6e126.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Damage.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 37c87b03861f2d84491b6247441b8359.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Projectile.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: aac5434e88ba3a84f806793a9c622726.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/AttacksEnum.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 5d69da17954b75742afef66054937aa9.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 5c97cdc5d231e6048ab37a5617b9ed81.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/AttackProfile.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 0c2bcf80f85b373468c7299495c91ee4.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Attack_Finder.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 3dfc3daa4dcb74a41b2290cc124b85ed.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ITargetable.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 028af94a44b88664db8fbed73db063fd.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/Projectile.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 4fcb3ef37325f924e9b98a8611ca2245.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scripts/Attacks/Projectiles/ProjectileBasicFunc.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: fd3dfd91cc37594488c8c5b22bc1cc2f.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/3dModel.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: dd0dd9e6c1621324a9f60a7511a0b44e.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/SampleScene.unity.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9fc0d4010bbf28b4594072e72b8655ab.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/Script.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 6a01b3dbd88bc8542b9238bf141f15f3.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/Script/LevelWave.cs.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: eb77bd5bf3a4ba64b9643b02d343f2fb.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/3dModel/VoxelDogTutorial.obj.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: a19c38f3c9f9ec24098f0b87cf175864.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Scenes/3dModel/VoxelDogTutorial.png.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: a658d45c45b298146ae9cf3732580139.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/unitGfx.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 442826fa6248bd947bfbda64e4602973.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Resources/unitGfx/gfx.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 788f9664446e7614bad3075f6b51100b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Prefab/Basics.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 6f60b00896a3b3e44912bf7201836987.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9671f78a8f0afd94880b7e625d93c78a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Collections.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 25ba56cb2436d6c4d86f23b211eb22d4.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Functionality.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 41c8b02a01e3bb541b867abcd818f0cb.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Variables.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 86c55afd30256dc40adb0d97d70a9e77.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Profiles.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 6e58093f5d87e9c4da1259b59e22744a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Profiles/Prototype.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: f036b520f89c8f14caa992d072fb89f2.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Profiles/Prototype/Dog1.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 85220aab6699d754893a34fde5307a25.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Profiles/Prototype/Tower1Dog.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e7ad7445ab8bff641bc4bf678a2840ef.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Variables/PauseStatus.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: a264ff026ea714e449ebd2932560c752.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Variables/SelectTowerSpot.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 34412af143bd12a4288cccd10753a8fd.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Variables/Weakness1.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 1281066ec05a7f34688423b3e8dc9e7b.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Functionality/Effects.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 42500e0d8a930e54eb903579e948acef.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Functionality/Effects/ContainerBase.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: e42006b53cbaad14c836c3a44b47e821.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Collections/EnemyUnitCollection.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 1cc071c849b80c94b9510cc744814dd7.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Collections/FriendlyUnitCollection.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 46f4d14bf0fb2a04b8d1873d89482b4a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Collections/HoveringUnits.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 65ffa786f97d8af46bf0f9bbc43146b6.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks/Functionality.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 6089307874fc2f7449fe16ae4c5c90d1.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks/Attack_001_InstantDamage.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 7f7d128021d6de9499b2581961de4c4a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks/Attack_002_BasicProjectile.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 529d78c80b8cfa84f8d18d9e9ff3994a.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks/Functionality/BaseProjectile.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9f8d2ab1713468d4c9a5dc6510879d55.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Objects/Attacks/Functionality/BaseAttack.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 9d8c48f67763b02479d86f8768139a32.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/CreateAttacksEvent.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: d3a59567dcf546a42acf207eff5f08ab.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/EffectAddEvent.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: ff0e2bb4a44fe1146bd5bf246c8e083c.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/UnitCaptured.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: f77cec3988eae6745b00a667a21340a9.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/UnitDefeatedEvent.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 09522cd547de67c42bbdaf82ca1f1423.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/UnitLeftEvent.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: b3943d2a975a94546b36fe35990302e2.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/DoTowerDrag.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: d94db0c03fcafa345a9e9ef93caed2f7.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/StartDragTower.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 290c37b82dbd1364cacbd0d7cbb6ee27.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/429_ptdgame/Assets/Events/StopTowerDrag.asset.meta
+09/06/2026 22:33:25 Data Extracted!
+09/06/2026 22:33:25 Saving Results...
+09/06/2026 22:33:25 Saving File: 1d8a2629240e2e04cb241ae16ca48e87.json
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Done!!
+09/06/2026 22:33:25 Done!

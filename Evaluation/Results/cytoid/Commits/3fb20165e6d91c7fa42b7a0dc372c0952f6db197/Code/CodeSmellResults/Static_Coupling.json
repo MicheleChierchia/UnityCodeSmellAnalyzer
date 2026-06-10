@@ -1,0 +1,175 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 24,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Ram/G_RamManager.cs",
+      "Kind": "Field",
+      "Type": "GameObject",
+      "FullName": "Tayx.Graphy.Ram.G_RamManager.m_ramGraphGameObject",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Fps/G_FpsManager.cs",
+      "Kind": "Field",
+      "Type": "GameObject",
+      "FullName": "Tayx.Graphy.Fps.G_FpsManager.m_fpsGraphGameObject",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Fps/G_FpsManager.cs",
+      "Kind": "Field",
+      "Type": "List<GameObject>",
+      "FullName": "Tayx.Graphy.Fps.G_FpsManager.m_nonBasicTextGameObjects",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Audio/G_AudioManager.cs",
+      "Kind": "Field",
+      "Type": "GameObject",
+      "FullName": "Tayx.Graphy.Audio.G_AudioManager.m_audioGraphGameObject",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scene/Customization Scripts/CustomizeGraphy.cs",
+      "Kind": "Field",
+      "Type": "G_CUIColorPicker",
+      "FullName": "Tayx.Graphy.CustomizationScene.CustomizeGraphy.m_colorPicker",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerDown.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerDown.onDown",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerHeld.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerHeld.onHeldDown",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerHeld.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerHeld.onHeldSet",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerHeld.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerHeld.onHeldUp",
+      "Line": 46
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSet.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerSet.onSet",
+      "Line": 36
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSet.cs",
+      "Kind": "Field",
+      "Type": "Vector2Event",
+      "FullName": "Lean.Touch.LeanFingerSet.onSetDelta",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSwipe.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerSwipe.onSwipe",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSwipe.cs",
+      "Kind": "Field",
+      "Type": "Vector2Event",
+      "FullName": "Lean.Touch.LeanFingerSwipe.onSwipeDelta",
+      "Line": 50
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerTap.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerTap.onTap",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerUp.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanFingerUp.onUp",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanSelectable.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanSelectable.onSelect",
+      "Line": 101
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanSelectable.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanSelectable.onSelectSet",
+      "Line": 104
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanSelectable.cs",
+      "Kind": "Field",
+      "Type": "LeanFingerEvent",
+      "FullName": "Lean.Touch.LeanSelectable.onSelectUp",
+      "Line": 107
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIDissolve.cs",
+      "Kind": "Field",
+      "Type": "EffectPlayer",
+      "FullName": "Coffee.UIExtensions.UIDissolve.m_Player",
+      "Line": 51
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIEffect.cs",
+      "Kind": "Field",
+      "Type": "List<UIShadow.AdditionalShadow>",
+      "FullName": "Coffee.UIExtensions.UIEffect.m_AdditionalShadows",
+      "Line": 72
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIShiny.cs",
+      "Kind": "Field",
+      "Type": "EffectPlayer",
+      "FullName": "Coffee.UIExtensions.UIShiny.m_Player",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UITransitionEffect.cs",
+      "Kind": "Field",
+      "Type": "EffectPlayer",
+      "FullName": "Coffee.UIExtensions.UITransitionEffect.m_Player",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/UnityGetComponentAutoInjector/Example/Example.cs",
+      "Kind": "Field",
+      "Type": "GameObject",
+      "FullName": "Example.cachedGameObject",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/UnityGetComponentAutoInjector/Example/Example.cs",
+      "Kind": "Field",
+      "Type": "Example",
+      "FullName": "Example.children",
+      "Line": 17
+    }
+  ]
+}

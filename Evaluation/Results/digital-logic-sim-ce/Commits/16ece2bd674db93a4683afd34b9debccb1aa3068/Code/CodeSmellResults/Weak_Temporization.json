@@ -1,0 +1,17 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/ComponentEditBounds.cs",
+      "Name": "Update",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/CopyPaste.cs",
+      "Name": "Update",
+      "Line": 27
+    }
+  ]
+}

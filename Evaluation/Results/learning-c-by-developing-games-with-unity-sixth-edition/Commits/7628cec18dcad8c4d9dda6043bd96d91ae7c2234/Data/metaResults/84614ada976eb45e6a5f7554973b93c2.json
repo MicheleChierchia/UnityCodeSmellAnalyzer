@@ -1,0 +1,32 @@
+{
+  "guid": "84614ada976eb45e6a5f7554973b93c2",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scenes/SampleScene/NavMesh.asset.meta",
+  "name": "NavMesh.asset",
+  "type": "meta",
+  "file_size": 189,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "mainObjectFileID": "23800000"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition"
+}

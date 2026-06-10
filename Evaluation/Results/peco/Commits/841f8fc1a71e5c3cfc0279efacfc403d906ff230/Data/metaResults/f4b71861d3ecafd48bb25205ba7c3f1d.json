@@ -1,6 +1,6 @@
 {
   "guid": "f4b71861d3ecafd48bb25205ba7c3f1d",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerCollisions.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerCollisions.cs.meta",
   "name": "PlayerCollisions.cs",
   "type": "meta",
   "file_size": 243,
@@ -41,5 +41,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

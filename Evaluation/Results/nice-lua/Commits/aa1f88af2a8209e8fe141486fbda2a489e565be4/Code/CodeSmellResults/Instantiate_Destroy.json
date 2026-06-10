@@ -1,0 +1,25 @@
+{
+  "Name": "Instantiate Destroy",
+  "Severity": "High",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.core/Editor/Debugging/DebugWindow.cs",
+      "Name": "DestroyWidgetStates",
+      "Invocation": "UnityEditor.Rendering.DebugWindow.DestroyWidgetStates()",
+      "Line": 327
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/Scripts/Common/Http/SimpleHttp.cs",
+      "Name": "DestroyImmediate",
+      "Invocation": "DestroyImmediate",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/EasyTouchBundle/EasyTouchControls/Examples/Version 1.X/FPSExample/ImpactEffect.cs",
+      "Name": "Destroy",
+      "Invocation": "Destroy",
+      "Line": 17
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Medium",
+  "Occurrency": 60,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Debug/PanelTests.cs",
+      "Kind": "Field",
+      "Type": "Panel",
+      "FullName": "PanelTests.panel",
+      "Line": 6
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Debug/PoolTests.cs",
+      "Kind": "Field",
+      "Type": "List<Poolable>",
+      "FullName": "PoolTests.instances",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/Movement.cs",
+      "Kind": "Field",
+      "Type": "UnitCore",
+      "FullName": "Tactical.Unit.Component.Movement.unit",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Controller/ActionMenuPanelController.cs",
+      "Kind": "Field",
+      "Type": "Panel",
+      "FullName": "Tactical.UI.Controller.ActionMenuPanelController.panel",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Controller/ActionMenuPanelController.cs",
+      "Kind": "Field",
+      "Type": "List<ActionMenuEntry>",
+      "FullName": "Tactical.UI.Controller.ActionMenuPanelController.menuEntries",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/Panel.cs",
+      "Kind": "Field",
+      "Type": "LayoutAnchor",
+      "FullName": "Tactical.UI.Component.Panel.anchor",
+      "Line": 33
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/ConversationPanel.cs",
+      "Kind": "Field",
+      "Type": "Panel",
+      "FullName": "Tactical.UI.Component.ConversationPanel.panel",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/ActionMenuEntry.cs",
+      "Kind": "Field",
+      "Type": "EntryState",
+      "FullName": "Tactical.UI.Component.ActionMenuEntry.state",
+      "Line": 78
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/Tile.cs",
+      "Kind": "Field",
+      "Type": "Tile",
+      "FullName": "Tactical.Grid.Component.Tile.prev",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/BoardCreator.cs",
+      "Kind": "Field",
+      "Type": "LevelData",
+      "FullName": "Tactical.Grid.DevTools.BoardCreator.levelData",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/BoardCreator.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<Point, Tile>",
+      "FullName": "Tactical.Grid.DevTools.BoardCreator.tiles",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationData.cs",
+      "Kind": "Field",
+      "Type": "List<SpeakerData>",
+      "FullName": "Tactical.Core.Model.ConversationData.list",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Kind": "Field",
+      "Type": "ConversationPanel",
+      "FullName": "Tactical.Core.Controller.ConversationController.leftPanel",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Kind": "Field",
+      "Type": "ConversationPanel",
+      "FullName": "Tactical.Core.Controller.ConversationController.rightPanel",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Kind": "Field",
+      "Type": "Tweener",
+      "FullName": "Tactical.Core.Controller.ConversationController.transition",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Kind": "Field",
+      "Type": "Repeater",
+      "FullName": "Tactical.Core.Controller.InputController._hor",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Controller/InputController.cs",
+      "Kind": "Field",
+      "Type": "Repeater",
+      "FullName": "Tactical.Core.Controller.InputController._ver",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/StateMachine/StateMachine.cs",
+      "Kind": "Field",
+      "Type": "State",
+      "FullName": "Tactical.Core.StateMachine.StateMachine._currentState",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Model/Turn.cs",
+      "Kind": "Field",
+      "Type": "UnitCore",
+      "FullName": "Tactical.Battle.Model.Turn.actor",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Model/Turn.cs",
+      "Kind": "Field",
+      "Type": "Tile",
+      "FullName": "Tactical.Battle.Model.Turn.startTile",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "CameraRig",
+      "FullName": "Tactical.Battle.Controller.BattleController.cameraRig",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "Board",
+      "FullName": "Tactical.Battle.Controller.BattleController.board",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "LevelData",
+      "FullName": "Tactical.Battle.Controller.BattleController.levelData",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "ActionMenuPanelController",
+      "FullName": "Tactical.Battle.Controller.BattleController.actionMenuPanelController",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "Turn",
+      "FullName": "Tactical.Battle.Controller.BattleController.turn",
+      "Line": 24
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Controller/BattleController.cs",
+      "Kind": "Field",
+      "Type": "List<UnitCore>",
+      "FullName": "Tactical.Battle.Controller.BattleController.units",
+      "Line": 25
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Component/Board.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<Point, Tile>",
+      "FullName": "Tactical.Battle.Component.Board.tiles",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/CutSceneState.cs",
+      "Kind": "Field",
+      "Type": "ConversationController",
+      "FullName": "Tactical.Battle.BattleState.CutSceneState.conversationController",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/CutSceneState.cs",
+      "Kind": "Field",
+      "Type": "ConversationData",
+      "FullName": "Tactical.Battle.BattleState.CutSceneState.data",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/BattleState.cs",
+      "Kind": "Field",
+      "Type": "BattleController",
+      "FullName": "Tactical.Battle.BattleState.BattleState.owner",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/BattleState/MoveTargetState.cs",
+      "Kind": "Field",
+      "Type": "List<Tile>",
+      "FullName": "Tactical.Battle.BattleState.MoveTargetState.tiles",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Controller.cs",
+      "Kind": "Field",
+      "Type": "GameObjectPoolController",
+      "FullName": "GameObjectPoolController.instance",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Controller.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<string, PoolData>",
+      "FullName": "GameObjectPoolController.pools",
+      "Line": 40
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/NotificationCenter/NotificationCenter.cs",
+      "Kind": "Field",
+      "Type": "NotificationCenter",
+      "FullName": "NotificationCenter.instance",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Model/PoolData.cs",
+      "Kind": "Field",
+      "Type": "Queue<Poolable>",
+      "FullName": "PoolData.pool",
+      "Line": 32
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Animation/Tweener.cs",
+      "Kind": "Field",
+      "Type": "EasingControl",
+      "FullName": "Tweener.easingControl",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/Movement.cs",
+      "Parameter": "board",
+      "Method": "Tactical.Unit.Component.Movement.GetTilesInRange(Tactical.Battle.Component.Board)",
+      "Type": "Board",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/Movement.cs",
+      "Parameter": "tile",
+      "Method": "Tactical.Unit.Component.Movement.Traverse(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 29
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/Movement.cs",
+      "Parameter": "from",
+      "Method": "Tactical.Unit.Component.Movement.ExpandSearch(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/Movement.cs",
+      "Parameter": "to",
+      "Method": "Tactical.Unit.Component.Movement.ExpandSearch(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/FlyMovement.cs",
+      "Parameter": "tile",
+      "Method": "Tactical.Unit.Component.FlyMovement.Traverse(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 11
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/TeleportMovement.cs",
+      "Parameter": "tile",
+      "Method": "Tactical.Unit.Component.TeleportMovement.Traverse(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 10
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/UnitCore.cs",
+      "Parameter": "target",
+      "Method": "Tactical.Unit.Component.UnitCore.Place(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/WalkMovement.cs",
+      "Parameter": "tile",
+      "Method": "Tactical.Unit.Component.WalkMovement.Traverse(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 12
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/WalkMovement.cs",
+      "Parameter": "from",
+      "Method": "Tactical.Unit.Component.WalkMovement.ExpandSearch(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/WalkMovement.cs",
+      "Parameter": "to",
+      "Method": "Tactical.Unit.Component.WalkMovement.ExpandSearch(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 43
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/WalkMovement.cs",
+      "Parameter": "target",
+      "Method": "Tactical.Unit.Component.WalkMovement.Walk(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/Component/WalkMovement.cs",
+      "Parameter": "to",
+      "Method": "Tactical.Unit.Component.WalkMovement.Jump(Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Controller/ActionMenuPanelController.cs",
+      "Parameter": "entry",
+      "Method": "Tactical.UI.Controller.ActionMenuPanelController.Enqueue(Tactical.UI.Component.ActionMenuEntry)",
+      "Type": "ActionMenuEntry",
+      "Line": 93
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/ConversationPanel.cs",
+      "Parameter": "sd",
+      "Method": "Tactical.UI.Component.ConversationPanel.Display(Tactical.Core.Model.SpeakerData)",
+      "Type": "SpeakerData",
+      "Line": 23
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Parameter": "data",
+      "Method": "Tactical.Core.Controller.ConversationController.Show(Tactical.Core.Model.ConversationData)",
+      "Type": "ConversationData",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Parameter": "data",
+      "Method": "Tactical.Core.Controller.ConversationController.Sequence(Tactical.Core.Model.ConversationData)",
+      "Type": "ConversationData",
+      "Line": 48
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Model/ConversationController.cs",
+      "Parameter": "obj",
+      "Method": "Tactical.Core.Controller.ConversationController.MovePanel(Tactical.UI.Component.ConversationPanel, string)",
+      "Type": "ConversationPanel",
+      "Line": 87
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/StateMachine/StateMachine.cs",
+      "Parameter": "value",
+      "Method": "Tactical.Core.StateMachine.StateMachine.Transition(Tactical.Core.StateMachine.State)",
+      "Type": "State",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Extensions/DirectionExtensions.cs",
+      "Parameter": "t1",
+      "Method": "Tactical.Core.DirectionExtensions.GetDirection(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Core/Extensions/DirectionExtensions.cs",
+      "Parameter": "t2",
+      "Method": "Tactical.Core.DirectionExtensions.GetDirection(Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile)",
+      "Type": "Tile",
+      "Line": 8
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Model/Turn.cs",
+      "Parameter": "current",
+      "Method": "Tactical.Battle.Model.Turn.Change(Tactical.Unit.Component.UnitCore)",
+      "Type": "UnitCore",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Component/Board.cs",
+      "Parameter": "data",
+      "Method": "Tactical.Battle.Component.Board.Load(Tactical.Grid.Model.LevelData)",
+      "Type": "LevelData",
+      "Line": 22
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Battle/Component/Board.cs",
+      "Parameter": "start",
+      "Method": "Tactical.Battle.Component.Board.Search(Tactical.Grid.Component.Tile, System.Func<Tactical.Grid.Component.Tile, Tactical.Grid.Component.Tile, bool>)",
+      "Type": "Tile",
+      "Line": 45
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Common/Controller.cs",
+      "Parameter": "sender",
+      "Method": "GameObjectPoolController.Enqueue(Poolable)",
+      "Type": "Poolable",
+      "Line": 89
+    }
+  ]
+}

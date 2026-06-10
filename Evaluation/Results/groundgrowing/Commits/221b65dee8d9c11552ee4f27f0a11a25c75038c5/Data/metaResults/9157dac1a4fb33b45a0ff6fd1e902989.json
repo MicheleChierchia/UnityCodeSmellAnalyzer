@@ -1,6 +1,6 @@
 {
   "guid": "9157dac1a4fb33b45a0ff6fd1e902989",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapGenerator.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapGenerator.cs.meta",
   "name": "MapGenerator.cs",
   "type": "meta",
   "file_size": 262,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

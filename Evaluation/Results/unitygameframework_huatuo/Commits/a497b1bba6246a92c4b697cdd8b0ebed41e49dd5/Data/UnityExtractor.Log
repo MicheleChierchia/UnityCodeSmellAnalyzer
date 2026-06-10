@@ -1,0 +1,1382 @@
+09/06/2026 22:31:32 Loading extensions...
+09/06/2026 22:31:32 Searching MetaData file inside project folder...
+09/06/2026 22:31:32 Searching main file...
+09/06/2026 22:31:32 Done!
+09/06/2026 22:31:32 Searching meta file...
+09/06/2026 22:31:32 Done!
+09/06/2026 22:31:32 Done!
+09/06/2026 22:31:32 Done!
+09/06/2026 22:31:32 Creating Result Directories
+09/06/2026 22:31:32 Start analisys...
+09/06/2026 22:31:32 Analyzing Main MetaData...
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ProjectInfo.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIItems/Empty.prefab
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 85b6ed07b767c854a90beac56c845a66.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms/MenuForm.prefab
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 09966b19e546cc94aa84d0743cb2a83d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms/Native/UpdateResourceForm.prefab
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d132cebd35c9c5c4fa4176e97d16ff18.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scenes/Main.unity
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4473d81b14ddb0143addf0e6050d8491.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scenes/Menu.unity
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b031b4f2980561542a7f7ba41391edc3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Materials/Empty.mat
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a104e7668b8755a48b2ac6d8fa0eef9c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Entities/EmptyEntity.prefab
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8eda60ad9fe49d143864093dc61156c3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Done!
+09/06/2026 22:31:32 Analyzing Meta files...
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameFramework.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a799dfe0693edf4468717dc3b3e3e30e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: db45535d062257049927cea5e857962f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/Launcher.unity.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9d2d51bf0fc3dfc42908e3a7a64f4feb.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/StreamingAssets.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fa53b8776f6a8ce4598fe035cb4356b8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/link.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fc45a4dfabd46e64f8ad3f7f53c67651.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 59a2d1790cd025a4c97ea4ec1411df76.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e26a71e8fdced3541a5c691a5d8da0e7.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Entities.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 50bb427da72e6164c995404fac1a139c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Fonts.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1d7ecb029ed444b498c036cbfed748b3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Hotfix.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d156539eccec0694a80c258bc81a8462.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Libraries.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2f39abb09804d544a930187b4dc00e2b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cb66f764daca35841ac1f3b7d2d08771.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Materials.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cbbffe476d7482a40a31a236538e23b9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Meshes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8d68657bbcaf3164a9868d3041485557.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f1400d03348dae343ab650266710f190.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Music.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 984d61fd85771c24d866338058d9947a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scenes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8aa04725784d110458eddfb0f7fed5dc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5bfe78d0636f3084cb7f43115721fb9f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Sounds.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bd88511da0fe74b49b2e524258462780.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Textures.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b6bf7b146c8c12648999ab2665b6c738.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1b4f365128ca0464e92e3807ed00659e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIAltas.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ba44f383bf5f810428f078a9a1c96533.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 871a87dc5ec966f4390ac5f4ff8f983a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIItems.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fe17212d27dee6043bdcee3e23e15281.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISounds.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1067cb7bb352e05419d467613a39a241.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ff9a673948eaecf4bbfc9cefed3cde8a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 333ca16a61f82764fa1a3c07b25d2f0f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Icons.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: aafc8e73bab46914083ec0afdb79bb88.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Logos.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 60de9a90738ce1145aace06969cb4880.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Logos/unity-logo.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 7f5aee8da226edf4991598327cb32ce0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Icons/music.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f438a72a91e1c3c4a9ced40888ffec96.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Icons/sound.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e5ca26c53b6ab8a46b52817008d7c7fa.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Icons/world.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: db58965402f12ed47b4dad61a9e48c9d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/background.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cadd0764941c8b646ae79b51d0ea8285.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/box.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f2f4df0b7211e4c42a5638273525d8ee.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/button-filled.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9f847ec5e66e03e4ead1d3c5f7b510e8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/button-outline.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a8c07bbe04fdaf04b80e27f651a8edd6.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/checked.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3f54fcfdac53aec42ae18a6a1c6d8cb1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/circle-filled.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 56b8df63bbad60749a69e38bc687fadf.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/circle-outline.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3be3fac3611f4584695662c4889f722d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/circle.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 24ca310f92a6796408f1db7647ec4e55.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/dialog-background.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ab45c3f613f388d43bbf43ec05eb92e2.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/dialog-title-background.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 0a65a68c01a76ea4b8b574827a6467aa.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/info.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 0179316b5fc7c2946a67c5877c02fc30.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/line.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 6cbc2c323b77f804fb958fa4eca33998.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/progress-conner.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 236433a27ce40a7429b87d14d8fa3035.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/progressbar-background.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 156d241f796508c4da4fc354a7fbf5a8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/progressbar.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e82837c9099f69a48b48fc44eb8d119d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/round-button-filled.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e85864330b68dde498dcb6e8711815d3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISprites/Common/round-button-outline.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 62af9e5c8f39cfa49af9e10ccf42f1da.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISounds/click.wav.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c7d1e11dd37634b48a9dd4012b8e4306.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UISounds/select.wav.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e830964cdb85ff3429bca484c16bab44.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms/DialogForm.prefab.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 04d7dde7615d71b4db1a0c8d67a62e95.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms/Native.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 15f03dcf97f4cd64a8c733ea725ac0f6.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIForms/Native/NativeDialogForm.prefab.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a6c731de80e9d824d8f657301a357269.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/UI/UIAltas/button-outline.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9fe4e4fa9c1532a46b97a7aeaf207d95.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Textures/unity-logo.png.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d730f17a120ddb1449843d3fdd3e3a5a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Sounds/explosion_asteroid.wav.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3dc7455402dfa462b89a4bbd513955e9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 7330dc72b718ca14ea10a999060be9f8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8d595b2bf63042c42a215056a68bff8b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bfb42ecfbd2ffe045bd57889c1fd515a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Base.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b604fc5cbc626074e9c9330a2cf5f088.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/BuiltinData.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 33ba0562010e2da46883baefb271f573.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 96903936e87f0f64ca6139915d259282.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 997fe59d2e403f2428c69dc3c36803f1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Entity.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c780ff4b409067a47a82eb2560e4e0f1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Game.asmdef.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: db3504a515dd49749a527c2dfcc9c35d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Huatuo.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 67c9f4b133f6fb243bd57b1e79f625dd.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Localization.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e0da7117df4943347ad5ceaff9f70602.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 592f0282ee9175f489b89f82c448c9f5.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e0ce46cb3f5acf04782d825b4ea2e51d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Sound.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 217aeb4f80b94a4d8336e0e409f1a419.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5aa568bd1f2753a46afdf823c50eb582.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Utility.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3a583cb744be34a4296ffb9991ab67e5.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Utility/AssetUtility.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e81205f4d74313244a0abbe9d19266b0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Utility/LitJsonHelper.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 894291f7d20e5dc4bb7264dec378b1ce.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Utility/WebUtility.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bbf9721704b3fd240b878d887bf58800.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UGuiForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 0b92f84dc56dc764a9c261fe47df5520.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UGuiGroupHelper.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 05a35a4a1f7dd5646a70cb1a73348780.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIData.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 49e1c619e37740ea8a162a220660bb9f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIExtension.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9cfc2c881ce240349901812c61f4476b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIForm.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 96fc8748f5724161a768ec2b1e131ab0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIFormId.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 75fd10c7585513846ab25372be0590b7.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIForm/NativeDialogForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d5890858844f496fb63354209daccdfb.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIForm/UpdateResourceForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3d8946ea9933b16499cd11174ad3c410.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/UI/UIData/DialogParams.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ad9ca3c36c52b0a4e8b25c8b451966da.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Sound/SoundExtension.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 6a268507fd29486d9579775d35777597.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 531a832bf8dfd734395de52f4141082f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureCheckResources.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 44ab7d7cd1160a64ca7b3ca50e89f0a3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureCheckVersion.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 05e2f8f675c85954b808765c1f046d70.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureInitResources.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 101da8cb17234f84f9746066a5f41397.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureLaunch.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d6c3d65d0c3a2104383e82700116b3d1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureLoadHotfix.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1871a71c1fba2cb4b9e889cdfecd1963.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedurePreload.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 039897dfe0c226947af1185f7cc188d0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureSplash.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 139ec26f4972a8147a39d4bb34d5fcaa.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureUpdateResources.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 42642b01f19746c4180a6579c098d7a9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureUpdateVersion.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 45878acf6351cb64385d78fabb8b3acc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Procedure/ProcedureVerifyResources.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3ce5f594e4bf0564d992c26a44fec7c4.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/CSPacketBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2cb68d4d5daf52a4a9305c8d5598419f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/CSPacketHeader.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5c73747d4a0a4e14599e43950c085856.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/NetworkChannelHelper.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 93389fd43ee07b54980956fe99a706c2.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/Packet.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bfccba061fa0c774bb6a7c677dc006f3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 527942a1a30fe9c4bb08a3392208d012.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketHandler.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 892cfad5ac0cd9d41a4679ac3a607e2a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketHandlerBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 51e8e8623bdfcd541a121039aac975ee.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketHeaderBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 21eed1206493a8640a380bca665dbabe.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketType.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e1da4fb1de540044ca7c949941e1dd02.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/SCPacketBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a21b258aa45363b4e83261f25c1b4e55.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/SCPacketHeader.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 16c16cfb1455603479adbdae83002fed.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/PacketHandler/SCHeartBeatHandler.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 28aefb1e04aa1e0478d3a457a949bd68.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/Packet/CSHeartBeat.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bae20fa3c2aff8147a2e6dfa010dd09f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Network/Packet/SCHeartBeat.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4a60e9cafc538ac4ba7b50d7ff811796.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Localization/XmlLocalizationHelper.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 44a338771c89a5348b00b9b0c13c1907.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Huatuo/HuatuoApi.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8b0af180701d25743b128cdc64619a40.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Huatuo/RefTypes.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 17ed08ce9aa3e1f449ab4f2f79ecb0cb.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Entity/Entity.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 878fbbe82b4bde944812bcb7c964cff8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Entity/EntityData.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: afb91fe3ed8105e4a96b7bd5917ecc2b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Entity/EntityExtension.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 626632079980ad34595c3b43a062a664.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/Constant.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c9bfd67d99634cc45a60985500514160.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/DataStruct.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: af9011f89c35904448c0225db21e8266.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/Enum.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2fc27161191c61549a74f80fd54e9645.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/DataStruct/BuildInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 789412b80e0ab6849971bcc1faaa8d4b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/DataStruct/VersionInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 327e7363e47102342921ad9880ca0144.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/Constant/Constant.AssetPriority.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: be044f4c80eead74cb105ed3c02de870.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/Constant/Constant.Layer.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a43e7bbaf538cc045aaacf091c7d612e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Definition/Constant/Constant.Setting.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 28dc5d8fb274e45429ff40494dedac8a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/BinaryReaderExtension.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f303871e05cae2d489d6ba3adb6e39d3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DREntity.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8b9e38000e1563a408b41ec9fb67c1f3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DRMusic.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: eda78c6543fc95c45b507899043a673c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DRScene.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: dfc51e5afeec35d43970bb3511027e41.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DRSound.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 06bd9187874a0e34390587fe42be70bf.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DRUIForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 948ce01b7f42a5b478ab3e464c59fb0f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DRUISound.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2ad99b119c4e8d54dba42794e6368a3b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/DataTable/DataTableExtension.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 23740ffb8ecb90b48ad986504e1d2474.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/BuiltinData/BuiltinDataComponent.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cfb0b001fcb30fe45ac95ddb8c28ba57.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/BuiltinData/DataStruct.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 917bd127812643a0aa74112d63cffb4f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/BuiltinData/DataStruct/BuildInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 265686b0408d79949a657768398c72cc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/BuiltinData/DataStruct/VersionInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f1245482e9f20354796d50d6d85d2fe0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Main/Base/GameEntry.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3d09b8a3e8c0e7e4dbcfd2fa52bf69ea.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/AppDomain.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2bb5cbcd3fbc4135971874c946071a28.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Debugger.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5479812568543994bbbcdbee6c42fce1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Entity.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f7c4b051e63f0c2418a55e8817bf4ba9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Game.Hotfix.asmdef.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a421bdba2a01c28488de2e43f6247922.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Game.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9bee40c502ee2bf40875a8c75845023a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Procedure.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: eff97f4a3d4607542a08e26de851a950.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/UI.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f6b6d2f04010f974084b337ddb78c366.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/UI/CommonButton.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a5079836f95c2a44b96fa331487ebb70.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/UI/DialogForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c04f3be6bab0c7748bc236f9023e47f9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/UI/MenuForm.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d0fea4037c7349d49af8583511aaeb86.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Procedure/ProcedureChangeScene.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c40f93285f4afc949bb907e33a909042.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Procedure/ProcedureMain.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 228e52b472c616740bc4868ba4fa47bc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Procedure/ProcedureMenu.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f18b1cb5fa9307644a25f8a71513814d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Game/GameBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 71778b189640288498fec244fe023d3a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Game/GameMode.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 21c1da598f0a2e24e840b892d99b3b5d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Game/SurvivalGame.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 97c863709fd10274785d7629966c175f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Entity/EntityLogic.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 74fbdf043ed3bc141a0a0b09756bc7d2.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Hotfix/Debugger/ChangeLanguageDebuggerWindow.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 278a7992e66d1ea4081597614f912f3d.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8a6200b831f4d85499c3e8403243c53f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/Game.Editor.asmdef.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3beccbf699ea91a43a0abe4c2eed9674.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/GameBuildEventHandler.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 64311189c3f9ae140b59a31db9831950.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/GameFrameworkConfigs.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 36618c709c84656438dd91e565226606.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d6ee83c727814dd4388e93c332a5ffc1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/ResourceRuleExtension.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c56221e27fce0d64086988901d676355.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/ResourceRuleExtension/ResourceRuleEditor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 357727fb078f9eb49b5b9ef135d4e4d8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/ResourceRuleExtension/ResourceRuleEditorData.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 50ad2d721b5da424096e85539f9ff262.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/ResourceRuleExtension/ResourceRuleEditorUtility.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: dda02e0fc8760b9419aaef59bf884ecc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f85b93bff3478c045ae862a7cc216b18.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/HuaTuoEditorHelper.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b1a94f9608f86ff42b7b6473fc1a709c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/HuaTuo_BuildProcessor_2019.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ca7af90ea994cd145a19373563c301fc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/HuaTuo_BuildProcessor_2020_1_OR_NEWER.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: af5a0eff26871774893f1c7ec32b2bde.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Templates.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d66cc48f11a49a94eb214969c893602c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/UnityBinFileReader.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e52fb09e14efee949ae80ae8aa9f9d44.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/UnityBinFileReader/UnityBinFile.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ae7ec6e3674077d46898fe821d24bf85.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/UnityBinFileReader/UnityBinFileDefines.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 96788c7fe08d5d54d95a87cfbdcb643a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/UnityBinFileReader/UnityBinUtils.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: bf7c4cf970660614fb54d838ec6e7eda.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Templates/MethodBridge_arm64.cpp.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8e43d054b3b6907419c47f3bc95bd29c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Templates/MethodBridge_x64.cpp.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 141d3806c48a50f4da2b064b6cf3d011.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/ConstStrings.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e1465458aaad6884d95af7c4fc2de7a1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/FileRegionReplace.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: e5aa6559bd1b1e4488aa6746eda8202b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/IPlatformAdaptor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 875465e034ece034fac976133b2a3b46.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/MethodBridgeGenerator.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cc2cf61ae38bcc24eb2adeba2039106f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/MethodBridgeSig.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 529d06ede834e5a499f8f83ba7bfbf3c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/ParamInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4e9196f05ee409f49bcf5d16ff751edc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/ParamOrReturnType.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2eaa2d35fb6fa1a43922b03db3beb58e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/PlatformAdaptorBase.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: dc02d4c88f90aae4aac67f731d738588.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/PlatformAdaptor_Arm32.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 0ff954b5b4f5c8843bb6d9fefe78f349.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/PlatformAdaptor_Arm64.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c9a3e54c33fa8e44d958a4a1a9cea8a9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/PlatformAdaptor_X64.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1ecd1b62e85ec6041ae129c71d539b3f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/TemplateUtil.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 32ec2cc1cf5c468468308fa6308fba19.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/HuaTuo/Generators/TypeInfo.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 654fd6e98f0bc79408c1f0ecb52babcc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableCodeGenerator.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 40941eb45ca7d284f8a806370b88fa78.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableGenerator.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f91ec109eb6c73a408325960701b4c94.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableGeneratorMenu.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 7ddc8f13b2516c643a67d92a319dbf72.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.BooleanProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 00bc8bc968fa2134095a36a43f326d56.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.ByteProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 11199a40fe5a3ef49a3c3d1ae670ac97.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.CharProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 37f1181bc8fb29742b06ec3f42f652b4.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Color32Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2a9b916d7c8e446439b74c27340be473.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.ColorProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f4583af9902c99a4fad14d732796117e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.CommentProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2ece238877c1e9344a50ce47697a93ef.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.DataProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ccc7c992b5573ae4fafd0d5706bdad48.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.DataProcessorUtility.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 83d25f17cbb262649959b7952811f8c8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.DateTimeProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4223bbe977dd5244a8611c6aad7f693e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.DecimalProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ad6d6ba18487f7643830e156d300ee75.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.DoubleProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 44293fe0c3e108248bc98e8674238aed.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.GenericDataProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 65dd2cb98d350654fb3df2ddfc4fa4b8.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.IdProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f4171c2dabb4ee9468f7297ab334ddf1.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Int16Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c1e3b1767ca81c343a31324956e5f032.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Int32Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 239560231c239b54f95c183913ec9cbf.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Int64Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d6dadc699adc6744e898979b1e85d6cf.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.QuaternionProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c288505f764c21149b9986dd3ebff1ac.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.RectProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 235589b35d4744a4d8ef100da517e0ce.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.SByteProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 49f8d16f80f1ec046bfcae38be8c96a7.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.SingleProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4c1502c70e1294543b14df45c7841a73.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.StringProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d502b9a1939b46246bd8e4c107b77744.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.UInt16Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 20f758534f1981b4593f97deb2a5ae25.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.UInt32Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fd3c289549d93924ea928ea558436a57.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.UInt64Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 23d841306167268488c7c5a8bb8cf685.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Vector2Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 165df2a7d4a52984282f1c3bc87d5aaa.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Vector3Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: d45ef71d28b25f047ab0f4d4acac8b42.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.Vector4Processor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 40409bde40a898b48af91126d343c4ae.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scripts/Editor/DataTableGenerator/DataTableProcessor.cs.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 81b27209918096743b988ea62b39d109.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scenes/MainSettings.lighting.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 679f51e7f1442d640b41f2997e7e68b9.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Scenes/MenuSettings.lighting.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 590cf9d0a5f6a65438ee439353a248eb.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Music/music_about.mp3.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 093f8873cfe371d41b854ed9fb6bff69.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/GameFramework.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 86f2cb23c6e0c794fa59f3670716435f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/LitJson.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1f0cc6e24fe9fa24bb7fcdf6e8f50df6.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/System.Core.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5c2d5236ed7097a4c96f540bbb3f095b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/System.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 237cf95bb7eee5648afac6f017dde95c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/UnityGameFramework.Runtime.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8e65f0bb8db117c478946d5d098433ce.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/mscorlib.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 4362289f4a81637419f9f9e96b92fd41.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/MetadataAssemblys/protobuf-net.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 6072fae2206037943a79abb529628fc4.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Meshes/prop_asteroid_01.FBX.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fedf4b5f3b387fe468eedf833d1b6711.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseSimplified.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: de469203333b85d4597ac561a9f12988.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseTraditional.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: ab3144891d4bdc14db6ea981e8f90f56.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/English.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9317be1fe88bd034eaa0f49edf8049e0.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/Korean.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 793f78b49fb69334da8b58c3dede6087.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/Korean/Dictionaries.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: c15143b0c57b1c14483d9d1bb28e5d7a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/Korean/Dictionaries/Default.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 5dcd89912e222bf4c87f76db4044bc5e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/English/Dictionaries.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 7eea131bba62cac478f0c6419af05987.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/English/Dictionaries/Default.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 14869ac0d4433f04db1704e39d03412e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseTraditional/Dictionaries.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 3dccd2bfa4b6a3248b49e060c0feb5e7.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseTraditional/Dictionaries/Default.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 1053b0070685be347ab58587156842dc.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseSimplified/Dictionaries.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 321985b8af459b541b8e5f4dbab8de4b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/ChineseSimplified/Dictionaries/Default.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9be2e1e45f4edd74c8764538ad306b78.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Libraries/LitJson.dll.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8cfc7cd69be38fb48a07993e82971bf7.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Libraries/protobuf-net.dll.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 2fa6b65c9efc23d4eaedfd968fa08dda.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Hotfix/Game.Hotfix.dll.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 603e6330961a082448ad7c33c6c5b70e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Fonts/MainFont.ttf.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 77cbb7c5404c10242ab59953e0746314.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Entity.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 97d117308cf86924289e81e7e71dd5dd.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Entity.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: cfe53cf384344bd47a8680f8c5f97a7b.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Music.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9b433f0bb7fef6f4085c316a0d88c307.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Music.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 315e8ed2db27c254cb3366ff0793cd90.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Scene.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: fdb5edd099d06b045af609ba3172400a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Scene.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a71f8bb1b1b2c51438e2bafc884cb02c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Sound.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 9c3faac13c8ced84a9f3018303b7bb98.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/Sound.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 372a8b1e52bedc64b9207b12d167afaa.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/UIForm.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a33e23ae848110243820cda82120b105.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/UIForm.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 352da872791696c48af3b21132e3e3c3.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/UISound.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 8e114ded6a865324588170636872943c.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/DataTables/UISound.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: f2f97a713beae744181ba934f9c4113a.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/AudioMixer.mixer.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b7317ff76310723499b9d88117cd0191.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/BuildInfo.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 0f949a7f73d128547b1314a7e471f19f.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/BuildSettings.xml.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 79e65cd785b714f4f80e9a0a69af438e.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/DataTableCodeTemplate.txt.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: b59e9a408a3f52a4f98d733a6163b171.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/DebuggerSkin.guiskin.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: a4c1cc1e6676f0e48a527bad48941f98.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/DefaultConfig.bytes.meta
+09/06/2026 22:31:32 Data Extracted!
+09/06/2026 22:31:32 Saving Results...
+09/06/2026 22:31:32 Saving File: 7fd11dc5d29076d469d414dec2818f11.json
+09/06/2026 22:31:32 Done!!
+09/06/2026 22:31:32 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Configs/DefaultConfig.txt.meta

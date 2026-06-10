@@ -1,0 +1,42 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 5,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Screen.cs",
+      "Class": "Screen",
+      "Method": "Screen.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 76
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Local/LevelSelection/UpperOverlay.cs",
+      "Class": "UpperOverlay",
+      "Method": "UpperOverlay.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/MainThreadDispatcher.cs",
+      "Class": "UniRx.MainThreadDispatcher",
+      "Method": "UniRx.MainThreadDispatcher.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 611
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableFixedUpdateTrigger.cs",
+      "Class": "UniRx.Triggers.ObservableFixedUpdateTrigger",
+      "Method": "UniRx.Triggers.ObservableFixedUpdateTrigger.FixedUpdate()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableUpdateTrigger.cs",
+      "Class": "UniRx.Triggers.ObservableUpdateTrigger",
+      "Method": "UniRx.Triggers.ObservableUpdateTrigger.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    }
+  ]
+}

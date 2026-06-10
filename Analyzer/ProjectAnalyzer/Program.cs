@@ -346,8 +346,8 @@ namespace ProjectAnalyzer
             {
                 FileName = fileName,
                 Arguments = arguments,
-                RedirectStandardOutput = true,
-                RedirectStandardError = true,
+                RedirectStandardOutput = false,
+                RedirectStandardError = false,
                 UseShellExecute = false,
                 CreateNoWindow = true,
                 WorkingDirectory = Path.GetDirectoryName(fileName) ?? ""
@@ -359,8 +359,7 @@ namespace ProjectAnalyzer
             process.WaitForExit();
             if (process.ExitCode != 0)
             {
-                string error = process.StandardError.ReadToEnd();
-                Console.WriteLine($"[ProjectAnalyzer] Warning: {Path.GetFileName(fileName)} exited with code {process.ExitCode}. {error}");
+                Console.WriteLine($"[ProjectAnalyzer] Warning: {Path.GetFileName(fileName)} exited with code {process.ExitCode}.");
             }
         }
 

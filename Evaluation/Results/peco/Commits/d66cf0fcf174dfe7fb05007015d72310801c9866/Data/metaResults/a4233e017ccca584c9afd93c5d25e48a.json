@@ -1,6 +1,6 @@
 {
   "guid": "a4233e017ccca584c9afd93c5d25e48a",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/pecoLogo.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/pecoLogo.png.meta",
   "name": "pecoLogo.png",
   "type": "meta",
   "file_size": 2216,
@@ -326,5 +326,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

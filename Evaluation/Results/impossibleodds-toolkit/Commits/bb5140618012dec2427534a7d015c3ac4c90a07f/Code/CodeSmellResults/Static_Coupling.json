@@ -1,0 +1,21 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/Photon/WebRpc/Scripts/TestWebRpc.cs",
+      "Kind": "Field",
+      "Type": "DemoNetwork",
+      "FullName": "ImpossibleOdds.Examples.Photon.WebRpc.TestWebRpc.network",
+      "Line": 134
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/DependencyInjection/Scripts/ExampleDependencyInstaller.cs",
+      "Kind": "Field",
+      "Type": "CharacterSettings",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.ExampleDependencyInstaller.settings",
+      "Line": 9
+    }
+  ]
+}

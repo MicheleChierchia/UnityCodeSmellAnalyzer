@@ -1,80 +1,80 @@
 {
   "Name": "Dependency Between Objects",
-  "Severity": "Unknown",
+  "Severity": "Medium",
   "Occurrency": 11,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/FormManager.cs",
       "Kind": "Field",
       "Type": "PlayerController",
       "FullName": "FormManager.player",
       "Line": 13
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Kind": "Field",
       "Type": "PlayerController",
       "FullName": "PlayerController.pc",
       "Line": 10
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Kind": "Field",
       "Type": "FormDataBase",
       "FullName": "PlayerController.formData",
       "Line": 25
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/PlayerController.cs",
       "Kind": "Field",
       "Type": "FormManager",
       "FullName": "PlayerController.formManager",
       "Line": 26
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/CostumeDebug.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Dev/CostumeDebug.cs",
       "Kind": "Field",
       "Type": "PlayerController.Form",
       "FullName": "CostumeDebug.costume",
       "Line": 7
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs",
       "Kind": "Field",
       "Type": "GameManager",
       "FullName": "GameManager.gm",
       "Line": 8
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/GameManager.cs",
       "Kind": "Field",
       "Type": "PauseHandler",
       "FullName": "GameManager.ph",
       "Line": 9
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/CanvasManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/CanvasManager.cs",
       "Kind": "Field",
       "Type": "CanvasManager",
       "FullName": "CanvasManager.cm",
       "Line": 8
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/LoadingScreenManager.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/_Game Management/UI/LoadingScreenManager.cs",
       "Kind": "Field",
       "Type": "LoadingScreenManager",
       "FullName": "LoadingScreenManager.ls",
       "Line": 8
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/TestEnemy.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/TestEnemy.cs",
       "Kind": "Field",
       "Type": "DamagePlayer",
       "FullName": "TestEnemy.attackData",
       "Line": 9
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_SourceCode/Enemies/EnemyBase.cs",
       "Kind": "Field",
       "Type": "BehaviorBase",
       "FullName": "EnemyBase.behavior",

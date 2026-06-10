@@ -1,0 +1,69 @@
+{
+  "guid": "eecb56ea2a94eed46a29549c2e2b04d6",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scene/Audio/Morning_Dew.mp3.meta",
+  "name": "Morning_Dew.mp3",
+  "type": "meta",
+  "file_size": 466,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "AudioImporter",
+      "AudioImporter": [
+        {
+          "serializedVersion": "6"
+        },
+        {
+          "defaultSettings": [
+            {
+              "loadType": "0"
+            },
+            {
+              "sampleRateSetting": "2"
+            },
+            {
+              "sampleRateOverride": "22050"
+            },
+            {
+              "compressionFormat": "1"
+            },
+            {
+              "quality": "0.25"
+            },
+            {
+              "conversionMode": "0"
+            }
+          ]
+        },
+        {
+          "platformSettingOverrides": ""
+        },
+        {
+          "forceToMono": "0"
+        },
+        {
+          "normalize": "1"
+        },
+        {
+          "preloadAudioData": "1"
+        },
+        {
+          "loadInBackground": "0"
+        },
+        {
+          "D": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

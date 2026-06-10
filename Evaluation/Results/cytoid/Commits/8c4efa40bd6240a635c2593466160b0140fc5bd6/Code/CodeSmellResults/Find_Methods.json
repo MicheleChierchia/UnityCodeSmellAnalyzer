@@ -1,0 +1,13 @@
+{
+  "Name": "Find Methods",
+  "Severity": "Medium",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Audio/G_AudioMonitor.cs",
+      "Name": "FindAudioListener",
+      "Invocation": "Tayx.Graphy.Audio.G_AudioMonitor.FindAudioListener()",
+      "Line": 125
+    }
+  ]
+}

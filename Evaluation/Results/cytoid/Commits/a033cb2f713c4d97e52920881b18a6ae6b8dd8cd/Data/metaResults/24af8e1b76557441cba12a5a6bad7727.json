@@ -1,6 +1,6 @@
 {
   "guid": "24af8e1b76557441cba12a5a6bad7727",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/CircleMask.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/CircleMask.png.meta",
   "name": "CircleMask.png",
   "type": "meta",
   "file_size": 2295,
@@ -332,5 +332,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

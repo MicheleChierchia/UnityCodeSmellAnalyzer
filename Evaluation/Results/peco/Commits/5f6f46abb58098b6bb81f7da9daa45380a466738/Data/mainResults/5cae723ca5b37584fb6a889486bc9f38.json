@@ -1,6 +1,6 @@
 {
   "guid": "5cae723ca5b37584fb6a889486bc9f38",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttackLanding.anim",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/PecoBearTest/PecoBearAirAttackLanding.anim",
   "name": "PecoBearAirAttackLanding",
   "type": "anim",
   "file_size": 12111,
@@ -1892,5 +1892,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

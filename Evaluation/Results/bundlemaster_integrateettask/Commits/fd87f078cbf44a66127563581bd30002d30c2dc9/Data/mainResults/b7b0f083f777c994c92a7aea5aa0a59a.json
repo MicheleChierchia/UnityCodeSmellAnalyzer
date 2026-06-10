@@ -1,6 +1,6 @@
 {
   "guid": "b7b0f083f777c994c92a7aea5aa0a59a",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/logoMat.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Res/Mat/logoMat.mat",
   "name": "logoMat",
   "type": "mat",
   "file_size": 2198,
@@ -470,5 +470,5 @@
     }
   ],
   "ProjectName": "6_bundlemaster_integrateettask",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
 }

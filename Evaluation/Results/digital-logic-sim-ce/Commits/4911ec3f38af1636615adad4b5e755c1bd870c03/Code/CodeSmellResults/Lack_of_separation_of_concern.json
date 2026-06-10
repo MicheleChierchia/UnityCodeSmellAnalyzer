@@ -1,0 +1,123 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 8,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileImage.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileText.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileImage.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileText.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileTextMultiple.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/ButtonText.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CustomButton.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "guid": "4116e0228800bde4393b32a20f5f17f0",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.controller",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Animations/EnemyTest/EnemyTest.controller",
   "name": "EnemyTest",
   "type": "controller",
   "file_size": 4168,
@@ -694,5 +694,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

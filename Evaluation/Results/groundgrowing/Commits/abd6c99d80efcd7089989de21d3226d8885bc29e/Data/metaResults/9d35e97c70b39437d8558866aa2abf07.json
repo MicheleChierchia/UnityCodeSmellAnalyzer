@@ -1,6 +1,6 @@
 {
   "guid": "9d35e97c70b39437d8558866aa2abf07",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta",
   "name": "Voronoi.cs",
   "type": "meta",
   "file_size": 221,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

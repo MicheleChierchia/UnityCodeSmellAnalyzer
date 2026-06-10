@@ -1,6 +1,6 @@
 {
   "guid": "0b9f54eea674a0c4cab60d45646198a2",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/PlayerController.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/PlayerController.prefab",
   "name": "PlayerController",
   "type": "prefab",
   "file_size": 2029,
@@ -381,5 +381,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

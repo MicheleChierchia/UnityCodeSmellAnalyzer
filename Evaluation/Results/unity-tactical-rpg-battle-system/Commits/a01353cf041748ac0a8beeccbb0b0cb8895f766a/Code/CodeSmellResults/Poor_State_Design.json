@@ -1,87 +1,87 @@
 {
   "Name": "Poor State Design",
-  "Severity": "Unknown",
+  "Severity": "Medium",
   "Occurrency": 32,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs",
       "Class": "UnityStandardAssets.Utility.AutoMoveAndRotate",
       "Method": "UnityStandardAssets.Utility.AutoMoveAndRotate.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 24
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DragRigidbody.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DragRigidbody.cs",
       "Class": "UnityStandardAssets.Utility.DragRigidbody",
       "Method": "UnityStandardAssets.Utility.DragRigidbody.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 44
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DynamicShadowSettings.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/DynamicShadowSettings.cs",
       "Class": "UnityStandardAssets.Utility.DynamicShadowSettings",
       "Method": "UnityStandardAssets.Utility.DynamicShadowSettings.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 39
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/FPSCounter.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/FPSCounter.cs",
       "Class": "UnityStandardAssets.Utility.FPSCounter",
       "Method": "UnityStandardAssets.Utility.FPSCounter.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 29
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
       "Class": "UnityStandardAssets.Utility.SimpleMouseRotator",
       "Method": "UnityStandardAssets.Utility.SimpleMouseRotator.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 46
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
       "Class": "UnityStandardAssets.Utility.SimpleMouseRotator",
       "Method": "UnityStandardAssets.Utility.SimpleMouseRotator.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 52
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
       "Class": "UnityStandardAssets.Utility.SimpleMouseRotator",
       "Method": "UnityStandardAssets.Utility.SimpleMouseRotator.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 57
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
       "Class": "UnityStandardAssets.Utility.SimpleMouseRotator",
       "Method": "UnityStandardAssets.Utility.SimpleMouseRotator.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 62
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/SimpleMouseRotator.cs",
       "Class": "UnityStandardAssets.Utility.SimpleMouseRotator",
       "Method": "UnityStandardAssets.Utility.SimpleMouseRotator.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 67
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
       "Class": "UnityStandardAssets.Utility.WaypointProgressTracker",
       "Method": "UnityStandardAssets.Utility.WaypointProgressTracker.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 85
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
       "Class": "UnityStandardAssets.Utility.WaypointProgressTracker",
       "Method": "UnityStandardAssets.Utility.WaypointProgressTracker.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 119
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "Invocation": "UnityStandardAssets.CrossPlatformInput.TouchPad.UpdateVirtualAxes(Vector3)",
@@ -89,7 +89,7 @@
       "Line": 89
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "Invocation": "UnityStandardAssets.CrossPlatformInput.TouchPad.UpdateVirtualAxes(Vector3)",
@@ -97,35 +97,35 @@
       "Line": 94
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 113
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 117
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 117
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TouchPad",
       "Method": "UnityStandardAssets.CrossPlatformInput.TouchPad.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 121
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -133,7 +133,7 @@
       "Line": 56
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -141,7 +141,7 @@
       "Line": 56
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -149,7 +149,7 @@
       "Line": 77
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -157,7 +157,7 @@
       "Line": 78
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -165,7 +165,7 @@
       "Line": 64
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -173,7 +173,7 @@
       "Line": 70
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -181,7 +181,7 @@
       "Line": 66
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -189,7 +189,7 @@
       "Line": 72
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/PlayerInput.cs",
       "Class": "Tactical.PlayerInput",
       "Method": "Tactical.PlayerInput.Update()",
       "Invocation": "Tactical.PlayerInput.HandleInputs()",
@@ -197,42 +197,42 @@
       "Line": 57
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitMovement.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Unit/UnitMovement.cs",
       "Class": "Tactical.Unit.UnitMovement",
       "Method": "Tactical.Unit.UnitMovement.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 31
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorPlayerInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CellCursorPlayerInput.cs",
       "Class": "Tactical.Grid.CellCursorPlayerInput",
       "Method": "Tactical.Grid.CellCursorPlayerInput.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 23
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
       "Class": "Tactical.Grid.CursorController",
       "Method": "Tactical.Grid.CursorController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 22
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/CursorController.cs",
       "Class": "Tactical.Grid.CursorController",
       "Method": "Tactical.Grid.CursorController.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 22
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TiltInput",
       "Method": "UnityStandardAssets.CrossPlatformInput.TiltInput.Update()",
       "ConditionBlock": "SwitchBlocks",
       "Line": 61
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs",
       "Class": "UnityStandardAssets.CrossPlatformInput.TiltInput",
       "Method": "UnityStandardAssets.CrossPlatformInput.TiltInput.Update()",
       "ConditionBlock": "SwitchBlocks",

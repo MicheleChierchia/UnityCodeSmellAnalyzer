@@ -1,6 +1,6 @@
 {
   "guid": "abb98b5bfe3bf734c94206ce0dd37989",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Plugins/Editor.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/Plugins/Editor.meta",
   "name": "Editor",
   "type": "meta",
   "file_size": 172,
@@ -25,5 +25,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

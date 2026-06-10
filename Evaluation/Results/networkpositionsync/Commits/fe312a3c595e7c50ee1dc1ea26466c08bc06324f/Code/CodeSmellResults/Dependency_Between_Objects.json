@@ -1,0 +1,112 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Medium",
+  "Occurrency": 15,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/tests/runtime/NetworkTransformSnapshotInterpolationTest.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviour",
+      "FullName": "JamesFrowen.PositionSync.Tests.Runtime.NetworkTransformSnapshotInterpolationTest.serverNT",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/tests/runtime/NetworkTransformSnapshotInterpolationTest.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviour",
+      "FullName": "JamesFrowen.PositionSync.Tests.Runtime.NetworkTransformSnapshotInterpolationTest.clientNT",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourStandalone.cs",
+      "Kind": "Field",
+      "Type": "SnapshotBuffer",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviourStandalone.snapshotBuffer",
+      "Line": 63
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviourRuntimeDictionary",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour._behaviourSet",
+      "Line": 56
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionPacker",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour.packer",
+      "Line": 57
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "SnapshotBuffer",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour.snapshotBuffer",
+      "Line": 103
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "InterpolationTime",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour.interpolationTime",
+      "Line": 104
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourRuntimeDictionary.cs",
+      "Kind": "Field",
+      "Type": "Dictionary<uint, ISyncPositionBehaviour>",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviourRuntimeDictionary._items",
+      "Line": 13
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionSystem.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviourRuntimeDictionary",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionSystem._behaviours",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionSystem.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionPacker",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionSystem.packer",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourRuntimeDictionary.cs",
+      "Parameter": "thing",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviourRuntimeDictionary.Add(JamesFrowen.PositionSync.ISyncPositionBehaviour)",
+      "Type": "ISyncPositionBehaviour",
+      "Line": 15
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourRuntimeDictionary.cs",
+      "Parameter": "thing",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviourRuntimeDictionary.Remove(JamesFrowen.PositionSync.ISyncPositionBehaviour)",
+      "Type": "ISyncPositionBehaviour",
+      "Line": 21
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourRuntimeDictionary.cs",
+      "Parameter": "thing",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviourRuntimeDictionary.Contains(JamesFrowen.PositionSync.ISyncPositionBehaviour)",
+      "Type": "ISyncPositionBehaviour",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviourRuntimeDictionary.cs",
+      "Parameter": "behaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionBehaviourRuntimeDictionary.TryGet(uint, out JamesFrowen.PositionSync.ISyncPositionBehaviour)",
+      "Type": "ISyncPositionBehaviour",
+      "Line": 38
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionPacker.cs",
+      "Parameter": "behaviour",
+      "Method": "JamesFrowen.PositionSync.SyncPositionPacker.PackNext(BitWriter, JamesFrowen.PositionSync.ISyncPositionBehaviour)",
+      "Type": "ISyncPositionBehaviour",
+      "Line": 79
+    }
+  ]
+}

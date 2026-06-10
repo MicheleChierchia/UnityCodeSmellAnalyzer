@@ -1,0 +1,62 @@
+{
+  "guid": "fbe03c83009884b47a06a4b596e3fe53",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Bundles/car.mp4.meta",
+  "name": "car.mp4",
+  "type": "meta",
+  "file_size": 354,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "VideoClipImporter",
+      "VideoClipImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "frameRange": "0"
+        },
+        {
+          "startFrame": "-1"
+        },
+        {
+          "endFrame": "-1"
+        },
+        {
+          "colorSpace": "0"
+        },
+        {
+          "deinterlace": "0"
+        },
+        {
+          "encodeAlpha": "0"
+        },
+        {
+          "flipVertical": "0"
+        },
+        {
+          "flipHorizontal": "0"
+        },
+        {
+          "importAudio": "1"
+        },
+        {
+          "targetSettings": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "6_bundlemaster_integrateettask",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+}

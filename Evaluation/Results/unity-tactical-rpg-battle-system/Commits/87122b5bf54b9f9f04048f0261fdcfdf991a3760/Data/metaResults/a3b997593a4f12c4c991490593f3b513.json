@@ -1,6 +1,6 @@
 {
   "guid": "a3b997593a4f12c4c991490593f3b513",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta",
   "name": "CrossPlatformInputGuidelines.txt",
   "type": "meta",
   "file_size": 113,
@@ -18,6 +18,6 @@
       ]
     }
   ],
-  "ProjectName": "unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/unity-tactical-rpg-battle-system"
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

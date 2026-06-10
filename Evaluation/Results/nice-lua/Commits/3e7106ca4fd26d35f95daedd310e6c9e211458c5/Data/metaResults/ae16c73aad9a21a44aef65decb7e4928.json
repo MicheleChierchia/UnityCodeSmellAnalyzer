@@ -1,0 +1,26 @@
+{
+  "guid": "ae16c73aad9a21a44aef65decb7e4928",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/Editor/XLua/Template/LuaEnumWrap.tpl.txt.meta",
+  "name": "LuaEnumWrap.tpl.txt",
+  "type": "meta",
+  "file_size": 177,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

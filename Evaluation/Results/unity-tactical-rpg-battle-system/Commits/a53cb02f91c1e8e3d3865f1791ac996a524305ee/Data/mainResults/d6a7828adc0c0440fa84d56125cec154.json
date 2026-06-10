@@ -1,0 +1,2408 @@
+{
+  "guid": "d6a7828adc0c0440fa84d56125cec154",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Prefabs/UI/Overlay/Action Menu Controller.prefab",
+  "name": "Action Menu Controller",
+  "type": "prefab",
+  "file_size": 13568,
+  "num_components": 25,
+  "COMPONENTS": [
+    {
+      "id": "100100000",
+      "Prefab": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_Modification": [
+            {
+              "m_TransformParent": [
+                {
+                  "fileID": "0"
+                }
+              ]
+            },
+            {
+              "m_Modifications": "[]"
+            },
+            {
+              "m_RemovedComponents": "[]"
+            }
+          ]
+        },
+        {
+          "m_ParentPrefab": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootGameObject": [
+            {
+              "fileID": "1000011215848588"
+            }
+          ]
+        },
+        {
+          "m_IsPrefabParent": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000010264145698",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 224": [
+                {
+                  "fileID": "224000011412284124"
+                }
+              ]
+            },
+            {
+              "- 223": [
+                {
+                  "fileID": "223000013263138654"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012674119238"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000014225286912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Canvas"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000010312522954",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 224": [
+                {
+                  "fileID": "224000010640885378"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000013746583990"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Header"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000011215848588",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "0"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 4": [
+                {
+                  "fileID": "4000014144990928"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012972499828"
+                }
+              ]
+            },
+            {
+              "- 82": [
+                {
+                  "fileID": "82000013120118444"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Action Menu Controller"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000011774558844",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 224": [
+                {
+                  "fileID": "224000010247467396"
+                }
+              ]
+            },
+            {
+              "- 222": [
+                {
+                  "fileID": "222000010163418664"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000013651180648"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Text"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "1000013461040930",
+      "GameObject": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "m_Component": [
+            {
+              "- 224": [
+                {
+                  "fileID": "224000010472832148"
+                }
+              ]
+            },
+            {
+              "- 222": [
+                {
+                  "fileID": "222000012781716896"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000011537804434"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000011041142884"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012586814440"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000013069160466"
+                }
+              ]
+            },
+            {
+              "- 114": [
+                {
+                  "fileID": "114000012428969728"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "m_Layer": "0"
+        },
+        {
+          "m_Name": "Action Menu Panel"
+        },
+        {
+          "m_TagString": "Untagged"
+        },
+        {
+          "m_Icon": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_NavMeshLayer": "0"
+        },
+        {
+          "m_StaticEditorFlags": "0"
+        },
+        {
+          "m_IsActive": "1"
+        }
+      ]
+    },
+    {
+      "id": "4000014144990928",
+      "Transform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011215848588"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "224000011412284124"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        }
+      ]
+    },
+    {
+      "id": "82000013120118444",
+      "AudioSource": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011215848588"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "OutputAudioMixerGroup": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_audioClip": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PlayOnAwake": "1"
+        },
+        {
+          "m_Volume": "1"
+        },
+        {
+          "m_Pitch": "1"
+        },
+        {
+          "Loop": "0"
+        },
+        {
+          "Mute": "0"
+        },
+        {
+          "Spatialize": "0"
+        },
+        {
+          "Priority": "128"
+        },
+        {
+          "DopplerLevel": "1"
+        },
+        {
+          "MinDistance": "1"
+        },
+        {
+          "MaxDistance": "500"
+        },
+        {
+          "PanD": "0"
+        },
+        {
+          "rolloffMode": "0"
+        },
+        {
+          "BypassEffects": "0"
+        },
+        {
+          "BypassListenerEffects": "0"
+        },
+        {
+          "BypassReverbZones": "0"
+        },
+        {
+          "rolloffCustomCurve": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "m_Curve": [
+                {
+                  " time": "0"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "inSlope": "0"
+                },
+                {
+                  "outSlope": "0"
+                },
+                {
+                  "tangentMode": "0"
+                },
+                {
+                  " time": "1"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "inSlope": "0"
+                },
+                {
+                  "outSlope": "0"
+                },
+                {
+                  "tangentMode": "0"
+                }
+              ]
+            },
+            {
+              "m_PreInfinity": "2"
+            },
+            {
+              "m_PostInfinity": "2"
+            },
+            {
+              "m_RotationOrder": "4"
+            }
+          ]
+        },
+        {
+          "panLevelCustomCurve": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "m_Curve": [
+                {
+                  " time": "0"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "inSlope": "0"
+                },
+                {
+                  "outSlope": "0"
+                },
+                {
+                  "tangentMode": "0"
+                }
+              ]
+            },
+            {
+              "m_PreInfinity": "2"
+            },
+            {
+              "m_PostInfinity": "2"
+            },
+            {
+              "m_RotationOrder": "0"
+            }
+          ]
+        },
+        {
+          "spreadCustomCurve": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "m_Curve": [
+                {
+                  " time": "0"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "inSlope": "0"
+                },
+                {
+                  "outSlope": "0"
+                },
+                {
+                  "tangentMode": "0"
+                }
+              ]
+            },
+            {
+              "m_PreInfinity": "2"
+            },
+            {
+              "m_PostInfinity": "2"
+            },
+            {
+              "m_RotationOrder": "4"
+            }
+          ]
+        },
+        {
+          "reverbZoneMixCustomCurve": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "m_Curve": [
+                {
+                  " time": "0"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "inSlope": "0"
+                },
+                {
+                  "outSlope": "0"
+                },
+                {
+                  "tangentMode": "0"
+                }
+              ]
+            },
+            {
+              "m_PreInfinity": "2"
+            },
+            {
+              "m_PostInfinity": "2"
+            },
+            {
+              "m_RotationOrder": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114000011041142884",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "1297475563"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_Padding": [
+            {
+              "m_Left": "0"
+            },
+            {
+              "m_Right": "0"
+            },
+            {
+              "m_Top": "0"
+            },
+            {
+              "m_Bottom": "16"
+            }
+          ]
+        },
+        {
+          "m_ChildAlignment": "0"
+        },
+        {
+          "m_Spacing": "6"
+        },
+        {
+          "m_ChildForceExpandWidth": "1"
+        },
+        {
+          "m_ChildForceExpandHeight": "0"
+        }
+      ]
+    },
+    {
+      "id": "114000011537804434",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "-765806418"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_Material": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_Color": [
+            {
+              "r": "1"
+            },
+            {
+              "g": "1"
+            },
+            {
+              "b": "1"
+            },
+            {
+              "a": "1"
+            }
+          ]
+        },
+        {
+          "m_RaycastTarget": "1"
+        },
+        {
+          "m_OnCullStateChanged": [
+            {
+              "m_PersistentCalls": [
+                {
+                  "m_Calls": "[]"
+                }
+              ]
+            },
+            {
+              "m_TypeName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+            }
+          ]
+        },
+        {
+          "m_Sprite": [
+            {
+              "fileID": "21300000"
+            },
+            {
+              "guid": "5f715a354949144908ebfeb66d27cf94"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Type": "1"
+        },
+        {
+          "m_PreserveAspect": "0"
+        },
+        {
+          "m_FillCenter": "1"
+        },
+        {
+          "m_FillMethod": "4"
+        },
+        {
+          "m_FillAmount": "1"
+        },
+        {
+          "m_FillClockwise": "1"
+        },
+        {
+          "m_FillOrigin": "0"
+        }
+      ]
+    },
+    {
+      "id": "114000012428969728",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "3bed318bcce8c4dd387894ba45324ed3"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "positionList": [
+            {
+              " name": "Hide"
+            },
+            {
+              "myAnchor": "6"
+            },
+            {
+              "parentAnchor": "8"
+            },
+            {
+              "offset": [
+                {
+                  "x": "0"
+                },
+                {
+                  "y": "60"
+                }
+              ]
+            },
+            {
+              " name": "Show"
+            },
+            {
+              "myAnchor": "8"
+            },
+            {
+              "parentAnchor": "8"
+            },
+            {
+              "offset": [
+                {
+                  "x": "0"
+                },
+                {
+                  "y": "60"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "114000012586814440",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "1741964061"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_HorizontalFit": "0"
+        },
+        {
+          "m_VerticalFit": "2"
+        }
+      ]
+    },
+    {
+      "id": "114000012674119238",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010264145698"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "1980459831"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_UiScaleMode": "1"
+        },
+        {
+          "m_ReferencePixelsPerUnit": "100"
+        },
+        {
+          "m_ScaleFactor": "1"
+        },
+        {
+          "m_ReferenceResolution": [
+            {
+              "x": "640"
+            },
+            {
+              "y": "480"
+            }
+          ]
+        },
+        {
+          "m_ScreenMatchMode": "0"
+        },
+        {
+          "m_MatchWidthOrHeight": "0"
+        },
+        {
+          "m_PhysicalUnit": "3"
+        },
+        {
+          "m_FallbackScreenDPI": "96"
+        },
+        {
+          "m_DefaultSpriteDPI": "96"
+        },
+        {
+          "m_DynamicPixelsPerUnit": "1"
+        }
+      ]
+    },
+    {
+      "id": "114000012972499828",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011215848588"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "fecf72f36cfbd4b2cb60b34555c4903d"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        }
+      ]
+    },
+    {
+      "id": "114000013069160466",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "11500000"
+            },
+            {
+              "guid": "0448b41a7f9fe47fa8b2d46494f58fb6"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": [
+            {
+              "": "--- !u!114 &114000013651180648"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011774558844"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "708705254"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_Material": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_Color": [
+            {
+              "r": "1"
+            },
+            {
+              "g": "1"
+            },
+            {
+              "b": "1"
+            },
+            {
+              "a": "1"
+            }
+          ]
+        },
+        {
+          "m_RaycastTarget": "1"
+        },
+        {
+          "m_OnCullStateChanged": [
+            {
+              "m_PersistentCalls": [
+                {
+                  "m_Calls": "[]"
+                }
+              ]
+            },
+            {
+              "m_TypeName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+            }
+          ]
+        },
+        {
+          "m_FontData": [
+            {
+              "m_Font": [
+                {
+                  "fileID": "10102"
+                },
+                {
+                  "guid": "0000000000000000e000000000000000"
+                },
+                {
+                  "type": "0"
+                }
+              ]
+            },
+            {
+              "m_FontSize": "24"
+            },
+            {
+              "m_FontStyle": "0"
+            },
+            {
+              "m_BestFit": "0"
+            },
+            {
+              "m_MinSize": "2"
+            },
+            {
+              "m_MaxSize": "40"
+            },
+            {
+              "m_Alignment": "3"
+            },
+            {
+              "m_AlignByGeometry": "0"
+            },
+            {
+              "m_RichText": "1"
+            },
+            {
+              "m_HorizontalOverflow": "0"
+            },
+            {
+              "m_VerticalOverflow": "0"
+            },
+            {
+              "m_LineSpacing": "1"
+            }
+          ]
+        },
+        {
+          "m_Text": "Menu"
+        }
+      ]
+    },
+    {
+      "id": "114000013746583990",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010312522954"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "-405508275"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_Padding": [
+            {
+              "m_Left": "40"
+            },
+            {
+              "m_Right": "0"
+            },
+            {
+              "m_Top": "10"
+            },
+            {
+              "m_Bottom": "4"
+            }
+          ]
+        },
+        {
+          "m_ChildAlignment": "0"
+        },
+        {
+          "m_Spacing": "0"
+        },
+        {
+          "m_ChildForceExpandWidth": "0"
+        },
+        {
+          "m_ChildForceExpandHeight": "0"
+        }
+      ]
+    },
+    {
+      "id": "114000014225286912",
+      "MonoBehaviour": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010264145698"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "m_EditorHideFlags": "0"
+        },
+        {
+          "m_Script": [
+            {
+              "fileID": "1301386320"
+            },
+            {
+              "guid": "f5f67c52d1564df4a8936ccd202a3bd8"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "m_Name": ""
+        },
+        {
+          "m_EditorClassIdentifier": ""
+        },
+        {
+          "m_IgnoreReversedGraphics": "1"
+        },
+        {
+          "m_BlockingObjects": "0"
+        },
+        {
+          "m_BlockingMask": [
+            {
+              "serializedVersion": "2"
+            },
+            {
+              "m_Bits": "4294967295"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222000010163418664",
+      "CanvasRenderer": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011774558844"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222000012781716896",
+      "CanvasRenderer": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "223000013263138654",
+      "Canvas": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010264145698"
+            }
+          ]
+        },
+        {
+          "m_Enabled": "1"
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "m_RenderMode": "0"
+        },
+        {
+          "m_Camera": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PlaneDistance": "100"
+        },
+        {
+          "m_PixelPerfect": "0"
+        },
+        {
+          "m_ReceivesEvents": "1"
+        },
+        {
+          "m_OverrideSorting": "0"
+        },
+        {
+          "m_OverridePixelPerfect": "0"
+        },
+        {
+          "m_SortingBucketNormalizedSize": "0"
+        },
+        {
+          "m_SortingLayerID": "0"
+        },
+        {
+          "m_SortingOrder": "0"
+        },
+        {
+          "m_TargetDisplay": "0"
+        }
+      ]
+    },
+    {
+      "id": "224000010247467396",
+      "RectTransform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000011774558844"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": "[]"
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "224000010640885378"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_AnchorMin": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchorMax": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchoredPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_SizeDelta": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_Pivot": [
+            {
+              "x": "0.5"
+            },
+            {
+              "y": "0.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "224000010472832148",
+      "RectTransform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000013461040930"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "224000010640885378"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "224000011412284124"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_AnchorMin": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchorMax": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchoredPosition": [
+            {
+              "x": "203"
+            },
+            {
+              "y": "20"
+            }
+          ]
+        },
+        {
+          "m_SizeDelta": [
+            {
+              "x": "180"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_Pivot": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "224000010640885378",
+      "RectTransform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010312522954"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "1"
+            },
+            {
+              "y": "1"
+            },
+            {
+              "z": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "224000010247467396"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "224000010472832148"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_AnchorMin": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchorMax": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchoredPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_SizeDelta": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_Pivot": [
+            {
+              "x": "0.5"
+            },
+            {
+              "y": "0.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "224000011412284124",
+      "RectTransform": [
+        {
+          "m_ObjectHideFlags": "1"
+        },
+        {
+          "m_PrefabParentObject": [
+            {
+              "fileID": "0"
+            }
+          ]
+        },
+        {
+          "m_PrefabInternal": [
+            {
+              "fileID": "100100000"
+            }
+          ]
+        },
+        {
+          "m_GameObject": [
+            {
+              "fileID": "1000010264145698"
+            }
+          ]
+        },
+        {
+          "m_LocalRotation": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            },
+            {
+              "w": "1"
+            }
+          ]
+        },
+        {
+          "m_LocalPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalScale": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_LocalEulerAnglesHint": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            },
+            {
+              "z": "0"
+            }
+          ]
+        },
+        {
+          "m_Children": [
+            {
+              "fileID": "224000010472832148"
+            }
+          ]
+        },
+        {
+          "m_Father": [
+            {
+              "fileID": "4000014144990928"
+            }
+          ]
+        },
+        {
+          "m_RootOrder": "0"
+        },
+        {
+          "m_AnchorMin": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchorMax": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_AnchoredPosition": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_SizeDelta": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        },
+        {
+          "m_Pivot": [
+            {
+              "x": "0"
+            },
+            {
+              "y": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

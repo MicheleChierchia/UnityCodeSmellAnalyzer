@@ -1,6 +1,6 @@
 {
   "guid": "c43386c8ad136463cbefe7f7d6207461",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Prefabs/DifficultyBall.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Prefabs/DifficultyBall.prefab",
   "name": "DifficultyBall",
   "type": "prefab",
   "file_size": 8540,
@@ -1573,5 +1573,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

@@ -1,0 +1,35 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 4,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/DependencyInjection/Scripts/Character.cs",
+      "Class": "ImpossibleOdds.Examples.DependencyInjection.Character",
+      "Method": "ImpossibleOdds.Examples.DependencyInjection.Character.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 49
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/DependencyInjection/Scripts/Character.cs",
+      "Class": "ImpossibleOdds.Examples.DependencyInjection.Character",
+      "Method": "ImpossibleOdds.Examples.DependencyInjection.Character.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 61
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/DependencyInjection/Scripts/WorldBounds.cs",
+      "Class": "ImpossibleOdds.Examples.DependencyInjection.WorldBounds",
+      "Method": "ImpossibleOdds.Examples.DependencyInjection.WorldBounds.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Examples/DependencyInjection/Scripts/WorldBounds.cs",
+      "Class": "ImpossibleOdds.Examples.DependencyInjection.WorldBounds",
+      "Method": "ImpossibleOdds.Examples.DependencyInjection.WorldBounds.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 14
+    }
+  ]
+}

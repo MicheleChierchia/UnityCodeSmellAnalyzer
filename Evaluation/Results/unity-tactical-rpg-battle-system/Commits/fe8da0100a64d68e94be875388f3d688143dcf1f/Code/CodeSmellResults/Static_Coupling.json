@@ -4,14 +4,14 @@
   "Occurrency": 2,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Utility/WaypointProgressTracker.cs",
       "Kind": "Field",
       "Type": "WaypointCircuit",
       "FullName": "UnityStandardAssets.Utility.WaypointProgressTracker.circuit",
       "Line": 14
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/BoardCreator.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/Grid/Component/BoardCreator.cs",
       "Kind": "Field",
       "Type": "LevelData",
       "FullName": "Tactical.Grid.DevTools.BoardCreator.levelData",

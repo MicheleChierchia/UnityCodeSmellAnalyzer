@@ -1,0 +1,37 @@
+{
+  "Name": "Instantiate Destroy",
+  "Severity": "High",
+  "Occurrency": 5,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_13_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Name": "Instantiate",
+      "Invocation": "Instantiate",
+      "Line": 64
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_12_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Name": "Instantiate",
+      "Invocation": "Instantiate",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_11_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Name": "Instantiate",
+      "Invocation": "Instantiate",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_10_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Name": "Instantiate",
+      "Invocation": "Instantiate",
+      "Line": 59
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_09_Starter/Assets/Scripts/PlayerBehavior.cs",
+      "Name": "Instantiate",
+      "Invocation": "Instantiate",
+      "Line": 55
+    }
+  ]
+}

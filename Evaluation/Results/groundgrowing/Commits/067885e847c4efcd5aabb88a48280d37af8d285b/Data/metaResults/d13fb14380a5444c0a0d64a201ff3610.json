@@ -1,6 +1,6 @@
 {
   "guid": "d13fb14380a5444c0a0d64a201ff3610",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta",
   "name": "Displace.cs",
   "type": "meta",
   "file_size": 221,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

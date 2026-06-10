@@ -1,6 +1,6 @@
 {
   "guid": "3285f68d1debb4adc91494ed1e66ab6e",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta",
   "name": "RiggedMultifractal.cs",
   "type": "meta",
   "file_size": 221,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

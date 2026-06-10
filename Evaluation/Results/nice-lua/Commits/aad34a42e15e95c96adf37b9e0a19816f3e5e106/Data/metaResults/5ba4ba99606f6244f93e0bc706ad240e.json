@@ -1,0 +1,267 @@
+{
+  "guid": "5ba4ba99606f6244f93e0bc706ad240e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/EasyTouchBundle/EasyTouchControls/Examples/_Medias/Models/Gun/MachineGun_01.FBX.meta",
+  "name": "MachineGun_01.FBX",
+  "type": "meta",
+  "file_size": 1991,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "ModelImporter",
+      "ModelImporter": [
+        {
+          "serializedVersion": "18"
+        },
+        {
+          "fileIDToRecycleName": [
+            {
+              "": "Dummy002"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "MachineGun_01"
+            },
+            {
+              "": "WeaponBone"
+            },
+            {
+              "": "WeaponBone001"
+            },
+            {
+              "": "WeaponBone002"
+            },
+            {
+              "": "WeaponRoot"
+            },
+            {
+              "": "Dummy002"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "MachineGun_01"
+            },
+            {
+              "": "WeaponBone"
+            },
+            {
+              "": "WeaponBone001"
+            },
+            {
+              "": "WeaponBone002"
+            },
+            {
+              "": "WeaponRoot"
+            },
+            {
+              "": "MachineGun_01"
+            },
+            {
+              "": "MachineGun_01"
+            },
+            {
+              "": "MachineGun_01"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "//RootNode"
+            },
+            {
+              "": "MachineGun_01"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "importMaterials": "1"
+            },
+            {
+              "materialName": "0"
+            },
+            {
+              "materialSearch": "1"
+            }
+          ]
+        },
+        {
+          "animations": [
+            {
+              "legacyGenerateAnimations": "4"
+            },
+            {
+              "bakeSimulation": "0"
+            },
+            {
+              "optimizeGameObjects": "0"
+            },
+            {
+              "motionNodeName": ""
+            },
+            {
+              "animationCompression": "3"
+            },
+            {
+              "animationRotationError": ".5"
+            },
+            {
+              "animationPositionError": ".5"
+            },
+            {
+              "animationScaleError": ".5"
+            },
+            {
+              "animationWrapMode": "0"
+            },
+            {
+              "extraExposedTransformPaths": "[]"
+            },
+            {
+              "clipAnimations": "[]"
+            },
+            {
+              "isReadable": "1"
+            }
+          ]
+        },
+        {
+          "meshes": [
+            {
+              "lODScreenPercentages": "[]"
+            },
+            {
+              "globalScale": ".00999999978"
+            },
+            {
+              "meshCompression": "0"
+            },
+            {
+              "addColliders": "0"
+            },
+            {
+              "importBlendShapes": "1"
+            },
+            {
+              "swapUVChannels": "0"
+            },
+            {
+              "generateSecondaryUV": "0"
+            },
+            {
+              "useFileUnits": "1"
+            },
+            {
+              "optimizeMeshForGPU": "1"
+            },
+            {
+              "keepQuads": "0"
+            },
+            {
+              "weldVertices": "1"
+            },
+            {
+              "secondaryUVAngleDistortion": "8"
+            },
+            {
+              "secondaryUVAreaDistortion": "15.000001"
+            },
+            {
+              "secondaryUVHardAngle": "88"
+            },
+            {
+              "secondaryUVPackMargin": "4"
+            },
+            {
+              "useFileScale": "0"
+            }
+          ]
+        },
+        {
+          "tangentSpace": [
+            {
+              "normalSmoothAngle": "60"
+            },
+            {
+              "splitTangentsAcrossUV": "1"
+            },
+            {
+              "normalImportMode": "0"
+            },
+            {
+              "tangentImportMode": "1"
+            }
+          ]
+        },
+        {
+          "importAnimation": "1"
+        },
+        {
+          "copyAvatar": "0"
+        },
+        {
+          "humanDescription": [
+            {
+              "human": "[]"
+            },
+            {
+              "skeleton": "[]"
+            },
+            {
+              "armTwist": ".5"
+            },
+            {
+              "foreArmTwist": ".5"
+            },
+            {
+              "upperLegTwist": ".5"
+            },
+            {
+              "legTwist": ".5"
+            },
+            {
+              "armStretch": ".0500000007"
+            },
+            {
+              "legStretch": ".0500000007"
+            },
+            {
+              "feetSpacing": "0"
+            },
+            {
+              "rootMotionBoneName": "Dummy002"
+            }
+          ]
+        },
+        {
+          "lastHumanDescriptionAvatarSource": [
+            {
+              "instanceID": "0"
+            }
+          ]
+        },
+        {
+          "animationType": "2"
+        },
+        {
+          "additionalBone": "0"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

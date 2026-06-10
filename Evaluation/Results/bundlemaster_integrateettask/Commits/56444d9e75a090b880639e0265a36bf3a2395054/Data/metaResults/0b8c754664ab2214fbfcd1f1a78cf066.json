@@ -1,6 +1,6 @@
 {
   "guid": "0b8c754664ab2214fbfcd1f1a78cf066",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings/AssetsLoadSetting_1.asset.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask/Assets/Editor/BundleMasterEditor/BuildSettings/AssetsLoadSetting_1.asset.meta",
   "name": "AssetsLoadSetting_1.asset",
   "type": "meta",
   "file_size": 189,
@@ -28,5 +28,5 @@
     }
   ],
   "ProjectName": "6_bundlemaster_integrateettask",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/6_bundlemaster_integrateettask"
 }

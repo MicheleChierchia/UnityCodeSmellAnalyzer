@@ -1,6 +1,6 @@
 {
   "guid": "d9e1450fcd6d34006b03e9f46f261755",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/PillMask.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/PillMask.png.meta",
   "name": "PillMask.png",
   "type": "meta",
   "file_size": 2299,
@@ -332,5 +332,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

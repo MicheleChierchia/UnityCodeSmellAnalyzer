@@ -1,6 +1,6 @@
 {
   "guid": "405d8bb802a7944e7990025b69cb5f39",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/engines/unity/Assets/Plugins/Demigiant/DOTween/Editor.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Demigiant/DOTween/Editor.meta",
   "name": "Editor",
   "type": "meta",
   "file_size": 172,
@@ -25,5 +25,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

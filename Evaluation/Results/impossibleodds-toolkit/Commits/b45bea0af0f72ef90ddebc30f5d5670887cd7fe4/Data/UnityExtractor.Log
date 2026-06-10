@@ -1,0 +1,2228 @@
+10/06/2026 02:44:35 Loading extensions...
+10/06/2026 02:44:36 Searching MetaData file inside project folder...
+10/06/2026 02:44:36 Searching main file...
+10/06/2026 02:44:36 Done!
+10/06/2026 02:44:36 Searching meta file...
+10/06/2026 02:44:36 Done!
+10/06/2026 02:44:36 Done!
+10/06/2026 02:44:36 Done!
+10/06/2026 02:44:36 Creating Result Directories
+10/06/2026 02:44:36 Start analisys...
+10/06/2026 02:44:36 Analyzing Main MetaData...
+10/06/2026 02:44:36 Saving Results...
+10/06/2026 02:44:36 Saving File: ProjectInfo.json
+10/06/2026 02:44:36 Done!!
+10/06/2026 02:44:36 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+10/06/2026 02:44:36 Data Extracted!
+10/06/2026 02:44:36 Saving Results...
+10/06/2026 02:44:36 Saving File: e73a58f6e2794ae7b1b7e50b7fb811b0.json
+10/06/2026 02:44:36 Done!!
+10/06/2026 02:44:36 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+10/06/2026 02:44:36 Data Extracted!
+10/06/2026 02:44:36 Saving Results...
+10/06/2026 02:44:36 Saving File: 79459efec17a4d00a321bdcc27bbc385.json
+10/06/2026 02:44:36 Done!!
+10/06/2026 02:44:36 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Assets/FloorMaterial.mat
+10/06/2026 02:44:36 Data Extracted!
+10/06/2026 02:44:36 Saving Results...
+10/06/2026 02:44:36 Saving File: 4b927de7d247044aebfd13b33a1835a8.json
+10/06/2026 02:44:36 Done!!
+10/06/2026 02:44:38 Done!
+10/06/2026 02:44:38 Analyzing Meta files...
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Editor.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 255f5511e8fa7493f95de7219e9b305c.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 4f0572d4860384bc592f72208bf34db3.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: f54d1bd14bd3ca042bd867b519fee8cc.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Documentation.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 8e7e8f5a82a3a134e91c54efd2274ea9.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Fonts.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 6ab70aee4d56447429c680537fbf93ed.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 243e06394e614e5d99fab26083b707fa.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Sprites.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: d0603b6d5186471b96c778c3949c7ce2.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 381dcb09d5029d14897e55f98031fca5.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 8f05276190cf498a8153f6cbe761d4e6.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: dffef66376be4fa480fb02b19edbe903.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 731f1baa9d144a9897cb1d341c2092b8.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: fade42e8bc714b018fac513c043d323b.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: d82c1b31c7e74239bff1220585707d2b.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 99f836c9cb9345dba2e72c4a1f2d0695.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 512a49d95c0c4332bdd98131869c23c9.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Style Sheets.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 4aecb92fff08436c8303b10eab8da368.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:38 Saving File: 3f5b5dff67a942289a9defa416b206f3.json
+10/06/2026 02:44:38 Done!!
+10/06/2026 02:44:38 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+10/06/2026 02:44:38 Data Extracted!
+10/06/2026 02:44:38 Saving Results...
+10/06/2026 02:44:39 Saving File: f952c082cb03451daed3ee968ac6c63e.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: c41005c129ba4d66911b75229fd70b45.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 48bb5f55d8670e349b6e614913f9d910.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 1e3b057af24249748ff873be7fafee47.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 128e987d567d4e2c824d754223b3f3b0.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: dd89cf5b9246416f84610a006f916af7.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: bc1ede39bf3643ee8e493720e4259791.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: a02a7d8c237544f1962732b55a9aebf1.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: fe393ace9b354375a9cb14cdbbc28be4.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 85187c2149c549c5b33f0cdb02836b17.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: f7ada0af4f174f0694ca6a487b8f543d.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 68e6db2ebdc24f95958faec2be5558d6.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: cf81c85f95fe47e1a27f6ae460cf182c.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 407bc68d299748449bbf7f48ee690f8d.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 3997e2241185407d80309a82f9148466.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: d930090c0cd643c7b55f19a38538c162.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 2e498d1c8094910479dc3e1b768306a4.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 8f586378b4e144a9851e7b34d9b748ee.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 6e59c59b81ab47f9b6ec5781fa725d2c.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: e3265ab4bf004d28a9537516768c1c75.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 1b8d251f9af63b746bf2f7ffe00ebb9b.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 8bca42720c8124123b48c0821df5aa39.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Sprites.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 4785dbcb1a8a84463b9da24659dca9bd.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Documentation.pdf.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 96b81febe368f4a52af49fcc187e436b.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/package.json.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 841a4bc2a8ac4489f865df1e61e91d83.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 5dfe95c07b71848a69ae33a26c6ac2df.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: fd963010a250840218c5c755f44cfce2.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:39 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples.meta
+10/06/2026 02:44:39 Data Extracted!
+10/06/2026 02:44:39 Saving Results...
+10/06/2026 02:44:39 Saving File: 55fb18bc4abf5438794a9c93ba2c2d5d.json
+10/06/2026 02:44:39 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Core.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 3d6753619c2e54b4b9491fce436a0f28.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: aef0aef0f87ff44d8847653a93b12511.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 1a96aa885c51d4ea58f8b6c02a0e90f4.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/ImpossibleOdds.Samples.asmdef.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: c306fb32dbf5942f083dcf5808916ccf.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: d452a88098044479f8ecc7b51a0c8c6d.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 4e466fbce7e094d68886bda7be5a8c51.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: dad6597ec37254675b78062ce30992c0.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: a45f6499f5fda4432941c6ffbfecbe3b.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Assets.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 1723c4bb63f3447c9a4f39ddfa006e78.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 4bc7c132d5dee428cb51b67b1f833429.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts.meta
+10/06/2026 02:44:40 Data Extracted!
+10/06/2026 02:44:40 Saving Results...
+10/06/2026 02:44:40 Saving File: 861f58695e93d4d7591c4c548ea0bc92.json
+10/06/2026 02:44:40 Done!!
+10/06/2026 02:44:40 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/TestStateMachines.unity.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: a8f68b0773c7046ddad077a901092b45.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/Turnstile.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: fc3bd25826a59497eb1bcd6d5c038f3e.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TurnstileState.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 24c68dbada9d44e9f840d20d455545d6.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TurnstileStateLocked.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 0f1c33c283da94a3e8eaf2936ebe3a7c.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TurnstileStateUnlocked.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: a44808e818a384aac8b348051540f516.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/StateMachines/Scripts/TurnstileTransition.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 84683aca6683047c2b994fa8023a7bc1.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Assets/Textures.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 1de7de44f747d4af18c7bedc4442efa6.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Assets/Textures/StateTransition01.png.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: e5ef6b05d92e646fab6c85b12891234b.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Assets.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: dfc4be6346db14b368a6978e07a1035e.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 5279912e288a7443d89f7e1ccda62c91.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/TestXmlSerialization.unity.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 511eba3b20bea4fa4a49c5f0ac05d23c.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Actor.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 3e46889e1b8e64db1adc9523fd873fe8.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Director.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: b4b8e0e52354042d29117817166fbac6.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Genre.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 05e6e2de3cf6f4b26bf0a4eed2cf7bf3.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Movie.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 1c5835da9050a43d38f328d382ada065.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/MovieDatabase.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: f53130d3e12ee47739ad08641ed1a53d.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Production.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 490abf6644dbf46a6945aa79a82b5dbb.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/ProductionType.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 15d41d666d31c4c9b9bffd75ed854744.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/Series.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 8ca1acee3d30c4518ad2997daa529baa.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Scripts/TestXmlSerialization.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 35b06061c76944508b3ba5eadf63e4b9.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Xml/Assets/MovieDatabase.xml.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: f67bae3267d724f83a65e055354241a8.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables/Scripts.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: af1e618ae2e424e7e82430eadca7ca51.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables/TestRunnables.unity.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:42 Saving File: 6fa61b6492a8b4eb3989de584cc96bd5.json
+10/06/2026 02:44:42 Done!!
+10/06/2026 02:44:42 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables/Scripts/FrameCounter.cs.meta
+10/06/2026 02:44:42 Data Extracted!
+10/06/2026 02:44:42 Saving Results...
+10/06/2026 02:44:43 Saving File: 9439aea92852249768d3be0781378080.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Runnables/Scripts/TestRunnables.cs.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: dced1dc74ec9045c78d6e665fcfef264.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 1e4a6d939a37b4149acf51fb0650074b.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 8da8cc91a0de74b71a08b6aecd3c654d.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/TestWebRpc.unity.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 4f9307b44b1fe49ffa6f0a80406f5b4c.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/DemoNetwork.cs.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 4e53c60eb7d9040b58a9c46a0a9a0220.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/ImpossibleOdds.Examples.Photon.WebRpc.asmdef.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: e7ab2b3dd42db46bdb34e6e5a10362d8.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/TestWebRpc.cs.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 68bba47a1fa1a46449e6e7b1792575ba.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Photon/WebRpc/Scripts/UpdateLeaderboardWebRpc.cs.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: a62140622e1644b06addc05dded78b2a.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Assets.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: c53f6d9a2778140e8ba2cbaa27cd83f1.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:43 Saving File: 1a5f92732a83d4a21aab6c0f5058e011.json
+10/06/2026 02:44:43 Done!!
+10/06/2026 02:44:43 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/TestJsonSerialization.unity.meta
+10/06/2026 02:44:43 Data Extracted!
+10/06/2026 02:44:43 Saving Results...
+10/06/2026 02:44:44 Saving File: 11ef39a3ae61c4eb5b514f9e74ab6877.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/Animal.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: e8d33e3337b4e4eab849d6bed53b4e3b.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/AnimalRegister.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 47a7e450e972c4cdfb6111ae0f291142.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/AnimalType.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 42e176d4b55eb4d9c8c2963804e2e40d.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/Cat.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 8c39f973d3af14cd692300770ad5e41a.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/Crocodile.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 4cc25a5d3cbde45b39a16bce6fdfe156.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/Dog.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 6c5699eff245842799497e081e708ce6.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/Pidgeon.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: aeb237e01c03c483fa5f6762d86b1597.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/TaxonomyClass.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 1fd891dca324040bf911824cb58d8f1f.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Scripts/TestJsonSerialization.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 77721583483b84793b25d86329a15916.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Json/Assets/AnimalRegister.json.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 9699841f465804ebfb5075ca3f41b0ee.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 7aecf6f42e5954ba68f6d74e0a150e66.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/TestHttp.unity.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 6be1ea6c47b2b4445905be63507099aa.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/GetLeaderboardRequest.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 26d7923a645414449b27484e7ea1aea8.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/GetLeaderboardResponse.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 0ebc8d7ee009d457f9824634d1f2503a.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/Leaderboard.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 87bd4dd4e870848dd93b7056f53d02ea.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/LeaderboardEntry.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 200031f9593dc466bac50d29fcb504b2.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Http/Scripts/TestHttp.cs.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 775b577a21ef24c689bcf25795e68e87.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Assets.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 7770b300578b64341958931f167f113d.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/CharacterSettings.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: baf71245fa1c043389bf5e19999a14e8.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts.meta
+10/06/2026 02:44:44 Data Extracted!
+10/06/2026 02:44:44 Saving Results...
+10/06/2026 02:44:44 Saving File: 5693efc49777643c5a72bcfa16c9e610.json
+10/06/2026 02:44:44 Done!!
+10/06/2026 02:44:44 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/TestDependencyInjection.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 29baf4f5e76484e56810b62ab6faf614.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/TestDependencyInjection.unity.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 4d9855187d6b94fa2b819ba0a15ddc40.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/TestDependencyInjection/LightingData.asset.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 98475063a17484b90991b33439d52a7f.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/TestDependencyInjection/ReflectionProbe-0.exr.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 06cf5a9a3d3cc4883b0d65f7c83dd23b.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/Character.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 397b456418914473bac01d3753c5adf9.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/CharacterSettings.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 4bfafc0a6492c4eada9577e248559758.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/ExampleDependencyInstaller.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 88dc7e618b36a416db4457577bce5795.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/IInputManager.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 15a64f274c902491da3a466d9c6231f8.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/KeyboardInputManager.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 505a1abbec5eb44ff9597e8f47cb3bb9.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/Scripts/WorldBounds.cs.meta
+10/06/2026 02:44:45 Data Extracted!
+10/06/2026 02:44:45 Saving Results...
+10/06/2026 02:44:45 Saving File: 5b99f4300f55c4efb897f5ef2c771198.json
+10/06/2026 02:44:45 Done!!
+10/06/2026 02:44:45 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/DependencyInjection/CharacterSettings/MovementSettings.asset.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 28552e232ab10445b9a9d0b87f2a6199.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Core/LoggingUtility.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: a9a55a29ae0a04e44aa990f0c8eefbcc.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Core/LoggingUtility/Scripts.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 4b2a0714ac6ea4b9585079751a02b98a.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Core/LoggingUtility/TestLoggingUtility.unity.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: b2be1f5f0eb384a8c96154432418fc13.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Samples/Core/LoggingUtility/Scripts/TestLoggingUtility.cs.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 75b3c2a4b528f42969b2e0bf025c333c.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 08780dae47c3d4ea387106732e54cb9a.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 164ad6ba2bda9430a9843d5a28020ec7.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 86c645df89d6440ccad298d58035c610.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 55ba72584f5a64669ae706c07487a1b9.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/ImpossibleOdds.Toolkit.Runtime.asmdef.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: ab4d3c668fd474572af9beae1f1da2ce.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 90053aaeda1b5460e8da12df9690287e.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 50a8f3e0268664104bcb117e2d85b959.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 9d57b50f56f2d4b88abdcfc6d74f8605.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 11b866186ab8f4a139719560bbb7d603.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: f1f14db01558249cea3f95ca982041c9.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 378d8e06971e1466ba050c743111cd91.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines.meta
+10/06/2026 02:44:46 Data Extracted!
+10/06/2026 02:44:46 Saving Results...
+10/06/2026 02:44:46 Saving File: 6bc38fc68252c4fc88c9ecf4b454978d.json
+10/06/2026 02:44:46 Done!!
+10/06/2026 02:44:46 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/ImpossibleOdds.StateMachines.asmdef.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: c2d2db7998f7d44ae88cd7eda29f9a89.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: 03e8ec7b78a1f4bd2843bc864d9c016e.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/RunnableStateMachine.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: cf5e5535ace904724831b0de646b4bf4.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachine.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: dbaafb9058492457c9fed44a424cdd47.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/StateMachineException.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: 7b201e0bb9ae04eb49bf5bc431f2518d.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IState.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: b055ff5d752d94ed0a00efacc5b52da3.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateMachine.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: f9870a362216d4f1c9f41606314de932.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/StateMachines/Interfaces/IStateTransition.cs.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: d8bc2a5cb57b54225a2d2c8d3d9b4a1c.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: edc67b51aace94881afa1437a60e1efc.json
+10/06/2026 02:44:47 Done!!
+10/06/2026 02:44:47 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/ImpossibleOdds.Xml.asmdef.meta
+10/06/2026 02:44:47 Data Extracted!
+10/06/2026 02:44:47 Saving Results...
+10/06/2026 02:44:47 Saving File: 5c41ec0c779f94e28ad7b8fe574de9c3.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Interfaces.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 11e7572b614d146549ef73fdaac7baf7.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: cf2fa183f83f54666b570ca0bcd73bf3.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlAttributeSerializationDefinition.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 06ddcd39ca5744a0f8fbd1a8e8aa0776.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlCDataSerializationDefinition.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 05417f1a9e01741eab096b6a0daa42e7.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlException.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: a2b8832190ff747a29d670ee9f36d6ab.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlOptions.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: f0a05d2c859004f31a20164dee72d9a1.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlProcessor.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 39158a26103b44925bd08184963c3b95.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/XmlSerializationDefinition.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: d1d63f6e759e943b282dc2ba4a74852a.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 42f69f14e30f14b0c82243174253e4e6.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCDataProcessor.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 1ec6465f153684c21a5f88d77297db6c.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlCustomObjectProcessor.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: 14a56b933e9454f7299d3fa530442b7a.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlLookupProcessor.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:48 Saving Results...
+10/06/2026 02:44:48 Saving File: a8b2cda649d2b426c8c4de5390d59ea2.json
+10/06/2026 02:44:48 Done!!
+10/06/2026 02:44:48 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/XmlSequenceProcessor.cs.meta
+10/06/2026 02:44:48 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: c81fcd0e6fc1f42e184c1664625d917e.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlAttributesProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 66d5bbea7e0394efe85ed7349f014ab2.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlElementsProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 3eb50f6c483134166849da62e46019b4.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/UnityPrimitiveXmlSwitchProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 9a3b1ffacde994c4fbc018af844e7c82.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColor32Processor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d1bcbb57a59ca4d909d57a608987262e.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlColorProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: c499f9dcad917433fa2b6c7f9269929a.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlQuaternionProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 5f047ed0d306342cc9902145ea544659.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2IntProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d64aa9afc5200469795b3ba23b5b7b98.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector2Processor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 817f8ca60ff0e43f79c1b6190fc2a465.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3IntProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: ae72c6b4203de4829a01f7303ee498c4.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector3Processor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: de07386a7dccf48b9b19cda4a0d2d905.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Processors/UnityTypeProcessors/XmlVector4Processor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d8265d81488f24262842e7521322ea11.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Interfaces/IUnityPrimitiveXmlSwitchProcessor.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d42d12b0b6cf2437d83fd30c001526d4.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/AbstractXmlMemberAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d0987044468204b74bd4932e8b30d4ea.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/SerializationCallbacks.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 55fe6acb2a480447491d3519e37b5c05.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlAttributeAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: b93601d492605473d8f9bf8510123809.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlCDataAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 93d809254b4c64efb86251a08cec22b5.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlElementAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: d91a68163e5b44ef1a8ab3495f1f42d6.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlEnumAliasAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: c33cd764ddf964f69bcf195cbf018568.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlEnumStringAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 68471adb4c48343e5a7ba21043370dc3.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlListElementAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: bd50d8deef9f4432ab768be428e454b3.json
+10/06/2026 02:44:50 Done!!
+10/06/2026 02:44:50 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlObjectAttribute.cs.meta
+10/06/2026 02:44:50 Data Extracted!
+10/06/2026 02:44:50 Saving Results...
+10/06/2026 02:44:50 Saving File: 493af74e5d89643959b46ef9a6253745.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlRequiredAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 5acb1cec500164885ac72ac7e98656a3.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/XmlTypeAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 14a7ba772e05145c38f0299fe99b27e6.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/SerializationCallbacks/OnXmlDeserializedAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: b3dcbbd4b26784c8c9bbf602985d6561.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/SerializationCallbacks/OnXmlDeserializingAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: fed87eea5ab774e00a530a33bf397cbb.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/SerializationCallbacks/OnXmlSerializedAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 0b65dae8294114f1094d414b78e9af65.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Xml/Attributes/SerializationCallbacks/OnXmlSerializingAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 0601774b09dc343ca920ecfcf4eda632.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Attributes.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: c1a66fa213b914d948393ca6cd1c1051.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/ImpossibleOdds.Weblink.asmdef.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: b30395b53cfc144a7850f5da77f44519.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 7a64a41595f92455c905aed75e08776b.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkException.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: e7982bc9897df42508ef1546ebf6b8a1.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkMessenger.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 90f33b27350fa4e62b0921faa6f14a7c.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/WeblinkUtilities.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 314c69525807f43fbbd0edbdb5bc0dde.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessageHandle.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 8155f0d98e7b44904aac3bba76b6b79e.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkMessenger.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 15a3446495a874e1ea1a6bcc077db7a0.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkRequest.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 5a03614f9de374a4e803bd70ad0e0799.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkResponse.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 8637e3c429424462b9a7dbda8dbe5c01.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Interfaces/IWeblinkResponseTypeAssociation.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 407ae2b4f85494b70b5c80d764138ef4.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Attributes/WeblinkResponseAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 41d4eb7a913174c63b942d597cd92f50.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Weblink/Attributes/WeblinkResponseCallbackAttribute.cs.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 72818b1d9c0b64e55852de72265a1539.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: 27e4643b9575646f6acc446c060e0a5b.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Definitions.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:51 Saving Results...
+10/06/2026 02:44:51 Saving File: b676e0c9868a94052aaf55357c5a6a3d.json
+10/06/2026 02:44:51 Done!!
+10/06/2026 02:44:51 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/ImpossibleOdds.Serialization.asmdef.meta
+10/06/2026 02:44:51 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: ff382e00ddaf64637bcce649415c9679.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 89d56d04c1a5b4c13a90f95587ea6615.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 3cd0e5319d26849569b0d44cbee9b5ff.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/SerializationException.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 96c3f8ce24ac2496a80f9839060ea12d.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/SerializationUtilities.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 8d94994cb790b4cb980a1dc4d85a7f60.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Serializer.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: adef4ce66ddd7455db41e66ee5cb543d.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/AbstractCustomObjectProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 6b1cc0fb2eb404913b4ea14a7ea70d43.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectLookupProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: cb4a5ca0ce94447589ade57384f1c304.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/CustomObjectSequenceProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: af25b5a91b5b041c0b12441f38acb798.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DateTimeProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: dd64e8e2155864a8eb9316b48d36ff77.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/DecimalProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: e5081765bbd714e628393056d6130c24.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/EnumProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: f83f3b82cd1594e90b12db4ff92474a4.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/ExactMatchProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 15b21934f668746778bdfb040eccbfec.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/LookupProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:52 Saving Results...
+10/06/2026 02:44:52 Saving File: 6c037ec3e5e8249e49c54ef498900da5.json
+10/06/2026 02:44:52 Done!!
+10/06/2026 02:44:52 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/NullValueProcessor.cs.meta
+10/06/2026 02:44:52 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 5b38ecb7a2b4d4399b5a5468b2673af2.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/PrimitiveTypeProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 6e2135d3e44d94831bfd61a6be1394d0.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/SequenceProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: dbb1ac1c667ff468e9cfb0bda838cfbf.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/StringProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 57943bc52a61f468dbb6f5b66de87621.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 132ff665b882c4729b93474c6986e9a4.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/GuidProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 9cb58400baea84f0a884d24f024442ef.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/VersionProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 88ae850191ac2465eacc459df31b18c6.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Color32Processor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 64b9dadf44fc64ef3ab4ad227c5d478a.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/ColorProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: ce62ef46ce1c04f94baa75a3e341c308.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/QuaternionProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: d0313faa8555d40dca6e9d61ecf2891e.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveLoopkupProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 0bfb9dc54f28a480ead07d3d173a956c.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSequenceProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: eab847d74a9304f9fbafe446410bc1c6.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/UnityPrimitiveSwitchProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 1eaaa5b01d90a4c40b54443c27a05b7e.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2IntProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 52b139693d35a40e88b0a2427a320b3d.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector2Processor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: ba7e33b55ebc04b6bb9540e67a142cde.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3IntProcessor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: f607e5f42d6bf4a5ca0921478ae65bda.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector3Processor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: a21f7f407adf643d69db53d6a7a5604f.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/PreDefinedProcessors/UnityTypeProcessors/Vector4Processor.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 798c1b0290f984a8d9b05bc21cb94371.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 0dd4968ed84b2497f9202ca834f257f8.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Caching.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 1f61bda455081415381cc86be20fac21.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 9fa86ae5d52714b7b9b8bf0fe64385d0.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SerializationDefinition.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 785c0c0ca5b79497dbf37b189c698464.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 09c137046acad47b7b94e3612a1c8ee8.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures/ICallbacksSupport.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 23d02a628127d4056817dea113569e5b.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures/IEnumAliasSupport.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 4f4f187cbeb8a47a2ad4fbff043583ef.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures/IIndexTypeResolveSupport.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 56b4453b657774f92990ce16c59af924.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures/ILookupTypeResolveSupport.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: be345c165f69c43d487ebf0ced9367a8.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SupportFeatures/IRequiredValueSupport.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 38be8e5f2e4644bc0b499cfeab69d77f.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SerializationDefinition/IIndexSerializationDefinition.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 81bf2481982194a8397e165b60dd0745.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SerializationDefinition/ILookupSerializationDefinition.cs.meta
+10/06/2026 02:44:54 Data Extracted!
+10/06/2026 02:44:54 Saving Results...
+10/06/2026 02:44:54 Saving File: 41b5a0dea1f9441158b3b853280ee892.json
+10/06/2026 02:44:54 Done!!
+10/06/2026 02:44:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/SerializationDefinition/ISerializationDefinition.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: 68181b6d11aa0433b9a5a11f55e7c36c.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors/IDeserializationProcessor.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: 919153c2a818b4d11aeeebb4cecd7f84.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors/IDeserializationToTargetProcessor.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: cbf653a0393e94eeba9170256549662d.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors/IProcessor.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: 4dceed7fa7fee47a1904d53e7ee05519.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors/ISerializationProcessor.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: 0179e3e5d69b2474b82aa7912453330f.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Processors/IUnityPrimitiveSwitchProcessor.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: b34b501b437fd4220bc1773c750ce0b7.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Caching/IMemberAttributeTuple.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: f6ed4c902d9ab4c4ea3de6baf7554357.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Caching/IRequiredMemberAttributeTuple.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: 54d926310bce14fa587b29deed4b5897.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/IEnumAliasParameter.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: b6a098c05dfcd403c8d08067af4798cd.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/IIndexParameter.cs.meta
+10/06/2026 02:44:55 Data Extracted!
+10/06/2026 02:44:55 Saving Results...
+10/06/2026 02:44:55 Saving File: f063ee4481f2647679ba9764ca6e58d6.json
+10/06/2026 02:44:55 Done!!
+10/06/2026 02:44:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/IIndexTypeObject.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: c9de3b363b6504cd18434ecb33e375e4.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/ILookupParameter.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: e9875a641a1ab4301a34cc9afaf5ca7f.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/ILookupTypeObject.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: 7242b9ef149cd42daa644b0fea4c93a6.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/ILookupTypeResolveParameter.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: 46cf9025684e74f94aebd88277f7997d.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/IRequiredParameter.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: b8c3d6d9af23d4f87a55242c08731d69.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Interfaces/Attributes/ITypeResolveParameter.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: d011d941ebcfa432487ea5abc4868e74.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Definitions/IndexAndLookupDefinition.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: d61407943afd04e2da2bb6fcacdc1d2c.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Definitions/IndexDefinition.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: fca4795cb6f9242779203125b6384051.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Definitions/LookupDefinition.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: eb812ee4771dc42119600c792901543e.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/FieldAttributeTuple.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: fca65976f20654d8e9ad82f5cf6e52b3.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/LookupCollectionTypeInfo.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: 3a92cf3e20a0c4eba90c76d891b94887.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/PropertyAttributeTuple.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: 9665e4133b7eb4de2b16fc59252bec15.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SequenceCollectionTypeInfo.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:56 Saving Results...
+10/06/2026 02:44:56 Saving File: dc52c8d3f437a4444afbb88251fa8ace.json
+10/06/2026 02:44:56 Done!!
+10/06/2026 02:44:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationCallbackInfo.cs.meta
+10/06/2026 02:44:56 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 952c8897422b54791bff023a88dda6ac.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/RequiredMemberAttributeTuple.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: a778cc45e76974f49aee39dab7e6f2e9.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Serialization/Caching/SerializationTypeMap.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 4e2a2601467b047ccae2d09d063f81a8.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/ImpossibleOdds.Runnables.asmdef.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: b600aab29dc0544e7bf22bb9264bb2c2.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: b0cf9e6f479724d26894a0d74ee28b88.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/RunnablesException.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 9b552125445b342e5b39715be594caeb.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 93739f9b96cb240fbbdaab1929e55f71.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/GlobalRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 25751aa5efa164c8e91631ff3ae958c8.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/Runner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: d3821a90322aa490abe5a8a628b57073.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Runners/SceneRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 6509b7e5e4ec54581b48993dd89cc73d.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IFixedRunnable.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 45c4b7402009449bd851fb2226a09828.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IFixedRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: e17912426a1ab4768862ef75e9c1de28.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/ILateRunnable.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 6f559b6023db74392a75b29fd9f4597d.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/ILateRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: d2785b14de2494839b7d308ba43bb79f.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IRoutineRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: c98313bb42f004e58b818be4bb698184.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IRunnable.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 2ad426f032f1948518e08c99c928875a.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Runnables/Interfaces/IRunner.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: a6cc9cd1d439b4e84be35750c0639f32.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: f8f48dd7e57594f698cddae45bfba292.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 1ad9131ba1ad44f319c25f0843683336.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: ea4bd3b1aaaa94536a45ff5c3840669d.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/ImpossibleOdds.Photon.WebRpc.asmdef.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: c94722c414c4f469a89054892e056063.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: bb880379596d349dbbab1ed5fa703470.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: d5f35b3c070bc4e7ab9c0897593140a9.json
+10/06/2026 02:44:57 Done!!
+10/06/2026 02:44:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcException.cs.meta
+10/06/2026 02:44:57 Data Extracted!
+10/06/2026 02:44:57 Saving Results...
+10/06/2026 02:44:57 Saving File: 60f6cc64895cd475fb1e4be876697871.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessageHandle.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 094d95c957109440f909ad941d2a94a9.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/WebRpcMessenger.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 44276b638b56143ffb39c4700d04a65c.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL/Attributes.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 947f386e4cadf480bb24e73e3e21c3fc.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL/WebRpcURLSerializationDefinition.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: ca790a5c66c444c54bb22bcc21caf7b0.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/URL/Attributes/WebRpcURLFieldAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 218031d5ce215470280c054eacc9c890.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcMessageConfigurator.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: a3088b67da6b94fddba24506c0e96b39.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcRequest.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 0616ad32faf8e493faa739a3ce5ba697.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Interfaces/IWebRpcResponse.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 87433a3d415ba4f5389438b5a61b10d3.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 0662a939f68ae426f8348dbd1a58eec2.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/WebRpcBodySerializationDefinition.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 149f1fa04307d443c9ae9c9f34bda680.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/OnWebRpcDeserializedAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 4f8803a49e5034af3823841df337fcbe.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/OnWebRpcDeserializingAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 4def6d64e390a4b82b1c650ea06b24de.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/OnWebRpcSerializedAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: f4a9753e8b2f1414a9f02b7ace3cd1d2.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/OnWebRpcsSerializingAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 329a599c05cd749148258cfd00006daf.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/WebRpcArrayAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 0c018bad21e474e29acc542458051eec.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/WebRpcFieldAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 0175dadffc06f434e9dc3eee415d825c.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/WebRpcIndexAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: ecdc4609ec47c4ed0a9a0ed354c2e6c4.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/WebRpcObjectAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: 888c33a42cc9e4094bb5a7eb71f5884d.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Body/Attributes/WebRpcTypeAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:44:59 Saving File: e6d08913a8cee43c49942325abc0de85.json
+10/06/2026 02:44:59 Done!!
+10/06/2026 02:44:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes/WebRpcEnumAliasAttribute.cs.meta
+10/06/2026 02:44:59 Data Extracted!
+10/06/2026 02:44:59 Saving Results...
+10/06/2026 02:45:01 Saving File: 3c28d3dde4bfa4134be9d75f92a906a0.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes/WebRpcEnumStringAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: d86452083324345129cab3d10abfa4d4.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes/WebRpcRequiredAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 620bb9341a94042a89989288e30de071.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes/WebRpcResponseCallbackAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: f3fdd6e537b6d484a959d90b3479e042.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Photon/WebRpc/Attributes/WebRpcResponseTypeAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: f810fab4556ff4d329da833f40f04eb8.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 10a61939fadc74b288e786f1e17c3aea.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/ImpossibleOdds.Json.asmdef.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: b48d2eb379f7249b4b9f5ce698e572ac.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonException.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 53ed348f5e6414088a9539077e02f0d0.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonOptions.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 36de66dfc37124d93ac0335547361380.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonProcessor.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: d05a5dbb1e5dd43a0a12c33357e6fc26.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/JsonSerializationDefinition.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 409869afafb2d410786706c30c0d38ab.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonArrayAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 5a9ef740c3626463fa86854fcc12e54b.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonEnumAliasAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: ab2ca0446d9a243dfa03834effd3bcf8.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonEnumStringAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 7248ac1d726f34786b19f07f2b480e15.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonFieldAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: d0b9305f758164bcdafa3053b7093d5c.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonIndexAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 08bff4d2c6a474120b29f4a65dbb4b61.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonObjectAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 45e71ec6cfd5a44dba47fecfd1df8437.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonRequiredAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: f219739d84269493096a66eb85a1d65a.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/JsonTypeAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 3bdda7a08112d4935b1a57533bab05ed.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/OnJsonDeserializedAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: ba51750916fda418a8f964200b9fba38.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/OnJsonDeserializingAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 01f3a6ed3e0f24b499dc48ab2cc731d2.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/OnJsonSerializedAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 632ea306930dd418098dd4305a3d9e29.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Json/Attributes/OnJsonSerializingAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: a30daf9e1c4e1459f982fc31e075c037.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 231242bc4b9604c28b2155a9e40a96da.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 9e918b10947864024a1fb8e9b7c4c2c8.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 7d10e9e2ff3ed459996d3e10ba7882d6.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpException.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: c4ac73854f97f4f54aa24c973ea9bd78.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessageHandle.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: bd04ea09b9fd04f6c80a1b82ca7b2e5e.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/HttpMessenger.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 236e67a6880294399b51303c794dab81.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/ImpossibleOdds.Http.asmdef.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 108c08c98a97f4fd7b407844b65ddd46.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 2233452074516402c85deb31ecb52ebe.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 6abb39a219145445bb8c4a048cd9f0ef.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/Attributes.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: b496ad6c691cd420591fc0a9900e1b68.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/HttpURLSerializationDefinition.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 8d886adf6f4fa4bb98bcb1d25de9d0b9.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/UrlUtilities.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: cef3d796c940a448698762e0cada9462.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/URL/Attributes/HttpURLFieldAttribute.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: e1bb97a09a258456aaf475dfccd50c31.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/IHttpMessageConfigurator.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 9ae3776e579be476497b6b7bef3279f9.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 40276ebd5e55949c193797f56981d352.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: c39cd2b2daa1b42c6a0c3efdbdc3553a.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpAssetBundleResponse.cs.meta
+10/06/2026 02:45:01 Data Extracted!
+10/06/2026 02:45:01 Saving Results...
+10/06/2026 02:45:01 Saving File: 62f86e22fe6d1474da5f39e13d8d77b5.json
+10/06/2026 02:45:01 Done!!
+10/06/2026 02:45:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpAudioClipResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 1c562afd4fe4d4baeaf89c7b384ccd56.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpCustomResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 4a9b7d660fe1848899631728be470ac7.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpJsonResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 1c76a02ae90ab463499e87d44909ca0a.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 032c0b9d0824c45d7a028b98e0f4b7ca.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpStructuredResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: fe5f1cd9dbba441ecb045d12f10c0f5d.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Responses/IHttpTextureResponse.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 42c21443c8efd4d0db32170d6c477d76.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpGetAssetBundleRequest.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 01562403d8a3c438da9a487556e92e04.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpGetAudioClipRequest.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 3399097cd13e2481a85717041589b80b.json
+10/06/2026 02:45:02 Done!!
+10/06/2026 02:45:02 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpGetRequest.cs.meta
+10/06/2026 02:45:02 Data Extracted!
+10/06/2026 02:45:02 Saving Results...
+10/06/2026 02:45:02 Saving File: 59084553b0fe348ef893e8821dd12fc5.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpGetTextureRequest.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 68c39cc30d1e247f19fc368383e554c8.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpPostRequest.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 30ad6fb8f1d1e4a1f97c48b5b65865d6.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpPutBinaryRequest.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 8fa3ab2694c7a47e09f87f9aa56c8a1a.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpPutStringRequest.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 20396944a15e24c2e820d1be090dcb22.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Interfaces/Requests/IHttpRequest.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 385e6f261e2bf45c0ab24bf389f761c1.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header/Attributes.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 2aca6aaee28c048c78616d4ac96f8cde.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header/HttpHeaderSerializationDefinition.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 6d52a0eda0eda4be7836b1f24e54f756.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Header/Attributes/HttpHeaderFieldAttribute.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 73d613be3ae1c48eeb9bca360c26ddc2.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: f054ecc3ae7534b77a6530a85516c6f8.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/HttpBodySerializationDefinition.cs.meta
+10/06/2026 02:45:03 Data Extracted!
+10/06/2026 02:45:03 Saving Results...
+10/06/2026 02:45:03 Saving File: 1068e120f49514cda9662f473fbec00d.json
+10/06/2026 02:45:03 Done!!
+10/06/2026 02:45:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes/HttpBodyArrayAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: bf09d847cd98f44b58f29e3724016759.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes/HttpBodyFieldAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 3b8d58fc9d3394cc4bb41ae96dfe18b0.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes/HttpBodyIndexAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 02739e8da4cc243ed9e88fbed1cba30c.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes/HttpBodyObjectAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 918f7e14416c84548a73809605bbfeb2.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Body/Attributes/HttpBodyRequiredAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 511eef39e6dc042ff8fc1e316c8e92aa.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes/HttpEnumAliasAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 1ef3fb5955a064f7f893ea1e5b274649.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes/HttpEnumStringAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 2f40175efa6e64ddf993cac4ccaa5d19.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes/HttpResponseCallbackAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 7a0415b56f5b14b96b6ef8593c359cd4.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes/HttpResponseTypeAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 01bc8e7fe3e0842c9ada664344d9af3a.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Http/Attributes/HttpTypeAttribute.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: af18a8d6ad85b4bcead0126c69c206de.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Extensions/DependencyContainerExtensions.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 2b9ba7a3117974d52b9905769e1afd2f.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Attributes.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: c31b86e747fda43c38865cb4d48b3eef.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyContainer.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: f92a34d7c7e6e45c3afb6bf2bf8da8e1.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionException.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: ca617b12d5147488d944bccbf89a395f.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionExtensions.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: c66d41d2b78874edc9ff18596145e4a3.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjectionUtilities.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 1ebd42c0c41d84806aa4b7199d0e9a1c.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyInjector.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 68609cb46036b4063858e21d5f39e19a.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/DependencyScope.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 5b39803d7619a426488b40e559032b58.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/ImpossibleOdds.DependencyInjection.asmdef.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 654c277d43e044d08910e69326bc4db4.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: aeb970605a93047338c7a7dbb258a11b.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/PreDefinedBindings.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: fb6053c1b9d714d92a2d03f0bda079c2.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 7048064defd2b41fea6cdaaa2485b438.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/CompositeDependencyContainer.cs.meta
+10/06/2026 02:45:04 Data Extracted!
+10/06/2026 02:45:04 Saving Results...
+10/06/2026 02:45:04 Saving File: 76310b983fe64431b93a451689e107eb.json
+10/06/2026 02:45:04 Done!!
+10/06/2026 02:45:04 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/AbstractDependencyScopeBehaviour.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: cdb1265c9ef004c51b720009e0f7455b.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/GlobalDependencyScope.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: ff4ca4b536d1b4d6eac8a2aca3dc6bb8.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/HierarchyDependencyScope.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 525714f0106e64210a79c47b9ea48972.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/SceneInjection/SceneDependencyScope.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 273146ac8932f4396ac9120de9321549.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/PreDefinedBindings/GeneratorBinding.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 1c970dd1a7a6f4c73b09dcf8cee3cede.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/PreDefinedBindings/InstanceBinding.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 719e1dd0f801e4328afe24afad03c22b.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyBinding.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: fc2e2621b74334ad09500c67a434fe40.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainer.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: c2c7a10d2b46648e08c8c29e6f993894.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyContainerProvider.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 3745fb3d6b1b242ce931eca1f2e5ebeb.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyScope.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 19296d5db2f334ffbabc73463145c554.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IDependencyScopeInstaller.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: b5e4df602b4e1414e99b5d5b43f86ea9.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Interfaces/IReadOnlyDependencyContainer.cs.meta
+10/06/2026 02:45:05 Data Extracted!
+10/06/2026 02:45:05 Saving Results...
+10/06/2026 02:45:05 Saving File: 644c14004cb714198af4392fa5466dff.json
+10/06/2026 02:45:05 Done!!
+10/06/2026 02:45:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Attributes/GlobalContainerProviderAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 0edd3349604874cebad7fc3681b8cd14.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Attributes/GlobalScopeInstallerAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 222ee7931a4ce4ad894cc168a1ce3c6c.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Attributes/InjectAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: c2a8452061b314e0fb1c2b119cda8a2f.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/DependencyInjection/Attributes/InjectableAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 441886e73cb384783a8ffb085d4cee1f.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/Attributes.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 5dc7e2b997d18456e967ada95625a9ed.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/DelegateExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 15dfe29273805463b8762ee8d936a459.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/DisposableExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 8d1b3d95a1f284b3abf2200d23b8274e.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/EnumExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 070e5a949b6884338ab4c0cf5288fde6.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/ImpossibleOdds.Core.asmdef.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 4770cac66e3404483a2d9621a1c054e9.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/ImpossibleOddsException.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: a5bf6c17eefa04876ad6a43d19ac8e38.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/ListExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: c83f2cf1c1b8d4404a9d608cbc277244.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/Log.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 9db4da9e762824203b7ed5b2735f47ad.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/ObjectExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 5502194e0fc38404a9c161d53684fc54.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/StringExtensions.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 0090a50ef830345ac9e8302ff9febdc0.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/Attributes/ExecuteAfterAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: c4ea5cbbe22ee42e4b2e09396534cdd6.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/Attributes/ExecuteAtAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 5212b3b769b2c44c1ad0d4e5aeb19c4a.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Runtime/Core/Attributes/ExecuteBeforeAttribute.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: a1fb47e74904641c5b069a794e2b2c40.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/CopyAssetPath.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 9f7c0c92274de490286575a5abc30541.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/ImpossibleOdds.Toolkit.Editor.asmdef.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 1ab214a277f974f069f321e6d87865ec.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/ScriptExecutionOrder.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 3835c38307a824c1aa590d61d5be45ad.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: f2687f1d6728e480dad5d4c30ed908e8.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/AbstractSingleSetting.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: bc83efc36a171424389287ce5b4e4f3a.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/DependencyInjectionSettings.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 30fa4034a2e0a4701b31a31368a35173.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/EditorExtensionSettings.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 6a3f5ccd33dc9425c8560ee55db1eccc.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/IProjectSetting.cs.meta
+10/06/2026 02:45:07 Data Extracted!
+10/06/2026 02:45:07 Saving Results...
+10/06/2026 02:45:07 Saving File: 0f240c41fb889477998f8c94e3d5ddb5.json
+10/06/2026 02:45:07 Done!!
+10/06/2026 02:45:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/JsonProjectSettings.cs.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: add0eb1ab08384a4f9de5ab6beffb328.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/LoggingSettings.cs.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: a751cdbe80db84af09c490f6d4b57dfe.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/ProjectSettings.cs.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: 2a7bb19d1cca847baa18411fa5b77858.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Editor/Settings/XmlProjectSettings.cs.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: 078b31e27e51447e2a07c07373255b8e.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Impossible Odds/Toolkit/Sprites/ImpossibleOddsLogo.png.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: 09888d7d5ba3c4de085cd6ab9a3ac3de.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Editor/Export.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: d6a0823d960f041719e6a7d973305844.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Editor/Export/ExportToolkitPackage.cs.meta
+10/06/2026 02:45:08 Data Extracted!
+10/06/2026 02:45:08 Saving Results...
+10/06/2026 02:45:08 Saving File: 90b5814fdab984d6390b24ddaba94e74.json
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Done!!
+10/06/2026 02:45:08 Done!

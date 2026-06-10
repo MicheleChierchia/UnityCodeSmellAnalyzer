@@ -1,0 +1,29 @@
+{
+  "guid": "14869ac0d4433f04db1704e39d03412e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Localization/English/Dictionaries/Default.xml.meta",
+  "name": "Default.xml",
+  "type": "meta",
+  "file_size": 188,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TextScriptImporter",
+      "TextScriptImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "localization/dictionaries"
+        },
+        {
+          "assetBundleVariant": "en-us"
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

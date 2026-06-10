@@ -1,0 +1,51 @@
+{
+  "guid": "c88f5cead0c0b2a4eb05b5900433f8d1",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/PackageSources/com.unity.render-pipelines.universal/Runtime/2D/PixelPerfectCamera.cs.meta",
+  "name": "PixelPerfectCamera.cs",
+  "type": "meta",
+  "file_size": 294,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "MonoImporter",
+      "MonoImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "2"
+        },
+        {
+          "defaultReferences": "[]"
+        },
+        {
+          "executionOrder": "0"
+        },
+        {
+          "icon": [
+            {
+              "fileID": "2800000"
+            },
+            {
+              "guid": "7cba34d70552e144586a4d3ce4a33de5"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

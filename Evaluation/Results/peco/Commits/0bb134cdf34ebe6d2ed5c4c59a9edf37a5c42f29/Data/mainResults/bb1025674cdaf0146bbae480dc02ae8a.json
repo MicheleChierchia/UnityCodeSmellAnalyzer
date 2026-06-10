@@ -1,6 +1,6 @@
 {
   "guid": "bb1025674cdaf0146bbae480dc02ae8a",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Materials/M_Brown.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Materials/M_Brown.mat",
   "name": "M_Brown",
   "type": "mat",
   "file_size": 2031,
@@ -455,5 +455,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

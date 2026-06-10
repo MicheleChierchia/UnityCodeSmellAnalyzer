@@ -1,16 +1,16 @@
 {
   "guid": "f990a0e65996b4c5c8004b7490f9ab7d",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Materials/Enemy.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Materials/Enemy.mat",
   "name": "Enemy",
   "type": "mat",
-  "file_size": 3012,
+  "file_size": 3240,
   "num_components": 1,
   "COMPONENTS": [
     {
       "id": "2100000",
       "Material": [
         {
-          "serializedVersion": "6"
+          "serializedVersion": "5"
         },
         {
           "m_ObjectHideFlags": "0"
@@ -46,16 +46,13 @@
           ]
         },
         {
-          "m_ShaderKeywords": "_EMISSION"
+          "m_ShaderKeywords": ""
         },
         {
-          "m_LightmapFlags": "1"
+          "m_LightmapFlags": "5"
         },
         {
           "m_CustomRenderQueue": "-1"
-        },
-        {
-          "stringTagMap": ""
         },
         {
           "m_SavedProperties": [
@@ -65,342 +62,378 @@
             {
               "m_TexEnvs": [
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_BumpMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
+                      "first": [
                         {
-                          "fileID": "0"
+                          "name": "_MainTex"
                         }
                       ]
                     },
                     {
-                      "m_Scale": [
+                      "second": [
                         {
-                          "x": "1"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
                         },
                         {
-                          "y": "0"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_DetailAlbedoMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
-                        {
-                          "fileID": "0"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Scale": [
-                        {
-                          "x": "1"
-                        },
-                        {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
-                        },
-                        {
-                          "y": "0"
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_DetailMask"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
+                      "first": [
                         {
-                          "fileID": "0"
+                          "name": "_BumpMap"
                         }
                       ]
                     },
                     {
-                      "m_Scale": [
+                      "second": [
                         {
-                          "x": "1"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
                         },
                         {
-                          "y": "0"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_DetailNormalMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
-                        {
-                          "fileID": "0"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Scale": [
-                        {
-                          "x": "1"
-                        },
-                        {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
-                        },
-                        {
-                          "y": "0"
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_EmissionMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
+                      "first": [
                         {
-                          "fileID": "0"
+                          "name": "_DetailNormalMap"
                         }
                       ]
                     },
                     {
-                      "m_Scale": [
+                      "second": [
                         {
-                          "x": "1"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
                         },
                         {
-                          "y": "0"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_MainTex"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
-                        {
-                          "fileID": "0"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Scale": [
-                        {
-                          "x": "1"
-                        },
-                        {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
-                        },
-                        {
-                          "y": "0"
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_MetallicGlossMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
+                      "first": [
                         {
-                          "fileID": "0"
+                          "name": "_ParallaxMap"
                         }
                       ]
                     },
                     {
-                      "m_Scale": [
+                      "second": [
                         {
-                          "x": "1"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
                         },
                         {
-                          "y": "0"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_OcclusionMap"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "m_Texture": [
-                        {
-                          "fileID": "0"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Scale": [
-                        {
-                          "x": "1"
-                        },
-                        {
-                          "y": "1"
-                        }
-                      ]
-                    },
-                    {
-                      "m_Offset": [
-                        {
-                          "x": "0"
-                        },
-                        {
-                          "y": "0"
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_ParallaxMap"
+                      "first": [
+                        {
+                          "name": "_OcclusionMap"
+                        }
+                      ]
+                    },
+                    {
+                      "second": [
+                        {
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
                 {
-                  "second": [
+                  "data": [
                     {
-                      "m_Texture": [
+                      "first": [
                         {
-                          "fileID": "0"
+                          "name": "_EmissionMap"
                         }
                       ]
                     },
                     {
-                      "m_Scale": [
+                      "second": [
                         {
-                          "x": "1"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "1"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data": [
+                    {
+                      "first": [
+                        {
+                          "name": "_DetailMask"
                         }
                       ]
                     },
                     {
-                      "m_Offset": [
+                      "second": [
                         {
-                          "x": "0"
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
                         },
                         {
-                          "y": "0"
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data": [
+                    {
+                      "first": [
+                        {
+                          "name": "_DetailAlbedoMap"
+                        }
+                      ]
+                    },
+                    {
+                      "second": [
+                        {
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data": [
+                    {
+                      "first": [
+                        {
+                          "name": "_MetallicGlossMap"
+                        }
+                      ]
+                    },
+                    {
+                      "second": [
+                        {
+                          "m_Texture": [
+                            {
+                              "fileID": "0"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Scale": [
+                            {
+                              "x": "1"
+                            },
+                            {
+                              "y": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "m_Offset": [
+                            {
+                              "x": "0"
+                            },
+                            {
+                              "y": "0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -411,245 +444,269 @@
             {
               "m_Floats": [
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_BumpScale"
+                      "first": [
+                        {
+                          "name": "_Cutoff"
+                        }
+                      ]
+                    },
+                    {
+                      "second": ".5"
                     }
                   ]
                 },
                 {
-                  "second": "1"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Cutoff"
+                      "first": [
+                        {
+                          "name": "_SrcBlend"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "1"
                     }
                   ]
                 },
                 {
-                  "second": "0.5"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_DetailNormalMapScale"
+                      "first": [
+                        {
+                          "name": "_DstBlend"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "0"
                     }
                   ]
                 },
                 {
-                  "second": "1"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_DstBlend"
+                      "first": [
+                        {
+                          "name": "_Parallax"
+                        }
+                      ]
+                    },
+                    {
+                      "second": ".0199999996"
                     }
                   ]
                 },
                 {
-                  "second": "0"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_EmissionScaleUI"
+                      "first": [
+                        {
+                          "name": "_ZWrite"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "1"
                     }
                   ]
                 },
                 {
-                  "second": "0"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_GlossMapScale"
+                      "first": [
+                        {
+                          "name": "_Glossiness"
+                        }
+                      ]
+                    },
+                    {
+                      "second": ".25"
                     }
                   ]
                 },
                 {
-                  "second": "1"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Glossiness"
+                      "first": [
+                        {
+                          "name": "_BumpScale"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "1"
                     }
                   ]
                 },
                 {
-                  "second": "0.25"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_GlossyReflections"
+                      "first": [
+                        {
+                          "name": "_OcclusionStrength"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "1"
                     }
                   ]
                 },
                 {
-                  "second": "1"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Metallic"
+                      "first": [
+                        {
+                          "name": "_DetailNormalMapScale"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "1"
                     }
                   ]
                 },
                 {
-                  "second": "0"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Mode"
+                      "first": [
+                        {
+                          "name": "_UVSec"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "0"
                     }
                   ]
                 },
                 {
-                  "second": "0"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_OcclusionStrength"
+                      "first": [
+                        {
+                          "name": "_EmissionScaleUI"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "0"
                     }
                   ]
                 },
                 {
-                  "second": "1"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Parallax"
+                      "first": [
+                        {
+                          "name": "_Mode"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "0"
                     }
                   ]
                 },
                 {
-                  "second": "0.02"
-                },
-                {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_SmoothnessTextureChannel"
+                      "first": [
+                        {
+                          "name": "_Metallic"
+                        }
+                      ]
+                    },
+                    {
+                      "second": "0"
                     }
                   ]
-                },
-                {
-                  "second": "0"
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_SpecularHighlights"
-                    }
-                  ]
-                },
-                {
-                  "second": "1"
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_SrcBlend"
-                    }
-                  ]
-                },
-                {
-                  "second": "1"
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_UVSec"
-                    }
-                  ]
-                },
-                {
-                  "second": "0"
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_ZWrite"
-                    }
-                  ]
-                },
-                {
-                  "second": "1"
                 }
               ]
             },
             {
               "m_Colors": [
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_Color"
+                      "first": [
+                        {
+                          "name": "_EmissionColor"
+                        }
+                      ]
+                    },
+                    {
+                      "second": [
+                        {
+                          "r": "0"
+                        },
+                        {
+                          "g": "0"
+                        },
+                        {
+                          "b": "0"
+                        },
+                        {
+                          "a": "0"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
-                  "second": [
+                  "data": [
                     {
-                      "r": "0.72794116"
+                      "first": [
+                        {
+                          "name": "_Color"
+                        }
+                      ]
                     },
                     {
-                      "g": "0.17039435"
-                    },
-                    {
-                      "b": "0.042820066"
-                    },
-                    {
-                      "a": "1"
+                      "second": [
+                        {
+                          "r": ".717647076"
+                        },
+                        {
+                          "g": ".168627456"
+                        },
+                        {
+                          "b": ".239215687"
+                        },
+                        {
+                          "a": "1"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
-                  "- first": [
+                  "data": [
                     {
-                      "name": "_EmissionColor"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "r": "0"
+                      "first": [
+                        {
+                          "name": "_EmissionColorUI"
+                        }
+                      ]
                     },
                     {
-                      "g": "0"
-                    },
-                    {
-                      "b": "0"
-                    },
-                    {
-                      "a": "0"
-                    }
-                  ]
-                },
-                {
-                  "- first": [
-                    {
-                      "name": "_EmissionColorUI"
-                    }
-                  ]
-                },
-                {
-                  "second": [
-                    {
-                      "r": "1"
-                    },
-                    {
-                      "g": "1"
-                    },
-                    {
-                      "b": "1"
-                    },
-                    {
-                      "a": "1"
+                      "second": [
+                        {
+                          "r": "1"
+                        },
+                        {
+                          "g": "1"
+                        },
+                        {
+                          "b": "1"
+                        },
+                        {
+                          "a": "1"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -661,5 +718,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

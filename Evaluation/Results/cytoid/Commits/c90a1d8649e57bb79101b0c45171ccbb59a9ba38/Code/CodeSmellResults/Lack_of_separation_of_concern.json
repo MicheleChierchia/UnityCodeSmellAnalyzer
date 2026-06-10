@@ -1,0 +1,607 @@
+{
+  "Name": "Lack of separation of concern",
+  "Severity": "Medium",
+  "Occurrency": 44,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/LevelManager.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 8
+        },
+        {
+          "Name": "UnityEngine.Object",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Screen/Screen.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 8
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Screens/Profile/LeaderboardEntry.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Screens/LevelSelection/LevelCard.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 7
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Screens/GamePreparation/GamePreparationScreen.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.SceneManagement",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/ActionTabs.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/Avatar.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/ContainerEntry.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/FatScrollbar.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/LabelSelect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/PillRadioButton.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/ProfileWidget.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/RectangularDetectionArea.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/ToggleRadioButton.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Navigation/Elements/DifficultyPill.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Game/Game.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 9
+        },
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 10
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Game/Notes/GameRenderer.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Utils/InteractableMonoBehavior.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 7
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Utils/SpriteCache.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Networking",
+          "Line": 7
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 8
+        },
+        {
+          "Name": "UnityEngine.Object",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Utils/Extensions/CommonExtensions.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Assertions",
+          "Line": 12
+        },
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 13
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 14
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/UnityGraphicExtensions.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoApp.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 8
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Scene/Customization Scripts/CustomizeGraphy.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 14
+        },
+        {
+          "Name": "UnityEngine.Random",
+          "Line": 19
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerDown.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerHeld.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerLine.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSet.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerSwipe.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerTap.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanFingerUp.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanSelectable.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIDissolve.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 4
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIEffect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIEffectCapturedImage.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.Rendering",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 6
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIHsvModifier.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIShadow.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UIShiny.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/UITransitionEffect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/UIEffect/Scripts/Common/BaseMeshEffect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/SoftMaskForUGUI/Scripts/SoftMask.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Rendering",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 7
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/SoftMaskForUGUI/Scripts/SoftMaskable.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Rendering",
+          "Line": 4
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 5
+        },
+        {
+          "Name": "UnityEngine.SpriteMaskInteraction",
+          "Line": 6
+        },
+        {
+          "Name": "UnityEngine.Serialization",
+          "Line": 7
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Coffee/UIExtensions/SoftMaskForUGUI/Scripts/Editor/SoftMaskableEditor.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        },
+        {
+          "Name": "UnityEngine.Object",
+          "Line": 8
+        },
+        {
+          "Name": "UnityEngine.SpriteMaskInteraction",
+          "Line": 9
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/LoopScrollRect.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.Events",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 3
+        }
+      ]
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/LoopScrollRect/Editor/SGMenuOptions.cs",
+      "Usings": [
+        {
+          "Name": "UnityEngine.EventSystems",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine.UI",
+          "Line": 3
+        }
+      ]
+    }
+  ]
+}

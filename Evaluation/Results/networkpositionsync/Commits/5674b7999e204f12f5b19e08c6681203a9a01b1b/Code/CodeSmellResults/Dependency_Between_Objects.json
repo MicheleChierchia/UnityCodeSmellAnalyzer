@@ -1,0 +1,35 @@
+{
+  "Name": "Dependency Between Objects",
+  "Severity": "Medium",
+  "Occurrency": 4,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/tests/runtime/NetworkTransformSnapshotInterpolationTest.cs",
+      "Kind": "Field",
+      "Type": "NetworkTransformSnapshotInterpolation",
+      "FullName": "JamesFrowen.PositionSync.Tests.Runtime.NetworkTransformSnapshotInterpolationTest.serverNT",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/tests/runtime/NetworkTransformSnapshotInterpolationTest.cs",
+      "Kind": "Field",
+      "Type": "NetworkTransformSnapshotInterpolation",
+      "FullName": "JamesFrowen.PositionSync.Tests.Runtime.NetworkTransformSnapshotInterpolationTest.clientNT",
+      "Line": 17
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/NetworkTransformSnapshotInterpolation.cs",
+      "Kind": "Field",
+      "Type": "SnapshotBuffer",
+      "FullName": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.snapshotBuffer",
+      "Line": 58
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/NetworkTransformSnapshotInterpolation.cs",
+      "Kind": "Field",
+      "Type": "InterpolationTime",
+      "FullName": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.interpolationTime",
+      "Line": 59
+    }
+  ]
+}

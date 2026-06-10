@@ -1,0 +1,13 @@
+{
+  "Name": "Instantiate Destroy",
+  "Severity": "High",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Scripts/Tactical/UI/Component/FloatingMessage.cs",
+      "Name": "Destroy",
+      "Invocation": "Destroy",
+      "Line": 25
+    }
+  ]
+}

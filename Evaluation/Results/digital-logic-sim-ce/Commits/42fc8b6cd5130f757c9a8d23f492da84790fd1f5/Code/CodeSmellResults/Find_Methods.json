@@ -1,0 +1,43 @@
+{
+  "Name": "Find Methods",
+  "Severity": "Medium",
+  "Occurrency": 6,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/ChipTemplate.cs",
+      "Name": "transform.Find",
+      "Invocation": "transform.Find",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/ChipTemplate.cs",
+      "Name": "transform.Find",
+      "Invocation": "transform.Find",
+      "Line": 34
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/ChipTemplate.cs",
+      "Name": "transform.Find",
+      "Invocation": "transform.Find",
+      "Line": 35
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/ControlUnitDisplay.cs",
+      "Name": "FindObjectOfType<EmulatedRAM>",
+      "Invocation": "FindObjectOfType<EmulatedRAM>",
+      "Line": 19
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/PrimitiveCounter.cs",
+      "Name": "FindObjectOfType<Player>",
+      "Invocation": "FindObjectOfType<Player>",
+      "Line": 9
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Game/RegisterDebugInfo.cs",
+      "Name": "FindObjectsOfType<CustomChip>",
+      "Invocation": "FindObjectsOfType<CustomChip>",
+      "Line": 32
+    }
+  ]
+}

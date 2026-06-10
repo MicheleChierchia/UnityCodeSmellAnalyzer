@@ -1,0 +1,12 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/EasyTouchBundle/EasyTouchControls/Examples/Version 1.X/FPSExample/FPSPlayerControl.cs",
+      "Name": "Update",
+      "Line": 31
+    }
+  ]
+}

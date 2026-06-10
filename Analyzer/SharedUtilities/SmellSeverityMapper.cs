@@ -10,6 +10,7 @@ namespace AnalyzerUtilities
                 case "Client-Side State Storage":
                 case "Heavy Physics Computations":
                 case "Heavy Physics Computation":
+                case "Heavy Physics Computation ":
                 case "Instantiate Destroy":
                 case "Lack of optimization when drawing-rendering":
                 case "Weak Temporization":
@@ -24,6 +25,10 @@ namespace AnalyzerUtilities
                 case "String-based Object Searching":
                 case "Find Methods":
                 case "Mesh-based VFX":
+                case "Dependency Between Objects":
+                case "Poor State Design":
+                case "Multiple animators for a single object":
+                case "Anystate Smells":
                     return SeverityLevel.Medium;
 
                 // Livello 3 (Bassa Criticità)
@@ -34,9 +39,12 @@ namespace AnalyzerUtilities
                 case "Singleton Pattern":
                 case "Texture/Material Settings Smell":
                 case "SubOptimal Expensive Lights":
+                case "SubOptimal Expensive Lights with enable LightRealTime":
                 case "Bloated Assets Smells":
                 case "Direct Velocity Setting":
                 case "Velocity Change":
+                case "Check position or rotation":
+                case "Too Many Key Frames":
                     return SeverityLevel.Low;
 
                 default:

@@ -1,6 +1,6 @@
 {
   "guid": "bf3ab05e9a2a6f948838c62b84072621",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-empty-heart.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Sprites/peco-empty-heart.png.meta",
   "name": "peco-empty-heart.png",
   "type": "meta",
   "file_size": 2216,
@@ -326,5 +326,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

@@ -1,0 +1,21 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionBehaviour.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviourRuntimeSet",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionBehaviour._behaviourSet",
+      "Line": 18
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/SyncPositionSystem.cs",
+      "Kind": "Field",
+      "Type": "SyncPositionBehaviourRuntimeSet",
+      "FullName": "JamesFrowen.PositionSync.SyncPositionSystem._behaviourSet",
+      "Line": 8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "Instantiate Destroy",
+  "Severity": "High",
+  "Occurrency": 2,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/Game/Views/DragLineElement.cs",
+      "Name": "Destroy",
+      "Invocation": "Destroy",
+      "Line": 52
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanDestroy.cs",
+      "Name": "DestroyNow",
+      "Invocation": "Lean.Touch.LeanDestroy.DestroyNow()",
+      "Line": 20
+    }
+  ]
+}

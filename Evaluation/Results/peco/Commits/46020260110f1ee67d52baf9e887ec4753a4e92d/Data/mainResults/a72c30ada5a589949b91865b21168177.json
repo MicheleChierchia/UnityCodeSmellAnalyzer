@@ -1,6 +1,6 @@
 {
   "guid": "a72c30ada5a589949b91865b21168177",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Loading Screen.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/_Essentials/Loading Screen.prefab",
   "name": "Loading Screen",
   "type": "prefab",
   "file_size": 7858,
@@ -437,5 +437,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

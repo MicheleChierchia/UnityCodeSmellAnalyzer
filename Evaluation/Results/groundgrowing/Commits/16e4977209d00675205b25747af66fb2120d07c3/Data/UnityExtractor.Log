@@ -1,383 +1,383 @@
-09/06/2026 12:14:46 Loading extensions...
-09/06/2026 12:14:46 Searching MetaData file inside project folder...
-09/06/2026 12:14:46 Searching main file...
-09/06/2026 12:14:46 Done!
-09/06/2026 12:14:46 Searching meta file...
-09/06/2026 12:14:46 Done!
-09/06/2026 12:14:46 Done!
-09/06/2026 12:14:46 Done!
-09/06/2026 12:14:46 Creating Result Directories
-09/06/2026 12:14:46 Start analisys...
-09/06/2026 12:14:46 Analyzing Main MetaData...
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: ProjectInfo.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo/Demo.unity
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: bdb8d5bcc78ca483aa3342bf8d5ab834.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/AwesomeMap.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 4bccb527548bdc74787f6d613316c053.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/MapMat.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: c810c975872524f42962047d383bfe2b.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/New Material.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: b49f0deb7ba12b646b97037bda9e14b7.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/TestMat.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: dbe9bb74e36a3434baa4aeba162cacbc.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_map_reference.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 3b5b8978a6219554997f6bf5801f05aa.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/AwesomeMapColor.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d1092931bab339f4097f49e757244d4c.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_mapping_grid_by_cymae 1.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d2d7c870605b1aa458a11fac6ee0f97c.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_mapping_grid_by_cymae.mat
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: cc6c0aefbe3569342bf03b32e22c31a6.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Done!
-09/06/2026 12:14:46 Analyzing Meta files...
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Editor.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 15b5b4e8fe91c874e83e1105ba1dc224.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 132ade09206ac5141830027d99631d3d.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 05fe8badff25eb643928701d4cea95e1.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: c8605e08724f08f45900047dd551d673.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 50c5bd7058625c04f924f5bb6c5e3c36.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/everythingfixedhopefully.npr.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d7d332ec55c067346bdf0aa8c95ed5c1.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Looks Awesome.npr.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 5ff1362dd6f1d7d4699e776eadf19460.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 48ce615cab55356488482be6931f48a9.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere/OctahedronSphereCreator.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: b832049ec445a46c2ae8534a06f0772d.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere/OctahedronSphereTester.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 7022400d9af964c548a4444465c01ea2.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/NoiseGenerator.unity.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 4930d0fbef611514bb40eec52b789208.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/SphereGenerator.unity.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: a2e6b815a05bd7746a9cbab201289147.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/ResearchScene.unity.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 9b983f7a2fce6bb448128598444ebce5.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapDisplay.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: fb17fa5206a14a7469af368ac1bd2656.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapGenerator.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 9157dac1a4fb33b45a0ff6fd1e902989.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/SphereMagic.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 8c92c2247836ced4d8e7e4c0d1714c86.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 617d12a32f2c0ac479c50d5ed1f767b7.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/COPYING.LESSER.txt.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d36ffb2bf4e9f47e4b49bc9832bc479d.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/COPYING.txt.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 567d3133a10114a14ae88dfd1fab4802.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 2d30e6128d50c0c418bd70082f62d705.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 8d9ac7d7d29f68d43be4e2d6a4a0a657.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Gradient.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 152819a365cb648c3935b883889a76be.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/ModuleBase.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 6005e07e6e379455ebf852840f74c472.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 3bc638534c1f341a1bfb47edc578ff58.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: aa48abab94b5fba49a723de03a0fad99.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Properties.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: dc517414ef488be4ea6b39455a9462aa.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Utils.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: ffffb23319f214d1ab36b44bf427d306.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Properties/AssemblyInfo.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: c77f753e0d039448f82b586ca612768d.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Abs.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 7e017370a016c44f58254f71e8c5a686.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Add.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 1be4a842711924a5ba4d8f8e10197525.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Blend.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 0fe26ea90806c4225a79cb552196c0c9.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Cache.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 960169d9943944eab95ae547a50ae935.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Clamp.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 333e1f2da545c4b58948d3cab9798951.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Curve.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: dff26a4c4025748018c5d2c3c0d5770b.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d13fb14380a5444c0a0d64a201ff3610.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 94d5d8bd4761442cfbec880d731c44f8.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Invert.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: a13d16443a3c44cddb2a4622f93098a8.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Max.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 6093d49c0bca24fc6ac1719b958ae210.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Min.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: a351a154458c64d9c9ce527ec0167245.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Multiply.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 3b092acb836fd4a1588529672d00cb1f.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Power.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: ef322e155ae524d1aba8aae71ce19c7d.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Rotate.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 08907fe17367c4fb8a13d2668780cc16.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Scale.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 4e5e205cd0a7945fb99e3153c4fca9bc.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/ScaleBias.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: ab4623e79ad964321b9b7772c7c2509b.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Select.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 77b37ea3fd54148de922600d96cff7b2.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Subtract.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: e4bf58688257649e388a4b9c3b57d8a4.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Terrace.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 334b07e6751624a38b8a4bcc6f12f059.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Translate.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: b6f53d5897acb4e14954d27f919b66a8.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Turbulence.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: e7b7ba3a45e7c4920b46647c043f22ce.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Billow.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: ac524edcbda3e4101b7002bca34c184c.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Checker.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 8c5eaf9d0265b4fa6962e1cf98c1d3ee.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Const.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 42581acd6e781455b853e42b278a7938.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Cylinders.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 1e015d710e8c2459cbdde600d7676a21.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Perlin.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 4e77b2a71c93e4a5097246ae5b918f75.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 3285f68d1debb4adc91494ed1e66ab6e.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Spheres.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 9c76e768b977a4ca6b9938725a542893.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 9d35e97c70b39437d8558866aa2abf07.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo/Demo.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 7ccc49551a1ad4e4aa9c9fc3afb14266.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/uv_map_reference.jpg.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: b72c4167539b2b74f84a5c9ae781b289.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/AwesomeMap.png.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: f9a270816d1850240b152f8d625feebb.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/AwesomeMapColor.png.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 9f7202a3f2275ac4190efd2fbf5c4b65.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 6e698144d065983409330e81a1d76843.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/uv_mapping_grid_by_cymae.jpg.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: d9e5d98d4709d434d91aa846458c5018.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Editor/MapGenEditor.cs.meta
-09/06/2026 12:14:46 Data Extracted!
-09/06/2026 12:14:46 Saving Results...
-09/06/2026 12:14:46 Saving File: 4b7523a8609053d4ba7aefb311217617.json
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Done!!
-09/06/2026 12:14:46 Done!
+09/06/2026 22:00:33 Loading extensions...
+09/06/2026 22:00:33 Searching MetaData file inside project folder...
+09/06/2026 22:00:33 Searching main file...
+09/06/2026 22:00:33 Done!
+09/06/2026 22:00:33 Searching meta file...
+09/06/2026 22:00:33 Done!
+09/06/2026 22:00:33 Done!
+09/06/2026 22:00:33 Done!
+09/06/2026 22:00:33 Creating Result Directories
+09/06/2026 22:00:33 Start analisys...
+09/06/2026 22:00:33 Analyzing Main MetaData...
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: ProjectInfo.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo/Demo.unity
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: bdb8d5bcc78ca483aa3342bf8d5ab834.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/AwesomeMap.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 4bccb527548bdc74787f6d613316c053.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/MapMat.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: c810c975872524f42962047d383bfe2b.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/New Material.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: b49f0deb7ba12b646b97037bda9e14b7.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/TestMat.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: dbe9bb74e36a3434baa4aeba162cacbc.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_map_reference.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 3b5b8978a6219554997f6bf5801f05aa.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/AwesomeMapColor.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d1092931bab339f4097f49e757244d4c.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_mapping_grid_by_cymae 1.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d2d7c870605b1aa458a11fac6ee0f97c.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials/uv_mapping_grid_by_cymae.mat
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: cc6c0aefbe3569342bf03b32e22c31a6.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Done!
+09/06/2026 22:00:33 Analyzing Meta files...
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Editor.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 15b5b4e8fe91c874e83e1105ba1dc224.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 132ade09206ac5141830027d99631d3d.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 05fe8badff25eb643928701d4cea95e1.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: c8605e08724f08f45900047dd551d673.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 50c5bd7058625c04f924f5bb6c5e3c36.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/everythingfixedhopefully.npr.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d7d332ec55c067346bdf0aa8c95ed5c1.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Looks Awesome.npr.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 5ff1362dd6f1d7d4699e776eadf19460.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 48ce615cab55356488482be6931f48a9.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere/OctahedronSphereCreator.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: b832049ec445a46c2ae8534a06f0772d.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Octahedron Sphere/OctahedronSphereTester.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 7022400d9af964c548a4444465c01ea2.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/NoiseGenerator.unity.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 4930d0fbef611514bb40eec52b789208.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/SphereGenerator.unity.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: a2e6b815a05bd7746a9cbab201289147.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scenes/ResearchScene.unity.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 9b983f7a2fce6bb448128598444ebce5.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapDisplay.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: fb17fa5206a14a7469af368ac1bd2656.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/MapGenerator.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 9157dac1a4fb33b45a0ff6fd1e902989.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Scripts/SphereMagic.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 8c92c2247836ced4d8e7e4c0d1714c86.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 617d12a32f2c0ac479c50d5ed1f767b7.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/COPYING.LESSER.txt.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d36ffb2bf4e9f47e4b49bc9832bc479d.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/COPYING.txt.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 567d3133a10114a14ae88dfd1fab4802.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 2d30e6128d50c0c418bd70082f62d705.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 8d9ac7d7d29f68d43be4e2d6a4a0a657.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Gradient.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 152819a365cb648c3935b883889a76be.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/ModuleBase.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 6005e07e6e379455ebf852840f74c472.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 3bc638534c1f341a1bfb47edc578ff58.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: aa48abab94b5fba49a723de03a0fad99.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Properties.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: dc517414ef488be4ea6b39455a9462aa.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Utils.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: ffffb23319f214d1ab36b44bf427d306.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Properties/AssemblyInfo.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: c77f753e0d039448f82b586ca612768d.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Abs.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 7e017370a016c44f58254f71e8c5a686.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Add.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 1be4a842711924a5ba4d8f8e10197525.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Blend.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 0fe26ea90806c4225a79cb552196c0c9.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Cache.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 960169d9943944eab95ae547a50ae935.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Clamp.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 333e1f2da545c4b58948d3cab9798951.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Curve.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: dff26a4c4025748018c5d2c3c0d5770b.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d13fb14380a5444c0a0d64a201ff3610.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 94d5d8bd4761442cfbec880d731c44f8.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Invert.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: a13d16443a3c44cddb2a4622f93098a8.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Max.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 6093d49c0bca24fc6ac1719b958ae210.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Min.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: a351a154458c64d9c9ce527ec0167245.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Multiply.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 3b092acb836fd4a1588529672d00cb1f.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Power.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: ef322e155ae524d1aba8aae71ce19c7d.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Rotate.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 08907fe17367c4fb8a13d2668780cc16.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Scale.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 4e5e205cd0a7945fb99e3153c4fca9bc.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/ScaleBias.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: ab4623e79ad964321b9b7772c7c2509b.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Select.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 77b37ea3fd54148de922600d96cff7b2.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Subtract.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: e4bf58688257649e388a4b9c3b57d8a4.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Terrace.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 334b07e6751624a38b8a4bcc6f12f059.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Translate.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: b6f53d5897acb4e14954d27f919b66a8.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Operator/Turbulence.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: e7b7ba3a45e7c4920b46647c043f22ce.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Billow.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: ac524edcbda3e4101b7002bca34c184c.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Checker.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 8c5eaf9d0265b4fa6962e1cf98c1d3ee.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Const.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 42581acd6e781455b853e42b278a7938.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Cylinders.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 1e015d710e8c2459cbdde600d7676a21.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Perlin.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 4e77b2a71c93e4a5097246ae5b918f75.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 3285f68d1debb4adc91494ed1e66ab6e.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Spheres.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 9c76e768b977a4ca6b9938725a542893.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 9d35e97c70b39437d8558866aa2abf07.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Resources/LibNoise.Unity/Demo/Demo.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 7ccc49551a1ad4e4aa9c9fc3afb14266.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/uv_map_reference.jpg.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: b72c4167539b2b74f84a5c9ae781b289.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/AwesomeMap.png.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: f9a270816d1850240b152f8d625feebb.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/AwesomeMapColor.png.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 9f7202a3f2275ac4190efd2fbf5c4b65.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/Materials.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 6e698144d065983409330e81a1d76843.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Materials/uv_mapping_grid_by_cymae.jpg.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: d9e5d98d4709d434d91aa846458c5018.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/LibNoise Planet Generation Test/Assets/Editor/MapGenEditor.cs.meta
+09/06/2026 22:00:33 Data Extracted!
+09/06/2026 22:00:33 Saving Results...
+09/06/2026 22:00:33 Saving File: 4b7523a8609053d4ba7aefb311217617.json
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Done!!
+09/06/2026 22:00:33 Done!

@@ -1,6 +1,6 @@
 {
   "guid": "f23f3ae8f08bb914b90c15e40e51d1ae",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/FlatMeshGenerator.cs.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Scripts/FlatMeshGenerator.cs.meta",
   "name": "FlatMeshGenerator.cs",
   "type": "meta",
   "file_size": 262,
@@ -38,5 +38,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

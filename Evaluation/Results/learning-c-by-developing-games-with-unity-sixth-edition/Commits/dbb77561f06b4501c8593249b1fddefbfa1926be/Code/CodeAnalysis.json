@@ -1,0 +1,726 @@
+{
+  "ProjectName": "423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "ProjectDirectory": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "DirectoryPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition",
+  "LOC": 113,
+  "ConfigurationFile": "Config.json",
+  "ProjectLanguage": "C#",
+  "ProjectLanguageVersion": "CSharp12",
+  "Project": [
+    {
+      "Name": "LearningCurve",
+      "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scripts/LearningCurve.cs",
+      "Language": "C#",
+      "Loc": 60,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "LearningCurve",
+          "FullName": "LearningCurve",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [
+            "MonoBehaviour"
+          ],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": false,
+              "FullName": "LearningCurve.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "30 + 1",
+                      "IsInvocation": true,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 20
+                },
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "currentAge + 1",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 21
+                },
+                {
+                  "Name": "ComputeAge",
+                  "FullName": "ComputeAge",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [],
+                  "Line": 24
+                },
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "$\"A string can have variables like {firstName} inserted directly!\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 27
+                },
+                {
+                  "Name": "GenerateCharacter",
+                  "FullName": "LearningCurve.GenerateCharacter(string, int)",
+                  "ReturnType": "Int32",
+                  "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scripts/LearningCurve.cs",
+                  "DefinitionLine": 44,
+                  "Kind": "SourceFile",
+                  "Module": null,
+                  "ReferenceFound": true,
+                  "Arguments": [
+                    {
+                      "Argument": "\"Spike\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "characterLevel",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 37
+                },
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "nextSkillLevel",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 40
+                },
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "GenerateCharacter(\"Faye\", characterLevel)",
+                      "IsInvocation": true,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 41
+                },
+                {
+                  "Name": "GenerateCharacter",
+                  "FullName": "LearningCurve.GenerateCharacter(string, int)",
+                  "ReturnType": "Int32",
+                  "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_04_Starter/Assets/Scripts/LearningCurve.cs",
+                  "DefinitionLine": 44,
+                  "Kind": "SourceFile",
+                  "Module": null,
+                  "ReferenceFound": true,
+                  "Arguments": [
+                    {
+                      "Argument": "\"Faye\"",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    },
+                    {
+                      "Argument": "characterLevel",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 41
+                }
+              ],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "characterLevel",
+                    "Type": "int",
+                    "FullName": "int",
+                    "Assignment": "32",
+                    "Kind": "Definition",
+                    "DefinitionLine": 35
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": "nextSkillLevel",
+                    "Type": "int",
+                    "FullName": "int",
+                    "Assignment": "GenerateCharacter(\"Spike\", characterLevel)",
+                    "Kind": "Definition",
+                    "DefinitionLine": 36
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 17
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "GenerateCharacter",
+              "IsEmpty": false,
+              "FullName": "LearningCurve.GenerateCharacter(string, int)",
+              "Modifiers": [
+                "public"
+              ],
+              "Attributes": [],
+              "ReturnType": "int",
+              "Parameters": [
+                {
+                  "Name": "name",
+                  "Type": "string",
+                  "Assignment": null,
+                  "Attributes": []
+                },
+                {
+                  "Name": "level",
+                  "Type": "int",
+                  "Assignment": null,
+                  "Attributes": []
+                }
+              ],
+              "Invocations": [],
+              "Variables": [
+                {
+                  "Variable": {
+                    "Name": "level",
+                    "Type": "int",
+                    "Assignment": "5",
+                    "Kind": "Assignment",
+                    "AssignmentLine": 48,
+                    "VariableKind": "Parameter",
+                    "FullName": "int level",
+                    "AssignmentKind": "AddAssignmentExpression",
+                    "Cascades": []
+                  }
+                },
+                {
+                  "Variable": {
+                    "Name": null,
+                    "Type": "int",
+                    "Kind": "Use",
+                    "UseLine": 48,
+                    "UseKind": "Literal",
+                    "AssignedTo": "level",
+                    "Value": "5",
+                    "Operation": "AddAssignmentExpression",
+                    "VariablesList": []
+                  }
+                }
+              ],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [
+                {
+                  "ReturnStatement": {
+                    "Tokens": [],
+                    "Properties": [],
+                    "Fields": [],
+                    "Invocations": [],
+                    "Type": "int",
+                    "Statement": "level += 5",
+                    "ExpressionType": "AddAssignmentExpression",
+                    "Kind": "Method"
+                  },
+                  "ReturnType": "int",
+                  "Line": 49
+                }
+              ],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 44
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "ComputeAge",
+              "IsEmpty": false,
+              "FullName": "LearningCurve.ComputeAge()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "currentAge + addedAge",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 58
+                }
+              ],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 56
+            }
+          ],
+          "Fields": [
+            {
+              "Name": "currentAge",
+              "Type": "int",
+              "Modifiers": [
+                "private"
+              ],
+              "Assignment": "30",
+              "Attributes": [],
+              "FullName": "LearningCurve.currentAge",
+              "Line": 8
+            },
+            {
+              "Name": "addedAge",
+              "Type": "int",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "1",
+              "Attributes": [],
+              "FullName": "LearningCurve.addedAge",
+              "Line": 9
+            },
+            {
+              "Name": "pi",
+              "Type": "float",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "3.14f",
+              "Attributes": [],
+              "FullName": "LearningCurve.pi",
+              "Line": 12
+            },
+            {
+              "Name": "firstName",
+              "Type": "string",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "\"Harrison\"",
+              "Attributes": [],
+              "FullName": "LearningCurve.firstName",
+              "Line": 13
+            },
+            {
+              "Name": "isAuthor",
+              "Type": "bool",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "true",
+              "Attributes": [],
+              "FullName": "LearningCurve.isAuthor",
+              "Line": 14
+            }
+          ],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 5
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "System.Collections",
+          "Line": 1
+        },
+        {
+          "Name": "System.Collections.Generic",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine",
+          "Line": 3
+        }
+      ],
+      "Line": 1
+    },
+    {
+      "Name": "LearningCurve",
+      "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_03_Starter/Assets/Scripts/LearningCurve.cs",
+      "Language": "C#",
+      "Loc": 35,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "LearningCurve",
+          "FullName": "LearningCurve",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [
+            "MonoBehaviour"
+          ],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": false,
+              "FullName": "LearningCurve.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "30 + 1",
+                      "IsInvocation": true,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 14
+                },
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "currentAge + 1",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 15
+                },
+                {
+                  "Name": "ComputeAge",
+                  "FullName": "ComputeAge",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [],
+                  "Line": 18
+                }
+              ],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 11
+            },
+            {
+              "HasBody": false,
+              "HasExpressionBody": false,
+              "Name": "Update",
+              "IsEmpty": true,
+              "FullName": "LearningCurve.Update()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 22
+            },
+            {
+              "HasBody": true,
+              "HasExpressionBody": false,
+              "Name": "ComputeAge",
+              "IsEmpty": false,
+              "FullName": "LearningCurve.ComputeAge()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [
+                {
+                  "Name": "Debug.Log",
+                  "FullName": "Debug.Log",
+                  "ReturnType": null,
+                  "FileName": null,
+                  "DefinitionLine": 1,
+                  "Kind": null,
+                  "Module": null,
+                  "ReferenceFound": false,
+                  "Arguments": [
+                    {
+                      "Argument": "currentAge + addedAge",
+                      "IsInvocation": false,
+                      "IsLiteral": false
+                    }
+                  ],
+                  "Line": 33
+                }
+              ],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 31
+            }
+          ],
+          "Fields": [
+            {
+              "Name": "currentAge",
+              "Type": "int",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "30",
+              "Attributes": [],
+              "FullName": "LearningCurve.currentAge",
+              "Line": 7
+            },
+            {
+              "Name": "addedAge",
+              "Type": "int",
+              "Modifiers": [
+                "public"
+              ],
+              "Assignment": "1",
+              "Attributes": [],
+              "FullName": "LearningCurve.addedAge",
+              "Line": 8
+            }
+          ],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 5
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "System.Collections",
+          "Line": 1
+        },
+        {
+          "Name": "System.Collections.Generic",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine",
+          "Line": 3
+        }
+      ],
+      "Line": 1
+    },
+    {
+      "Name": "LearningCurve",
+      "FileName": "/home/miky/UnityCodeSmellAnalyzer/Repos/423_learning-c-by-developing-games-with-unity-sixth-edition/Ch_02_Starter/Assets/Scripts/LearningCurve.cs",
+      "Language": "C#",
+      "Loc": 18,
+      "Interfaces": [],
+      "Namespaces": [],
+      "Classes": [
+        {
+          "Name": "LearningCurve",
+          "FullName": "LearningCurve",
+          "FullInheritanceName": "MonoBehaviour",
+          "InnerClasses": [],
+          "ClassConstraints": [],
+          "Modifiers": [
+            "public"
+          ],
+          "Inheritance": "MonoBehaviour",
+          "Interfaces": [
+            "MonoBehaviour"
+          ],
+          "Properties": [],
+          "Methods": [
+            {
+              "HasBody": false,
+              "HasExpressionBody": false,
+              "Name": "Start",
+              "IsEmpty": true,
+              "FullName": "LearningCurve.Start()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 8
+            },
+            {
+              "HasBody": false,
+              "HasExpressionBody": false,
+              "Name": "Update",
+              "IsEmpty": true,
+              "FullName": "LearningCurve.Update()",
+              "Modifiers": [],
+              "Attributes": [],
+              "ReturnType": "void",
+              "Parameters": [],
+              "Invocations": [],
+              "Variables": [],
+              "Statements": [],
+              "WhileBlocks": [],
+              "ForEachBlocks": [],
+              "ForBlocks": [],
+              "IfBlocks": [],
+              "SwitchBlocks": [],
+              "Returns": [],
+              "TryBlocks": [],
+              "ExpressionBody": null,
+              "Line": 14
+            }
+          ],
+          "Fields": [],
+          "Constructors": [],
+          "Attributes": [],
+          "Line": 5
+        }
+      ],
+      "Usings": [
+        {
+          "Name": "System.Collections",
+          "Line": 1
+        },
+        {
+          "Name": "System.Collections.Generic",
+          "Line": 2
+        },
+        {
+          "Name": "UnityEngine",
+          "Line": 3
+        }
+      ],
+      "Line": 1
+    }
+  ]
+}

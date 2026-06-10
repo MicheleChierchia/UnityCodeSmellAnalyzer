@@ -1,0 +1,32 @@
+{
+  "Name": "Weak Temporization",
+  "Severity": "High",
+  "Occurrency": 5,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanCanvasArrow.cs",
+      "Name": "Update",
+      "Line": 26
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanRotate.cs",
+      "Name": "Update",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanRotateCustomAxis.cs",
+      "Name": "Update",
+      "Line": 42
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanScale.cs",
+      "Name": "Update",
+      "Line": 55
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Lean/Touch/Examples/Scripts/LeanTranslate.cs",
+      "Name": "Update",
+      "Line": 39
+    }
+  ]
+}

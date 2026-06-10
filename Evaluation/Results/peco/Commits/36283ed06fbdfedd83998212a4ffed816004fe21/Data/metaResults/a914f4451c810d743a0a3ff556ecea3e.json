@@ -1,6 +1,6 @@
 {
   "guid": "a914f4451c810d743a0a3ff556ecea3e",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox/NavMesh.asset.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Scenes/AlphaSandbox/NavMesh.asset.meta",
   "name": "NavMesh.asset",
   "type": "meta",
   "file_size": 189,
@@ -28,5 +28,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

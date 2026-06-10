@@ -1,0 +1,240 @@
+{
+  "guid": "748eb70bc0d7515498ef73fed155520a",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Impossible Odds Toolkit/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll.meta",
+  "name": "websocket-sharp.dll",
+  "type": "meta",
+  "file_size": 1253,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "PluginImporter",
+      "PluginImporter": [
+        {
+          "serializedVersion": "1"
+        },
+        {
+          "iconMap": ""
+        },
+        {
+          "executionOrder": ""
+        },
+        {
+          "isPreloaded": "0"
+        },
+        {
+          "platformData": [
+            {
+              "Android": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Any": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": ""
+                }
+              ]
+            },
+            {
+              "Editor": [
+                {
+                  "enabled": "1"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    },
+                    {
+                      "DefaultValueInitialized": "true"
+                    },
+                    {
+                      "OS": "AnyOS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Linux": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "x86"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Linux64": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "x86_64"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "OSXIntel": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "OSXIntel64": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "WP8": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    },
+                    {
+                      "DontProcess": "False"
+                    },
+                    {
+                      "PlaceholderPath": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Win": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Win64": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "WindowsStoreApps": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CPU": "AnyCPU"
+                    },
+                    {
+                      "DontProcess": "False"
+                    },
+                    {
+                      "PlaceholderPath": ""
+                    },
+                    {
+                      "SDK": "AnySDK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "XboxOne": [
+                {
+                  "enabled": "1"
+                },
+                {
+                  "settings": ""
+                }
+              ]
+            },
+            {
+              "iOS": [
+                {
+                  "enabled": "0"
+                },
+                {
+                  "settings": [
+                    {
+                      "CompileFlags": ""
+                    },
+                    {
+                      "FrameworkDependencies": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "8_impossibleodds-toolkit",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit"
+}

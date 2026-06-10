@@ -1,273 +1,273 @@
-09/06/2026 12:13:51 Loading extensions...
-09/06/2026 12:13:51 Searching MetaData file inside project folder...
-09/06/2026 12:13:51 Searching main file...
-09/06/2026 12:13:51 Done!
-09/06/2026 12:13:51 Searching meta file...
-09/06/2026 12:13:51 Done!
-09/06/2026 12:13:51 Done!
-09/06/2026 12:13:51 Done!
-09/06/2026 12:13:51 Creating Result Directories
-09/06/2026 12:13:51 Start analisys...
-09/06/2026 12:13:51 Analyzing Main MetaData...
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: ProjectInfo.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scenes/main.unity
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 08df22352d1563c4c8bded82a01d0249.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo/Demo.unity
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: bdb8d5bcc78ca483aa3342bf8d5ab834.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Done!
-09/06/2026 12:13:51 Analyzing Meta files...
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Editor.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 04a82af0a2f70624fb5c5345ac6f0363.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Materials.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 491c49918619acf47bdd4fbef36c7a0c.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Prefabs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: bab6b8c5f20dc01408d9447fb99767f8.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: cae0f4b37f5b4d944a93ac15202f9599.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scenes.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: c2f4da2c49e376d44aafabb9c30a8601.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scripts.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 92edc8bea2fd5b04ea1d554467a70d17.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scripts/MapGenerator.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 077e59698f2333143be2cbabf369bdae.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 5cc0b24c21068c34db65084c5808e00d.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/COPYING.LESSER.txt.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: d36ffb2bf4e9f47e4b49bc9832bc479d.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/COPYING.txt.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 567d3133a10114a14ae88dfd1fab4802.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: b224c39807d44e046ba2b72b579fdec0.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: aac2cfe7bbfd65d4380b9ef45f2d4323.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Gradient.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 152819a365cb648c3935b883889a76be.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/ModuleBase.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 6005e07e6e379455ebf852840f74c472.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 3bc638534c1f341a1bfb47edc578ff58.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 9ac580ee3ca2d03469096d1ddb47317e.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Properties.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 2262eff9c1cef8241a7dedd4b83df9ec.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Utils.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: ffffb23319f214d1ab36b44bf427d306.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Properties/AssemblyInfo.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: c77f753e0d039448f82b586ca612768d.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Abs.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 7e017370a016c44f58254f71e8c5a686.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Add.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 1be4a842711924a5ba4d8f8e10197525.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Blend.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 0fe26ea90806c4225a79cb552196c0c9.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Cache.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 960169d9943944eab95ae547a50ae935.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Clamp.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 333e1f2da545c4b58948d3cab9798951.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Curve.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: dff26a4c4025748018c5d2c3c0d5770b.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: d13fb14380a5444c0a0d64a201ff3610.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 94d5d8bd4761442cfbec880d731c44f8.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Invert.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: a13d16443a3c44cddb2a4622f93098a8.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Max.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 6093d49c0bca24fc6ac1719b958ae210.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Min.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: a351a154458c64d9c9ce527ec0167245.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Multiply.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 3b092acb836fd4a1588529672d00cb1f.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Power.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: ef322e155ae524d1aba8aae71ce19c7d.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Rotate.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 08907fe17367c4fb8a13d2668780cc16.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Scale.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 4e5e205cd0a7945fb99e3153c4fca9bc.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/ScaleBias.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: ab4623e79ad964321b9b7772c7c2509b.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Select.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 77b37ea3fd54148de922600d96cff7b2.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Subtract.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: e4bf58688257649e388a4b9c3b57d8a4.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Terrace.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 334b07e6751624a38b8a4bcc6f12f059.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Translate.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: b6f53d5897acb4e14954d27f919b66a8.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Turbulence.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: e7b7ba3a45e7c4920b46647c043f22ce.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Billow.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: ac524edcbda3e4101b7002bca34c184c.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Checker.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 8c5eaf9d0265b4fa6962e1cf98c1d3ee.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Const.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 42581acd6e781455b853e42b278a7938.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Cylinders.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 1e015d710e8c2459cbdde600d7676a21.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Perlin.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 4e77b2a71c93e4a5097246ae5b918f75.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 3285f68d1debb4adc91494ed1e66ab6e.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Spheres.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 9c76e768b977a4ca6b9938725a542893.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 9d35e97c70b39437d8558866aa2abf07.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Analyzing File: /home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo/Demo.cs.meta
-09/06/2026 12:13:51 Data Extracted!
-09/06/2026 12:13:51 Saving Results...
-09/06/2026 12:13:51 Saving File: 7ccc49551a1ad4e4aa9c9fc3afb14266.json
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Done!!
-09/06/2026 12:13:51 Done!
+09/06/2026 22:00:06 Loading extensions...
+09/06/2026 22:00:06 Searching MetaData file inside project folder...
+09/06/2026 22:00:06 Searching main file...
+09/06/2026 22:00:06 Done!
+09/06/2026 22:00:06 Searching meta file...
+09/06/2026 22:00:06 Done!
+09/06/2026 22:00:06 Done!
+09/06/2026 22:00:06 Done!
+09/06/2026 22:00:06 Creating Result Directories
+09/06/2026 22:00:06 Start analisys...
+09/06/2026 22:00:06 Analyzing Main MetaData...
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: ProjectInfo.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scenes/main.unity
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 08df22352d1563c4c8bded82a01d0249.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo/Demo.unity
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: bdb8d5bcc78ca483aa3342bf8d5ab834.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Done!
+09/06/2026 22:00:06 Analyzing Meta files...
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Editor.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 04a82af0a2f70624fb5c5345ac6f0363.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Materials.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 491c49918619acf47bdd4fbef36c7a0c.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Prefabs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: bab6b8c5f20dc01408d9447fb99767f8.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: cae0f4b37f5b4d944a93ac15202f9599.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scenes.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: c2f4da2c49e376d44aafabb9c30a8601.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scripts.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 92edc8bea2fd5b04ea1d554467a70d17.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Scripts/MapGenerator.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 077e59698f2333143be2cbabf369bdae.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 5cc0b24c21068c34db65084c5808e00d.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/COPYING.LESSER.txt.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: d36ffb2bf4e9f47e4b49bc9832bc479d.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/COPYING.txt.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 567d3133a10114a14ae88dfd1fab4802.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: b224c39807d44e046ba2b72b579fdec0.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: aac2cfe7bbfd65d4380b9ef45f2d4323.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Gradient.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 152819a365cb648c3935b883889a76be.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/ModuleBase.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 6005e07e6e379455ebf852840f74c472.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Noise2D.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 3bc638534c1f341a1bfb47edc578ff58.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 9ac580ee3ca2d03469096d1ddb47317e.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Properties.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 2262eff9c1cef8241a7dedd4b83df9ec.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Utils.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: ffffb23319f214d1ab36b44bf427d306.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Properties/AssemblyInfo.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: c77f753e0d039448f82b586ca612768d.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Abs.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 7e017370a016c44f58254f71e8c5a686.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Add.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 1be4a842711924a5ba4d8f8e10197525.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Blend.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 0fe26ea90806c4225a79cb552196c0c9.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Cache.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 960169d9943944eab95ae547a50ae935.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Clamp.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 333e1f2da545c4b58948d3cab9798951.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Curve.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: dff26a4c4025748018c5d2c3c0d5770b.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Displace.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: d13fb14380a5444c0a0d64a201ff3610.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Exponent.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 94d5d8bd4761442cfbec880d731c44f8.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Invert.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: a13d16443a3c44cddb2a4622f93098a8.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Max.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 6093d49c0bca24fc6ac1719b958ae210.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Min.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: a351a154458c64d9c9ce527ec0167245.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Multiply.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 3b092acb836fd4a1588529672d00cb1f.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Power.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: ef322e155ae524d1aba8aae71ce19c7d.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Rotate.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 08907fe17367c4fb8a13d2668780cc16.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Scale.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 4e5e205cd0a7945fb99e3153c4fca9bc.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/ScaleBias.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: ab4623e79ad964321b9b7772c7c2509b.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Select.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 77b37ea3fd54148de922600d96cff7b2.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Subtract.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: e4bf58688257649e388a4b9c3b57d8a4.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Terrace.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 334b07e6751624a38b8a4bcc6f12f059.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Translate.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: b6f53d5897acb4e14954d27f919b66a8.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Operator/Turbulence.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: e7b7ba3a45e7c4920b46647c043f22ce.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Billow.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: ac524edcbda3e4101b7002bca34c184c.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Checker.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 8c5eaf9d0265b4fa6962e1cf98c1d3ee.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Const.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 42581acd6e781455b853e42b278a7938.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Cylinders.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 1e015d710e8c2459cbdde600d7676a21.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Perlin.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 4e77b2a71c93e4a5097246ae5b918f75.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/RiggedMultifractal.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 3285f68d1debb4adc91494ed1e66ab6e.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Spheres.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 9c76e768b977a4ca6b9938725a542893.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Generator/Voronoi.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 9d35e97c70b39437d8558866aa2abf07.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Terrain Generation Research/Assets/Resources/LibNoise.Unity/Demo/Demo.cs.meta
+09/06/2026 22:00:06 Data Extracted!
+09/06/2026 22:00:06 Saving Results...
+09/06/2026 22:00:06 Saving File: 7ccc49551a1ad4e4aa9c9fc3afb14266.json
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Done!!
+09/06/2026 22:00:06 Done!

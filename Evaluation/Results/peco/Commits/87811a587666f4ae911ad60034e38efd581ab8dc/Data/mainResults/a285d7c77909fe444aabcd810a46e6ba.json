@@ -1,6 +1,6 @@
 {
   "guid": "a285d7c77909fe444aabcd810a46e6ba",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies/EnemyTest.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Prefabs/Enemies/EnemyTest.prefab",
   "name": "EnemyTest",
   "type": "prefab",
   "file_size": 14327,
@@ -2476,5 +2476,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

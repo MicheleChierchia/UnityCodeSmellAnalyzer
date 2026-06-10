@@ -1,0 +1,163 @@
+{
+  "guid": "bdb8ae83938784aa7b922f2e935c770b",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Fonts/Exo/Exo-ExtraBoldItalic.ttf.meta",
+  "name": "Exo-ExtraBoldItalic.ttf",
+  "type": "meta",
+  "file_size": 1216,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TrueTypeFontImporter",
+      "TrueTypeFontImporter": [
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "fontSize": "16"
+        },
+        {
+          "forceTextureCase": "-2"
+        },
+        {
+          "characterSpacing": "0"
+        },
+        {
+          "characterPadding": "1"
+        },
+        {
+          "includeFontData": "1"
+        },
+        {
+          "fontNames": [
+            {
+              "": "- Exo"
+            }
+          ]
+        },
+        {
+          "fallbackFontReferences": [
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "86d6bcb050b264bb89a18676f83dc0a0"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "8794e7c14818840dd8cace1640f1c62d"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "31ae6a33f25164272a917439c2937389"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "2d10bad4985d1419e9e122ea4e1e94e5"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "2ca3fd169878a417b9322c4578204b62"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "2cfe81b6d1e2d4960ac453263d8dcd8c"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "56f5076ae9ce24cc98831b3aaf2800c4"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "6d64967ae24874a0db3f8a43ebb73918"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "111b340ced44d4371b49311d13e41edd"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "7a9bf62cc6488410ab383bab01792914"
+            },
+            {
+              "type": "3"
+            },
+            {
+              "fileID": "12800000"
+            },
+            {
+              "guid": "82c0848efcdbd4e2694f90ef32d780d2"
+            },
+            {
+              "type": "3"
+            }
+          ]
+        },
+        {
+          "customCharacters": ""
+        },
+        {
+          "fontRenderingMode": "0"
+        },
+        {
+          "ascentCalculationMode": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "0_unity-tactical-rpg-battle-system",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+}

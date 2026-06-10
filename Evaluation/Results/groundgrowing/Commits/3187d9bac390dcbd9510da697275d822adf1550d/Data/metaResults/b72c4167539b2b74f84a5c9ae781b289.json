@@ -1,6 +1,6 @@
 {
   "guid": "b72c4167539b2b74f84a5c9ae781b289",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Materials/uv_map_reference.jpg.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing/Assets/Materials/uv_map_reference.jpg.meta",
   "name": "uv_map_reference.jpg",
   "type": "meta",
   "file_size": 1474,
@@ -227,5 +227,5 @@
     }
   ],
   "ProjectName": "2_groundgrowing",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/2_groundgrowing"
 }

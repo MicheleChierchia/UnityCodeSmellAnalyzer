@@ -1,0 +1,72 @@
+{
+  "guid": "77cbb7c5404c10242ab59953e0746314",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo/Assets/GameMain/Fonts/MainFont.ttf.meta",
+  "name": "MainFont.ttf",
+  "type": "meta",
+  "file_size": 486,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "TrueTypeFontImporter",
+      "TrueTypeFontImporter": [
+        {
+          "externalObjects": ""
+        },
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "fontSize": "16"
+        },
+        {
+          "forceTextureCase": "-2"
+        },
+        {
+          "characterSpacing": "0"
+        },
+        {
+          "characterPadding": "1"
+        },
+        {
+          "includeFontData": "1"
+        },
+        {
+          "fontNames": [
+            {
+              "": "- FZZhengHei-B-GBK"
+            }
+          ]
+        },
+        {
+          "fallbackFontReferences": "[]"
+        },
+        {
+          "customCharacters": ""
+        },
+        {
+          "fontRenderingMode": "0"
+        },
+        {
+          "ascentCalculationMode": "1"
+        },
+        {
+          "useLegacyBoundsCalculation": "0"
+        },
+        {
+          "shouldRoundAdvanceValue": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": "fonts"
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "428_unitygameframework_huatuo",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/428_unitygameframework_huatuo"
+}

@@ -1,0 +1,1038 @@
+10/06/2026 03:29:50 Loading extensions...
+10/06/2026 03:29:51 Searching MetaData file inside project folder...
+10/06/2026 03:29:51 Searching main file...
+10/06/2026 03:29:51 Done!
+10/06/2026 03:29:51 Searching meta file...
+10/06/2026 03:29:51 Done!
+10/06/2026 03:29:51 Done!
+10/06/2026 03:29:51 Done!
+10/06/2026 03:29:51 Creating Result Directories
+10/06/2026 03:29:51 Start analisys...
+10/06/2026 03:29:51 Analyzing Main MetaData...
+10/06/2026 03:29:51 Saving Results...
+10/06/2026 03:29:53 Saving File: ProjectInfo.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/BasicSampleScene.unity
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: d97280fe82b874466870f709c3315d41.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: e73a58f6e2794ae7b1b7e50b7fb811b0.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: 79459efec17a4d00a321bdcc27bbc385.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Black.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: 598b736828b2c4955bbedae0d799911b.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Chip Edit Background.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: 6b75e3016a3154844abd304cd7cb09e5.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Chip Edit Bounds.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: 60872147ce6c940d6b453ef1281598ee.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Chip Package.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: fdcb15ce46186484cb99dad2b41c44be.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/IO Bar.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: 98d09b3d791a44a1ca7958f2c3bff822.json
+10/06/2026 03:29:53 Done!!
+10/06/2026 03:29:53 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Pin.mat
+10/06/2026 03:29:53 Data Extracted!
+10/06/2026 03:29:53 Saving Results...
+10/06/2026 03:29:53 Saving File: a9627418f3c224f9fa297d5515480fd6.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Signal.mat
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: 1de910befcc924209add6dd8a49ab4c0.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Wire.mat
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: 0e3c3d148264a480d9fd4a7a95df012d.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Pin Name Background.mat
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: afa299e168ff5473ab85b8b5c4d47344.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Selection Box.mat
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: 1b2127713af41408e819f9924e7f0b82.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials/Display.mat
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: d6ac35e7bdba00443a55dea14bc37f73.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI/Project Load Button.prefab
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: 1ee097f6ba8974d1bb56fdcb3d126473.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI/Chip Button.prefab
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: 0b5f6ee9ad6fd4e199ceb4306aa8814e.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:54 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI/Decimal Display.prefab
+10/06/2026 03:29:54 Data Extracted!
+10/06/2026 03:29:54 Saving Results...
+10/06/2026 03:29:54 Saving File: f52dbf9025a6f4b30a182a0f202170e7.json
+10/06/2026 03:29:54 Done!!
+10/06/2026 03:29:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI/Pin Name Display.prefab
+10/06/2026 03:29:55 Data Extracted!
+10/06/2026 03:29:55 Saving Results...
+10/06/2026 03:29:55 Saving File: 429ffccb629934c78a25b70bfb53c50e.json
+10/06/2026 03:29:55 Done!!
+10/06/2026 03:29:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Chip Pin.prefab
+10/06/2026 03:29:55 Data Extracted!
+10/06/2026 03:29:55 Saving Results...
+10/06/2026 03:29:55 Saving File: 3f5693e72562648d19f39eace0ccffd6.json
+10/06/2026 03:29:55 Done!!
+10/06/2026 03:29:55 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Chip Package Template.prefab
+10/06/2026 03:29:55 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: e20c939cb564d41189a06c73aa43197e.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Wire.prefab
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 98fe3bedff56c4adc844cd3884dbdc92.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Input.prefab
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: fecc938b0c660450ba39ad175f13ffc0.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Output.prefab
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 808e12d27921848a59bac447b93aec0f.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Test/Constant.prefab
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: c2a7fb95be8924025a21300421706687.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Done!
+10/06/2026 03:29:56 Analyzing Meta files...
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 054045757698e42d0a897f152f8b8b86.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scenes.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 358247732a78f4e2ca80b81e7ca5a987.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 59e3f33b36aff449699b08035ee4072c.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 4b3b0bfc661364d9da711bf364bab142.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: f54d1bd14bd3ca042bd867b519fee8cc.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 57e25b4a578dba94c9353f4633b20549.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/IStandaloneFileBrowser.cs.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 7609f7b6787a54496aa41a3053fcc76a.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: ddc4e7b83981f244ba9a26b88c18cb67.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 435c74f62ab57b448adeeb37cbc0f96b.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/StandaloneFileBrowser.cs.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 3c708be74128e4ced9b79eaaf80e8443.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/StandaloneFileBrowserEditor.cs.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 2650af8de2cda46b99b1bc7cf5d30ca5.json
+10/06/2026 03:29:56 Done!!
+10/06/2026 03:29:56 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs.meta
+10/06/2026 03:29:56 Data Extracted!
+10/06/2026 03:29:56 Saving Results...
+10/06/2026 03:29:56 Saving File: 5d3a668018554b8a89c3fe12de72b60c.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: bcb49ddb0ed5644fda9c3b055cafa27a.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 194e247414a78461d83ae606c1b96917.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/BasicSample.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 5148400295519405d82bb0fa65246ea2.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileImage.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 331c95b7bf39e4792acecff50a972040.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileText.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 99a65d6437df64949b37cba4eadc67a2.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileTextMultiple.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 71c09849449d61e47a4599e06b964998.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileImage.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 6e681018aa67241a69b8447678ec3b4e.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileText.cs.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 8e97f52f0bd664ee78305dae0094a755.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Sample/CanvasSampleScene.unity.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: c0e4eec5741834194a946535d535405c.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/Linux.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: 82666e520ab4d4cf08bebbb8059cd6f4.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll.meta
+10/06/2026 03:29:57 Data Extracted!
+10/06/2026 03:29:57 Saving Results...
+10/06/2026 03:29:57 Saving File: e60958662eed5413d86143a0a69b731e.json
+10/06/2026 03:29:57 Done!!
+10/06/2026 03:29:57 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 110fdfb459db4fc448a2ccd37e200fa4.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.jslib.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 265aaf20a6d564e0fb00a9c4a7a9c300.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 7d459a96865cc4aaab657012c6dc4833.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 996ea0b0fb9804844ba9595686ee3e7a.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/Info.plist.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: ce685769797f44046afa3e567860c94c.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: a5a66f5db020f344c9327188aec2c060.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/StandaloneFileBrowser.bundle/Contents/MacOS/StandaloneFileBrowser.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: ddf122e0e89124ce78aacfeecb3ec554.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/Linux/x86_64.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: bd198408642944765b9305bd99404136.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/StandaloneFileBrowser/Plugins/Linux/x86_64/libStandaloneFileBrowser.so.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: b8c465928f1784a3fac8dc3766f7201c.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Documentation.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 8e7e8f5a82a3a134e91c54efd2274ea9.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Fonts.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 6ab70aee4d56447429c680537fbf93ed.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: 243e06394e614e5d99fab26083b707fa.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders.meta
+10/06/2026 03:29:58 Data Extracted!
+10/06/2026 03:29:58 Saving Results...
+10/06/2026 03:29:58 Saving File: e9f693669af91aa45ad615fc681ed29f.json
+10/06/2026 03:29:58 Done!!
+10/06/2026 03:29:58 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Sprites.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: d0603b6d5186471b96c778c3949c7ce2.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 381dcb09d5029d14897e55f98031fca5.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 8f05276190cf498a8153f6cbe761d4e6.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: dffef66376be4fa480fb02b19edbe903.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 48bb5f55d8670e349b6e614913f9d910.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 1e3b057af24249748ff873be7fafee47.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 128e987d567d4e2c824d754223b3f3b0.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: dd89cf5b9246416f84610a006f916af7.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: 14eb328de4b8eb245bb7cea29e4ac00b.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: bc1ede39bf3643ee8e493720e4259791.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: a02a7d8c237544f1962732b55a9aebf1.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+10/06/2026 03:29:59 Data Extracted!
+10/06/2026 03:29:59 Saving Results...
+10/06/2026 03:29:59 Saving File: c8d12adcee749c344b8117cf7c7eb912.json
+10/06/2026 03:29:59 Done!!
+10/06/2026 03:29:59 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: fe393ace9b354375a9cb14cdbbc28be4.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 85187c2149c549c5b33f0cdb02836b17.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: f7ada0af4f174f0694ca6a487b8f543d.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 68e6db2ebdc24f95958faec2be5558d6.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: cf81c85f95fe47e1a27f6ae460cf182c.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 407bc68d299748449bbf7f48ee690f8d.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: c334973cef89a9840b0b0c507e0377ab.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 3997e2241185407d80309a82f9148466.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: d930090c0cd643c7b55f19a38538c162.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 731f1baa9d144a9897cb1d341c2092b8.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: fade42e8bc714b018fac513c043d323b.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: d82c1b31c7e74239bff1220585707d2b.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+10/06/2026 03:30:00 Data Extracted!
+10/06/2026 03:30:00 Saving Results...
+10/06/2026 03:30:00 Saving File: 512a49d95c0c4332bdd98131869c23c9.json
+10/06/2026 03:30:00 Done!!
+10/06/2026 03:30:00 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Style Sheets.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 4aecb92fff08436c8303b10eab8da368.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 3f5b5dff67a942289a9defa416b206f3.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: f952c082cb03451daed3ee968ac6c63e.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: c41005c129ba4d66911b75229fd70b45.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 2e498d1c8094910479dc3e1b768306a4.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 8f586378b4e144a9851e7b34d9b748ee.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 6e59c59b81ab47f9b6ec5781fa725d2c.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: e3265ab4bf004d28a9537516768c1c75.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 1b8d251f9af63b746bf2f7ffe00ebb9b.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Palette.asset.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: bed15cc57ce1e4a35bde62f3a99891c7.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Sprites.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 1e43615cd954b48ce93e7deff95a1e3e.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Materials.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 100dd707c11f64726acba4bced04621e.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Icon.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: c700b32554f0d4a9d85c9dbe75e091ea.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Icon/Icon.psd.meta
+10/06/2026 03:30:01 Data Extracted!
+10/06/2026 03:30:01 Saving Results...
+10/06/2026 03:30:01 Saving File: 0d873610d65d14b2d91134b6223a592e.json
+10/06/2026 03:30:01 Done!!
+10/06/2026 03:30:01 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Sprites/Square.psd.meta
+10/06/2026 03:30:02 Data Extracted!
+10/06/2026 03:30:02 Saving Results...
+10/06/2026 03:30:02 Saving File: 88a154f42849c42f28a670a38523f53c.json
+10/06/2026 03:30:02 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Graphics/Sprites/Circle.psd.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 8bb3a2a5fb13542de841cf4a774137c5.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Shaders.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 0dd3e06948f1342b6825698c76a535dd.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: bad9872223c8946de98e28b7bbeeb765.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 45626a154a6814b6691ca612ca4a6a2d.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 2cbfa4189a2604f9aa58f48987a7f34e.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: b56967ef701914463bd6e6182d1765cf.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 823672a92d2254a1e93b57b6b9053560.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: e97c6dbb2367d45539758c554bf1b0b2.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Utility.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 709c623f36733487ea07082b6cec62cb.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Utility/MathUtility.cs.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 1ec15d9e70b334e8b9fde70d7f483bd1.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/ChipLoader.cs.meta
+10/06/2026 03:30:03 Data Extracted!
+10/06/2026 03:30:03 Saving Results...
+10/06/2026 03:30:03 Saving File: 2fe86ff058c7341f2b725d80466696f0.json
+10/06/2026 03:30:03 Done!!
+10/06/2026 03:30:03 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/ChipSaveData.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: a4eba35343b5d4171a1702f7acbf11d6.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/ChipSaver.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 0bdb5770fa9294865a341a99e9d3c072.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/SaveSystem.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 293a9d06eff3847de83c15148dd2488f.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/SavedChipEditor.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: a4873f5e67c4a415d978a66ff85d8c45.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 6322262d0da074ce8b3d43786d4be774.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/SaveCompatibility.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 4ff99b52600b941169f49d798bf2b25c.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedChip.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: a6287bd68f0254df0b482b7e0a71fd25.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedComponentChip.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 40987f367f74f48139342374294240f2.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedWire.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 674b385186fcd40e9bc82d967514d103.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedWireLayout.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 24f2e90b6178f48098e56092a598cb24.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedInputPin .cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 3624e5fdbc69c814ebc20ba974274fbd.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Save System/Serializable/SavedOutputPin.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: dc9f46d2a34c347c18a01bc2d93e824c.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/ChipEditor.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: a01f8501bfa6f4579a1b0c382a37c841.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/ChipPackage.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 56121cab9da574d2b97c854754749ada.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/ComponentEditBounds.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 9f3cc8f9adb3a44aab43ac3c03fe47a2.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/MeshShapeCreator.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 6cd9919f8f03b40ba905fffdecc9da13.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/Palette.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 9d5e11a72a4bd445797f29b9f3d9a6fa.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/Wire.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: ebdca5816a0f64de49dfb5974430306c.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/TargetFrameRate.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 707e03c65a80345cf9c9e26633c5010e.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Graphics/DisplayScreen.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 17b87881cb47bcb4e8c93bdac1bb2dc5.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/CycleDetector.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: b23a4e9d7937a4d9d88e28e8279b9c96.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Manager.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: fd53bcbfcb7694e11b4240fc900e2e73.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 30ccc252f57e34603a8c153170222a38.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/AndGate.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: b1332b4fa64bd4af3ab3ea383eecd718.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/BuiltinChip.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 6cb4c072e278542ff962c29d084ef4d0.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Chip.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: 05ad37e4ab249480692d8f74a58b7a57.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/ChipSignal.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: d6dcd0e75efa6432d98ba30aab600bd7.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/CustomChip.cs.meta
+10/06/2026 03:30:05 Data Extracted!
+10/06/2026 03:30:05 Saving Results...
+10/06/2026 03:30:05 Saving File: dab2e0f7710bf459b8aed5d40e521e5b.json
+10/06/2026 03:30:05 Done!!
+10/06/2026 03:30:05 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/InputSignal.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: eedcbb33d76a54f7b837261406def4b5.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/NotGate.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 0ce5eea30956940ffb9acd62063235a7.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/OutputSignal.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 0ab54cfd34da341fe8cf2d0420adc299.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Pin.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 85b497f44243f4a26bbdedfec0c3e09a.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Test.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 69408e08cf07647c2913fcb58c2efeca.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/HardDrive.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: da20a6da16c2267498b2c9c943fabc46.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/BusDecoder.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: d6792898abf4bd7498a55dfdaf61279a.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/BusEncoder.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 930b7ba76eeb9f449b8a2d50d43f04bc.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/OrGate.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: a598cdee3727dfc489957ffe5e620802.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/XorGate.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 0799746bc4e3fb148b021aaf9c7c7a8f.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Test/Bus.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 1d2aa762fef9a4653993f69883ca10ea.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Test/Constant.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 300c028c124c145678ec2e0256ba3865.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Chip/Test/TriStateBuffer.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 06f1bca5b76a44b0fae0805da0da6105.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/ChipInteraction.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 0e2f6370dd4ea407badc66be4e2226f1.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/ChipInterfaceEditor.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 75d9bedf3df7e422eb308f6d36a2c0e1.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/InputHelper.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: f4f6f4a6c3b574442a3bbb2e3872270b.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/InteractionHandler.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 66e52c2aa7a8c4f84865cac8e5e6b89a.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Interaction/PinAndWireInteraction.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: cc4fb784db75a48cfa8bd655e09c58af.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/ChipBarUI.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 5945f6c619d504342bd89c7160b855b7.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: a4ccca538e6d04deba98ea385ea72cb2.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 94e25c4454a5244fcaaf1e32507f810b.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 85e94fd9375fd4eefba178e97e75e07f.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/ButtonText.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 05fe525ba216b427e97068d69ff70db4.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/LoadProjectMenu.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: ad4d8563659a24baa824c69f8ac26012.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/MainMenu.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 4c55d867f4c90451fb84f70b74cc83c2.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/PinNameDisplay.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: ba321cd8e55984d5a88ac59af01c0a5d.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CustomButton.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: b713a48320cd54574afca7a3521f9bcf.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/InputFieldValidator.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 6f4dac9f7803c4e658c584f0517cd8e7.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/DecimalDisplay.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: 22d8e53977a5246748d884cfc9bec669.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/ChipEditorOptions.cs.meta
+10/06/2026 03:30:06 Data Extracted!
+10/06/2026 03:30:06 Saving Results...
+10/06/2026 03:30:06 Saving File: beb253e85d01749198c21993c7b0ce05.json
+10/06/2026 03:30:06 Done!!
+10/06/2026 03:30:06 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/PinNameDisplayManager.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 594dcaf84432c440e9ff2ae5d9787a59.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 8b58afc021afe4ddc8d344ff3772390b.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateGroup.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 73d040201c6f34c72852256b99c6a186.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/EditChipMenu.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 1b9c4c32d6065e6479532a6dea7e9ca6.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/ImportButton.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 484f84c9d37f3c243b2c686dfc0824c6.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/UIManager.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: a857010e9086d1841b614576d53eda2e.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/UpdateButton.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 8cec9b10bcc804448880bab135525b38.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party/OpenHyperlinks.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 8aa9dd1445546438fbc2545258e67033.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party/Letterboxer.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 7f30ee3d5bb1f4c6290fccdaea52e653.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party/Letterboxer/CameraType.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 04bb072b25c860343b33110816690e37.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party/Letterboxer/Letterboxer.cs.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 981631c2587a37049b711c14614440cc.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Shaders/Point.shader.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 828a37935974c496ab8e3bf7f2edb103.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Shaders/UnlitAlpha.shader.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 3b679458bc9614d6c9b7375137a71926.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scenes/Menu.unity.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 5be9258490da240db85b9f4708d63381.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scenes/Chip Design.unity.meta
+10/06/2026 03:30:07 Data Extracted!
+10/06/2026 03:30:07 Saving Results...
+10/06/2026 03:30:07 Saving File: 4a2668c0fd8aa460391ad9a3abfe710e.json
+10/06/2026 03:30:07 Done!!
+10/06/2026 03:30:07 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: f82b31c0ebc6a498098bcfce58840ac8.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/UI.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: d16c81fc7f1c8421a84ed04aff7b7638.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 909724f3ae83f4402b0b327f00156f16.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Chip Editor.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: d48b4f02647794ac2aba95960c3d59ab.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Chip Editor 1.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 06c0606ecb138439984daa51850613fe.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/AND.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 2296358475ab14fa7a35e4117255096a.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/NOT.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: b19a100a3d81b4c6e9a0c3c1362706c3.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Test.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: d9900731f1ff0419f89a94de99d3bdd0.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/HARDDRIVE.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 65fccb77ce2e8b141be2883a450bd104.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/16BitDecoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: e7e9803706278f642855ed313fa69546.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/16BitEncoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 3cb180636ef96384982e75ebf81ca08c.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/4BitDecoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 43f8221980e4d3d40b32a6a6e2454ab0.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/4BitEncoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 6cc2f15dbedacd24c91ce8f6e9208840.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/8BitDecoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: d1a4d6dbed2e8cf42bbde6adfea7e79c.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/8BitEncoder.prefab.meta
+10/06/2026 03:30:08 Data Extracted!
+10/06/2026 03:30:08 Saving Results...
+10/06/2026 03:30:08 Saving File: 584a382f69ef0ca45a8606c5819b52cb.json
+10/06/2026 03:30:08 Done!!
+10/06/2026 03:30:08 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/OR.prefab.meta
+10/06/2026 03:30:10 Data Extracted!
+10/06/2026 03:30:10 Saving Results...
+10/06/2026 03:30:10 Saving File: 299ea2b174160444f8a6a9065d0f0871.json
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/XOR.prefab.meta
+10/06/2026 03:30:10 Data Extracted!
+10/06/2026 03:30:10 Saving Results...
+10/06/2026 03:30:10 Saving File: d8a22eb19b4a35646b6bbaa7b66ef119.json
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/DISP8.prefab.meta
+10/06/2026 03:30:10 Data Extracted!
+10/06/2026 03:30:10 Saving Results...
+10/06/2026 03:30:10 Saving File: 184fc6762f746804aa23328309645795.json
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Test/Bus.prefab.meta
+10/06/2026 03:30:10 Data Extracted!
+10/06/2026 03:30:10 Saving Results...
+10/06/2026 03:30:10 Saving File: 967931810180542f0ad00c20f00bf56c.json
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Analyzing File: /home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Prefabs/Chip Design/Builtin Chips/Test/Tri state buffer.prefab.meta
+10/06/2026 03:30:10 Data Extracted!
+10/06/2026 03:30:10 Saving Results...
+10/06/2026 03:30:10 Saving File: 505a2f2318d18494d82991e6b57104b8.json
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Done!!
+10/06/2026 03:30:10 Done!

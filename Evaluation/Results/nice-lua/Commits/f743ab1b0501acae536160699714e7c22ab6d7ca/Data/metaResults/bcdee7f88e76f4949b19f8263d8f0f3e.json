@@ -1,0 +1,26 @@
+{
+  "guid": "bcdee7f88e76f4949b19f8263d8f0f3e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua/Assets/EasyTouchBundle/EasyTouchControls/Prefab/ThirdPersonControllerDungeon+Jump.prefab.meta",
+  "name": "ThirdPersonControllerDungeon+Jump.prefab",
+  "type": "meta",
+  "file_size": 181,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "NativeFormatImporter",
+      "NativeFormatImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "11_nice-lua",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/11_nice-lua"
+}

@@ -1,31 +1,31 @@
 {
   "Name": "Poor State Design",
-  "Severity": "Unknown",
+  "Severity": "Medium",
   "Occurrency": 4,
   "Smells": [
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Screen.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Scripts/UI/Screen.cs",
       "Class": "Screen",
       "Method": "Screen.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 64
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/MainThreadDispatcher.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/MainThreadDispatcher.cs",
       "Class": "UniRx.MainThreadDispatcher",
       "Method": "UniRx.MainThreadDispatcher.Update()",
       "ConditionBlock": "IfBlocks",
       "Line": 611
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableFixedUpdateTrigger.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableFixedUpdateTrigger.cs",
       "Class": "UniRx.Triggers.ObservableFixedUpdateTrigger",
       "Method": "UniRx.Triggers.ObservableFixedUpdateTrigger.FixedUpdate()",
       "ConditionBlock": "IfBlocks",
       "Line": 14
     },
     {
-      "Script": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableUpdateTrigger.cs",
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableUpdateTrigger.cs",
       "Class": "UniRx.Triggers.ObservableUpdateTrigger",
       "Method": "UniRx.Triggers.ObservableUpdateTrigger.Update()",
       "ConditionBlock": "IfBlocks",

@@ -1,6 +1,6 @@
 {
   "guid": "9a99105f6be30884a9184b5a8c7ac2ec",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/Materials_Peco_Bear/zipper.mat",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco/Assets/_Art/_Models/Materials_Peco_Bear/zipper.mat",
   "name": "zipper",
   "type": "mat",
   "file_size": 2062,
@@ -455,5 +455,5 @@
     }
   ],
   "ProjectName": "4_peco",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/4_peco"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/4_peco"
 }

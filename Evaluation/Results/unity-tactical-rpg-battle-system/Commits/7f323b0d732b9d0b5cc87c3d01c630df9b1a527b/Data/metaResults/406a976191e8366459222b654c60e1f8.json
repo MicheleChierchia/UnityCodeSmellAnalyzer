@@ -1,6 +1,6 @@
 {
   "guid": "406a976191e8366459222b654c60e1f8",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Shaders/WorldCoordDiffuse.shader.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system/Assets/Standard Assets/Prototyping/Shaders/WorldCoordDiffuse.shader.meta",
   "name": "WorldCoordDiffuse.shader",
   "type": "meta",
   "file_size": 131,
@@ -22,5 +22,5 @@
     }
   ],
   "ProjectName": "0_unity-tactical-rpg-battle-system",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/0_unity-tactical-rpg-battle-system"
 }

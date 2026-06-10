@@ -1,6 +1,6 @@
 {
   "guid": "8c8fc4032b1004d268876d31fce83b26",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/LevelCardOverlay.png.meta",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Resources/Sprites/LevelCardOverlay.png.meta",
   "name": "LevelCardOverlay.png",
   "type": "meta",
   "file_size": 2295,
@@ -332,5 +332,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

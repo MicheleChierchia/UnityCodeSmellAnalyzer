@@ -1,0 +1,71 @@
+{
+  "guid": "d523cde1d178d7c4ca6bb724b9d5213e",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold/NORTHWEST-B.otf.meta",
+  "name": "NORTHWEST-B.otf",
+  "type": "meta",
+  "file_size": 448,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- font": []
+        }
+      ]
+    },
+    {
+      "id": "TrueTypeFontImporter",
+      "TrueTypeFontImporter": [
+        {
+          "serializedVersion": "4"
+        },
+        {
+          "fontSize": "16"
+        },
+        {
+          "forceTextureCase": "-2"
+        },
+        {
+          "characterSpacing": "0"
+        },
+        {
+          "characterPadding": "1"
+        },
+        {
+          "includeFontData": "1"
+        },
+        {
+          "fontNames": [
+            {
+              "": "- NORTHWEST"
+            }
+          ]
+        },
+        {
+          "fallbackFontReferences": "[]"
+        },
+        {
+          "customCharacters": ""
+        },
+        {
+          "fontRenderingMode": "0"
+        },
+        {
+          "ascentCalculationMode": "1"
+        },
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

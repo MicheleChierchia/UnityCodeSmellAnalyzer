@@ -1,0 +1,137 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 18,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "Invocation": "Simulation.StepSimulation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 62
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "Invocation": "Simulation.StepSimulation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 53
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "Invocation": "Simulation.StepSimulation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 69
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 27
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs",
+      "Class": "RunButton",
+      "Method": "RunButton.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs",
+      "Class": "RunButton",
+      "Method": "RunButton.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs",
+      "Class": "RunButton",
+      "Method": "RunButton.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/RunButton.cs",
+      "Class": "RunButton",
+      "Method": "RunButton.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 31
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/EditChipMenu.cs",
+      "Class": "EditChipMenu",
+      "Method": "EditChipMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 159
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/EditChipMenu.cs",
+      "Class": "EditChipMenu",
+      "Method": "EditChipMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 169
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/3rd Party/Letterboxer/Letterboxer.cs",
+      "Class": "Letterboxer.Letterboxer",
+      "Method": "Letterboxer.Letterboxer.Update()",
+      "Invocation": "Letterboxer.Letterboxer.UpdateLetterbox()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 37
+    }
+  ]
+}

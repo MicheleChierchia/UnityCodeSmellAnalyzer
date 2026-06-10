@@ -1,0 +1,30 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 3,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/NetworkTransformSnapshotInterpolation.cs",
+      "Class": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation",
+      "Method": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.Update()",
+      "Invocation": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.ClientInterpolation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 344
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/source/NetworkTransformSnapshotInterpolation.cs",
+      "Class": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation",
+      "Method": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.Update()",
+      "Invocation": "JamesFrowen.PositionSync.NetworkTransformSnapshotInterpolation.ClientInterpolation()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 350
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/7_networkpositionsync/examples/TransformSync/Scripts/MoveCube.cs",
+      "Class": "JamesFrowen.PositionSync.Example.MoveCube",
+      "Method": "JamesFrowen.PositionSync.Example.MoveCube.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    }
+  ]
+}

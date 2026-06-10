@@ -1,0 +1,47 @@
+{
+  "guid": "d78a1478d4edf8a4f894e39e18c9e58d",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Packages/Tayx/Graphy - Ultimate Stats Monitor/Readme! - Graphy - Documentation.pdf.meta",
+  "name": "Readme! - Graphy - Documentation.pdf",
+  "type": "meta",
+  "file_size": 223,
+  "num_components": 0,
+  "COMPONENTS": [
+    {
+      "id": "labels",
+      "labels": [
+        {
+          "- Counter": [
+            {
+              "": "- Fps"
+            },
+            {
+              "": "- Graph"
+            },
+            {
+              "": "- Graphy"
+            },
+            {
+              "": "- Tayx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DefaultImporter",
+      "DefaultImporter": [
+        {
+          "userData": ""
+        },
+        {
+          "assetBundleName": ""
+        },
+        {
+          "assetBundleVariant": ""
+        }
+      ]
+    }
+  ],
+  "ProjectName": "5_cytoid",
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+}

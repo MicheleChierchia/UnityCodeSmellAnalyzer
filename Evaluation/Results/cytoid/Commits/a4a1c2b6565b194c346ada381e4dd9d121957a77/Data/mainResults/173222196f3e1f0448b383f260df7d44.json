@@ -1,6 +1,6 @@
 {
   "guid": "173222196f3e1f0448b383f260df7d44",
-  "file_path": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoItem.prefab",
+  "file_path": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid/Assets/Plugins/UniRx/Examples/Sample13_ToDoItem.prefab",
   "name": "Sample13_ToDoItem",
   "type": "prefab",
   "file_size": 7773,
@@ -1580,5 +1580,5 @@
     }
   ],
   "ProjectName": "5_cytoid",
-  "ProjectPath": "/home/miky/UNI/UnityCodeSmellAnalyzer/Repos/5_cytoid"
+  "ProjectPath": "/home/miky/UnityCodeSmellAnalyzer/Repos/5_cytoid"
 }

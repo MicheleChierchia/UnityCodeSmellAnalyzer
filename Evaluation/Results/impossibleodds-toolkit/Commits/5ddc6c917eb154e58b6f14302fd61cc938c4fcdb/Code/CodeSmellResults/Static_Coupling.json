@@ -1,0 +1,14 @@
+{
+  "Name": "Static Coupling",
+  "Severity": "Low",
+  "Occurrency": 1,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/8_impossibleodds-toolkit/Assets/Examples/DependencyInjection/ExampleDependencyInstaller.cs",
+      "Kind": "Field",
+      "Type": "CharacterSettings",
+      "FullName": "ImpossibleOdds.Examples.DependencyInjection.ExampleDependencyInstaller.settings",
+      "Line": 11
+    }
+  ]
+}

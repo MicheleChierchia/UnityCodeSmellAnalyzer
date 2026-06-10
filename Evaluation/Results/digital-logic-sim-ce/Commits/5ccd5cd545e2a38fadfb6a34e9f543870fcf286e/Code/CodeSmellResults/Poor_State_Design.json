@@ -1,0 +1,56 @@
+{
+  "Name": "Poor State Design",
+  "Severity": "Medium",
+  "Occurrency": 7,
+  "Smells": [
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/Core/Simulation.cs",
+      "Class": "Simulation",
+      "Method": "Simulation.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 39
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/CreateMenu.cs",
+      "Class": "CreateMenu",
+      "Method": "CreateMenu.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 41
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 16
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 20
+    },
+    {
+      "Script": "/home/miky/UnityCodeSmellAnalyzer/Repos/12_digital-logic-sim-ce/Assets/Scripts/UI/AboutEditor.cs",
+      "Class": "AboutEditor",
+      "Method": "AboutEditor.Update()",
+      "ConditionBlock": "IfBlocks",
+      "Line": 28
+    }
+  ]
+}
