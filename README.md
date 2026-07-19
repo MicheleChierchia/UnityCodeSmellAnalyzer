@@ -74,7 +74,7 @@ The tool works natively under Windows, Linux, and MacOS. It requires the [.NET 8
 
 ## ProjectAnalyzer (Recommended)
 
-**ProjectAnalyzer** is the modern orchestration tool for UnityLint. It automates the entire analysis pipeline (code analysis, code smells, metadata analysis, and meta-smells) and generates a professional, interactive HTML dashboard.
+**ProjectAnalyzer** is the modern orchestration tool for UnityLint. It automates the entire analysis pipeline (code analysis, code smells, metadata analysis, and meta-smells) over the entire **Git history** of a project. It analyzes each commit sequentially and generates a professional, interactive HTML history dashboard.
 
 ### How to Use it
 
@@ -82,14 +82,54 @@ The tool works natively under Windows, Linux, and MacOS. It requires the [.NET 8
 2. Run the executable from the repository root:
 
 ```bash
-./ProjectAnalyzer <path_to_unity_game>
+./ProjectAnalyzer <path_to_unity_game> [results_dir] [--limit N]
 ```
+*(where `--limit N` optionally restricts the analysis to the latest `N` commits)*
 
 The tool will:
-- Sequentially execute all required analyzers.
-- Aggregate JSON results into a centralized structure.
-- Generate a `Results/` folder in your **current directory**.
-- Produce an interactive `analysis_report.html` for easy visualization.
+- Connect to the local Git repository and retrieve the commit history.
+- Automatically check out each commit one by one.
+- Sequentially execute all required analyzers (skipping unchanged code or data using diffs to optimize execution).
+- Aggregate the results for all commits.
+- Generate a `Results/<game_name>` folder containing:
+  - `history_report.html`: An interactive timeline dashboard visualization.
+  - `history_results.json` & `history_trend.csv`: Raw data of the historical smells evolution.
+  - A `Commits/` folder containing the individual JSON reports for each processed commit.
+
+## Batch Analysis
+
+UnityLint provides a cross-platform Python script (`batch_analyze.py`) to automatically analyze multiple Unity game repositories sequentially.
+
+### Prerequisites
+
+- **Python 3**
+- **Git**
+- **.NET 8.0 SDK** (to compile the analyzers)
+
+*No additional Python packages are required as the script uses standard libraries.*
+
+### How to Use it
+
+1. Create a `games.txt` file in the root directory. Add the GitHub repository URLs (or just the `<user>/<repo>` format) you want to analyze, one per line. Example:
+```text
+https://github.com/user/game1
+user/game2
+```
+2. Run the Python script from the root directory:
+```bash
+python batch_analyze.py
+```
+
+The script will automatically:
+- Build all the required analyzer executables in `Release` mode.
+- Clone each repository into a temporary `Repos/` folder.
+- Check the repository size (skipping repositories larger than 500 MB).
+- Run `ProjectAnalyzer` on the repository to extract its full history of smells.
+- Output the individual historical results into `Evaluation/Results/<game_name>`.
+- Log the repository URL and its total commit count into `Evaluation/OverallEvaluationDataset.csv`.
+- Remove the temporary cloned repository to save disk space.
+
+*Note: The script runs with up to 4 concurrent background jobs and is fully resumable. If you stop the execution and restart it, it will automatically skip any repositories already recorded in the `OverallEvaluationDataset.csv` file.*
 
 ## Starter Tool (Legacy)
 
